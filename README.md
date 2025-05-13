@@ -89,7 +89,7 @@ ikp-prediction-model/
     <li>Jalankan notebook atau script di folder <code>src/</code> atau <code>notebooks/</code></li>
 </ol>
 
-<h2>🎯 Hasil Prediksi</h2>
+<h2>🎯 Hasil Prediksi (Masih Coba-coba)</h2>
 <table>
     <tr><th>Metrik</th><th>Nilai</th></tr>
     <tr><td>Accuracy</td><td>95%</td></tr>
