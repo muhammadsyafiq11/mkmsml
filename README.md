@@ -8,17 +8,20 @@
 <header>
   <h1>🌾 Data-Driven Prediction of Food Security Index Categories in Indonesia Using Machine Learning and GFSI-BPN Indicators
 </h1>
-  <img class="banner" src="img/BANNER Indeks Ketahanan pangan.png" alt="Banner Proyek IKP"/>
   <p>Proyek ini bertujuan untuk membangun model prediksi kategori Indeks Ketahanan Pangan (IKP) kabupaten/kota di Indonesia. Model dikembangkan dengan memanfaatkan 9 indikator utama dari Badan Pangan Nasional (BPN) dan indikator tambahan dari Global Food Security Index (GFSI) serta variabel sosial-ekonomi lainnya. Diharapkan model ini mampu memberikan insight berbasis data yang akurat untuk mendukung kebijakan ketahanan pangan nasional.
 </p>
 </header>
 
-<h2>🇮🇩 Latar Belakang</h2>
+<h2>🇮🇩 Latar Belakang</h2> 
+<p align="center">
+<img class="banner" src="img/Indeks Ketahanan Pangan Indonesia.png" alt="Banner Proyek IKP" width="50%" length="80%"/>
+<br><em>Indeks Ketahanan Pangan di Indonesia</em>
+</p>
 <p>Ketahanan pangan merupakan isu strategis dalam pembangunan berkelanjutan Indonesia. World Food Summit (1996) mendefinisikan ketahanan pangan sebagai:</p>
 <blockquote><em>“Situasi di mana setiap orang, setiap saat, memiliki akses fisik dan ekonomi terhadap pangan yang cukup, aman, dan bergizi untuk menjalani kehidupan yang sehat.”</em></blockquote>
 <p>Food Security Index (FSI) atau Indeks Ketahanan Pangan (IKP) menilai kemampuan negara dalam menjamin ketersediaan, akses, dan pemanfaatan pangan. Menurut Global Food Security Index (2022), Indonesia menempati peringkat 63 dari 113 negara.</p>
 
-<h2>🎯 Tujuan Penelitian</h2>
+<h2>🎯 Tujuan Penelitian</h2> 
 <ul>
   <li>Mengidentifikasi faktor utama ketahanan pangan Indonesia</li>
   <li>Menyeleksi variabel yang relevan untuk model prediksi IKP</li>
