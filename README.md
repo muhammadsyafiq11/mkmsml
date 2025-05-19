@@ -28,18 +28,69 @@
 </ul>
 
 <h2>📋 Data dan Variabel</h2>
-<p><strong>Sumber data:</strong> Badan Pangan Nasional, <a href="https://data.go.id">data.go.id</a>, Global Food Security Index 2022.</p>
-<p><strong>Variabel Prediktor (X):</strong></p>
+<div align="center">
+  <table>
+  <tr>
+    <td align="center">
+      <img src="img/satudata.png" Height="90"><br>
+      <strong>Satudata Indonesia</strong>
+    </td>
+    <td align="center">
+      <img src="img/BPS.png" height="90"><br>
+      <strong>Badan Pusat Statistik</strong>
+    </td>
+    <td align="center">
+      <img src="img/GFSI.png" height="90"><br>
+      <strong>Global Food Safety Initiative</strong>
+    </td>
+  </tr>
+</table>
+</div>
+<h3><strong>Variabel Prediktor (X):</strong></h3>
+<h4>Indikator Sosial dan Kesehatan</h4>
 <ul>
-  <li>Rasio konsumsi normatif per kapita</li>
-  <li>Penduduk di bawah garis kemiskinan</li>
-  <li>Pengeluaran pangan rumah tangga &gt; 65%</li>
-  <li>Akses listrik</li>
-  <li>Lama sekolah perempuan &gt; 15 tahun</li>
-  <li>Akses air bersih</li>
-  <li>Rasio penduduk per tenaga kesehatan</li>
-  <li>Stunting balita</li>
-  <li>Angka harapan hidup</li>
+  <li>Angka Harapan Hidup</li>
+  <li>Rasio Tenaga Kesehatan</li>
+  <li>Stunting (%)</li>
+  <li>Tanpa Air Bersih (%)</li>
+</ul>
+
+<h4>Indikator Pendidikan</h4>
+<ul>
+  <li>Rata-rata Lama Sekolah Laki-laki</li>
+  <li>Rata-rata Lama Sekolah Perempuan</li>
+</ul>
+
+<h4>Kemiskinan dan Ekonomi</h4>
+<ul>
+  <li>Garis Kemiskinan</li>
+  <li>Jumlah Penduduk Miskin</li>
+  <li>Kemiskinan (%)</li>
+  <li>Persentase Penduduk Miskin</li>
+  <li>Indeks Kedalaman Kemiskinan</li>
+  <li>Indeks Keparahan Kemiskinan</li>
+  <li>Indeks Pembangunan Manusia</li>
+  <li>Prevalensi Konsumsi Pangan Tidak Cukup</li>
+</ul>
+
+<h4>Pengeluaran Konsumsi Pangan</h4>
+<ul>
+  <li>Pengeluaran Pangan (%)</li>
+  <li>Pengeluaran Perkapita Padi-Padian</li>
+  <li>Pengeluaran Perkapita Umbi-Umbian</li>
+  <li>Pengeluaran Perkapita Kacang-Kacangan</li>
+  <li>Pengeluaran Perkapita Buah-Buahan</li>
+  <li>Pengeluaran Perkapita Telur dan Susu</li>
+  <li>Pengeluaran Perkapita Daging</li>
+  <li>Pengeluaran Perkapita Bahan Minuman</li>
+  <li>Pengeluaran Perkapita Bahan Makanan Lainnya</li>
+  <li>Pengeluaran Perkapita Bahan Minyak dan Kelapa</li>
+  <li>Pengeluaran Perkapita Rokok dan Tembakau</li>
+</ul>
+
+<h4>Indeks Konsumsi Pangan</h4>
+<ul>
+  <li>NCPR</li>
 </ul>
 <p><strong>Variabel Target (Y):</strong> Kategori IKP disederhanakan menjadi 0 (Rentan: 1–3) & 1 (Tahan: 4–6)</p>
 
