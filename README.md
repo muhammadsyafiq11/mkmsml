@@ -108,30 +108,32 @@ ikp-prediction-model/
 
 <h2>👥 Anggota Kelompok</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="outputs/foto_anggota/sentana.jpg" width="120"><br>
-      <strong>I Gusti Ngurah Sentana Putra</strong><br>
-      M0501241019
-    </td>
-    <td align="center">
-      <img src="outputs/foto_anggota/syafiq.jpg" width="120"><br>
-      <strong>Muhammad Syafiq</strong><br>
-      M0501241005
-    </td>
-    <td align="center">
-      <img src="outputs/foto_anggota/adib.jpg" width="120"><br>
-      <strong>Adib Roisilmi Abdullah</strong><br>
-      M0501241039
-    </td>
-    <td align="center">
-      <img src="outputs/foto_anggota/yusran.jpg" width="120"><br>
-      <strong>Muhammad Yusran</strong><br>
-      M0501241064
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="outputs/foto_anggota/sentana.jpg" width="120"><br>
+        <strong>I Gusti Ngurah Sentana Putra</strong><br>
+        M0501241019
+      </td>
+      <td align="center">
+        <img src="outputs/foto_anggota/syafiq.jpg" width="120"><br>
+        <strong>Muhammad Syafiq</strong><br>
+        M0501241005
+      </td>
+      <td align="center">
+        <img src="outputs/foto_anggota/adib.jpg" width="120"><br>
+        <strong>Adib Roisilmi Abdullah</strong><br>
+        M0501241039
+      </td>
+      <td align="center">
+        <img src="outputs/foto_anggota/yusran.jpg" width="120"><br>
+        <strong>Muhammad Yusran</strong><br>
+        M0501241064
+      </td>
+    </tr>
+  </table>
+</div>
 
 <footer>
   <p>Lisensi: MIT License • IPB University, 2025</p>
