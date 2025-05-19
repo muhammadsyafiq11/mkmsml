@@ -1,0 +1,7 @@
+Copyright © 2025 Muhammad Syafiq. All rights reserved.
+
+This repository is created for the purpose of participating in a competition.
+Any use, reproduction, distribution, or modification of the contents of this repository
+without the author's explicit written permission is strictly prohibited.
+
+This work is protected under applicable copyright laws and is not licensed under any open-source license.
