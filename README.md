@@ -56,8 +56,9 @@
 </ol>
 
 <h2>📋 Diagram Alur Proyek</h2>
-<img src="outputs/flowchart_final.png" alt="Flowchart IKP" class="center"/>
-
+<p align="center">
+<img src="img/Workflow.png" alt="Flowchart IKP" class="center"/>
+</p>
 <h2>📂 Struktur Proyek</h2>
 <pre>
 ikp-prediction-model/
