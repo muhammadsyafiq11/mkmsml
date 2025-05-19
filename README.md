@@ -10,7 +10,7 @@
   <p>Klasifikasi Indeks Ketahanan Pangan Indonesia dengan Neural Network dan Cross Validation</p>
 </header>
 
-<img class="banner" src="outputs/banner.jpg" alt="Banner Proyek IKP"/>
+<img class="banner" src="img/BANNER Indeks Ketahanan pangan.png" alt="Banner Proyek IKP"/>
 
 <h2>🇮🇩 Latar Belakang</h2>
 <p>Ketahanan pangan merupakan isu strategis dalam pembangunan berkelanjutan Indonesia. World Food Summit (1996) mendefinisikan ketahanan pangan sebagai:</p>
