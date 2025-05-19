@@ -89,6 +89,17 @@ ikp-prediction-model/
   <tr><td>Calinski-Harabasz</td><td>470.1</td></tr>
 </table>
 
+<h2>📊 Cuplikan Visual</h2>
+<p align="center">
+  <img src="img/Sebaran IKP 2024" width="400"/>
+  <br><em>Gambar 1. Sebaran IKP 2024 Berdasarkan Kabupaten/Kota</em>
+</p>
+
+<p align="center">
+  <img src="img/Peta IKP 2024" width="400"/>
+  <br><em>Gambar 2. Peta Sebaran IKP di Indonesia</em>
+</p>
+
 <h2>📊 Confusion Matrix</h2>
 <img src="outputs/confusion_matrix.png" alt="Confusion Matrix" class="center"/>
 
