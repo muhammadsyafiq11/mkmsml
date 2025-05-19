@@ -105,6 +105,10 @@
   <li>Evaluasi model: Accuracy, F1-score, Confusion Matrix</li>
   <li>Rekomendasi kebijakan</li>
 </ol>
+<p align="center">
+<img src="img/Flowchart.png" alt="Flowchart IKP" class="center" width="80%"/>
+<br><em>Gambar 1. Flowchart Metode Indeks Ketahanan Pangan</em>
+</p>
 
 <h2>📋 Diagram Alur Proyek</h2>
 <p align="center">
