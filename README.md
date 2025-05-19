@@ -91,12 +91,12 @@ ikp-prediction-model/
 
 <h2>📊 Cuplikan Visual</h2>
 <p align="center">
-  <img src="img/Sebaran IKP 2024" width="400"/>
+  <img src="img/Sebaran IKP 2024.png" width="80%"/>
   <br><em>Gambar 1. Sebaran IKP 2024 Berdasarkan Kabupaten/Kota</em>
 </p>
 
 <p align="center">
-  <img src="img/Peta IKP 2024" width="400"/>
+  <img src="img/Peta IKP 2024.png" width="80%"/>
   <br><em>Gambar 2. Peta Sebaran IKP di Indonesia</em>
 </p>
 
