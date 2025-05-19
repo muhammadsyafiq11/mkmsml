@@ -233,9 +233,9 @@ F1-Score  (Pos=1)  : 0.9953 | Weighted: 0.9919 | Macro: 0.9837
 
 <h2>🔎 Citation</h2>
 <pre>
-@article{Roisilmi2025IKP,
+@article{Syafiq2025IKP,
   title={Data-Driven Prediction of Food Security Index Categories in Indonesia Using Machine Learning and GFSI-BPN Indicators},
-  author={Adib Roisilmi Abdullah et al.},
+  author={Muhammad Syafiq et al.},
   year={2025},
   journal={Tugas Akhir Pembelajaran Mesin Statistika, IPB University}
 }
