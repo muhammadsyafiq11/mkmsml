@@ -98,23 +98,76 @@
 <img src="img/Flowchart.png" alt="Flowchart IKP" class="center" width="80%"/>
 <br><em>Gambar 1. Flowchart Metode Indeks Ketahanan Pangan</em>
 </p>
-<p><strong>Tahapan Penelitian Indeks Ketahanan Pangan</strong></p>
-<ol>
-  <li>Pengumpulan Data</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Preprocessing Data</li>
-  <li>Bangun Model Prediksi (Neural Network + Grid Search)</li>
-  <li>Cross Validation untuk model terbaik</li>
-  <li>Analisis indikator paling signifikan</li>
-  <li>Evaluasi model: Accuracy, F1-score, Confusion Matrix</li>
-  <li>Rekomendasi kebijakan</li>
-</ol>
+<h2>🧭 Tahapan Penelitian IKP</h2>
+
+<h3>1️⃣ Persiapan Data</h3>
+<ul>
+  <li>Mengintegrasikan sumber data dari:
+    <ul>
+      <li>Global Food Security Index (GFSI)</li>
+      <li>Indeks Ketahanan Pangan</li>
+      <li>Data Sosial-Ekonomi BPS</li>
+    </ul>
+  </li>
+  <li>Melakukan agregasi data dan imputasi nilai hilang</li>
+  <li>Membagi dataset menjadi:
+    <ul>
+      <li>Data Train (2018–2022)</li>
+      <li>Data Test (2023)</li>
+      <li>Data Prediksi (2024)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>2️⃣ Eksplorasi Data</h3>
+<ul>
+  <li>Analisis eksploratif (EDA) terhadap distribusi dan korelasi variabel</li>
+  <li>Melakukan feature engineering untuk variabel-variabel baru</li>
+</ul>
+
+<h3>3️⃣ Pemodelan</h3>
+<ul>
+  <li>Membangun model klasifikasi menggunakan:
+    <ul>
+      <li>Support Vector Machine</li>
+      <li>Random Forest</li>
+      <li>XGBoost</li>
+      <li>LightGBM</li>
+      <li>Neural Network</li>
+      <li>Stacking Ensemble</li>
+    </ul>
+  </li>
+  <li>Melakukan optimasi parameter menggunakan Grid Search</li>
+  <li>Menentukan model terbaik berdasarkan metrik evaluasi</li>
+  <li>Analisis kontribusi fitur (feature importance)</li>
+</ul>
+
+<h3>4️⃣ Evaluasi dan Prediksi</h3>
+<ul>
+  <li>Mengukur performa model dengan:
+    <ul>
+      <li>Balanced Accuracy</li>
+      <li>Precision, Recall, dan F1-Score</li>
+    </ul>
+  </li>
+  <li>Prediksi kategori IKP kabupaten/kota tahun 2024</li>
+  <li>Interpretasi hasil dan penyusunan rekomendasi kebijakan</li>
+  <li>Persiapan untuk diseminasi hasil melalui kunjungan ke Badan Pangan Nasional (BPN)</li>
+</ul>
 
 <h2>📋 Diagram Alur Proyek</h2>
 <p align="center">
 <img src="img/WorkFlow.png" alt="WorkFlow IKP" class="center" width="80%"/>
 <br><em>Gambar 2. WorkFlow Indeks Ketahanan Pangan/Kota</em>
 </p>
+
+<h2>🚀 Fitur</h2>
+<ol>
+  <li>Identifikasi faktor-faktor baru yang memengaruhi IKP di luar 9 indikator resmi BPN</li>
+  <li>Pembangunan model prediksi kategori IKP dengan berbagai algoritma machine learning</li>
+  <li>Visualisasi hasil klasifikasi dan eksplorasi IKP</li>
+</ol>
+
 <h2>📂 Struktur Proyek</h2>
 <pre>
 ikp-prediction-model/
@@ -128,22 +181,27 @@ ikp-prediction-model/
 └── LICENSE
 </pre>
 
-<h2>🚀 Cara Menjalankan</h2>
-<ol>
-  <li>Clone repo: <br><code>git clone https://github.com/your-username/ikp-prediction-model.git</code></li>
-  <li>Install dependensi: <br><code>pip install -r requirements.txt</code></li>
-  <li>Jalankan notebook di <code>src/</code> atau <code>notebooks/</code></li>
-</ol>
+<h2>📊 Evaluasi Model: LightGBM (Grid) - ADASYN</h2>
 
-<h2>🎯 Hasil Prediksi</h2>
-<table>
-  <tr><th>Metrik</th><th>Nilai</th></tr>
-  <tr><td>Accuracy</td><td>95%</td></tr>
-  <tr><td>F1-Score</td><td>0.94</td></tr>
-  <tr><td>R² Score</td><td>0.78</td></tr>
-  <tr><td>Silhouette Score</td><td>0.62</td></tr>
-  <tr><td>Calinski-Harabasz</td><td>470.1</td></tr>
-</table>
+<pre>
+Confusion Matrix:
+[[525   2]
+ [  3  87]]
+
+Accuracy           : 0.9919
+Balanced Accuracy  : 0.9814
+
+Precision (Pos=1)  : 0.9943 | Weighted: 0.9919 | Macro: 0.9859
+Recall    (Pos=1)  : 0.9962 | Weighted: 0.9919 | Macro: 0.9814
+F1-Score  (Pos=1)  : 0.9953 | Weighted: 0.9919 | Macro: 0.9837
+</pre>
+
+<ul>
+  <li><strong>Training Time (s)</strong>: ditampilkan melalui variabel <code>round(end - start, 2)</code></li>
+  <li><strong>Tuning Time (s)</strong>: ditampilkan melalui variabel <code>round(grid_time, 2)</code></li>
+  <li><strong>Best Score (CV)</strong>: <code>grid_search_lgb_adasyn.best_score_</code></li>
+  <li><strong>Best Params</strong>: <code>grid_search_lgb_adasyn.best_params_</code></li>
+</ul>
 
 <h2>📊 Cuplikan Visual</h2>
 <p align="center">
@@ -156,13 +214,11 @@ ikp-prediction-model/
   <br><em>Gambar 4. Peta Sebaran IKP di Indonesia</em>
 </p>
 
+<h2>📊 Feature Importance</h2>
 <p align="center">
-  <img src="img/Peta IKP 2024.png" width="80%"/>
-  <br><em>Gambar 4. Peta Sebaran IKP di Indonesia</em>
+  <img src="img/Avarage Feature Importance.png" width="80%"/>
+  <br><em>Gambar 5. Average Feature Importance</em>
 </p>
-
-<h2>📊 Confusion Matrix</h2>
-<img src="outputs/confusion_matrix.png" alt="Confusion Matrix" class="center"/>
 
 <h2>🎉 Manfaat Penelitian</h2>
 <ul>
@@ -174,7 +230,7 @@ ikp-prediction-model/
 <h2>🔎 Citation</h2>
 <pre>
 @article{Roisilmi2025IKP,
-  title={Predicting Indonesia's Food Security Index with Deep Learning},
+  title={Data-Driven Prediction of Food Security Index Categories in Indonesia Using Machine Learning and GFSI-BPN Indicators},
   author={Adib Roisilmi Abdullah et al.},
   year={2025},
   journal={Tugas Akhir Pembelajaran Mesin Statistika, IPB University}
