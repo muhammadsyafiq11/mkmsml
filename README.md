@@ -3,78 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Proyek Prediksi IKP</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #fdfdfd;
-      color: #333;
-      margin: 40px;
-      line-height: 1.6;
-    }
-    header {
-      background-color: #2E86C1;
-      color: white;
-      padding: 25px;
-      border-radius: 10px;
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    h1, h2, h3 {
-      color: #2E86C1;
-    }
-    img.banner {
-      width: 100%;
-      max-height: 320px;
-      object-fit: cover;
-      border-radius: 8px;
-      margin-bottom: 30px;
-    }
-    pre, code {
-      background-color: #f1f1f1;
-      padding: 6px 10px;
-      border-radius: 5px;
-      display: block;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 25px 0;
-    }
-    th, td {
-      padding: 10px;
-      border: 1px solid #ccc;
-      text-align: center;
-    }
-    th {
-      background-color: #2E86C1;
-      color: white;
-    }
-    ul, ol {
-      padding-left: 25px;
-    }
-    .center {
-      display: block;
-      margin: 20px auto;
-      max-width: 90%;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-    }
-    footer {
-      margin-top: 50px;
-      font-size: 0.9em;
-      text-align: center;
-      color: #666;
-    }
-    .team-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
-      margin-top: 15px;
-    }
-    .team-member {
-      flex: 1 1 
 </head>
 <body>
 <header>
@@ -179,29 +107,31 @@ ikp-prediction-model/
 </pre>
 
 <h2>👥 Anggota Kelompok</h2>
-<div class="team-container">
 
-  <div class="team-member">
-    <img src="outputs/foto_anggota/sentana.jpg" alt="Sentana">
-    <p><strong>I Gusti Ngurah Sentana Putra</strong><br>NIM: M0501241019</p>
-  </div>
-
-  <div class="team-member">
-    <img src="outputs/foto_anggota/syafiq.jpg" alt="Syafiq">
-    <p><strong>Muhammad Syafiq</strong><br>NIM: M0501241005</p>
-  </div>
-
-  <div class="team-member">
-    <img src="outputs/foto_anggota/adib.jpg" alt="Adib">
-    <p><strong>Adib Roisilmi Abdullah</strong><br>NIM: M0501241039</p>
-  </div>
-
-  <div class="team-member">
-    <img src="outputs/foto_anggota/yusran.jpg" alt="Yusran">
-    <p><strong>Muhammad Yusran</strong><br>NIM: M0501241064</p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="outputs/foto_anggota/sentana.jpg" width="120"><br>
+      <strong>I Gusti Ngurah Sentana Putra</strong><br>
+      M0501241019
+    </td>
+    <td align="center">
+      <img src="outputs/foto_anggota/syafiq.jpg" width="120"><br>
+      <strong>Muhammad Syafiq</strong><br>
+      M0501241005
+    </td>
+    <td align="center">
+      <img src="outputs/foto_anggota/adib.jpg" width="120"><br>
+      <strong>Adib Roisilmi Abdullah</strong><br>
+      M0501241039
+    </td>
+    <td align="center">
+      <img src="outputs/foto_anggota/yusran.jpg" width="120"><br>
+      <strong>Muhammad Yusran</strong><br>
+      M0501241064
+    </td>
+  </tr>
+</table>
 
 <footer>
   <p>Lisensi: MIT License • IPB University, 2025</p>
