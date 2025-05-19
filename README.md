@@ -112,22 +112,22 @@ ikp-prediction-model/
   <table>
     <tr>
       <td align="center">
-        <img src="outputs/foto_anggota/sentana.jpg" width="120"><br>
+        <img src="img/Ngurah.png" width="120"><br>
         <strong>I Gusti Ngurah Sentana Putra</strong><br>
         M0501241019
       </td>
       <td align="center">
-        <img src="outputs/foto_anggota/syafiq.jpg" width="120"><br>
+        <img src="img/Syafiq.png" width="120"><br>
         <strong>Muhammad Syafiq</strong><br>
         M0501241005
       </td>
       <td align="center">
-        <img src="outputs/foto_anggota/adib.jpg" width="120"><br>
+        <img src="img/Adib.png" width="120"><br>
         <strong>Adib Roisilmi Abdullah</strong><br>
         M0501241039
       </td>
       <td align="center">
-        <img src="outputs/foto_anggota/yusran.jpg" width="120"><br>
+        <img src="img/Yusran.png" width="120"><br>
         <strong>Muhammad Yusran</strong><br>
         M0501241064
       </td>
