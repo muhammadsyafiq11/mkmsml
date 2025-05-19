@@ -8,6 +8,7 @@
 <header>
   <h1>🌾 Data-Driven Prediction of Food Security Index Categories in Indonesia Using Machine Learning and GFSI-BPN Indicators
 </h1>
+  <img class="banner" src="img/BANNER Indeks Ketahanan pangan.png" alt="Banner Proyek IKP"/>
   <p>Proyek ini bertujuan untuk membangun model prediksi kategori Indeks Ketahanan Pangan (IKP) kabupaten/kota di Indonesia. Model dikembangkan dengan memanfaatkan 9 indikator utama dari Badan Pangan Nasional (BPN) dan indikator tambahan dari Global Food Security Index (GFSI) serta variabel sosial-ekonomi lainnya. Diharapkan model ini mampu memberikan insight berbasis data yang akurat untuk mendukung kebijakan ketahanan pangan nasional.
 </p>
 </header>
