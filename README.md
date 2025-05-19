@@ -13,7 +13,6 @@
 </p>
 </header>
 
-
 <h2>🇮🇩 Latar Belakang</h2>
 <p>Ketahanan pangan merupakan isu strategis dalam pembangunan berkelanjutan Indonesia. World Food Summit (1996) mendefinisikan ketahanan pangan sebagai:</p>
 <blockquote><em>“Situasi di mana setiap orang, setiap saat, memiliki akses fisik dan ekonomi terhadap pangan yang cukup, aman, dan bergizi untuk menjalani kehidupan yang sehat.”</em></blockquote>
@@ -95,6 +94,11 @@
 <p><strong>Variabel Target (Y):</strong> Kategori IKP disederhanakan menjadi 0 (Rentan: 1–3) & 1 (Tahan: 4–6)</p>
 
 <h2>💡 Metodologi</h2>
+<p align="center">
+<img src="img/Flowchart.png" alt="Flowchart IKP" class="center" width="80%"/>
+<br><em>Gambar 1. Flowchart Metode Indeks Ketahanan Pangan</em>
+</p>
+<p><strong>Tahapan Penelitian Indeks Ketahanan Pangan</strong></p>
 <ol>
   <li>Pengumpulan Data</li>
   <li>Exploratory Data Analysis (EDA)</li>
@@ -105,14 +109,11 @@
   <li>Evaluasi model: Accuracy, F1-score, Confusion Matrix</li>
   <li>Rekomendasi kebijakan</li>
 </ol>
-<p align="center">
-<img src="img/Flowchart.png" alt="Flowchart IKP" class="center" width="80%"/>
-<br><em>Gambar 1. Flowchart Metode Indeks Ketahanan Pangan</em>
-</p>
 
 <h2>📋 Diagram Alur Proyek</h2>
 <p align="center">
 <img src="img/WorkFlow.png" alt="WorkFlow IKP" class="center" width="80%"/>
+<br><em>Gambar 2. WorkFlow Indeks Ketahanan Pangan/Kota</em>
 </p>
 <h2>📂 Struktur Proyek</h2>
 <pre>
@@ -147,12 +148,17 @@ ikp-prediction-model/
 <h2>📊 Cuplikan Visual</h2>
 <p align="center">
   <img src="img/Sebaran IKP 2024.png" width="80%"/>
-  <br><em>Gambar 1. Sebaran IKP 2024 Berdasarkan Kabupaten/Kota</em>
+  <br><em>Gambar 3. Sebaran IKP 2024 Berdasarkan Kabupaten/Kota</em>
 </p>
 
 <p align="center">
   <img src="img/Peta IKP 2024.png" width="80%"/>
-  <br><em>Gambar 2. Peta Sebaran IKP di Indonesia</em>
+  <br><em>Gambar 4. Peta Sebaran IKP di Indonesia</em>
+</p>
+
+<p align="center">
+  <img src="img/Peta IKP 2024.png" width="80%"/>
+  <br><em>Gambar 4. Peta Sebaran IKP di Indonesia</em>
 </p>
 
 <h2>📊 Confusion Matrix</h2>
@@ -181,22 +187,22 @@ ikp-prediction-model/
   <table>
     <tr>
       <td align="center">
-        <img src="img/Ngurah.png" width="120"><br>
+        <img src="img/Ngurah.png" width="220"><br>
         <strong>I Gusti Ngurah Sentana Putra</strong><br>
         M0501241019
       </td>
       <td align="center">
-        <img src="img/Syafiq.png" width="120"><br>
+        <img src="img/Syafiq.png" width="220"><br>
         <strong>Muhammad Syafiq</strong><br>
         M0501241005
       </td>
       <td align="center">
-        <img src="img/Adib.png" width="120"><br>
+        <img src="img/Adib.png" width="220"><br>
         <strong>Adib Roisilmi Abdullah</strong><br>
         M0501241039
       </td>
       <td align="center">
-        <img src="img/Yusran.png" width="120"><br>
+        <img src="img/Yusran.png" width="220"><br>
         <strong>Muhammad Yusran</strong><br>
         M0501241064
       </td>
