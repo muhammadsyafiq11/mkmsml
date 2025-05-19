@@ -241,7 +241,7 @@ F1-Score  (Pos=1)  : 0.9953 | Weighted: 0.9919 | Macro: 0.9837
 }
 </pre>
 
-<h2>👥 Anggota Kelompok</h2>
+<h2>👥 Tim Penyusun: Mungkinkah Ku Miliki</h2>
 
 <div align="center">
   <table>
