@@ -271,7 +271,7 @@ F1-Score  (Pos=1)  : 0.9953 | Weighted: 0.9919 | Macro: 0.9837
 </div>
 
 <footer>
-  <p>Lisensi: MIT License • IPB University, 2025</p>
+  <p>Lisensi: All Rights Reserved • IPB University, 2025</p>
 </footer>
 
 </body>
