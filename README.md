@@ -57,7 +57,7 @@
 
 <h2>📋 Diagram Alur Proyek</h2>
 <p align="center">
-<img src="img/Workflow.png" alt="Flowchart IKP" class="center"/>
+<img src="img/WorkFlow.png" alt="WorkFlow IKP" class="center" width="80%"/>
 </p>
 <h2>📂 Struktur Proyek</h2>
 <pre>
