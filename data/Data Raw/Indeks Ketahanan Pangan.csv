@@ -1,0 +1,3085 @@
+No;Kode Prov;Nama Provinsi;Kode Kab/Kota;Nama Kabupaten;Tipe;Tahun;IKP;Peringkat Kab/Kota;Kelompok IKP
+1;11;Aceh;1109;Simeulue;Kabupaten;2018;67.97;287;5
+2;11;Aceh;1110;Aceh Singkil;Kabupaten;2018;74.35;180;5
+3;11;Aceh;1101;Aceh Selatan;Kabupaten;2018;71.69;237;5
+4;11;Aceh;1102;Aceh Tenggara;Kabupaten;2018;48.22;382;2
+5;11;Aceh;1103;Aceh Timur;Kabupaten;2018;67.24;298;4
+6;11;Aceh;1104;Aceh Tengah;Kabupaten;2018;72.54;224;5
+7;11;Aceh;1105;Aceh Barat;Kabupaten;2018;72.26;229;5
+8;11;Aceh;1106;Aceh Besar;Kabupaten;2018;65.51;310;4
+9;11;Aceh;1107;Pidie;Kabupaten;2018;75.45;157;5
+10;11;Aceh;1111;Bireuen;Kabupaten;2018;69.77;270;5
+11;11;Aceh;1108;Aceh Utara;Kabupaten;2018;77.77;100;6
+12;11;Aceh;1112;Aceh Barat Daya;Kabupaten;2018;71.29;244;5
+13;11;Aceh;1113;Gayo Lues;Kabupaten;2018;70.09;265;5
+14;11;Aceh;1116;Aceh Tamiang;Kabupaten;2018;74.67;175;5
+15;11;Aceh;1115;Nagan Raya;Kabupaten;2018;72.8;213;5
+16;11;Aceh;1114;Aceh Jaya;Kabupaten;2018;79.57;60;6
+17;11;Aceh;1117;Bener Meriah;Kabupaten;2018;44.28;389;2
+18;11;Aceh;1118;Pidie Jaya;Kabupaten;2018;71.62;239;5
+19;12;Sumatera Utara;1204;Nias;Kabupaten;2018;71.36;242;5
+20;12;Sumatera Utara;1213;Mandailing Natal;Kabupaten;2018;77.44;108;6
+21;12;Sumatera Utara;1203;Tapanuli Selatan;Kabupaten;2018;70.47;260;5
+22;12;Sumatera Utara;1201;Tapanuli Tengah;Kabupaten;2018;63.43;320;4
+23;12;Sumatera Utara;1202;Tapanuli Utara;Kabupaten;2018;67.37;295;4
+24;12;Sumatera Utara;1212;Toba Samosir;Kabupaten;2018;82.32;20;6
+25;12;Sumatera Utara;1210;Labuhan Batu;Kabupaten;2018;75.9;146;6
+26;12;Sumatera Utara;1209;Asahan;Kabupaten;2018;79.1;70;6
+27;12;Sumatera Utara;1208;Simalungun;Kabupaten;2018;73.45;202;5
+28;12;Sumatera Utara;1211;Dairi;Kabupaten;2018;78.78;74;6
+29;12;Sumatera Utara;1206;Karo;Kabupaten;2018;76.89;123;6
+30;12;Sumatera Utara;1207;Deli Serdang;Kabupaten;2018;77.12;118;6
+31;12;Sumatera Utara;1205;Langkat;Kabupaten;2018;74.91;170;5
+32;12;Sumatera Utara;1214;Nias Selatan;Kabupaten;2018;63.02;323;4
+33;12;Sumatera Utara;1216;Humbang Hasundutan;Kabupaten;2018;70.56;259;5
+34;12;Sumatera Utara;1215;Pakpak Bharat;Kabupaten;2018;74.27;183;5
+35;12;Sumatera Utara;1217;Samosir;Kabupaten;2018;72.58;221;5
+36;12;Sumatera Utara;1218;Serdang Bedagai;Kabupaten;2018;78.3;88;6
+37;12;Sumatera Utara;1219;Batu Bara;Kabupaten;2018;77.77;98;6
+38;12;Sumatera Utara;1220;Padang Lawas Utara;Kabupaten;2018;73.26;208;5
+39;12;Sumatera Utara;1221;Padang Lawas;Kabupaten;2018;65.77;309;4
+40;12;Sumatera Utara;1222;Labuhan Batu Selatan;Kabupaten;2018;50.64;376;2
+41;12;Sumatera Utara;1223;Labuhan Batu Utara;Kabupaten;2018;76.98;120;6
+42;12;Sumatera Utara;1224;Nias Utara;Kabupaten;2018;57.34;346;3
+43;12;Sumatera Utara;1225;Nias Barat;Kabupaten;2018;57.43;345;3
+44;13;Sumatera Barat;1309;Kepulauan Mentawai;Kabupaten;2018;74.12;187;5
+45;13;Sumatera Barat;1301;Pesisir Selatan;Kabupaten;2018;49.92;378;2
+46;13;Sumatera Barat;1302;Solok;Kabupaten;2018;80.66;46;6
+47;13;Sumatera Barat;1303;Sijunjung;Kabupaten;2018;75.34;160;5
+48;13;Sumatera Barat;1304;Tanah Datar;Kabupaten;2018;73.36;205;5
+49;13;Sumatera Barat;1305;Padang Pariaman;Kabupaten;2018;80.23;50;6
+50;13;Sumatera Barat;1306;Agam;Kabupaten;2018;76.69;125;6
+51;13;Sumatera Barat;1307;Limapuluh Koto;Kabupaten;2018;81;40;6
+52;13;Sumatera Barat;1308;Pasaman;Kabupaten;2018;77.98;94;6
+53;13;Sumatera Barat;1311;Solok Selatan;Kabupaten;2018;75.82;148;6
+54;13;Sumatera Barat;1310;Dharmas Raya;Kabupaten;2018;76.91;122;6
+55;13;Sumatera Barat;1312;Pasaman Barat;Kabupaten;2018;75.2;163;5
+56;14;Riau;1409;Kuantan Sengingi;Kabupaten;2018;59.73;337;4
+57;14;Riau;1402;Indragiri Hulu;Kabupaten;2018;53.79;366;3
+58;14;Riau;1404;Indragiri Hilir;Kabupaten;2018;66.87;299;4
+59;14;Riau;1405;Pelalawan;Kabupaten;2018;70.78;255;5
+60;14;Riau;1408;Siak;Kabupaten;2018;58.18;339;3
+61;14;Riau;1401;Kampar;Kabupaten;2018;70.08;266;5
+62;14;Riau;1406;Rokan Hulu;Kabupaten;2018;52.74;369;3
+63;14;Riau;1403;Bengkalis;Kabupaten;2018;66.21;306;4
+64;14;Riau;1407;Rokan Hilir;Kabupaten;2018;57.76;343;3
+65;14;Riau;1410;Kepulauan Meranti;Kabupaten;2018;48.94;380;2
+66;15;Jambi;1501;Kerinci;Kabupaten;2018;81;39;6
+67;15;Jambi;1502;Merangin;Kabupaten;2018;76.97;121;6
+68;15;Jambi;1503;Sarolangun;Kabupaten;2018;72.7;218;5
+69;15;Jambi;1504;Batang Hari;Kabupaten;2018;66.56;303;4
+70;15;Jambi;1505;Muaro Jambi;Kabupaten;2018;60.98;334;4
+71;15;Jambi;1507;Tanjung Jabung Timur;Kabupaten;2018;71.04;251;5
+72;15;Jambi;1506;Tanjung Jabung Barat;Kabupaten;2018;74.18;185;5
+73;15;Jambi;1509;Tebo;Kabupaten;2018;73.89;195;5
+74;15;Jambi;1508;Bungo;Kabupaten;2018;79.19;67;6
+75;16;Sumatera Selatan;1601;Ogan Komering Ulu;Kabupaten;2018;73.74;198;5
+76;16;Sumatera Selatan;1602;Ogan Komering Ilir;Kabupaten;2018;75.49;156;5
+77;16;Sumatera Selatan;1603;Muara Enim;Kabupaten;2018;72.12;233;5
+78;16;Sumatera Selatan;1604;Lahat;Kabupaten;2018;70.82;254;5
+79;16;Sumatera Selatan;1605;Musi Rawas;Kabupaten;2018;76.58;127;6
+80;16;Sumatera Selatan;1606;Musi Banyuasin;Kabupaten;2018;75.13;167;5
+81;16;Sumatera Selatan;1607;Banyuasin;Kabupaten;2018;77.25;114;6
+82;16;Sumatera Selatan;1609;Ogan Komering Ulu Selatan;Kabupaten;2018;78.49;83;6
+83;16;Sumatera Selatan;1608;Ogan Komering Ulu Timur;Kabupaten;2018;73.87;196;5
+84;16;Sumatera Selatan;1610;Ogan Ilir;Kabupaten;2018;73.96;193;5
+85;16;Sumatera Selatan;1611;Empat Lawang;Kabupaten;2018;71.18;248;5
+86;16;Sumatera Selatan;1612;Penukal Abab Lematang Ilir;Kabupaten;2018;67.97;288;5
+87;16;Sumatera Selatan;1613;Musi Rawas Utara;Kabupaten;2018;62.03;327;4
+88;17;Bengkulu;1701;Bengkulu Selatan;Kabupaten;2018;71.55;240;5
+89;17;Bengkulu;1702;Rejang Lebong;Kabupaten;2018;71.35;243;5
+90;17;Bengkulu;1703;Bengkulu Utara;Kabupaten;2018;72.92;212;5
+91;17;Bengkulu;1704;Kaur;Kabupaten;2018;67.68;290;4
+92;17;Bengkulu;1705;Seluma;Kabupaten;2018;69.74;273;5
+93;17;Bengkulu;1706;Mukomuko;Kabupaten;2018;74.6;176;5
+94;17;Bengkulu;1707;Lebong;Kabupaten;2018;69.17;275;5
+95;17;Bengkulu;1708;Kepahiang;Kabupaten;2018;73.44;203;5
+96;17;Bengkulu;1709;Bengkulu Tengah;Kabupaten;2018;72.63;219;5
+97;18;Lampung;1804;Lampung Barat;Kabupaten;2018;77.43;110;6
+98;18;Lampung;1806;Tanggamus;Kabupaten;2018;72.18;232;5
+99;18;Lampung;1801;Lampung Selatan;Kabupaten;2018;70.76;256;5
+100;18;Lampung;1807;Lampung Timur;Kabupaten;2018;73.63;199;5
+101;18;Lampung;1802;Lampung Tengah;Kabupaten;2018;71.96;236;5
+102;18;Lampung;1803;Lampung Utara;Kabupaten;2018;76.48;132;6
+103;18;Lampung;1808;Way Kanan;Kabupaten;2018;78.24;90;6
+104;18;Lampung;1805;Tulang Bawang;Kabupaten;2018;75.43;158;5
+105;18;Lampung;1809;Pesawaran;Kabupaten;2018;72.54;225;5
+106;18;Lampung;1810;Pringsewu;Kabupaten;2018;78.48;84;6
+107;18;Lampung;1811;Mesuji;Kabupaten;2018;80.82;44;6
+108;18;Lampung;1812;Tulang Bawang Barat;Kabupaten;2018;80.7;45;6
+109;18;Lampung;1813;Pesisir Barat;Kabupaten;2018;67.99;286;5
+110;19;Kepulauan Bangka Belitung;1901;Bangka;Kabupaten;2018;57.03;350;3
+111;19;Kepulauan Bangka Belitung;1902;Belitung;Kabupaten;2018;57.67;344;3
+112;19;Kepulauan Bangka Belitung;1905;Bangka Barat;Kabupaten;2018;66.21;307;4
+113;19;Kepulauan Bangka Belitung;1904;Bangka Tengah;Kabupaten;2018;55.81;354;3
+114;19;Kepulauan Bangka Belitung;1903;Bangka Selatan;Kabupaten;2018;63.99;316;4
+115;19;Kepulauan Bangka Belitung;1906;Belitung Timur;Kabupaten;2018;57.32;347;3
+116;21;Kepulauan Riau;2102;Karimun;Kabupaten;2018;56.6;352;3
+117;21;Kepulauan Riau;2101;Bintan;Kabupaten;2018;55.75;355;3
+118;21;Kepulauan Riau;2103;Natuna;Kabupaten;2018;54.75;359;3
+119;21;Kepulauan Riau;2104;Lingga;Kabupaten;2018;45.06;387;2
+120;21;Kepulauan Riau;2105;Kepulauan Anambas;Kabupaten;2018;51.14;372;2
+121;31;DKI Jakarta;3101;Kepulauan Seribu;Kabupaten;2018;53.41;367;3
+122;32;Jawa Barat;3201;Bogor;Kabupaten;2018;67.56;292;4
+123;32;Jawa Barat;3202;Sukabumi;Kabupaten;2018;74.32;181;5
+124;32;Jawa Barat;3203;Cianjur;Kabupaten;2018;71.47;241;5
+125;32;Jawa Barat;3204;Bandung;Kabupaten;2018;74.37;179;5
+126;32;Jawa Barat;3205;Garut;Kabupaten;2018;73.09;210;5
+127;32;Jawa Barat;3206;Tasikmalaya;Kabupaten;2018;72.28;227;5
+128;32;Jawa Barat;3207;Ciamis;Kabupaten;2018;74.86;172;5
+129;32;Jawa Barat;3208;Kuningan;Kabupaten;2018;75.17;164;5
+130;32;Jawa Barat;3209;Cirebon;Kabupaten;2018;73.38;204;5
+131;32;Jawa Barat;3210;Majalengka;Kabupaten;2018;75.92;144;6
+132;32;Jawa Barat;3211;Sumedang;Kabupaten;2018;79.18;69;6
+133;32;Jawa Barat;3212;Indramayu;Kabupaten;2018;79.79;58;6
+134;32;Jawa Barat;3213;Subang;Kabupaten;2018;78.85;73;6
+135;32;Jawa Barat;3214;Purwakarta;Kabupaten;2018;75.55;154;5
+136;32;Jawa Barat;3215;Karawang;Kabupaten;2018;82.69;15;6
+137;32;Jawa Barat;3216;Bekasi;Kabupaten;2018;80.65;47;6
+138;32;Jawa Barat;3217;Bandung Barat;Kabupaten;2018;70.84;253;5
+139;32;Jawa Barat;3218;Pangandaran;Kabupaten;2018;77.18;115;6
+140;33;Jawa Tengah;3301;Cilacap;Kabupaten;2018;79.19;68;6
+141;33;Jawa Tengah;3302;Banyumas;Kabupaten;2018;73.99;192;5
+142;33;Jawa Tengah;3303;Purbalingga;Kabupaten;2018;74;191;5
+143;33;Jawa Tengah;3304;Banjarnegara;Kabupaten;2018;72.35;226;5
+144;33;Jawa Tengah;3305;Kebumen;Kabupaten;2018;73.32;206;5
+145;33;Jawa Tengah;3306;Purworejo;Kabupaten;2018;78.63;78;6
+146;33;Jawa Tengah;3307;Wonosobo;Kabupaten;2018;75.87;147;6
+147;33;Jawa Tengah;3308;Magelang;Kabupaten;2018;76.32;137;6
+148;33;Jawa Tengah;3309;Boyolali;Kabupaten;2018;80.36;48;6
+149;33;Jawa Tengah;3310;Klaten;Kabupaten;2018;78.64;76;6
+150;33;Jawa Tengah;3311;Sukoharjo;Kabupaten;2018;85.21;4;6
+151;33;Jawa Tengah;3312;Wonogiri;Kabupaten;2018;81.83;26;6
+152;33;Jawa Tengah;3313;Karanganyar;Kabupaten;2018;82.4;19;6
+153;33;Jawa Tengah;3314;Sragen;Kabupaten;2018;82.22;22;6
+154;33;Jawa Tengah;3315;Grobogan;Kabupaten;2018;81.19;34;6
+155;33;Jawa Tengah;3316;Blora;Kabupaten;2018;81.3;32;6
+156;33;Jawa Tengah;3317;Rembang;Kabupaten;2018;77.71;104;6
+157;33;Jawa Tengah;3318;Pati;Kabupaten;2018;84.04;10;6
+158;33;Jawa Tengah;3319;Kudus;Kabupaten;2018;82.31;21;6
+159;33;Jawa Tengah;3320;Jepara;Kabupaten;2018;80.95;41;6
+160;33;Jawa Tengah;3321;Demak;Kabupaten;2018;84.11;7;6
+161;33;Jawa Tengah;3322;Semarang;Kabupaten;2018;82.66;16;6
+162;33;Jawa Tengah;3323;Temanggung;Kabupaten;2018;79.27;66;6
+163;33;Jawa Tengah;3324;Kendal;Kabupaten;2018;80.84;43;6
+164;33;Jawa Tengah;3325;Batang;Kabupaten;2018;77.1;119;6
+165;33;Jawa Tengah;3326;Pekalongan;Kabupaten;2018;71.17;249;5
+166;33;Jawa Tengah;3327;Pemalang;Kabupaten;2018;74.96;168;5
+167;33;Jawa Tengah;3328;Tegal;Kabupaten;2018;74.7;174;5
+168;33;Jawa Tengah;3329;Brebes;Kabupaten;2018;72.55;223;5
+169;34;DI Yogyakarta;3401;Kulon Progo;Kabupaten;2018;76.59;126;6
+170;34;DI Yogyakarta;3402;Bantul;Kabupaten;2018;76.48;131;6
+171;34;DI Yogyakarta;3403;Gunung Kidul;Kabupaten;2018;77.73;103;6
+172;34;DI Yogyakarta;3404;Sleman;Kabupaten;2018;83.49;11;6
+173;35;Jawa Timur;3501;Pacitan;Kabupaten;2018;77.35;112;6
+174;35;Jawa Timur;3502;Ponorogo;Kabupaten;2018;81.1;36;6
+175;35;Jawa Timur;3503;Trenggalek;Kabupaten;2018;76.35;136;6
+176;35;Jawa Timur;3504;Tulungagung;Kabupaten;2018;81.88;25;6
+177;35;Jawa Timur;3505;Blitar;Kabupaten;2018;78.64;77;6
+178;35;Jawa Timur;3506;Kediri;Kabupaten;2018;76.31;138;6
+179;35;Jawa Timur;3507;Malang;Kabupaten;2018;75.69;151;6
+180;35;Jawa Timur;3508;Lumajang;Kabupaten;2018;74.28;182;5
+181;35;Jawa Timur;3509;Jember;Kabupaten;2018;74.02;190;5
+182;35;Jawa Timur;3510;Banyuwangi;Kabupaten;2018;78.93;72;6
+183;35;Jawa Timur;3511;Bondowoso;Kabupaten;2018;70.03;267;5
+184;35;Jawa Timur;3512;Situbondo;Kabupaten;2018;73.32;207;5
+185;35;Jawa Timur;3513;Probolinggo;Kabupaten;2018;69.75;272;5
+186;35;Jawa Timur;3514;Pasuruan;Kabupaten;2018;75.97;143;6
+187;35;Jawa Timur;3515;Sidoarjo;Kabupaten;2018;73.55;200;5
+188;35;Jawa Timur;3516;Mojokerto;Kabupaten;2018;80.09;54;6
+189;35;Jawa Timur;3517;Jombang;Kabupaten;2018;80.13;53;6
+190;35;Jawa Timur;3518;Nganjuk;Kabupaten;2018;80.07;55;6
+191;35;Jawa Timur;3519;Madiun;Kabupaten;2018;81.94;24;6
+192;35;Jawa Timur;3520;Magetan;Kabupaten;2018;84.1;8;6
+193;35;Jawa Timur;3521;Ngawi;Kabupaten;2018;79.37;64;6
+194;35;Jawa Timur;3522;Bojonegoro;Kabupaten;2018;81.4;30;6
+195;35;Jawa Timur;3523;Tuban;Kabupaten;2018;78.61;79;6
+196;35;Jawa Timur;3524;Lamongan;Kabupaten;2018;84.6;6;6
+197;35;Jawa Timur;3525;Gresik;Kabupaten;2018;84.7;5;6
+198;35;Jawa Timur;3526;Bangkalan;Kabupaten;2018;67.65;291;4
+199;35;Jawa Timur;3527;Sampang;Kabupaten;2018;68.69;281;5
+200;35;Jawa Timur;3528;Pamekasan;Kabupaten;2018;66.35;305;4
+201;35;Jawa Timur;3529;Sumenep;Kabupaten;2018;68.64;282;5
+202;36;Banten;3601;Pandeglang;Kabupaten;2018;70.42;262;5
+203;36;Banten;3602;Lebak;Kabupaten;2018;71.63;238;5
+204;36;Banten;3603;Tangerang;Kabupaten;2018;71.1;250;5
+205;36;Banten;3604;Serang;Kabupaten;2018;75.58;152;5
+206;51;Bali;5101;Jembrana;Kabupaten;2018;78.39;86;6
+207;51;Bali;5102;Tabanan;Kabupaten;2018;88.3;1;6
+208;51;Bali;5103;Badung;Kabupaten;2018;86.45;3;6
+209;51;Bali;5104;Gianyar;Kabupaten;2018;87.16;2;6
+210;51;Bali;5105;Klungkung;Kabupaten;2018;80.32;49;6
+211;51;Bali;5106;Bangli;Kabupaten;2018;77.33;113;6
+212;51;Bali;5107;Karangasem;Kabupaten;2018;76.89;124;6
+213;51;Bali;5108;Buleleng;Kabupaten;2018;78.03;92;6
+214;52;Nusa Tenggara Barat;5201;Lombok Barat;Kabupaten;2018;70.39;263;5
+215;52;Nusa Tenggara Barat;5202;Lombok Tengah;Kabupaten;2018;69.89;268;5
+216;52;Nusa Tenggara Barat;5203;Lombok Timur;Kabupaten;2018;67.4;294;4
+217;52;Nusa Tenggara Barat;5204;Sumbawa;Kabupaten;2018;76.25;139;6
+218;52;Nusa Tenggara Barat;5205;Dompu;Kabupaten;2018;77.43;109;6
+219;52;Nusa Tenggara Barat;5206;Bima;Kabupaten;2018;75.15;166;5
+220;52;Nusa Tenggara Barat;5207;Sumbawa Barat;Kabupaten;2018;77.73;102;6
+221;52;Nusa Tenggara Barat;5208;Lombok Utara;Kabupaten;2018;63.34;322;4
+222;53;Nusa Tenggara Timur;5312;Sumba Barat;Kabupaten;2018;74.11;188;5
+223;53;Nusa Tenggara Timur;5311;Sumba Timur;Kabupaten;2018;61.44;330;4
+224;53;Nusa Tenggara Timur;5301;Kupang;Kabupaten;2018;57.92;341;3
+225;53;Nusa Tenggara Timur;5302;Timor Tengah Selatan;Kabupaten;2018;61.28;333;4
+226;53;Nusa Tenggara Timur;5303;Timor Tengah Utara;Kabupaten;2018;61.5;329;4
+227;53;Nusa Tenggara Timur;5304;Belu;Kabupaten;2018;53.86;365;3
+228;53;Nusa Tenggara Timur;5305;Alor;Kabupaten;2018;62.09;326;4
+229;53;Nusa Tenggara Timur;5313;Lembata;Kabupaten;2018;63.38;321;4
+230;53;Nusa Tenggara Timur;5306;Flores Timur;Kabupaten;2018;66.58;302;4
+231;53;Nusa Tenggara Timur;5307;Sikka;Kabupaten;2018;56.32;353;3
+232;53;Nusa Tenggara Timur;5308;Ende;Kabupaten;2018;64.65;313;4
+233;53;Nusa Tenggara Timur;5309;Ngada;Kabupaten;2018;68.75;280;5
+234;53;Nusa Tenggara Timur;5310;Manggarai;Kabupaten;2018;68.76;279;5
+235;53;Nusa Tenggara Timur;5314;Rote Ndao;Kabupaten;2018;62.43;324;4
+236;53;Nusa Tenggara Timur;5315;Manggarai Barat;Kabupaten;2018;68.07;285;5
+237;53;Nusa Tenggara Timur;5317;Sumba Tengah;Kabupaten;2018;54.86;358;3
+238;53;Nusa Tenggara Timur;5318;Sumba Barat Daya;Kabupaten;2018;68.9;277;5
+239;53;Nusa Tenggara Timur;5316;Nagekeo;Kabupaten;2018;54.35;362;3
+240;53;Nusa Tenggara Timur;5319;Manggarai Timur;Kabupaten;2018;58.06;340;3
+241;53;Nusa Tenggara Timur;5320;Sabu Raijua;Kabupaten;2018;38.58;393;1
+242;53;Nusa Tenggara Timur;5321;Malaka;Kabupaten;2018;54.45;361;3
+243;61;Kalimantan Barat;6101;Sambas;Kabupaten;2018;75.77;149;6
+244;61;Kalimantan Barat;6107;Bengkayang;Kabupaten;2018;68.92;276;5
+245;61;Kalimantan Barat;6108;Landak;Kabupaten;2018;72.59;220;5
+246;61;Kalimantan Barat;6102;Mempawah;Kabupaten;2018;76.22;140;6
+247;61;Kalimantan Barat;6103;Sanggau;Kabupaten;2018;60.58;335;4
+248;61;Kalimantan Barat;6104;Ketapang;Kabupaten;2018;75.43;159;5
+249;61;Kalimantan Barat;6105;Sintang;Kabupaten;2018;76.44;135;6
+250;61;Kalimantan Barat;6106;Kapuas Hulu;Kabupaten;2018;70.42;261;5
+251;61;Kalimantan Barat;6109;Sekadau;Kabupaten;2018;69.76;271;5
+252;61;Kalimantan Barat;6110;Melawai;Kabupaten;2018;63.47;319;4
+253;61;Kalimantan Barat;6111;Kayong Utara;Kabupaten;2018;73.16;209;5
+254;61;Kalimantan Barat;6112;Kubu Raya;Kabupaten;2018;75.56;153;5
+255;62;Kalimantan Tengah;6201;Kotawaringin Barat;Kabupaten;2018;67.91;289;5
+256;62;Kalimantan Tengah;6202;Kotawaringin Timur;Kabupaten;2018;75.5;155;5
+257;62;Kalimantan Tengah;6203;Kapuas;Kabupaten;2018;77.14;117;6
+258;62;Kalimantan Tengah;6204;Barito Selatan;Kabupaten;2018;72.28;228;5
+259;62;Kalimantan Tengah;6205;Barito Utara;Kabupaten;2018;77.78;97;6
+260;62;Kalimantan Tengah;6208;Sukamara;Kabupaten;2018;71.23;247;5
+261;62;Kalimantan Tengah;6209;Lamandau;Kabupaten;2018;76.45;134;6
+262;62;Kalimantan Tengah;6207;Seruyan;Kabupaten;2018;79.27;65;6
+263;62;Kalimantan Tengah;6206;Katingan;Kabupaten;2018;76.54;128;6
+264;62;Kalimantan Tengah;6211;Pulang Pisau;Kabupaten;2018;54.48;360;3
+265;62;Kalimantan Tengah;6210;Gunung Mas;Kabupaten;2018;80.91;42;6
+266;62;Kalimantan Tengah;6213;Barito Timur;Kabupaten;2018;66.4;304;4
+267;62;Kalimantan Tengah;6212;Murung Raya;Kabupaten;2018;74.14;186;5
+268;63;Kalimantan Selatan;6301;Tanah Laut;Kabupaten;2018;79.76;59;6
+269;63;Kalimantan Selatan;6302;Kota Baru;Kabupaten;2018;78.57;80;6
+270;63;Kalimantan Selatan;6303;Banjar;Kabupaten;2018;81.73;27;6
+271;63;Kalimantan Selatan;6304;Barito Kuala;Kabupaten;2018;77.99;93;6
+272;63;Kalimantan Selatan;6305;Tapin;Kabupaten;2018;83;13;6
+273;63;Kalimantan Selatan;6306;Hulu Sungai Selatan;Kabupaten;2018;79.79;57;6
+274;63;Kalimantan Selatan;6307;Hulu Sungai Tengah;Kabupaten;2018;78.69;75;6
+275;63;Kalimantan Selatan;6308;Hulu Sungai Utara;Kabupaten;2018;78.42;85;6
+276;63;Kalimantan Selatan;6309;Tabalong;Kabupaten;2018;81.11;35;6
+277;63;Kalimantan Selatan;6310;Tanah Bumbu;Kabupaten;2018;84.06;9;6
+278;63;Kalimantan Selatan;6311;Balangan;Kabupaten;2018;82.46;17;6
+279;64;Kalimantan Timur;6401;Paser;Kabupaten;2018;72.76;216;5
+280;64;Kalimantan Timur;6407;Kutai Barat;Kabupaten;2018;70.64;257;5
+281;64;Kalimantan Timur;6402;Kutai Kertanegara;Kabupaten;2018;70.64;257;5
+282;64;Kalimantan Timur;6408;Kutai Timur;Kabupaten;2018;71.27;246;5
+283;64;Kalimantan Timur;6403;Berau;Kabupaten;2018;79.5;61;6
+284;64;Kalimantan Timur;6409;Penajam Paser Utara;Kabupaten;2018;80.18;51;6
+285;64;Kalimantan Timur;6411;Mahakam Ulu;Kabupaten;2018;68.88;278;5
+286;65;Kalimantan Utara;6502;Malinau;Kabupaten;2018;82.44;18;6
+287;65;Kalimantan Utara;6501;Bulungan;Kabupaten;2018;79.4;63;6
+288;65;Kalimantan Utara;6504;Tana Tidung;Kabupaten;2018;78.26;89;6
+289;65;Kalimantan Utara;6503;Nunukan;Kabupaten;2018;69.82;269;5
+290;71;Sulawesi Utara;7101;Bolaang Mongondow;Kabupaten;2018;78.36;87;6
+291;71;Sulawesi Utara;7102;Minahasa;Kabupaten;2018;77.55;106;6
+292;71;Sulawesi Utara;7103;Kepulauan Sangihe;Kabupaten;2018;50.96;373;2
+293;71;Sulawesi Utara;7104;Kepulauan Talaud;Kabupaten;2018;63.62;318;4
+294;71;Sulawesi Utara;7105;Minahasa Selatan;Kabupaten;2018;74.06;189;5
+295;71;Sulawesi Utara;7106;Minahasa Utara;Kabupaten;2018;79.41;62;6
+296;71;Sulawesi Utara;7108;Bolaang Mongondow Utara;Kabupaten;2018;48.88;381;2
+297;71;Sulawesi Utara;7109;Kepulauan Siau Tagulandang Biaro;Kabupaten;2018;74.89;171;5
+298;71;Sulawesi Utara;7107;Minahasa Tenggara;Kabupaten;2018;75.16;165;5
+299;71;Sulawesi Utara;7111;Bolaang Mongondow Selatan;Kabupaten;2018;77.77;99;6
+300;71;Sulawesi Utara;7110;Bolaang Mongondow Timur;Kabupaten;2018;64.9;311;4
+301;72;Sulawesi Tengah;7207;Banggai Kepulauan;Kabupaten;2018;66.85;300;4
+302;72;Sulawesi Tengah;7201;Banggai;Kabupaten;2018;44.84;388;2
+303;72;Sulawesi Tengah;7206;Morowali;Kabupaten;2018;72.76;217;5
+304;72;Sulawesi Tengah;7202;Poso;Kabupaten;2018;77.96;95;6
+305;72;Sulawesi Tengah;7203;Donggala;Kabupaten;2018;76.49;130;6
+306;72;Sulawesi Tengah;7204;Toli-Toli;Kabupaten;2018;78.12;91;6
+307;72;Sulawesi Tengah;7205;Buol;Kabupaten;2018;68.36;283;5
+308;72;Sulawesi Tengah;7208;Parigi Moutong;Kabupaten;2018;72.07;235;5
+309;72;Sulawesi Tengah;7209;Tojo Una-Una;Kabupaten;2018;63.73;317;4
+310;72;Sulawesi Tengah;7210;Sigi;Kabupaten;2018;74.82;173;5
+311;72;Sulawesi Tengah;7211;Banggai Laut;Kabupaten;2018;45.42;386;2
+312;72;Sulawesi Tengah;7212;Morowali Utara;Kabupaten;2018;73.96;194;5
+313;73;Sulawesi Selatan;7301;Selayar;Kabupaten;2018;70.18;264;5
+314;73;Sulawesi Selatan;7302;Bulukumba;Kabupaten;2018;77.88;96;6
+315;73;Sulawesi Selatan;7303;Bantaeng;Kabupaten;2018;82.1;23;6
+316;73;Sulawesi Selatan;7304;Jeneponto;Kabupaten;2018;74.94;169;5
+317;73;Sulawesi Selatan;7305;Takalar;Kabupaten;2018;80.15;52;6
+318;73;Sulawesi Selatan;7306;Gowa;Kabupaten;2018;81.54;29;6
+319;73;Sulawesi Selatan;7307;Sinjai;Kabupaten;2018;75.92;145;6
+320;73;Sulawesi Selatan;7309;Maros;Kabupaten;2018;72.11;234;5
+321;73;Sulawesi Selatan;7310;Pangkajene dan Kepulauan;Kabupaten;2018;81.59;28;6
+322;73;Sulawesi Selatan;7311;Barru;Kabupaten;2018;77.17;116;6
+323;73;Sulawesi Selatan;7308;Bone;Kabupaten;2018;81.32;31;6
+324;73;Sulawesi Selatan;7312;Soppeng;Kabupaten;2018;79.09;71;6
+325;73;Sulawesi Selatan;7313;Wajo;Kabupaten;2018;81.24;33;6
+326;73;Sulawesi Selatan;7314;Sidenreng Rappang;Kabupaten;2018;83.44;12;6
+327;73;Sulawesi Selatan;7315;Pinrang;Kabupaten;2018;81.01;38;6
+328;73;Sulawesi Selatan;7316;Enrekang;Kabupaten;2018;72.57;222;5
+329;73;Sulawesi Selatan;7317;Luwu;Kabupaten;2018;76.1;141;6
+330;73;Sulawesi Selatan;7318;Tana Toraja;Kabupaten;2018;74.48;177;5
+331;73;Sulawesi Selatan;7322;Luwu Utara;Kabupaten;2018;76.45;133;6
+332;73;Sulawesi Selatan;7324;Luwu Timur;Kabupaten;2018;83;14;6
+333;73;Sulawesi Selatan;7326;Toraja Utara;Kabupaten;2018;75.21;162;5
+334;74;Sulawesi Tenggara;7404;Buton;Kabupaten;2018;79.96;56;6
+335;74;Sulawesi Tenggara;7403;Muna;Kabupaten;2018;77.51;107;6
+336;74;Sulawesi Tenggara;7402;Konawe;Kabupaten;2018;66;308;4
+337;74;Sulawesi Tenggara;7401;Kolaka;Kabupaten;2018;67.35;296;4
+338;74;Sulawesi Tenggara;7405;Konawe Selatan;Kabupaten;2018;77.75;101;6
+339;74;Sulawesi Tenggara;7406;Bombana;Kabupaten;2018;76.03;142;6
+340;74;Sulawesi Tenggara;7407;Wakatobi;Kabupaten;2018;72.23;231;5
+341;74;Sulawesi Tenggara;7408;Kolaka Utara;Kabupaten;2018;64.33;314;4
+342;74;Sulawesi Tenggara;7410;Buton Utara;Kabupaten;2018;75.76;150;6
+343;74;Sulawesi Tenggara;7409;Konawe Utara;Kabupaten;2018;74.25;184;5
+344;74;Sulawesi Tenggara;7411;Kolaka Timur;Kabupaten;2018;81.09;37;6
+345;74;Sulawesi Tenggara;7412;Konawe Kepulauan;Kabupaten;2018;64.77;312;4
+346;74;Sulawesi Tenggara;7413;Muna Barat;Kabupaten;2018;52.95;368;3
+347;74;Sulawesi Tenggara;7414;Buton Tengah;Kabupaten;2018;49.11;379;2
+348;74;Sulawesi Tenggara;7415;Buton Selatan;Kabupaten;2018;48.07;383;2
+349;75;Gorontalo;7502;Boalemo;Kabupaten;2018;72.79;215;5
+350;75;Gorontalo;7501;Gorontalo;Kabupaten;2018;69.24;274;5
+351;75;Gorontalo;7504;Pohuwato;Kabupaten;2018;68.24;284;5
+352;75;Gorontalo;7503;Bone Bolango;Kabupaten;2018;71.29;245;5
+353;75;Gorontalo;7505;Gorontalo Utara;Kabupaten;2018;73.53;201;5
+354;76;Sulawesi Barat;7605;Majene;Kabupaten;2018;75.28;161;5
+355;76;Sulawesi Barat;7604;Polewali Mandar;Kabupaten;2018;77.37;111;6
+356;76;Sulawesi Barat;7603;Mamasa;Kabupaten;2018;67.32;297;4
+357;76;Sulawesi Barat;7602;Mamuju;Kabupaten;2018;70.87;252;5
+358;76;Sulawesi Barat;7601;Mamuju Utara;Kabupaten;2018;64.02;315;4
+359;76;Sulawesi Barat;7606;Mamuju Tengah;Kabupaten;2018;76.52;129;6
+360;81;Maluku;8103;Kepulauan Tanimbar;Kabupaten;2018;66.68;301;4
+361;81;Maluku;8102;Maluku Tenggara;Kabupaten;2018;61.85;328;4
+362;81;Maluku;8101;Maluku Tengah;Kabupaten;2018;36.57;395;1
+363;81;Maluku;8104;Buru;Kabupaten;2018;72.24;230;5
+364;81;Maluku;8107;Kepulauan Aru;Kabupaten;2018;51.89;370;3
+365;81;Maluku;8106;Seram Bagian Barat;Kabupaten;2018;58.51;338;3
+366;81;Maluku;8105;Seram Bagian Timur;Kabupaten;2018;35.76;396;1
+367;81;Maluku;8108;Maluku Barat Daya;Kabupaten;2018;45.55;384;2
+368;81;Maluku;8109;Buru Selatan;Kabupaten;2018;56.9;351;3
+369;82;Maluku Utara;8201;Halmahera Barat;Kabupaten;2018;62.13;325;4
+370;82;Maluku Utara;8202;Halmahera Tengah;Kabupaten;2018;67.48;293;4
+371;82;Maluku Utara;8205;Kepulauan Sula;Kabupaten;2018;77.61;105;6
+372;82;Maluku Utara;8204;Halmahera Selatan;Kabupaten;2018;72.93;211;5
+373;82;Maluku Utara;8203;Halmahera Utara;Kabupaten;2018;57.87;342;3
+374;82;Maluku Utara;8206;Halmahera Timur;Kabupaten;2018;73.86;197;5
+375;82;Maluku Utara;8207;Pulau Morotai;Kabupaten;2018;72.79;214;5
+376;82;Maluku Utara;8208;Pulau Taliabu;Kabupaten;2018;50.9;374;2
+377;92;Papua Barat;9203;Fak-Fak;Kabupaten;2018;39.29;392;1
+378;92;Papua Barat;9208;Kaimana;Kabupaten;2018;45.54;385;2
+379;92;Papua Barat;9207;Teluk Wondama;Kabupaten;2018;33.22;398;1
+380;92;Papua Barat;9206;Teluk Bintuni;Kabupaten;2018;37.23;394;1
+381;92;Papua Barat;9202;Manokwari;Kabupaten;2018;61.41;331;4
+382;92;Papua Barat;9204;Sorong Selatan;Kabupaten;2018;44.02;390;2
+383;92;Papua Barat;9201;Sorong;Kabupaten;2018;55.02;356;3
+384;92;Papua Barat;9205;Raja Ampat;Kabupaten;2018;54.99;357;3
+385;92;Papua Barat;9209;Tambrauw;Kabupaten;2018;26.03;409;1
+386;92;Papua Barat;9210;Maybrat;Kabupaten;2018;32.55;400;1
+387;92;Papua Barat;9211;Manokwari Selatan;Kabupaten;2018;54.3;363;3
+388;92;Papua Barat;9212;Pegunungan Arfak;Kabupaten;2018;30.25;403;1
+389;91;Papua;9301;Merauke;Kabupaten;2018;78.53;81;6
+390;91;Papua;9501;Jayawijaya;Kabupaten;2018;57.05;348;3
+391;91;Papua;9103;Jayapura;Kabupaten;2018;33.22;398;1
+392;91;Papua;9401;Nabire;Kabupaten;2018;78.53;81;6
+393;91;Papua;9105;Kepulauan Yapen;Kabupaten;2018;61.41;331;4
+394;91;Papua;9106;Biak Namfor;Kabupaten;2018;44.02;390;2
+395;91;Papua;9403;Paniai;Kabupaten;2018;60.04;336;4
+396;91;Papua;9402;Puncak Jaya;Kabupaten;2018;57.05;348;3
+397;91;Papua;9404;Mimika;Kabupaten;2018;74.41;178;5
+398;91;Papua;9302;Boven Digoel;Kabupaten;2018;50.69;375;2
+399;91;Papua;9303;Mappi;Kabupaten;2018;28.34;405;1
+400;91;Papua;9304;Asmat;Kabupaten;2018;27.91;407;1
+401;91;Papua;9503;Yahukimo;Kabupaten;2018;28.31;406;1
+402;91;Papua;9502;Pegunungan Bintang;Kabupaten;2018;27.71;408;1
+403;91;Papua;9504;Tolikara;Kabupaten;2018;29.83;404;1
+404;91;Papua;9110;Sarmi;Kabupaten;2018;32.55;400;1
+405;91;Papua;9111;Keerom;Kabupaten;2018;54.3;363;3
+406;91;Papua;9115;Waropen;Kabupaten;2018;50.18;377;2
+407;91;Papua;9119;Supiori;Kabupaten;2018;35.55;397;1
+408;91;Papua;9120;Mamberamo Raya;Kabupaten;2018;21.94;411;1
+409;91;Papua;9508;Nduga;Kabupaten;2018;7.38;416;1
+410;91;Papua;9507;Lanny Jaya;Kabupaten;2018;19.08;414;1
+411;91;Papua;9505;Mamberamo Tengah;Kabupaten;2018;21.63;412;1
+412;91;Papua;9506;Yalimo;Kabupaten;2018;30.71;402;1
+413;91;Papua;9405;Puncak;Kabupaten;2018;24.21;410;1
+414;91;Papua;9406;Dogiyai;Kabupaten;2018;20.33;413;1
+415;91;Papua;9407;Intan Jaya;Kabupaten;2018;7.81;415;1
+416;91;Papua;9408;Deiyai;Kabupaten;2018;51.6;371;3
+417;11;Aceh;1171;Kota Banda Aceh;Kota;2018;82.95;13;6
+418;11;Aceh;1172;Kota Sabang;Kota;2018;56.89;89;4
+419;11;Aceh;1174;Kota Langsa;Kota;2018;69.29;56;5
+420;11;Aceh;1173;Kota Lhokseumawe;Kota;2018;66.68;70;5
+421;11;Aceh;1175;Kota Subulussalam;Kota;2018;21.5;98;1
+422;12;Sumatera Utara;1273;Kota Sibolga;Kota;2018;74.56;40;6
+423;12;Sumatera Utara;1274;Kota Tanjung Balai;Kota;2018;60.73;82;4
+424;12;Sumatera Utara;1272;Kota Pematang Siantar;Kota;2018;49.87;93;3
+425;12;Sumatera Utara;1276;Kota Tebing Tinggi;Kota;2018;68.46;63;5
+426;12;Sumatera Utara;1271;Kota Medan;Kota;2018;61.81;80;5
+427;12;Sumatera Utara;1275;Kota Binjai;Kota;2018;81.42;21;6
+428;12;Sumatera Utara;1277;Kota Padang Sidimpuan;Kota;2018;57.48;88;4
+429;12;Sumatera Utara;1278;Kota Gunungsitoli;Kota;2018;36.77;95;2
+430;13;Sumatera Barat;1371;Kota Padang;Kota;2018;79.41;27;6
+431;13;Sumatera Barat;1372;Kota Solok;Kota;2018;78.54;29;6
+432;13;Sumatera Barat;1373;Kota Sawah Lunto;Kota;2018;64.17;76;5
+433;13;Sumatera Barat;1374;Kota Padang Panjang;Kota;2018;76.19;38;6
+434;13;Sumatera Barat;1375;Kota Bukittinggi;Kota;2018;83.45;10;6
+435;13;Sumatera Barat;1376;Kota Payakumbuh;Kota;2018;74.05;45;6
+436;13;Sumatera Barat;1377;Kota Pariaman;Kota;2018;64.77;73;5
+437;14;Riau;1471;Kota Pekanbaru;Kota;2018;81.15;22;6
+438;14;Riau;1472;Kota Dumai;Kota;2018;63.67;77;5
+439;15;Jambi;1571;Kota Jambi;Kota;2018;74.26;43;6
+440;15;Jambi;1572;Kota Sungai Penuh;Kota;2018;67.6;64;5
+441;16;Sumatera Selatan;1671;Kota Palembang;Kota;2018;73.26;47;6
+442;16;Sumatera Selatan;1674;Kota Prabumulih;Kota;2018;48.9;94;3
+443;16;Sumatera Selatan;1672;Kota Pagar Alam;Kota;2018;51.88;91;4
+444;16;Sumatera Selatan;1673;Kota Lubuklinggau;Kota;2018;36.41;96;2
+445;17;Bengkulu;1771;Kota Bengkulu;Kota;2018;64.58;74;5
+446;18;Lampung;1871;Kota Bandar Lampung;Kota;2018;68.93;59;5
+447;18;Lampung;1872;Kota Metro;Kota;2018;65.98;71;5
+448;19;Kepulauan Bangka Belitung;1971;Kota Pangkal Pinang;Kota;2018;78.18;31;6
+449;21;Kepulauan Riau;2171;Kota Batam;Kota;2018;79.79;25;6
+450;21;Kepulauan Riau;2172;Kota Tanjung Pinang;Kota;2018;68.53;62;5
+451;31;DKI Jakarta;3174;Kota Jakarta Selatan;Kota;2018;87.03;3;6
+452;31;DKI Jakarta;3175;Kota Jakarta Timur;Kota;2018;85.71;5;6
+453;31;DKI Jakarta;3171;Kota Jakarta Pusat;Kota;2018;87.72;2;6
+454;31;DKI Jakarta;3173;Kota Jakarta Barat;Kota;2018;84.66;6;6
+455;31;DKI Jakarta;3172;Kota Jakarta Utara;Kota;2018;84.33;8;6
+456;32;Jawa Barat;3271;Kota Bogor;Kota;2018;74.37;42;6
+457;32;Jawa Barat;3272;Kota Sukabumi;Kota;2018;67.32;66;5
+458;32;Jawa Barat;3273;Kota Bandung;Kota;2018;81.86;18;6
+459;32;Jawa Barat;3274;Kota Cirebon;Kota;2018;73.75;46;6
+460;32;Jawa Barat;3275;Kota Bekasi;Kota;2018;82.5;16;6
+461;32;Jawa Barat;3276;Kota Depok;Kota;2018;83.39;11;6
+462;32;Jawa Barat;3277;Kota Cimahi;Kota;2018;76.48;37;6
+463;32;Jawa Barat;3278;Kota Tasikmalaya;Kota;2018;56.09;90;4
+464;32;Jawa Barat;3279;Kota Banjar;Kota;2018;64.33;75;5
+465;33;Jawa Tengah;3371;Kota Magelang;Kota;2018;78.43;30;6
+466;33;Jawa Tengah;3372;Kota Surakarta;Kota;2018;77.65;32;6
+467;33;Jawa Tengah;3373;Kota Salatiga;Kota;2018;81.09;23;6
+468;33;Jawa Tengah;3374;Kota Semarang;Kota;2018;85.93;4;6
+469;33;Jawa Tengah;3375;Kota Pekalongan;Kota;2018;62.42;78;5
+470;33;Jawa Tengah;3376;Kota Tegal;Kota;2018;67.18;67;5
+471;34;DI Yogyakarta;3471;Kota Yogyakarta;Kota;2018;76.82;36;6
+472;35;Jawa Timur;3571;Kota Kediri;Kota;2018;69.15;57;5
+473;35;Jawa Timur;3572;Kota Blitar;Kota;2018;66.84;68;5
+474;35;Jawa Timur;3573;Kota Malang;Kota;2018;81.59;19;6
+475;35;Jawa Timur;3574;Kota Probolinggo;Kota;2018;68.69;61;5
+476;35;Jawa Timur;3575;Kota Pasuruan;Kota;2018;64.91;72;5
+477;35;Jawa Timur;3576;Kota Mojokerto;Kota;2018;79.45;26;6
+478;35;Jawa Timur;3577;Kota Madiun;Kota;2018;82.59;14;6
+479;35;Jawa Timur;3578;Kota Surabaya;Kota;2018;84.44;7;6
+480;35;Jawa Timur;3579;Kota Batu;Kota;2018;61.21;81;5
+481;36;Banten;3671;Kota Tangerang;Kota;2018;76.84;35;6
+482;36;Banten;3672;Kota Cilegon;Kota;2018;68.72;60;5
+483;36;Banten;3673;Kota Serang;Kota;2018;59.16;84;4
+484;36;Banten;3674;Kota Tangerang Selatan;Kota;2018;83.33;12;6
+485;51;Bali;5171;Kota Denpasar;Kota;2018;92.81;1;6
+486;52;Nusa Tenggara Barat;5271;Kota Mataram;Kota;2018;67.41;65;5
+487;52;Nusa Tenggara Barat;5272;Kota Bima;Kota;2018;59.96;83;4
+488;53;Nusa Tenggara Timur;5371;Kota Kupang;Kota;2018;62.01;79;5
+489;61;Kalimantan Barat;6171;Kota Pontianak;Kota;2018;70.31;52;5
+490;61;Kalimantan Barat;6172;Kota Singkawang;Kota;2018;57.97;87;4
+491;62;Kalimantan Tengah;6271;Kota Palangka Raya;Kota;2018;72.24;48;6
+492;63;Kalimantan Selatan;6371;Kota Banjarmasin;Kota;2018;75.82;39;6
+493;63;Kalimantan Selatan;6372;Kota Banjar Baru;Kota;2018;70.21;53;5
+494;64;Kalimantan Timur;6471;Kota Balikpapan;Kota;2018;83.62;9;6
+495;64;Kalimantan Timur;6472;Kota Samarinda;Kota;2018;82.56;15;6
+496;64;Kalimantan Timur;6474;Kota Bontang;Kota;2018;81.42;20;6
+497;65;Kalimantan Utara;6571;Kota Tarakan;Kota;2018;74.44;41;6
+498;71;Sulawesi Utara;7171;Kota Manado;Kota;2018;77.25;34;6
+499;71;Sulawesi Utara;7172;Kota Bitung;Kota;2018;66.75;69;5
+500;71;Sulawesi Utara;7173;Kota Tomohon;Kota;2018;71.76;50;6
+501;71;Sulawesi Utara;7174;Kota Kotamobago;Kota;2018;69.36;55;5
+502;72;Sulawesi Tengah;7271;Kota Palu;Kota;2018;74.12;44;6
+503;73;Sulawesi Selatan;7371;Kota Makasar;Kota;2018;82.38;17;6
+504;73;Sulawesi Selatan;7372;Kota Pare-Pare;Kota;2018;71.91;49;6
+505;73;Sulawesi Selatan;7373;Kota Palopo;Kota;2018;69.51;54;5
+506;74;Sulawesi Tenggara;7471;Kota Kendari;Kota;2018;79.03;28;6
+507;74;Sulawesi Tenggara;7472;Kota Bau-Bau;Kota;2018;68.98;58;5
+508;75;Gorontalo;7571;Kota Gorontalo;Kota;2018;77.58;33;6
+509;81;Maluku;8171;Kota Ambon;Kota;2018;70.46;51;5
+510;81;Maluku;8172;Kota Tual;Kota;2018;24.44;97;1
+511;82;Maluku Utara;8271;Kota Ternate;Kota;2018;80.87;24;6
+512;82;Maluku Utara;8272;Kota Tidore Kepulauan;Kota;2018;51.15;92;3
+513;91;Papua Barat;9271;Kota Sorong;Kota;2018;58.4;85;4
+514;94;Papua;9171;Kota Jayapura;Kota;2018;58.4;85;4
+515;11;Aceh;1109;Simeulue;Kabupaten;2019;73.47;240;5
+516;11;Aceh;1110;Aceh Singkil;Kabupaten;2019;76.35;194;6
+517;11;Aceh;1101;Aceh Selatan;Kabupaten;2019;70.59;275;5
+518;11;Aceh;1102;Aceh Tenggara;Kabupaten;2019;45.88;386;2
+519;11;Aceh;1103;Aceh Timur;Kabupaten;2019;70.06;282;5
+520;11;Aceh;1104;Aceh Tengah;Kabupaten;2019;75.28;208;5
+521;11;Aceh;1105;Aceh Barat;Kabupaten;2019;75.08;215;5
+522;11;Aceh;1106;Aceh Besar;Kabupaten;2019;74.05;232;5
+523;11;Aceh;1107;Pidie;Kabupaten;2019;74.9;219;5
+524;11;Aceh;1111;Bireuen;Kabupaten;2019;73.77;234;5
+525;11;Aceh;1108;Aceh Utara;Kabupaten;2019;81.67;72;6
+526;11;Aceh;1112;Aceh Barat Daya;Kabupaten;2019;70.53;276;5
+527;11;Aceh;1113;Gayo Lues;Kabupaten;2019;74.18;230;5
+528;11;Aceh;1116;Aceh Tamiang;Kabupaten;2019;76.79;181;6
+529;11;Aceh;1115;Nagan Raya;Kabupaten;2019;73.73;236;5
+530;11;Aceh;1114;Aceh Jaya;Kabupaten;2019;77.2;170;6
+531;11;Aceh;1117;Bener Meriah;Kabupaten;2019;56.73;359;3
+532;11;Aceh;1118;Pidie Jaya;Kabupaten;2019;76.81;179;6
+533;12;Sumatera Utara;1204;Nias;Kabupaten;2019;64.71;326;4
+534;12;Sumatera Utara;1213;Mandailing Natal;Kabupaten;2019;76.29;195;6
+535;12;Sumatera Utara;1203;Tapanuli Selatan;Kabupaten;2019;73.81;233;5
+536;12;Sumatera Utara;1201;Tapanuli Tengah;Kabupaten;2019;59.7;346;4
+537;12;Sumatera Utara;1202;Tapanuli Utara;Kabupaten;2019;65.83;323;4
+538;12;Sumatera Utara;1212;Toba Samosir;Kabupaten;2019;83.17;40;6
+539;12;Sumatera Utara;1210;Labuhan Batu;Kabupaten;2019;77.18;171;6
+540;12;Sumatera Utara;1209;Asahan;Kabupaten;2019;80.6;97;6
+541;12;Sumatera Utara;1208;Simalungun;Kabupaten;2019;72.29;252;5
+542;12;Sumatera Utara;1211;Dairi;Kabupaten;2019;81.49;75;6
+543;12;Sumatera Utara;1206;Karo;Kabupaten;2019;82.61;51;6
+544;12;Sumatera Utara;1207;Deli Serdang;Kabupaten;2019;66.75;318;4
+545;12;Sumatera Utara;1205;Langkat;Kabupaten;2019;75.99;199;6
+546;12;Sumatera Utara;1214;Nias Selatan;Kabupaten;2019;62.01;335;4
+547;12;Sumatera Utara;1216;Humbang Hasundutan;Kabupaten;2019;67.04;312;4
+548;12;Sumatera Utara;1215;Pakpak Bharat;Kabupaten;2019;74.7;224;5
+549;12;Sumatera Utara;1217;Samosir;Kabupaten;2019;73.65;237;5
+550;12;Sumatera Utara;1218;Serdang Bedagai;Kabupaten;2019;80.95;90;6
+551;12;Sumatera Utara;1219;Batu Bara;Kabupaten;2019;74.94;216;5
+552;12;Sumatera Utara;1220;Padang Lawas Utara;Kabupaten;2019;62.47;331;4
+553;12;Sumatera Utara;1221;Padang Lawas;Kabupaten;2019;66.93;313;4
+554;12;Sumatera Utara;1222;Labuhan Batu Selatan;Kabupaten;2019;51.02;373;2
+555;12;Sumatera Utara;1223;Labuhan Batu Utara;Kabupaten;2019;76.8;180;6
+556;12;Sumatera Utara;1224;Nias Utara;Kabupaten;2019;56.38;360;3
+557;12;Sumatera Utara;1225;Nias Barat;Kabupaten;2019;48.5;379;2
+558;13;Sumatera Barat;1309;Kepulauan Mentawai;Kabupaten;2019;79.28;122;6
+559;13;Sumatera Barat;1301;Pesisir Selatan;Kabupaten;2019;38.86;396;1
+560;13;Sumatera Barat;1302;Solok;Kabupaten;2019;82.77;48;6
+561;13;Sumatera Barat;1303;Sijunjung;Kabupaten;2019;78.6;142;6
+562;13;Sumatera Barat;1304;Tanah Datar;Kabupaten;2019;77.35;167;6
+563;13;Sumatera Barat;1305;Padang Pariaman;Kabupaten;2019;85.22;14;6
+564;13;Sumatera Barat;1306;Agam;Kabupaten;2019;79.06;127;6
+565;13;Sumatera Barat;1307;Limapuluh Koto;Kabupaten;2019;82.49;55;6
+566;13;Sumatera Barat;1308;Pasaman;Kabupaten;2019;79.4;120;6
+567;13;Sumatera Barat;1311;Solok Selatan;Kabupaten;2019;77.61;163;6
+568;13;Sumatera Barat;1310;Dharmas Raya;Kabupaten;2019;80.13;107;6
+569;13;Sumatera Barat;1312;Pasaman Barat;Kabupaten;2019;77.17;172;6
+570;14;Riau;1409;Kuantan Sengingi;Kabupaten;2019;71.42;263;5
+571;14;Riau;1402;Indragiri Hulu;Kabupaten;2019;60.14;345;4
+572;14;Riau;1404;Indragiri Hilir;Kabupaten;2019;68.62;300;5
+573;14;Riau;1405;Pelalawan;Kabupaten;2019;76.6;183;6
+574;14;Riau;1408;Siak;Kabupaten;2019;60.36;344;4
+575;14;Riau;1401;Kampar;Kabupaten;2019;76.48;189;6
+576;14;Riau;1406;Rokan Hulu;Kabupaten;2019;63.97;328;4
+577;14;Riau;1403;Bengkalis;Kabupaten;2019;67.08;311;4
+578;14;Riau;1407;Rokan Hilir;Kabupaten;2019;54.25;364;3
+579;14;Riau;1410;Kepulauan Meranti;Kabupaten;2019;52.07;369;3
+580;15;Jambi;1501;Kerinci;Kabupaten;2019;81.7;71;6
+581;15;Jambi;1502;Merangin;Kabupaten;2019;73.74;235;5
+582;15;Jambi;1503;Sarolangun;Kabupaten;2019;68.48;302;5
+583;15;Jambi;1504;Batang Hari;Kabupaten;2019;74.77;223;5
+584;15;Jambi;1505;Muaro Jambi;Kabupaten;2019;75.21;210;5
+585;15;Jambi;1507;Tanjung Jabung Timur;Kabupaten;2019;69.54;288;5
+586;15;Jambi;1506;Tanjung Jabung Barat;Kabupaten;2019;68.96;294;5
+587;15;Jambi;1509;Tebo;Kabupaten;2019;71.91;257;5
+588;15;Jambi;1508;Bungo;Kabupaten;2019;73.19;241;5
+589;16;Sumatera Selatan;1601;Ogan Komering Ulu;Kabupaten;2019;66.54;321;4
+590;16;Sumatera Selatan;1602;Ogan Komering Ilir;Kabupaten;2019;76.59;184;6
+591;16;Sumatera Selatan;1603;Muara Enim;Kabupaten;2019;72.84;248;5
+592;16;Sumatera Selatan;1604;Lahat;Kabupaten;2019;68.94;296;5
+593;16;Sumatera Selatan;1605;Musi Rawas;Kabupaten;2019;77.34;168;6
+594;16;Sumatera Selatan;1606;Musi Banyuasin;Kabupaten;2019;75.94;200;6
+595;16;Sumatera Selatan;1607;Banyuasin;Kabupaten;2019;77.71;159;6
+596;16;Sumatera Selatan;1609;Ogan Komering Ulu Selatan;Kabupaten;2019;80.49;99;6
+597;16;Sumatera Selatan;1608;Ogan Komering Ulu Timur;Kabupaten;2019;71.88;258;5
+598;16;Sumatera Selatan;1610;Ogan Ilir;Kabupaten;2019;74.88;220;5
+599;16;Sumatera Selatan;1611;Empat Lawang;Kabupaten;2019;66.75;317;4
+600;16;Sumatera Selatan;1612;Penukal Abab Lematang Ilir;Kabupaten;2019;71.72;260;5
+601;16;Sumatera Selatan;1613;Musi Rawas Utara;Kabupaten;2019;61.49;337;4
+602;17;Bengkulu;1701;Bengkulu Selatan;Kabupaten;2019;72.44;249;5
+603;17;Bengkulu;1702;Rejang Lebong;Kabupaten;2019;70.93;271;5
+604;17;Bengkulu;1703;Bengkulu Utara;Kabupaten;2019;66.85;316;4
+605;17;Bengkulu;1704;Kaur;Kabupaten;2019;70.06;281;5
+606;17;Bengkulu;1705;Seluma;Kabupaten;2019;67.55;309;4
+607;17;Bengkulu;1706;Mukomuko;Kabupaten;2019;70.84;273;5
+608;17;Bengkulu;1707;Lebong;Kabupaten;2019;72.19;254;5
+609;17;Bengkulu;1708;Kepahiang;Kabupaten;2019;72.36;251;5
+610;17;Bengkulu;1709;Bengkulu Tengah;Kabupaten;2019;73.03;245;5
+611;18;Lampung;1804;Lampung Barat;Kabupaten;2019;77.38;166;6
+612;18;Lampung;1806;Tanggamus;Kabupaten;2019;71.35;265;5
+613;18;Lampung;1801;Lampung Selatan;Kabupaten;2019;74.62;225;5
+614;18;Lampung;1807;Lampung Timur;Kabupaten;2019;72.37;250;5
+615;18;Lampung;1802;Lampung Tengah;Kabupaten;2019;76.55;188;6
+616;18;Lampung;1803;Lampung Utara;Kabupaten;2019;78.99;129;6
+617;18;Lampung;1808;Way Kanan;Kabupaten;2019;82.29;61;6
+618;18;Lampung;1805;Tulang Bawang;Kabupaten;2019;78.88;136;6
+619;18;Lampung;1809;Pesawaran;Kabupaten;2019;76.74;182;6
+620;18;Lampung;1810;Pringsewu;Kabupaten;2019;83.13;44;6
+621;18;Lampung;1811;Mesuji;Kabupaten;2019;81.78;69;6
+622;18;Lampung;1812;Tulang Bawang Barat;Kabupaten;2019;79.28;121;6
+623;18;Lampung;1813;Pesisir Barat;Kabupaten;2019;71.98;256;5
+624;19;Kepulauan Bangka Belitung;1901;Bangka;Kabupaten;2019;70.29;280;5
+625;19;Kepulauan Bangka Belitung;1902;Belitung;Kabupaten;2019;59.22;349;3
+626;19;Kepulauan Bangka Belitung;1905;Bangka Barat;Kabupaten;2019;66.52;322;4
+627;19;Kepulauan Bangka Belitung;1904;Bangka Tengah;Kabupaten;2019;57.6;354;3
+628;19;Kepulauan Bangka Belitung;1903;Bangka Selatan;Kabupaten;2019;62.07;334;4
+629;19;Kepulauan Bangka Belitung;1906;Belitung Timur;Kabupaten;2019;59.66;347;4
+630;21;Kepulauan Riau;2102;Karimun;Kabupaten;2019;55.35;362;3
+631;21;Kepulauan Riau;2101;Bintan;Kabupaten;2019;57.25;357;3
+632;21;Kepulauan Riau;2103;Natuna;Kabupaten;2019;57.26;356;3
+633;21;Kepulauan Riau;2104;Lingga;Kabupaten;2019;49.71;378;2
+634;21;Kepulauan Riau;2105;Kepulauan Anambas;Kabupaten;2019;50.39;375;2
+635;31;DKI Jakarta;3101;Kepulauan Seribu;Kabupaten;2019;53.29;365;3
+636;32;Jawa Barat;3201;Bogor;Kabupaten;2019;69.11;291;5
+637;32;Jawa Barat;3202;Sukabumi;Kabupaten;2019;74.5;228;5
+638;32;Jawa Barat;3203;Cianjur;Kabupaten;2019;75.86;201;6
+639;32;Jawa Barat;3204;Bandung;Kabupaten;2019;77.05;175;6
+640;32;Jawa Barat;3205;Garut;Kabupaten;2019;76.96;176;6
+641;32;Jawa Barat;3206;Tasikmalaya;Kabupaten;2019;74.11;231;5
+642;32;Jawa Barat;3207;Ciamis;Kabupaten;2019;79.91;112;6
+643;32;Jawa Barat;3208;Kuningan;Kabupaten;2019;80.61;96;6
+644;32;Jawa Barat;3209;Cirebon;Kabupaten;2019;78.88;135;6
+645;32;Jawa Barat;3210;Majalengka;Kabupaten;2019;79.52;118;6
+646;32;Jawa Barat;3211;Sumedang;Kabupaten;2019;81.73;70;6
+647;32;Jawa Barat;3212;Indramayu;Kabupaten;2019;81.59;73;6
+648;32;Jawa Barat;3213;Subang;Kabupaten;2019;81.81;68;6
+649;32;Jawa Barat;3214;Purwakarta;Kabupaten;2019;77.82;155;6
+650;32;Jawa Barat;3215;Karawang;Kabupaten;2019;83.61;35;6
+651;32;Jawa Barat;3216;Bekasi;Kabupaten;2019;85.01;17;6
+652;32;Jawa Barat;3217;Bandung Barat;Kabupaten;2019;75.14;212;5
+653;32;Jawa Barat;3218;Pangandaran;Kabupaten;2019;82.56;53;6
+654;33;Jawa Tengah;3301;Cilacap;Kabupaten;2019;82.45;58;6
+655;33;Jawa Tengah;3302;Banyumas;Kabupaten;2019;79.27;123;6
+656;33;Jawa Tengah;3303;Purbalingga;Kabupaten;2019;79.2;125;6
+657;33;Jawa Tengah;3304;Banjarnegara;Kabupaten;2019;76.43;191;6
+658;33;Jawa Tengah;3305;Kebumen;Kabupaten;2019;77.51;164;6
+659;33;Jawa Tengah;3306;Purworejo;Kabupaten;2019;82.6;52;6
+660;33;Jawa Tengah;3307;Wonosobo;Kabupaten;2019;78.94;133;6
+661;33;Jawa Tengah;3308;Magelang;Kabupaten;2019;79.51;119;6
+662;33;Jawa Tengah;3309;Boyolali;Kabupaten;2019;83.62;34;6
+663;33;Jawa Tengah;3310;Klaten;Kabupaten;2019;81.93;67;6
+664;33;Jawa Tengah;3311;Sukoharjo;Kabupaten;2019;87.89;4;6
+665;33;Jawa Tengah;3312;Wonogiri;Kabupaten;2019;86.55;5;6
+666;33;Jawa Tengah;3313;Karanganyar;Kabupaten;2019;86.16;10;6
+667;33;Jawa Tengah;3314;Sragen;Kabupaten;2019;84.52;21;6
+668;33;Jawa Tengah;3315;Grobogan;Kabupaten;2019;82.98;45;6
+669;33;Jawa Tengah;3316;Blora;Kabupaten;2019;84.1;27;6
+670;33;Jawa Tengah;3317;Rembang;Kabupaten;2019;83.7;33;6
+671;33;Jawa Tengah;3318;Pati;Kabupaten;2019;86.05;11;6
+672;33;Jawa Tengah;3319;Kudus;Kabupaten;2019;86.49;7;6
+673;33;Jawa Tengah;3320;Jepara;Kabupaten;2019;83.85;30;6
+674;33;Jawa Tengah;3321;Demak;Kabupaten;2019;85.91;13;6
+675;33;Jawa Tengah;3322;Semarang;Kabupaten;2019;85.94;12;6
+676;33;Jawa Tengah;3323;Temanggung;Kabupaten;2019;80.76;92;6
+677;33;Jawa Tengah;3324;Kendal;Kabupaten;2019;84.55;20;6
+678;33;Jawa Tengah;3325;Batang;Kabupaten;2019;83.16;43;6
+679;33;Jawa Tengah;3326;Pekalongan;Kabupaten;2019;70.92;272;5
+680;33;Jawa Tengah;3327;Pemalang;Kabupaten;2019;76.87;178;6
+681;33;Jawa Tengah;3328;Tegal;Kabupaten;2019;77.46;165;6
+682;33;Jawa Tengah;3329;Brebes;Kabupaten;2019;75.09;214;5
+683;34;DI Yogyakarta;3401;Kulon Progo;Kabupaten;2019;81.08;87;6
+684;34;DI Yogyakarta;3402;Bantul;Kabupaten;2019;79;128;6
+685;34;DI Yogyakarta;3403;Gunung Kidul;Kabupaten;2019;80.65;94;6
+686;34;DI Yogyakarta;3404;Sleman;Kabupaten;2019;83.34;39;6
+687;35;Jawa Timur;3501;Pacitan;Kabupaten;2019;80.01;110;6
+688;35;Jawa Timur;3502;Ponorogo;Kabupaten;2019;84.49;23;6
+689;35;Jawa Timur;3503;Trenggalek;Kabupaten;2019;77.08;174;6
+690;35;Jawa Timur;3504;Tulungagung;Kabupaten;2019;83.94;29;6
+691;35;Jawa Timur;3505;Blitar;Kabupaten;2019;81.46;77;6
+692;35;Jawa Timur;3506;Kediri;Kabupaten;2019;78.64;141;6
+693;35;Jawa Timur;3507;Malang;Kabupaten;2019;79.77;115;6
+694;35;Jawa Timur;3508;Lumajang;Kabupaten;2019;78.09;151;6
+695;35;Jawa Timur;3509;Jember;Kabupaten;2019;74.55;227;5
+696;35;Jawa Timur;3510;Banyuwangi;Kabupaten;2019;81.46;78;6
+697;35;Jawa Timur;3511;Bondowoso;Kabupaten;2019;73.07;244;5
+698;35;Jawa Timur;3512;Situbondo;Kabupaten;2019;75.34;207;5
+699;35;Jawa Timur;3513;Probolinggo;Kabupaten;2019;69.04;293;5
+700;35;Jawa Timur;3514;Pasuruan;Kabupaten;2019;76.57;186;6
+701;35;Jawa Timur;3515;Sidoarjo;Kabupaten;2019;82.05;65;6
+702;35;Jawa Timur;3516;Mojokerto;Kabupaten;2019;82.78;47;6
+703;35;Jawa Timur;3517;Jombang;Kabupaten;2019;82.18;63;6
+704;35;Jawa Timur;3518;Nganjuk;Kabupaten;2019;79.96;111;6
+705;35;Jawa Timur;3519;Madiun;Kabupaten;2019;82.45;57;6
+706;35;Jawa Timur;3520;Magetan;Kabupaten;2019;85.05;15;6
+707;35;Jawa Timur;3521;Ngawi;Kabupaten;2019;81.17;86;6
+708;35;Jawa Timur;3522;Bojonegoro;Kabupaten;2019;81.21;85;6
+709;35;Jawa Timur;3523;Tuban;Kabupaten;2019;81.45;79;6
+710;35;Jawa Timur;3524;Lamongan;Kabupaten;2019;84.8;18;6
+711;35;Jawa Timur;3525;Gresik;Kabupaten;2019;86.34;9;6
+712;35;Jawa Timur;3526;Bangkalan;Kabupaten;2019;71.12;268;5
+713;35;Jawa Timur;3527;Sampang;Kabupaten;2019;69.58;286;5
+714;35;Jawa Timur;3528;Pamekasan;Kabupaten;2019;71.1;269;5
+715;35;Jawa Timur;3529;Sumenep;Kabupaten;2019;74.9;218;5
+716;36;Banten;3601;Pandeglang;Kabupaten;2019;71.14;266;5
+717;36;Banten;3602;Lebak;Kabupaten;2019;71.67;261;5
+718;36;Banten;3603;Tangerang;Kabupaten;2019;75.54;202;5
+719;36;Banten;3604;Serang;Kabupaten;2019;77.95;153;6
+720;51;Bali;5101;Jembrana;Kabupaten;2019;81.22;84;6
+721;51;Bali;5102;Tabanan;Kabupaten;2019;90.05;1;6
+722;51;Bali;5103;Badung;Kabupaten;2019;89.01;3;6
+723;51;Bali;5104;Gianyar;Kabupaten;2019;89.76;2;6
+724;51;Bali;5105;Klungkung;Kabupaten;2019;80.33;100;6
+725;51;Bali;5106;Bangli;Kabupaten;2019;75.49;204;5
+726;51;Bali;5107;Karangasem;Kabupaten;2019;81.44;81;6
+727;51;Bali;5108;Buleleng;Kabupaten;2019;78.77;138;6
+728;52;Nusa Tenggara Barat;5201;Lombok Barat;Kabupaten;2019;70.75;274;5
+729;52;Nusa Tenggara Barat;5202;Lombok Tengah;Kabupaten;2019;75.26;209;5
+730;52;Nusa Tenggara Barat;5203;Lombok Timur;Kabupaten;2019;70.36;278;5
+731;52;Nusa Tenggara Barat;5204;Sumbawa;Kabupaten;2019;80.23;104;6
+732;52;Nusa Tenggara Barat;5205;Dompu;Kabupaten;2019;77.67;160;6
+733;52;Nusa Tenggara Barat;5206;Bima;Kabupaten;2019;75.45;206;5
+734;52;Nusa Tenggara Barat;5207;Sumbawa Barat;Kabupaten;2019;82.17;64;6
+735;52;Nusa Tenggara Barat;5208;Lombok Utara;Kabupaten;2019;66.63;320;4
+736;53;Nusa Tenggara Timur;5312;Sumba Barat;Kabupaten;2019;78.24;148;6
+737;53;Nusa Tenggara Timur;5311;Sumba Timur;Kabupaten;2019;67.76;308;5
+738;53;Nusa Tenggara Timur;5301;Kupang;Kabupaten;2019;64.67;327;4
+739;53;Nusa Tenggara Timur;5302;Timor Tengah Selatan;Kabupaten;2019;64.89;325;4
+740;53;Nusa Tenggara Timur;5303;Timor Tengah Utara;Kabupaten;2019;68.95;295;5
+741;53;Nusa Tenggara Timur;5304;Belu;Kabupaten;2019;60.97;340;4
+742;53;Nusa Tenggara Timur;5305;Alor;Kabupaten;2019;70.49;277;5
+743;53;Nusa Tenggara Timur;5313;Lembata;Kabupaten;2019;72.88;247;5
+744;53;Nusa Tenggara Timur;5306;Flores Timur;Kabupaten;2019;69.31;290;5
+745;53;Nusa Tenggara Timur;5307;Sikka;Kabupaten;2019;62.3;333;4
+746;53;Nusa Tenggara Timur;5308;Ende;Kabupaten;2019;67.48;310;4
+747;53;Nusa Tenggara Timur;5309;Ngada;Kabupaten;2019;75.11;213;5
+748;53;Nusa Tenggara Timur;5310;Manggarai;Kabupaten;2019;74.32;229;5
+749;53;Nusa Tenggara Timur;5314;Rote Ndao;Kabupaten;2019;69.4;289;5
+750;53;Nusa Tenggara Timur;5315;Manggarai Barat;Kabupaten;2019;74.61;226;5
+751;53;Nusa Tenggara Timur;5317;Sumba Tengah;Kabupaten;2019;55.89;361;3
+752;53;Nusa Tenggara Timur;5318;Sumba Barat Daya;Kabupaten;2019;77.82;156;6
+753;53;Nusa Tenggara Timur;5316;Nagekeo;Kabupaten;2019;60.98;339;4
+754;53;Nusa Tenggara Timur;5319;Manggarai Timur;Kabupaten;2019;62.44;332;4
+755;53;Nusa Tenggara Timur;5320;Sabu Raijua;Kabupaten;2019;49.8;377;2
+756;53;Nusa Tenggara Timur;5321;Malaka;Kabupaten;2019;68.94;297;5
+757;61;Kalimantan Barat;6101;Sambas;Kabupaten;2019;67.98;306;5
+758;61;Kalimantan Barat;6107;Bengkayang;Kabupaten;2019;60.93;341;4
+759;61;Kalimantan Barat;6108;Landak;Kabupaten;2019;67.94;307;5
+760;61;Kalimantan Barat;6102;Mempawah;Kabupaten;2019;75.52;203;5
+761;61;Kalimantan Barat;6103;Sanggau;Kabupaten;2019;70.99;270;5
+762;61;Kalimantan Barat;6104;Ketapang;Kabupaten;2019;71.84;259;5
+763;61;Kalimantan Barat;6105;Sintang;Kabupaten;2019;73.63;238;5
+764;61;Kalimantan Barat;6106;Kapuas Hulu;Kabupaten;2019;68.56;301;5
+765;61;Kalimantan Barat;6109;Sekadau;Kabupaten;2019;69.78;284;5
+766;61;Kalimantan Barat;6110;Melawai;Kabupaten;2019;44.99;387;2
+767;61;Kalimantan Barat;6111;Kayong Utara;Kabupaten;2019;71.13;267;5
+768;61;Kalimantan Barat;6112;Kubu Raya;Kabupaten;2019;69.56;287;5
+769;62;Kalimantan Tengah;6201;Kotawaringin Barat;Kabupaten;2019;62.97;330;4
+770;62;Kalimantan Tengah;6202;Kotawaringin Timur;Kabupaten;2019;76.42;192;6
+771;62;Kalimantan Tengah;6203;Kapuas;Kabupaten;2019;77.79;157;6
+772;62;Kalimantan Tengah;6204;Barito Selatan;Kabupaten;2019;68.46;303;5
+773;62;Kalimantan Tengah;6205;Barito Utara;Kabupaten;2019;82.31;60;6
+774;62;Kalimantan Tengah;6208;Sukamara;Kabupaten;2019;66.66;319;4
+775;62;Kalimantan Tengah;6209;Lamandau;Kabupaten;2019;76.89;177;6
+776;62;Kalimantan Tengah;6207;Seruyan;Kabupaten;2019;81.49;76;6
+777;62;Kalimantan Tengah;6206;Katingan;Kabupaten;2019;70.06;283;5
+778;62;Kalimantan Tengah;6211;Pulang Pisau;Kabupaten;2019;51.93;370;3
+779;62;Kalimantan Tengah;6210;Gunung Mas;Kabupaten;2019;80.02;109;6
+780;62;Kalimantan Tengah;6213;Barito Timur;Kabupaten;2019;47.73;383;2
+781;62;Kalimantan Tengah;6212;Murung Raya;Kabupaten;2019;76.23;196;6
+782;63;Kalimantan Selatan;6301;Tanah Laut;Kabupaten;2019;81;89;6
+783;63;Kalimantan Selatan;6302;Kota Baru;Kabupaten;2019;79.56;117;6
+784;63;Kalimantan Selatan;6303;Banjar;Kabupaten;2019;79.85;114;6
+785;63;Kalimantan Selatan;6304;Barito Kuala;Kabupaten;2019;79.87;113;6
+786;63;Kalimantan Selatan;6305;Tapin;Kabupaten;2019;83.16;41;6
+787;63;Kalimantan Selatan;6306;Hulu Sungai Selatan;Kabupaten;2019;77.33;169;6
+788;63;Kalimantan Selatan;6307;Hulu Sungai Tengah;Kabupaten;2019;78.66;140;6
+789;63;Kalimantan Selatan;6308;Hulu Sungai Utara;Kabupaten;2019;77.89;154;6
+790;63;Kalimantan Selatan;6309;Tabalong;Kabupaten;2019;80.2;106;6
+791;63;Kalimantan Selatan;6310;Tanah Bumbu;Kabupaten;2019;81.45;80;6
+792;63;Kalimantan Selatan;6311;Balangan;Kabupaten;2019;78.27;145;6
+793;64;Kalimantan Timur;6401;Paser;Kabupaten;2019;72.25;253;5
+794;64;Kalimantan Timur;6407;Kutai Barat;Kabupaten;2019;66.85;314;4
+795;64;Kalimantan Timur;6402;Kutai Kertanegara;Kabupaten;2019;66.85;314;4
+796;64;Kalimantan Timur;6408;Kutai Timur;Kabupaten;2019;57.58;355;3
+797;64;Kalimantan Timur;6403;Berau;Kabupaten;2019;84.51;22;6
+798;64;Kalimantan Timur;6409;Penajam Paser Utara;Kabupaten;2019;84.26;24;6
+799;64;Kalimantan Timur;6411;Mahakam Ulu;Kabupaten;2019;58.73;351;3
+800;65;Kalimantan Utara;6502;Malinau;Kabupaten;2019;80.28;102;6
+801;65;Kalimantan Utara;6501;Bulungan;Kabupaten;2019;77.11;173;6
+802;65;Kalimantan Utara;6504;Tana Tidung;Kabupaten;2019;78.73;139;6
+803;65;Kalimantan Utara;6503;Nunukan;Kabupaten;2019;73.11;243;5
+804;71;Sulawesi Utara;7101;Bolaang Mongondow;Kabupaten;2019;83.48;36;6
+805;71;Sulawesi Utara;7102;Minahasa;Kabupaten;2019;85.03;16;6
+806;71;Sulawesi Utara;7103;Kepulauan Sangihe;Kabupaten;2019;52.89;366;3
+807;71;Sulawesi Utara;7104;Kepulauan Talaud;Kabupaten;2019;76.11;197;6
+808;71;Sulawesi Utara;7105;Minahasa Selatan;Kabupaten;2019;80.78;91;6
+809;71;Sulawesi Utara;7106;Minahasa Utara;Kabupaten;2019;83.76;31;6
+810;71;Sulawesi Utara;7108;Bolaang Mongondow Utara;Kabupaten;2019;67.99;305;5
+811;71;Sulawesi Utara;7109;Kepulauan Siau Tagulandang Biaro;Kabupaten;2019;80.29;101;6
+812;71;Sulawesi Utara;7107;Minahasa Tenggara;Kabupaten;2019;80.12;108;6
+813;71;Sulawesi Utara;7111;Bolaang Mongondow Selatan;Kabupaten;2019;80.28;103;6
+814;71;Sulawesi Utara;7110;Bolaang Mongondow Timur;Kabupaten;2019;75.19;211;5
+815;72;Sulawesi Tengah;7207;Banggai Kepulauan;Kabupaten;2019;79.09;126;6
+816;72;Sulawesi Tengah;7201;Banggai;Kabupaten;2019;58.17;352;3
+817;72;Sulawesi Tengah;7206;Morowali;Kabupaten;2019;77.63;162;6
+818;72;Sulawesi Tengah;7202;Poso;Kabupaten;2019;83.75;32;6
+819;72;Sulawesi Tengah;7203;Donggala;Kabupaten;2019;81.26;83;6
+820;72;Sulawesi Tengah;7204;Toli-Toli;Kabupaten;2019;82.56;54;6
+821;72;Sulawesi Tengah;7205;Buol;Kabupaten;2019;72.14;255;5
+822;72;Sulawesi Tengah;7208;Parigi Moutong;Kabupaten;2019;73.6;239;5
+823;72;Sulawesi Tengah;7209;Tojo Una-Una;Kabupaten;2019;74.87;221;5
+824;72;Sulawesi Tengah;7210;Sigi;Kabupaten;2019;76.56;187;6
+825;72;Sulawesi Tengah;7211;Banggai Laut;Kabupaten;2019;50.24;376;2
+826;72;Sulawesi Tengah;7212;Morowali Utara;Kabupaten;2019;78.47;143;6
+827;73;Sulawesi Selatan;7301;Selayar;Kabupaten;2019;63.6;329;4
+828;73;Sulawesi Selatan;7302;Bulukumba;Kabupaten;2019;82.73;49;6
+829;73;Sulawesi Selatan;7303;Bantaeng;Kabupaten;2019;86.53;6;6
+830;73;Sulawesi Selatan;7304;Jeneponto;Kabupaten;2019;80.59;98;6
+831;73;Sulawesi Selatan;7305;Takalar;Kabupaten;2019;82.49;56;6
+832;73;Sulawesi Selatan;7306;Gowa;Kabupaten;2019;84.04;28;6
+833;73;Sulawesi Selatan;7307;Sinjai;Kabupaten;2019;80.67;93;6
+834;73;Sulawesi Selatan;7309;Maros;Kabupaten;2019;75.49;205;5
+835;73;Sulawesi Selatan;7310;Pangkajene dan Kepulauan;Kabupaten;2019;84.22;26;6
+836;73;Sulawesi Selatan;7311;Barru;Kabupaten;2019;82.29;62;6
+837;73;Sulawesi Selatan;7308;Bone;Kabupaten;2019;82.84;46;6
+838;73;Sulawesi Selatan;7312;Soppeng;Kabupaten;2019;83.39;37;6
+839;73;Sulawesi Selatan;7313;Wajo;Kabupaten;2019;83.37;38;6
+840;73;Sulawesi Selatan;7314;Sidenreng Rappang;Kabupaten;2019;84.64;19;6
+841;73;Sulawesi Selatan;7315;Pinrang;Kabupaten;2019;82.03;66;6
+842;73;Sulawesi Selatan;7316;Enrekang;Kabupaten;2019;78.42;144;6
+843;73;Sulawesi Selatan;7317;Luwu;Kabupaten;2019;80.23;105;6
+844;73;Sulawesi Selatan;7318;Tana Toraja;Kabupaten;2019;76.59;185;6
+845;73;Sulawesi Selatan;7322;Luwu Utara;Kabupaten;2019;78.98;130;6
+846;73;Sulawesi Selatan;7324;Luwu Timur;Kabupaten;2019;84.25;25;6
+847;73;Sulawesi Selatan;7326;Toraja Utara;Kabupaten;2019;78.8;137;6
+848;74;Sulawesi Tenggara;7404;Buton;Kabupaten;2019;81.38;82;6
+849;74;Sulawesi Tenggara;7403;Muna;Kabupaten;2019;83.16;42;6
+850;74;Sulawesi Tenggara;7402;Konawe;Kabupaten;2019;76.07;198;6
+851;74;Sulawesi Tenggara;7401;Kolaka;Kabupaten;2019;78.2;149;6
+852;74;Sulawesi Tenggara;7405;Konawe Selatan;Kabupaten;2019;81.53;74;6
+853;74;Sulawesi Tenggara;7406;Bombana;Kabupaten;2019;81.02;88;6
+854;74;Sulawesi Tenggara;7407;Wakatobi;Kabupaten;2019;79.76;116;6
+855;74;Sulawesi Tenggara;7408;Kolaka Utara;Kabupaten;2019;72.98;246;5
+856;74;Sulawesi Tenggara;7410;Buton Utara;Kabupaten;2019;74.92;217;5
+857;74;Sulawesi Tenggara;7409;Konawe Utara;Kabupaten;2019;70.34;279;5
+858;74;Sulawesi Tenggara;7411;Kolaka Timur;Kabupaten;2019;86.47;8;6
+859;74;Sulawesi Tenggara;7412;Konawe Kepulauan;Kabupaten;2019;57.2;358;3
+860;74;Sulawesi Tenggara;7413;Muna Barat;Kabupaten;2019;79.2;124;6
+861;74;Sulawesi Tenggara;7414;Buton Tengah;Kabupaten;2019;76.35;193;6
+862;74;Sulawesi Tenggara;7415;Buton Selatan;Kabupaten;2019;68.12;304;5
+863;75;Gorontalo;7502;Boalemo;Kabupaten;2019;78.89;134;6
+864;75;Gorontalo;7501;Gorontalo;Kabupaten;2019;76.43;190;6
+865;75;Gorontalo;7504;Pohuwato;Kabupaten;2019;77.63;161;6
+866;75;Gorontalo;7503;Bone Bolango;Kabupaten;2019;80.65;95;6
+867;75;Gorontalo;7505;Gorontalo Utara;Kabupaten;2019;77.73;158;6
+868;76;Sulawesi Barat;7605;Majene;Kabupaten;2019;82.68;50;6
+869;76;Sulawesi Barat;7604;Polewali Mandar;Kabupaten;2019;77.97;152;6
+870;76;Sulawesi Barat;7603;Mamasa;Kabupaten;2019;71.38;264;5
+871;76;Sulawesi Barat;7602;Mamuju;Kabupaten;2019;73.11;242;5
+872;76;Sulawesi Barat;7601;Mamuju Utara;Kabupaten;2019;58.14;353;3
+873;76;Sulawesi Barat;7606;Mamuju Tengah;Kabupaten;2019;78.97;131;6
+874;81;Maluku;8103;Kepulauan Tanimbar;Kabupaten;2019;65.12;324;4
+875;81;Maluku;8102;Maluku Tenggara;Kabupaten;2019;61.91;336;4
+876;81;Maluku;8101;Maluku Tengah;Kabupaten;2019;52.68;367;3
+877;81;Maluku;8104;Buru;Kabupaten;2019;78.97;132;6
+878;81;Maluku;8107;Kepulauan Aru;Kabupaten;2019;52.16;368;3
+879;81;Maluku;8106;Seram Bagian Barat;Kabupaten;2019;60.5;343;4
+880;81;Maluku;8105;Seram Bagian Timur;Kabupaten;2019;40.1;395;1
+881;81;Maluku;8108;Maluku Barat Daya;Kabupaten;2019;59.18;350;3
+882;81;Maluku;8109;Buru Selatan;Kabupaten;2019;59.28;348;3
+883;82;Maluku Utara;8201;Halmahera Barat;Kabupaten;2019;69.1;292;5
+884;82;Maluku Utara;8202;Halmahera Tengah;Kabupaten;2019;71.52;262;5
+885;82;Maluku Utara;8205;Kepulauan Sula;Kabupaten;2019;82.42;59;6
+886;82;Maluku Utara;8204;Halmahera Selatan;Kabupaten;2019;69.64;285;5
+887;82;Maluku Utara;8203;Halmahera Utara;Kabupaten;2019;54.96;363;3
+888;82;Maluku Utara;8206;Halmahera Timur;Kabupaten;2019;74.84;222;5
+889;82;Maluku Utara;8207;Pulau Morotai;Kabupaten;2019;78.17;150;6
+890;82;Maluku Utara;8208;Pulau Taliabu;Kabupaten;2019;44.16;388;2
+891;92;Papua Barat;9203;Fak-Fak;Kabupaten;2019;47.74;382;2
+892;92;Papua Barat;9208;Kaimana;Kabupaten;2019;46.4;385;2
+893;92;Papua Barat;9207;Teluk Wondama;Kabupaten;2019;27.34;404;1
+894;92;Papua Barat;9206;Teluk Bintuni;Kabupaten;2019;41.47;393;1
+895;92;Papua Barat;9202;Manokwari;Kabupaten;2019;68.8;298;5
+896;92;Papua Barat;9204;Sorong Selatan;Kabupaten;2019;41.9;391;2
+897;92;Papua Barat;9201;Sorong;Kabupaten;2019;60.64;342;4
+898;92;Papua Barat;9205;Raja Ampat;Kabupaten;2019;44.02;390;2
+899;92;Papua Barat;9209;Tambrauw;Kabupaten;2019;35.14;400;1
+900;92;Papua Barat;9210;Maybrat;Kabupaten;2019;48.12;380;2
+901;92;Papua Barat;9211;Manokwari Selatan;Kabupaten;2019;36.33;397;1
+902;92;Papua Barat;9212;Pegunungan Arfak;Kabupaten;2019;23.4;407;1
+903;91;Papua;9301;Merauke;Kabupaten;2019;78.25;146;6
+904;91;Papua;9501;Jayawijaya;Kabupaten;2019;51.72;371;3
+905;91;Papua;9103;Jayapura;Kabupaten;2019;27.34;404;1
+906;91;Papua;9401;Nabire;Kabupaten;2019;78.25;146;6
+907;91;Papua;9105;Kepulauan Yapen;Kabupaten;2019;68.8;298;5
+908;91;Papua;9106;Biak Namfor;Kabupaten;2019;41.9;391;2
+909;91;Papua;9403;Paniai;Kabupaten;2019;50.66;374;2
+910;91;Papua;9402;Puncak Jaya;Kabupaten;2019;51.72;371;3
+911;91;Papua;9404;Mimika;Kabupaten;2019;61.12;338;4
+912;91;Papua;9302;Boven Digoel;Kabupaten;2019;44.13;389;2
+913;91;Papua;9303;Mappi;Kabupaten;2019;28.03;403;1
+914;91;Papua;9304;Asmat;Kabupaten;2019;22.85;408;1
+915;91;Papua;9503;Yahukimo;Kabupaten;2019;16.99;412;1
+916;91;Papua;9502;Pegunungan Bintang;Kabupaten;2019;41.34;394;1
+917;91;Papua;9504;Tolikara;Kabupaten;2019;24.98;406;1
+918;91;Papua;9110;Sarmi;Kabupaten;2019;48.12;380;2
+919;91;Papua;9111;Keerom;Kabupaten;2019;36.33;397;1
+920;91;Papua;9115;Waropen;Kabupaten;2019;35.45;399;1
+921;91;Papua;9119;Supiori;Kabupaten;2019;34.01;401;1
+922;91;Papua;9120;Mamberamo Raya;Kabupaten;2019;18.45;411;1
+923;91;Papua;9508;Nduga;Kabupaten;2019;10.56;416;1
+924;91;Papua;9507;Lanny Jaya;Kabupaten;2019;20.64;410;1
+925;91;Papua;9505;Mamberamo Tengah;Kabupaten;2019;16.34;414;1
+926;91;Papua;9506;Yalimo;Kabupaten;2019;28.67;402;1
+927;91;Papua;9405;Puncak;Kabupaten;2019;12.26;415;1
+928;91;Papua;9406;Dogiyai;Kabupaten;2019;22.6;409;1
+929;91;Papua;9407;Intan Jaya;Kabupaten;2019;16.62;413;1
+930;91;Papua;9408;Deiyai;Kabupaten;2019;47.61;384;2
+931;11;Aceh;1171;Kota Banda Aceh;Kota;2019;84.79;19;6
+932;11;Aceh;1172;Kota Sabang;Kota;2019;68.85;71;5
+933;11;Aceh;1174;Kota Langsa;Kota;2019;71.33;65;6
+934;11;Aceh;1173;Kota Lhokseumawe;Kota;2019;71.95;64;6
+935;11;Aceh;1175;Kota Subulussalam;Kota;2019;17.4;98;1
+936;12;Sumatera Utara;1273;Kota Sibolga;Kota;2019;76.45;48;6
+937;12;Sumatera Utara;1274;Kota Tanjung Balai;Kota;2019;66.16;76;5
+938;12;Sumatera Utara;1272;Kota Pematang Siantar;Kota;2019;52.19;93;4
+939;12;Sumatera Utara;1276;Kota Tebing Tinggi;Kota;2019;78.33;43;6
+940;12;Sumatera Utara;1271;Kota Medan;Kota;2019;65.23;81;5
+941;12;Sumatera Utara;1275;Kota Binjai;Kota;2019;80.91;33;6
+942;12;Sumatera Utara;1277;Kota Padang Sidimpuan;Kota;2019;59.75;90;4
+943;12;Sumatera Utara;1278;Kota Gunungsitoli;Kota;2019;37.46;97;2
+944;13;Sumatera Barat;1371;Kota Padang;Kota;2019;83.33;25;6
+945;13;Sumatera Barat;1372;Kota Solok;Kota;2019;85.4;12;6
+946;13;Sumatera Barat;1373;Kota Sawah Lunto;Kota;2019;65.89;77;5
+947;13;Sumatera Barat;1374;Kota Padang Panjang;Kota;2019;80.01;39;6
+948;13;Sumatera Barat;1375;Kota Bukittinggi;Kota;2019;88.02;4;6
+949;13;Sumatera Barat;1376;Kota Payakumbuh;Kota;2019;80.66;35;6
+950;13;Sumatera Barat;1377;Kota Pariaman;Kota;2019;71.04;67;6
+951;14;Riau;1471;Kota Pekanbaru;Kota;2019;85.38;13;6
+952;14;Riau;1472;Kota Dumai;Kota;2019;69.95;69;5
+953;15;Jambi;1571;Kota Jambi;Kota;2019;75.74;50;6
+954;15;Jambi;1572;Kota Sungai Penuh;Kota;2019;68.37;72;5
+955;16;Sumatera Selatan;1671;Kota Palembang;Kota;2019;74.36;54;6
+956;16;Sumatera Selatan;1674;Kota Prabumulih;Kota;2019;51.06;94;3
+957;16;Sumatera Selatan;1672;Kota Pagar Alam;Kota;2019;63.21;86;5
+958;16;Sumatera Selatan;1673;Kota Lubuklinggau;Kota;2019;41.64;96;3
+959;17;Bengkulu;1771;Kota Bengkulu;Kota;2019;66.48;75;5
+960;18;Lampung;1871;Kota Bandar Lampung;Kota;2019;73.49;58;6
+961;18;Lampung;1872;Kota Metro;Kota;2019;75.85;49;6
+962;19;Kepulauan Bangka Belitung;1971;Kota Pangkal Pinang;Kota;2019;85.37;14;6
+963;21;Kepulauan Riau;2171;Kota Batam;Kota;2019;82.14;30;6
+964;21;Kepulauan Riau;2172;Kota Tanjung Pinang;Kota;2019;74.81;52;6
+965;31;DKI Jakarta;3174;Kota Jakarta Selatan;Kota;2019;86.42;9;6
+966;31;DKI Jakarta;3175;Kota Jakarta Timur;Kota;2019;84.19;21;6
+967;31;DKI Jakarta;3171;Kota Jakarta Pusat;Kota;2019;88.56;3;6
+968;31;DKI Jakarta;3173;Kota Jakarta Barat;Kota;2019;87.1;6;6
+969;31;DKI Jakarta;3172;Kota Jakarta Utara;Kota;2019;87.31;5;6
+970;32;Jawa Barat;3271;Kota Bogor;Kota;2019;74.07;56;6
+971;32;Jawa Barat;3272;Kota Sukabumi;Kota;2019;65.78;79;5
+972;32;Jawa Barat;3273;Kota Bandung;Kota;2019;86.87;7;6
+973;32;Jawa Barat;3274;Kota Cirebon;Kota;2019;72.32;61;6
+974;32;Jawa Barat;3275;Kota Bekasi;Kota;2019;86.85;8;6
+975;32;Jawa Barat;3276;Kota Depok;Kota;2019;83.67;23;6
+976;32;Jawa Barat;3277;Kota Cimahi;Kota;2019;80.68;34;6
+977;32;Jawa Barat;3278;Kota Tasikmalaya;Kota;2019;58.14;91;4
+978;32;Jawa Barat;3279;Kota Banjar;Kota;2019;61.66;87;5
+979;33;Jawa Tengah;3371;Kota Magelang;Kota;2019;79.28;41;6
+980;33;Jawa Tengah;3372;Kota Surakarta;Kota;2019;76.66;47;6
+981;33;Jawa Tengah;3373;Kota Salatiga;Kota;2019;84.79;20;6
+982;33;Jawa Tengah;3374;Kota Semarang;Kota;2019;86.4;10;6
+983;33;Jawa Tengah;3375;Kota Pekalongan;Kota;2019;64.69;84;5
+984;33;Jawa Tengah;3376;Kota Tegal;Kota;2019;80.18;38;6
+985;34;DI Yogyakarta;3471;Kota Yogyakarta;Kota;2019;82.8;26;6
+986;35;Jawa Timur;3571;Kota Kediri;Kota;2019;67.94;73;5
+987;35;Jawa Timur;3572;Kota Blitar;Kota;2019;72.18;62;6
+988;35;Jawa Timur;3573;Kota Malang;Kota;2019;82.36;29;6
+989;35;Jawa Timur;3574;Kota Probolinggo;Kota;2019;71.26;66;6
+990;35;Jawa Timur;3575;Kota Pasuruan;Kota;2019;65.71;80;5
+991;35;Jawa Timur;3576;Kota Mojokerto;Kota;2019;78.19;44;6
+992;35;Jawa Timur;3577;Kota Madiun;Kota;2019;82.53;28;6
+993;35;Jawa Timur;3578;Kota Surabaya;Kota;2019;81.67;31;6
+994;35;Jawa Timur;3579;Kota Batu;Kota;2019;74.3;55;6
+995;36;Banten;3671;Kota Tangerang;Kota;2019;81.53;32;6
+996;36;Banten;3672;Kota Cilegon;Kota;2019;73.78;57;6
+997;36;Banten;3673;Kota Serang;Kota;2019;61.4;88;5
+998;36;Banten;3674;Kota Tangerang Selatan;Kota;2019;86.39;11;6
+999;51;Bali;5171;Kota Denpasar;Kota;2019;89.84;1;6
+1000;52;Nusa Tenggara Barat;5271;Kota Mataram;Kota;2019;73.44;59;6
+1001;52;Nusa Tenggara Barat;5272;Kota Bima;Kota;2019;63.52;85;5
+1002;53;Nusa Tenggara Timur;5371;Kota Kupang;Kota;2019;73.24;60;6
+1003;61;Kalimantan Barat;6171;Kota Pontianak;Kota;2019;65.83;78;5
+1004;61;Kalimantan Barat;6172;Kota Singkawang;Kota;2019;55.98;92;4
+1005;62;Kalimantan Tengah;6271;Kota Palangka Raya;Kota;2019;78.16;45;6
+1006;63;Kalimantan Selatan;6371;Kota Banjarmasin;Kota;2019;80.21;37;6
+1007;63;Kalimantan Selatan;6372;Kota Banjar Baru;Kota;2019;67.06;74;5
+1008;64;Kalimantan Timur;6471;Kota Balikpapan;Kota;2019;88.74;2;6
+1009;64;Kalimantan Timur;6472;Kota Samarinda;Kota;2019;85.19;16;6
+1010;64;Kalimantan Timur;6474;Kota Bontang;Kota;2019;85.34;15;6
+1011;65;Kalimantan Utara;6571;Kota Tarakan;Kota;2019;80.44;36;6
+1012;71;Sulawesi Utara;7171;Kota Manado;Kota;2019;83.68;22;6
+1013;71;Sulawesi Utara;7172;Kota Bitung;Kota;2019;69.35;70;5
+1014;71;Sulawesi Utara;7173;Kota Tomohon;Kota;2019;77.81;46;6
+1015;71;Sulawesi Utara;7174;Kota Kotamobago;Kota;2019;75.54;51;6
+1016;72;Sulawesi Tengah;7271;Kota Palu;Kota;2019;78.43;42;6
+1017;73;Sulawesi Selatan;7371;Kota Makasar;Kota;2019;83.54;24;6
+1018;73;Sulawesi Selatan;7372;Kota Pare-Pare;Kota;2019;79.4;40;6
+1019;73;Sulawesi Selatan;7373;Kota Palopo;Kota;2019;72.14;63;6
+1020;74;Sulawesi Tenggara;7471;Kota Kendari;Kota;2019;85.11;17;6
+1021;74;Sulawesi Tenggara;7472;Kota Bau-Bau;Kota;2019;70.9;68;6
+1022;75;Gorontalo;7571;Kota Gorontalo;Kota;2019;82.62;27;6
+1023;81;Maluku;8171;Kota Ambon;Kota;2019;74.53;53;6
+1024;81;Maluku;8172;Kota Tual;Kota;2019;42.72;95;3
+1025;82;Maluku Utara;8271;Kota Ternate;Kota;2019;84.89;18;6
+1026;82;Maluku Utara;8272;Kota Tidore Kepulauan;Kota;2019;59.95;89;4
+1027;91;Papua Barat;9271;Kota Sorong;Kota;2019;65.12;82;5
+1028;94;Papua;9171;Kota Jayapura;Kota;2019;65.12;82;5
+1029;11;Aceh;1109;Simeulue;Kabupaten;2020;72.43;267;5
+1030;11;Aceh;1110;Aceh Singkil;Kabupaten;2020;53.14;371;3
+1031;11;Aceh;1101;Aceh Selatan;Kabupaten;2020;71.92;271;5
+1032;11;Aceh;1102;Aceh Tenggara;Kabupaten;2020;73.95;242;5
+1033;11;Aceh;1103;Aceh Timur;Kabupaten;2020;74.1;238;5
+1034;11;Aceh;1104;Aceh Tengah;Kabupaten;2020;71.07;276;5
+1035;11;Aceh;1105;Aceh Barat;Kabupaten;2020;78.61;165;6
+1036;11;Aceh;1106;Aceh Besar;Kabupaten;2020;83.99;48;6
+1037;11;Aceh;1107;Pidie;Kabupaten;2020;74.57;229;5
+1038;11;Aceh;1111;Bireuen;Kabupaten;2020;79.43;149;6
+1039;11;Aceh;1108;Aceh Utara;Kabupaten;2020;76.2;208;6
+1040;11;Aceh;1112;Aceh Barat Daya;Kabupaten;2020;76.6;205;6
+1041;11;Aceh;1113;Gayo Lues;Kabupaten;2020;74.68;226;5
+1042;11;Aceh;1116;Aceh Tamiang;Kabupaten;2020;78.99;159;6
+1043;11;Aceh;1115;Nagan Raya;Kabupaten;2020;75;221;5
+1044;11;Aceh;1114;Aceh Jaya;Kabupaten;2020;79.42;150;6
+1045;11;Aceh;1117;Bener Meriah;Kabupaten;2020;49.6;376;2
+1046;11;Aceh;1118;Pidie Jaya;Kabupaten;2020;77.66;187;6
+1047;12;Sumatera Utara;1204;Nias;Kabupaten;2020;62.84;339;4
+1048;12;Sumatera Utara;1213;Mandailing Natal;Kabupaten;2020;68.37;301;5
+1049;12;Sumatera Utara;1203;Tapanuli Selatan;Kabupaten;2020;74.81;224;5
+1050;12;Sumatera Utara;1201;Tapanuli Tengah;Kabupaten;2020;70.13;288;5
+1051;12;Sumatera Utara;1202;Tapanuli Utara;Kabupaten;2020;77.84;183;6
+1052;12;Sumatera Utara;1212;Toba Samosir;Kabupaten;2020;80.8;113;6
+1053;12;Sumatera Utara;1210;Labuhan Batu;Kabupaten;2020;77.75;186;6
+1054;12;Sumatera Utara;1209;Asahan;Kabupaten;2020;73.11;256;5
+1055;12;Sumatera Utara;1208;Simalungun;Kabupaten;2020;80.34;121;6
+1056;12;Sumatera Utara;1211;Dairi;Kabupaten;2020;77.86;181;6
+1057;12;Sumatera Utara;1206;Karo;Kabupaten;2020;83.37;64;6
+1058;12;Sumatera Utara;1207;Deli Serdang;Kabupaten;2020;84.3;41;6
+1059;12;Sumatera Utara;1205;Langkat;Kabupaten;2020;78.4;170;6
+1060;12;Sumatera Utara;1214;Nias Selatan;Kabupaten;2020;65.62;328;4
+1061;12;Sumatera Utara;1216;Humbang Hasundutan;Kabupaten;2020;77.29;197;6
+1062;12;Sumatera Utara;1215;Pakpak Bharat;Kabupaten;2020;71.65;273;5
+1063;12;Sumatera Utara;1217;Samosir;Kabupaten;2020;75.92;213;6
+1064;12;Sumatera Utara;1218;Serdang Bedagai;Kabupaten;2020;83.03;70;6
+1065;12;Sumatera Utara;1219;Batu Bara;Kabupaten;2020;76.57;206;6
+1066;12;Sumatera Utara;1220;Padang Lawas Utara;Kabupaten;2020;67.99;307;5
+1067;12;Sumatera Utara;1221;Padang Lawas;Kabupaten;2020;69.83;290;5
+1068;12;Sumatera Utara;1222;Labuhan Batu Selatan;Kabupaten;2020;54.78;364;3
+1069;12;Sumatera Utara;1223;Labuhan Batu Utara;Kabupaten;2020;73.09;257;5
+1070;12;Sumatera Utara;1224;Nias Utara;Kabupaten;2020;68.1;306;5
+1071;12;Sumatera Utara;1225;Nias Barat;Kabupaten;2020;56.49;358;3
+1072;13;Sumatera Barat;1309;Kepulauan Mentawai;Kabupaten;2020;46.67;382;2
+1073;13;Sumatera Barat;1301;Pesisir Selatan;Kabupaten;2020;84.65;37;6
+1074;13;Sumatera Barat;1302;Solok;Kabupaten;2020;79.57;145;6
+1075;13;Sumatera Barat;1303;Sijunjung;Kabupaten;2020;77.85;182;6
+1076;13;Sumatera Barat;1304;Tanah Datar;Kabupaten;2020;84.88;35;6
+1077;13;Sumatera Barat;1305;Padang Pariaman;Kabupaten;2020;80.99;111;6
+1078;13;Sumatera Barat;1306;Agam;Kabupaten;2020;84.1;45;6
+1079;13;Sumatera Barat;1307;Limapuluh Koto;Kabupaten;2020;80.42;117;6
+1080;13;Sumatera Barat;1308;Pasaman;Kabupaten;2020;79.73;141;6
+1081;13;Sumatera Barat;1311;Solok Selatan;Kabupaten;2020;81;110;6
+1082;13;Sumatera Barat;1310;Dharmas Raya;Kabupaten;2020;78.13;178;6
+1083;13;Sumatera Barat;1312;Pasaman Barat;Kabupaten;2020;78.35;171;6
+1084;14;Riau;1409;Kuantan Sengingi;Kabupaten;2020;67.85;308;5
+1085;14;Riau;1402;Indragiri Hulu;Kabupaten;2020;66.58;319;4
+1086;14;Riau;1404;Indragiri Hilir;Kabupaten;2020;67.48;312;4
+1087;14;Riau;1405;Pelalawan;Kabupaten;2020;60.51;346;4
+1088;14;Riau;1408;Siak;Kabupaten;2020;77.12;199;6
+1089;14;Riau;1401;Kampar;Kabupaten;2020;55.51;362;3
+1090;14;Riau;1406;Rokan Hulu;Kabupaten;2020;53.24;370;3
+1091;14;Riau;1403;Bengkalis;Kabupaten;2020;65.95;324;4
+1092;14;Riau;1407;Rokan Hilir;Kabupaten;2020;66.63;318;4
+1093;14;Riau;1410;Kepulauan Meranti;Kabupaten;2020;37.58;394;1
+1094;15;Jambi;1501;Kerinci;Kabupaten;2020;81.46;98;6
+1095;15;Jambi;1502;Merangin;Kabupaten;2020;72.79;261;5
+1096;15;Jambi;1503;Sarolangun;Kabupaten;2020;68.33;302;5
+1097;15;Jambi;1504;Batang Hari;Kabupaten;2020;65.53;330;4
+1098;15;Jambi;1505;Muaro Jambi;Kabupaten;2020;60.53;345;4
+1099;15;Jambi;1507;Tanjung Jabung Timur;Kabupaten;2020;69.79;292;5
+1100;15;Jambi;1506;Tanjung Jabung Barat;Kabupaten;2020;66.92;315;4
+1101;15;Jambi;1509;Tebo;Kabupaten;2020;68.33;303;5
+1102;15;Jambi;1508;Bungo;Kabupaten;2020;69.06;296;5
+1103;16;Sumatera Selatan;1601;Ogan Komering Ulu;Kabupaten;2020;74.23;235;5
+1104;16;Sumatera Selatan;1602;Ogan Komering Ilir;Kabupaten;2020;76.12;210;6
+1105;16;Sumatera Selatan;1603;Muara Enim;Kabupaten;2020;72.7;262;5
+1106;16;Sumatera Selatan;1604;Lahat;Kabupaten;2020;70.55;285;5
+1107;16;Sumatera Selatan;1605;Musi Rawas;Kabupaten;2020;77.53;193;6
+1108;16;Sumatera Selatan;1606;Musi Banyuasin;Kabupaten;2020;75.03;220;5
+1109;16;Sumatera Selatan;1607;Banyuasin;Kabupaten;2020;77.9;179;6
+1110;16;Sumatera Selatan;1609;Ogan Komering Ulu Selatan;Kabupaten;2020;73.86;244;5
+1111;16;Sumatera Selatan;1608;Ogan Komering Ulu Timur;Kabupaten;2020;81.22;104;6
+1112;16;Sumatera Selatan;1610;Ogan Ilir;Kabupaten;2020;73.83;245;5
+1113;16;Sumatera Selatan;1611;Empat Lawang;Kabupaten;2020;65.75;327;4
+1114;16;Sumatera Selatan;1612;Penukal Abab Lematang Ilir;Kabupaten;2020;70.18;287;5
+1115;16;Sumatera Selatan;1613;Musi Rawas Utara;Kabupaten;2020;49.7;375;2
+1116;17;Bengkulu;1701;Bengkulu Selatan;Kabupaten;2020;74.54;230;5
+1117;17;Bengkulu;1702;Rejang Lebong;Kabupaten;2020;70.64;284;5
+1118;17;Bengkulu;1703;Bengkulu Utara;Kabupaten;2020;68.15;305;5
+1119;17;Bengkulu;1704;Kaur;Kabupaten;2020;70.68;282;5
+1120;17;Bengkulu;1705;Seluma;Kabupaten;2020;67.72;310;4
+1121;17;Bengkulu;1706;Mukomuko;Kabupaten;2020;71.46;275;5
+1122;17;Bengkulu;1707;Lebong;Kabupaten;2020;76.09;211;6
+1123;17;Bengkulu;1708;Kepahiang;Kabupaten;2020;68.99;297;5
+1124;17;Bengkulu;1709;Bengkulu Tengah;Kabupaten;2020;67.24;314;4
+1125;18;Lampung;1804;Lampung Barat;Kabupaten;2020;74.02;240;5
+1126;18;Lampung;1806;Tanggamus;Kabupaten;2020;74.67;227;5
+1127;18;Lampung;1801;Lampung Selatan;Kabupaten;2020;79.23;153;6
+1128;18;Lampung;1807;Lampung Timur;Kabupaten;2020;79.5;148;6
+1129;18;Lampung;1802;Lampung Tengah;Kabupaten;2020;79.83;140;6
+1130;18;Lampung;1803;Lampung Utara;Kabupaten;2020;71.51;274;5
+1131;18;Lampung;1808;Way Kanan;Kabupaten;2020;73.34;252;5
+1132;18;Lampung;1805;Tulang Bawang;Kabupaten;2020;82.83;77;6
+1133;18;Lampung;1809;Pesawaran;Kabupaten;2020;80.15;128;6
+1134;18;Lampung;1810;Pringsewu;Kabupaten;2020;83.79;53;6
+1135;18;Lampung;1811;Mesuji;Kabupaten;2020;83.66;57;6
+1136;18;Lampung;1812;Tulang Bawang Barat;Kabupaten;2020;77.58;190;6
+1137;18;Lampung;1813;Pesisir Barat;Kabupaten;2020;72.93;258;5
+1138;19;Kepulauan Bangka Belitung;1901;Bangka;Kabupaten;2020;79.3;152;6
+1139;19;Kepulauan Bangka Belitung;1902;Belitung;Kabupaten;2020;61.15;341;4
+1140;19;Kepulauan Bangka Belitung;1905;Bangka Barat;Kabupaten;2020;72.53;264;5
+1141;19;Kepulauan Bangka Belitung;1904;Bangka Tengah;Kabupaten;2020;59.8;349;4
+1142;19;Kepulauan Bangka Belitung;1903;Bangka Selatan;Kabupaten;2020;80.89;112;6
+1143;19;Kepulauan Bangka Belitung;1906;Belitung Timur;Kabupaten;2020;60.94;342;4
+1144;21;Kepulauan Riau;2102;Karimun;Kabupaten;2020;58.29;352;3
+1145;21;Kepulauan Riau;2101;Bintan;Kabupaten;2020;57.31;356;3
+1146;21;Kepulauan Riau;2103;Natuna;Kabupaten;2020;55.7;360;3
+1147;21;Kepulauan Riau;2104;Lingga;Kabupaten;2020;50.47;373;2
+1148;21;Kepulauan Riau;2105;Kepulauan Anambas;Kabupaten;2020;53.31;369;3
+1149;31;DKI Jakarta;3101;Kepulauan Seribu;Kabupaten;2020;51.88;372;3
+1150;32;Jawa Barat;3201;Bogor;Kabupaten;2020;66.64;317;4
+1151;32;Jawa Barat;3202;Sukabumi;Kabupaten;2020;77.18;198;6
+1152;32;Jawa Barat;3203;Cianjur;Kabupaten;2020;76.19;209;6
+1153;32;Jawa Barat;3204;Bandung;Kabupaten;2020;79.08;158;6
+1154;32;Jawa Barat;3205;Garut;Kabupaten;2020;76.62;204;6
+1155;32;Jawa Barat;3206;Tasikmalaya;Kabupaten;2020;73.28;253;5
+1156;32;Jawa Barat;3207;Ciamis;Kabupaten;2020;79.21;154;6
+1157;32;Jawa Barat;3208;Kuningan;Kabupaten;2020;80.01;134;6
+1158;32;Jawa Barat;3209;Cirebon;Kabupaten;2020;79.68;143;6
+1159;32;Jawa Barat;3210;Majalengka;Kabupaten;2020;81.02;109;6
+1160;32;Jawa Barat;3211;Sumedang;Kabupaten;2020;81.46;97;6
+1161;32;Jawa Barat;3212;Indramayu;Kabupaten;2020;82.17;88;6
+1162;32;Jawa Barat;3213;Subang;Kabupaten;2020;82.66;80;6
+1163;32;Jawa Barat;3214;Purwakarta;Kabupaten;2020;78.67;163;6
+1164;32;Jawa Barat;3215;Karawang;Kabupaten;2020;84.51;39;6
+1165;32;Jawa Barat;3216;Bekasi;Kabupaten;2020;83.86;51;6
+1166;32;Jawa Barat;3217;Bandung Barat;Kabupaten;2020;75.76;215;6
+1167;32;Jawa Barat;3218;Pangandaran;Kabupaten;2020;81.99;91;6
+1168;33;Jawa Tengah;3301;Cilacap;Kabupaten;2020;84.04;46;6
+1169;33;Jawa Tengah;3302;Banyumas;Kabupaten;2020;80.48;114;6
+1170;33;Jawa Tengah;3303;Purbalingga;Kabupaten;2020;80.15;127;6
+1171;33;Jawa Tengah;3304;Banjarnegara;Kabupaten;2020;78.45;168;6
+1172;33;Jawa Tengah;3305;Kebumen;Kabupaten;2020;80.41;118;6
+1173;33;Jawa Tengah;3306;Purworejo;Kabupaten;2020;82.85;76;6
+1174;33;Jawa Tengah;3307;Wonosobo;Kabupaten;2020;78.58;166;6
+1175;33;Jawa Tengah;3308;Magelang;Kabupaten;2020;81.27;103;6
+1176;33;Jawa Tengah;3309;Boyolali;Kabupaten;2020;85.35;26;6
+1177;33;Jawa Tengah;3310;Klaten;Kabupaten;2020;84.03;47;6
+1178;33;Jawa Tengah;3311;Sukoharjo;Kabupaten;2020;88.76;4;6
+1179;33;Jawa Tengah;3312;Wonogiri;Kabupaten;2020;86.55;16;6
+1180;33;Jawa Tengah;3313;Karanganyar;Kabupaten;2020;87.22;8;6
+1181;33;Jawa Tengah;3314;Sragen;Kabupaten;2020;86.21;18;6
+1182;33;Jawa Tengah;3315;Grobogan;Kabupaten;2020;83.68;56;6
+1183;33;Jawa Tengah;3316;Blora;Kabupaten;2020;85.47;24;6
+1184;33;Jawa Tengah;3317;Rembang;Kabupaten;2020;83.75;54;6
+1185;33;Jawa Tengah;3318;Pati;Kabupaten;2020;88.25;5;6
+1186;33;Jawa Tengah;3319;Kudus;Kabupaten;2020;86.91;10;6
+1187;33;Jawa Tengah;3320;Jepara;Kabupaten;2020;83.9;50;6
+1188;33;Jawa Tengah;3321;Demak;Kabupaten;2020;85.04;32;6
+1189;33;Jawa Tengah;3322;Semarang;Kabupaten;2020;86.69;13;6
+1190;33;Jawa Tengah;3323;Temanggung;Kabupaten;2020;82.16;89;6
+1191;33;Jawa Tengah;3324;Kendal;Kabupaten;2020;85.24;30;6
+1192;33;Jawa Tengah;3325;Batang;Kabupaten;2020;81.28;102;6
+1193;33;Jawa Tengah;3326;Pekalongan;Kabupaten;2020;78.86;161;6
+1194;33;Jawa Tengah;3327;Pemalang;Kabupaten;2020;79.19;155;6
+1195;33;Jawa Tengah;3328;Tegal;Kabupaten;2020;81.41;99;6
+1196;33;Jawa Tengah;3329;Brebes;Kabupaten;2020;75.73;216;6
+1197;34;DI Yogyakarta;3401;Kulon Progo;Kabupaten;2020;80.31;123;6
+1198;34;DI Yogyakarta;3402;Bantul;Kabupaten;2020;79.73;142;6
+1199;34;DI Yogyakarta;3403;Gunung Kidul;Kabupaten;2020;80.32;122;6
+1200;34;DI Yogyakarta;3404;Sleman;Kabupaten;2020;82.3;86;6
+1201;35;Jawa Timur;3501;Pacitan;Kabupaten;2020;80.23;126;6
+1202;35;Jawa Timur;3502;Ponorogo;Kabupaten;2020;84.7;36;6
+1203;35;Jawa Timur;3503;Trenggalek;Kabupaten;2020;80.39;120;6
+1204;35;Jawa Timur;3504;Tulungagung;Kabupaten;2020;84.56;38;6
+1205;35;Jawa Timur;3505;Blitar;Kabupaten;2020;83.81;52;6
+1206;35;Jawa Timur;3506;Kediri;Kabupaten;2020;79.19;156;6
+1207;35;Jawa Timur;3507;Malang;Kabupaten;2020;81.6;95;6
+1208;35;Jawa Timur;3508;Lumajang;Kabupaten;2020;77.57;191;6
+1209;35;Jawa Timur;3509;Jember;Kabupaten;2020;75.72;217;6
+1210;35;Jawa Timur;3510;Banyuwangi;Kabupaten;2020;82.4;83;6
+1211;35;Jawa Timur;3511;Bondowoso;Kabupaten;2020;73.68;247;5
+1212;35;Jawa Timur;3512;Situbondo;Kabupaten;2020;77.89;180;6
+1213;35;Jawa Timur;3513;Probolinggo;Kabupaten;2020;69.72;294;5
+1214;35;Jawa Timur;3514;Pasuruan;Kabupaten;2020;78.26;174;6
+1215;35;Jawa Timur;3515;Sidoarjo;Kabupaten;2020;83.42;63;6
+1216;35;Jawa Timur;3516;Mojokerto;Kabupaten;2020;85.92;22;6
+1217;35;Jawa Timur;3517;Jombang;Kabupaten;2020;83.43;62;6
+1218;35;Jawa Timur;3518;Nganjuk;Kabupaten;2020;81.98;92;6
+1219;35;Jawa Timur;3519;Madiun;Kabupaten;2020;85;33;6
+1220;35;Jawa Timur;3520;Magetan;Kabupaten;2020;86.87;11;6
+1221;35;Jawa Timur;3521;Ngawi;Kabupaten;2020;83;73;6
+1222;35;Jawa Timur;3522;Bojonegoro;Kabupaten;2020;83.73;55;6
+1223;35;Jawa Timur;3523;Tuban;Kabupaten;2020;83.57;59;6
+1224;35;Jawa Timur;3524;Lamongan;Kabupaten;2020;85.62;23;6
+1225;35;Jawa Timur;3525;Gresik;Kabupaten;2020;88.02;6;6
+1226;35;Jawa Timur;3526;Bangkalan;Kabupaten;2020;74.21;236;5
+1227;35;Jawa Timur;3527;Sampang;Kabupaten;2020;72.08;269;5
+1228;35;Jawa Timur;3528;Pamekasan;Kabupaten;2020;74.48;231;5
+1229;35;Jawa Timur;3529;Sumenep;Kabupaten;2020;74.35;233;5
+1230;36;Banten;3601;Pandeglang;Kabupaten;2020;72.59;263;5
+1231;36;Banten;3602;Lebak;Kabupaten;2020;70.78;279;5
+1232;36;Banten;3603;Tangerang;Kabupaten;2020;72.47;266;5
+1233;36;Banten;3604;Serang;Kabupaten;2020;77.07;201;6
+1234;51;Bali;5101;Jembrana;Kabupaten;2020;82.56;81;6
+1235;51;Bali;5102;Tabanan;Kabupaten;2020;90.05;1;6
+1236;51;Bali;5103;Badung;Kabupaten;2020;89.29;3;6
+1237;51;Bali;5104;Gianyar;Kabupaten;2020;89.96;2;6
+1238;51;Bali;5105;Klungkung;Kabupaten;2020;85.35;27;6
+1239;51;Bali;5106;Bangli;Kabupaten;2020;73.89;243;5
+1240;51;Bali;5107;Karangasem;Kabupaten;2020;78.25;175;6
+1241;51;Bali;5108;Buleleng;Kabupaten;2020;78.16;177;6
+1242;52;Nusa Tenggara Barat;5201;Lombok Barat;Kabupaten;2020;75.92;214;6
+1243;52;Nusa Tenggara Barat;5202;Lombok Tengah;Kabupaten;2020;77.1;200;6
+1244;52;Nusa Tenggara Barat;5203;Lombok Timur;Kabupaten;2020;73.5;249;5
+1245;52;Nusa Tenggara Barat;5204;Sumbawa;Kabupaten;2020;82.31;85;6
+1246;52;Nusa Tenggara Barat;5205;Dompu;Kabupaten;2020;81.16;107;6
+1247;52;Nusa Tenggara Barat;5206;Bima;Kabupaten;2020;79.54;146;6
+1248;52;Nusa Tenggara Barat;5207;Sumbawa Barat;Kabupaten;2020;82.33;84;6
+1249;52;Nusa Tenggara Barat;5208;Lombok Utara;Kabupaten;2020;66.37;321;4
+1250;53;Nusa Tenggara Timur;5312;Sumba Barat;Kabupaten;2020;63.76;335;4
+1251;53;Nusa Tenggara Timur;5311;Sumba Timur;Kabupaten;2020;66.68;316;4
+1252;53;Nusa Tenggara Timur;5301;Kupang;Kabupaten;2020;66.11;323;4
+1253;53;Nusa Tenggara Timur;5302;Timor Tengah Selatan;Kabupaten;2020;60.59;344;4
+1254;53;Nusa Tenggara Timur;5303;Timor Tengah Utara;Kabupaten;2020;68.61;300;5
+1255;53;Nusa Tenggara Timur;5304;Belu;Kabupaten;2020;71.06;277;5
+1256;53;Nusa Tenggara Timur;5305;Alor;Kabupaten;2020;63.3;336;4
+1257;53;Nusa Tenggara Timur;5313;Lembata;Kabupaten;2020;66.18;322;4
+1258;53;Nusa Tenggara Timur;5306;Flores Timur;Kabupaten;2020;69.56;295;5
+1259;53;Nusa Tenggara Timur;5307;Sikka;Kabupaten;2020;72.81;260;5
+1260;53;Nusa Tenggara Timur;5308;Ende;Kabupaten;2020;68.7;299;5
+1261;53;Nusa Tenggara Timur;5309;Ngada;Kabupaten;2020;80.24;125;6
+1262;53;Nusa Tenggara Timur;5310;Manggarai;Kabupaten;2020;71.7;272;5
+1263;53;Nusa Tenggara Timur;5314;Rote Ndao;Kabupaten;2020;68.21;304;5
+1264;53;Nusa Tenggara Timur;5315;Manggarai Barat;Kabupaten;2020;71.05;278;5
+1265;53;Nusa Tenggara Timur;5317;Sumba Tengah;Kabupaten;2020;61.62;340;4
+1266;53;Nusa Tenggara Timur;5318;Sumba Barat Daya;Kabupaten;2020;56.49;357;3
+1267;53;Nusa Tenggara Timur;5316;Nagekeo;Kabupaten;2020;74.64;228;5
+1268;53;Nusa Tenggara Timur;5319;Manggarai Timur;Kabupaten;2020;65.58;329;4
+1269;53;Nusa Tenggara Timur;5320;Sabu Raijua;Kabupaten;2020;42.74;390;2
+1270;53;Nusa Tenggara Timur;5321;Malaka;Kabupaten;2020;68.89;298;5
+1271;61;Kalimantan Barat;6101;Sambas;Kabupaten;2020;70.04;289;5
+1272;61;Kalimantan Barat;6107;Bengkayang;Kabupaten;2020;81.17;106;6
+1273;61;Kalimantan Barat;6108;Landak;Kabupaten;2020;72.5;265;5
+1274;61;Kalimantan Barat;6102;Mempawah;Kabupaten;2020;74.08;239;5
+1275;61;Kalimantan Barat;6103;Sanggau;Kabupaten;2020;78.2;176;6
+1276;61;Kalimantan Barat;6104;Ketapang;Kabupaten;2020;74.24;234;5
+1277;61;Kalimantan Barat;6105;Sintang;Kabupaten;2020;72.89;259;5
+1278;61;Kalimantan Barat;6106;Kapuas Hulu;Kabupaten;2020;70.7;281;5
+1279;61;Kalimantan Barat;6109;Sekadau;Kabupaten;2020;76.22;207;6
+1280;61;Kalimantan Barat;6110;Melawai;Kabupaten;2020;60.88;343;4
+1281;61;Kalimantan Barat;6111;Kayong Utara;Kabupaten;2020;74.12;237;5
+1282;61;Kalimantan Barat;6112;Kubu Raya;Kabupaten;2020;72.36;268;5
+1283;62;Kalimantan Tengah;6201;Kotawaringin Barat;Kabupaten;2020;59.76;350;4
+1284;62;Kalimantan Tengah;6202;Kotawaringin Timur;Kabupaten;2020;77.8;185;6
+1285;62;Kalimantan Tengah;6203;Kapuas;Kabupaten;2020;77.83;184;6
+1286;62;Kalimantan Tengah;6204;Barito Selatan;Kabupaten;2020;67.78;309;5
+1287;62;Kalimantan Tengah;6205;Barito Utara;Kabupaten;2020;83.1;69;6
+1288;62;Kalimantan Tengah;6208;Sukamara;Kabupaten;2020;73.52;248;5
+1289;62;Kalimantan Tengah;6209;Lamandau;Kabupaten;2020;83.1;68;6
+1290;62;Kalimantan Tengah;6207;Seruyan;Kabupaten;2020;65.52;331;4
+1291;62;Kalimantan Tengah;6206;Katingan;Kabupaten;2020;78.94;160;6
+1292;62;Kalimantan Tengah;6211;Pulang Pisau;Kabupaten;2020;80.03;133;6
+1293;62;Kalimantan Tengah;6210;Gunung Mas;Kabupaten;2020;58.18;353;3
+1294;62;Kalimantan Tengah;6213;Barito Timur;Kabupaten;2020;74.96;222;5
+1295;62;Kalimantan Tengah;6212;Murung Raya;Kabupaten;2020;60.27;347;4
+1296;63;Kalimantan Selatan;6301;Tanah Laut;Kabupaten;2020;81.85;93;6
+1297;63;Kalimantan Selatan;6302;Kota Baru;Kabupaten;2020;79.96;136;6
+1298;63;Kalimantan Selatan;6303;Banjar;Kabupaten;2020;80.09;130;6
+1299;63;Kalimantan Selatan;6304;Barito Kuala;Kabupaten;2020;80.08;131;6
+1300;63;Kalimantan Selatan;6305;Tapin;Kabupaten;2020;83.98;49;6
+1301;63;Kalimantan Selatan;6306;Hulu Sungai Selatan;Kabupaten;2020;78.68;162;6
+1302;63;Kalimantan Selatan;6307;Hulu Sungai Tengah;Kabupaten;2020;79.5;147;6
+1303;63;Kalimantan Selatan;6308;Hulu Sungai Utara;Kabupaten;2020;80.4;119;6
+1304;63;Kalimantan Selatan;6309;Tabalong;Kabupaten;2020;80.44;116;6
+1305;63;Kalimantan Selatan;6310;Tanah Bumbu;Kabupaten;2020;86.5;17;6
+1306;63;Kalimantan Selatan;6311;Balangan;Kabupaten;2020;82.06;90;6
+1307;64;Kalimantan Timur;6401;Paser;Kabupaten;2020;82.26;87;6
+1308;64;Kalimantan Timur;6407;Kutai Barat;Kabupaten;2020;54.98;363;3
+1309;64;Kalimantan Timur;6402;Kutai Kertanegara;Kabupaten;2020;84.28;42;6
+1310;64;Kalimantan Timur;6408;Kutai Timur;Kabupaten;2020;73.13;255;5
+1311;64;Kalimantan Timur;6403;Berau;Kabupaten;2020;85.34;28;6
+1312;64;Kalimantan Timur;6409;Penajam Paser Utara;Kabupaten;2020;86.2;19;6
+1313;64;Kalimantan Timur;6411;Mahakam Ulu;Kabupaten;2020;63.17;337;4
+1314;65;Kalimantan Utara;6502;Malinau;Kabupaten;2020;70.78;280;5
+1315;65;Kalimantan Utara;6501;Bulungan;Kabupaten;2020;77.63;188;6
+1316;65;Kalimantan Utara;6504;Tana Tidung;Kabupaten;2020;53.76;367;3
+1317;65;Kalimantan Utara;6503;Nunukan;Kabupaten;2020;77.45;195;6
+1318;71;Sulawesi Utara;7101;Bolaang Mongondow;Kabupaten;2020;85.32;29;6
+1319;71;Sulawesi Utara;7102;Minahasa;Kabupaten;2020;86.64;14;6
+1320;71;Sulawesi Utara;7103;Kepulauan Sangihe;Kabupaten;2020;54.61;365;3
+1321;71;Sulawesi Utara;7104;Kepulauan Talaud;Kabupaten;2020;81.17;105;6
+1322;71;Sulawesi Utara;7105;Minahasa Selatan;Kabupaten;2020;84.17;44;6
+1323;71;Sulawesi Utara;7106;Minahasa Utara;Kabupaten;2020;86.06;21;6
+1324;71;Sulawesi Utara;7108;Bolaang Mongondow Utara;Kabupaten;2020;81.11;108;6
+1325;71;Sulawesi Utara;7109;Kepulauan Siau Tagulandang Biaro;Kabupaten;2020;55.61;361;3
+1326;71;Sulawesi Utara;7107;Minahasa Tenggara;Kabupaten;2020;82.66;79;6
+1327;71;Sulawesi Utara;7111;Bolaang Mongondow Selatan;Kabupaten;2020;79.88;139;6
+1328;71;Sulawesi Utara;7110;Bolaang Mongondow Timur;Kabupaten;2020;84.31;40;6
+1329;72;Sulawesi Tengah;7207;Banggai Kepulauan;Kabupaten;2020;63.98;333;4
+1330;72;Sulawesi Tengah;7201;Banggai;Kabupaten;2020;85.38;25;6
+1331;72;Sulawesi Tengah;7206;Morowali;Kabupaten;2020;82.44;82;6
+1332;72;Sulawesi Tengah;7202;Poso;Kabupaten;2020;84.22;43;6
+1333;72;Sulawesi Tengah;7203;Donggala;Kabupaten;2020;69.83;291;5
+1334;72;Sulawesi Tengah;7204;Toli-Toli;Kabupaten;2020;78.66;164;6
+1335;72;Sulawesi Tengah;7205;Buol;Kabupaten;2020;77.56;192;6
+1336;72;Sulawesi Tengah;7208;Parigi Moutong;Kabupaten;2020;75.05;219;5
+1337;72;Sulawesi Tengah;7209;Tojo Una-Una;Kabupaten;2020;77.52;194;6
+1338;72;Sulawesi Tengah;7210;Sigi;Kabupaten;2020;74.75;225;5
+1339;72;Sulawesi Tengah;7211;Banggai Laut;Kabupaten;2020;48.94;378;2
+1340;72;Sulawesi Tengah;7212;Morowali Utara;Kabupaten;2020;78.31;172;6
+1341;73;Sulawesi Selatan;7301;Selayar;Kabupaten;2020;62.97;338;4
+1342;73;Sulawesi Selatan;7302;Bulukumba;Kabupaten;2020;83.61;58;6
+1343;73;Sulawesi Selatan;7303;Bantaeng;Kabupaten;2020;87.38;7;6
+1344;73;Sulawesi Selatan;7304;Jeneponto;Kabupaten;2020;81.55;96;6
+1345;73;Sulawesi Selatan;7305;Takalar;Kabupaten;2020;82.85;75;6
+1346;73;Sulawesi Selatan;7306;Gowa;Kabupaten;2020;85.05;31;6
+1347;73;Sulawesi Selatan;7307;Sinjai;Kabupaten;2020;83.56;60;6
+1348;73;Sulawesi Selatan;7309;Maros;Kabupaten;2020;83.11;67;6
+1349;73;Sulawesi Selatan;7310;Pangkajene dan Kepulauan;Kabupaten;2020;79.16;157;6
+1350;73;Sulawesi Selatan;7311;Barru;Kabupaten;2020;86.61;15;6
+1351;73;Sulawesi Selatan;7308;Bone;Kabupaten;2020;82.79;78;6
+1352;73;Sulawesi Selatan;7312;Soppeng;Kabupaten;2020;86.16;20;6
+1353;73;Sulawesi Selatan;7313;Wajo;Kabupaten;2020;83.52;61;6
+1354;73;Sulawesi Selatan;7314;Sidenreng Rappang;Kabupaten;2020;87.17;9;6
+1355;73;Sulawesi Selatan;7315;Pinrang;Kabupaten;2020;83.01;72;6
+1356;73;Sulawesi Selatan;7316;Enrekang;Kabupaten;2020;80.06;132;6
+1357;73;Sulawesi Selatan;7317;Luwu;Kabupaten;2020;83.2;65;6
+1358;73;Sulawesi Selatan;7318;Tana Toraja;Kabupaten;2020;76.88;203;6
+1359;73;Sulawesi Selatan;7322;Luwu Utara;Kabupaten;2020;80.47;115;6
+1360;73;Sulawesi Selatan;7324;Luwu Timur;Kabupaten;2020;86.7;12;6
+1361;73;Sulawesi Selatan;7326;Toraja Utara;Kabupaten;2020;79.59;144;6
+1362;74;Sulawesi Tenggara;7404;Buton;Kabupaten;2020;73.43;251;5
+1363;74;Sulawesi Tenggara;7403;Muna;Kabupaten;2020;77.43;196;6
+1364;74;Sulawesi Tenggara;7402;Konawe;Kabupaten;2020;83.18;66;6
+1365;74;Sulawesi Tenggara;7401;Kolaka;Kabupaten;2020;81.35;100;6
+1366;74;Sulawesi Tenggara;7405;Konawe Selatan;Kabupaten;2020;81.82;94;6
+1367;74;Sulawesi Tenggara;7406;Bombana;Kabupaten;2020;83.03;71;6
+1368;74;Sulawesi Tenggara;7407;Wakatobi;Kabupaten;2020;74.93;223;5
+1369;74;Sulawesi Tenggara;7408;Kolaka Utara;Kabupaten;2020;79.93;137;6
+1370;74;Sulawesi Tenggara;7410;Buton Utara;Kabupaten;2020;70.66;283;5
+1371;74;Sulawesi Tenggara;7409;Konawe Utara;Kabupaten;2020;73.99;241;5
+1372;74;Sulawesi Tenggara;7411;Kolaka Timur;Kabupaten;2020;84.9;34;6
+1373;74;Sulawesi Tenggara;7412;Konawe Kepulauan;Kabupaten;2020;67.45;313;4
+1374;74;Sulawesi Tenggara;7413;Muna Barat;Kabupaten;2020;78.28;173;6
+1375;74;Sulawesi Tenggara;7414;Buton Tengah;Kabupaten;2020;73.49;250;5
+1376;74;Sulawesi Tenggara;7415;Buton Selatan;Kabupaten;2020;70.19;286;5
+1377;75;Gorontalo;7502;Boalemo;Kabupaten;2020;79.99;135;6
+1378;75;Gorontalo;7501;Gorontalo;Kabupaten;2020;80.26;124;6
+1379;75;Gorontalo;7504;Pohuwato;Kabupaten;2020;81.34;101;6
+1380;75;Gorontalo;7503;Bone Bolango;Kabupaten;2020;80.12;129;6
+1381;75;Gorontalo;7505;Gorontalo Utara;Kabupaten;2020;79.41;151;6
+1382;76;Sulawesi Barat;7605;Majene;Kabupaten;2020;73.71;246;5
+1383;76;Sulawesi Barat;7604;Polewali Mandar;Kabupaten;2020;73.27;254;5
+1384;76;Sulawesi Barat;7603;Mamasa;Kabupaten;2020;69.75;293;5
+1385;76;Sulawesi Barat;7602;Mamuju;Kabupaten;2020;78.56;167;6
+1386;76;Sulawesi Barat;7601;Mamuju Utara;Kabupaten;2020;79.89;138;6
+1387;76;Sulawesi Barat;7606;Mamuju Tengah;Kabupaten;2020;82.95;74;6
+1388;81;Maluku;8103;Kepulauan Tanimbar;Kabupaten;2020;43.52;387;2
+1389;81;Maluku;8102;Maluku Tenggara;Kabupaten;2020;48.8;379;2
+1390;81;Maluku;8101;Maluku Tengah;Kabupaten;2020;72;270;5
+1391;81;Maluku;8104;Buru;Kabupaten;2020;76.92;202;6
+1392;81;Maluku;8107;Kepulauan Aru;Kabupaten;2020;41.37;391;1
+1393;81;Maluku;8106;Seram Bagian Barat;Kabupaten;2020;56.02;359;3
+1394;81;Maluku;8105;Seram Bagian Timur;Kabupaten;2020;63.94;334;4
+1395;81;Maluku;8108;Maluku Barat Daya;Kabupaten;2020;66.55;320;4
+1396;81;Maluku;8109;Buru Selatan;Kabupaten;2020;58.88;351;3
+1397;82;Maluku Utara;8201;Halmahera Barat;Kabupaten;2020;54.15;366;3
+1398;82;Maluku Utara;8202;Halmahera Tengah;Kabupaten;2020;64.92;332;4
+1399;82;Maluku Utara;8205;Kepulauan Sula;Kabupaten;2020;49.23;377;2
+1400;82;Maluku Utara;8204;Halmahera Selatan;Kabupaten;2020;50.46;374;2
+1401;82;Maluku Utara;8203;Halmahera Utara;Kabupaten;2020;78.44;169;6
+1402;82;Maluku Utara;8206;Halmahera Timur;Kabupaten;2020;74.38;232;5
+1403;82;Maluku Utara;8207;Pulau Morotai;Kabupaten;2020;76.07;212;6
+1404;82;Maluku Utara;8208;Pulau Taliabu;Kabupaten;2020;44.45;386;2
+1405;92;Papua Barat;9203;Fak-Fak;Kabupaten;2020;45.51;384;2
+1406;92;Papua Barat;9208;Kaimana;Kabupaten;2020;46.06;383;2
+1407;92;Papua Barat;9207;Teluk Wondama;Kabupaten;2020;33.07;396;1
+1408;92;Papua Barat;9206;Teluk Bintuni;Kabupaten;2020;47.99;381;2
+1409;92;Papua Barat;9202;Manokwari;Kabupaten;2020;75.42;218;5
+1410;92;Papua Barat;9204;Sorong Selatan;Kabupaten;2020;43.22;389;2
+1411;92;Papua Barat;9201;Sorong;Kabupaten;2020;65.87;325;4
+1412;92;Papua Barat;9205;Raja Ampat;Kabupaten;2020;53.46;368;3
+1413;92;Papua Barat;9209;Tambrauw;Kabupaten;2020;39.62;392;1
+1414;92;Papua Barat;9210;Maybrat;Kabupaten;2020;31.12;398;1
+1415;92;Papua Barat;9211;Manokwari Selatan;Kabupaten;2020;65.78;326;4
+1416;92;Papua Barat;9212;Pegunungan Arfak;Kabupaten;2020;29.05;402;1
+1417;91;Papua;9301;Merauke;Kabupaten;2020;77.6;189;6
+1418;91;Papua;9501;Jayawijaya;Kabupaten;2020;29.85;400;1
+1419;91;Papua;9103;Jayapura;Kabupaten;2020;58.11;354;3
+1420;91;Papua;9401;Nabire;Kabupaten;2020;67.65;311;4
+1421;91;Papua;9105;Kepulauan Yapen;Kabupaten;2020;43.38;388;2
+1422;91;Papua;9106;Biak Namfor;Kabupaten;2020;48.51;380;2
+1423;91;Papua;9403;Paniai;Kabupaten;2020;22.97;405;1
+1424;91;Papua;9402;Puncak Jaya;Kabupaten;2020;30.03;399;1
+1425;91;Papua;9404;Mimika;Kabupaten;2020;57.45;355;3
+1426;91;Papua;9302;Boven Digoel;Kabupaten;2020;38.58;393;1
+1427;91;Papua;9303;Mappi;Kabupaten;2020;28.59;403;1
+1428;91;Papua;9304;Asmat;Kabupaten;2020;19.9;411;1
+1429;91;Papua;9503;Yahukimo;Kabupaten;2020;21.21;409;1
+1430;91;Papua;9502;Pegunungan Bintang;Kabupaten;2020;24.46;404;1
+1431;91;Papua;9504;Tolikara;Kabupaten;2020;21.4;407;1
+1432;91;Papua;9110;Sarmi;Kabupaten;2020;44.68;385;2
+1433;91;Papua;9111;Keerom;Kabupaten;2020;60.24;348;4
+1434;91;Papua;9115;Waropen;Kabupaten;2020;37.5;395;1
+1435;91;Papua;9119;Supiori;Kabupaten;2020;31.59;397;1
+1436;91;Papua;9120;Mamberamo Raya;Kabupaten;2020;19.8;412;1
+1437;91;Papua;9508;Nduga;Kabupaten;2020;15.54;414;1
+1438;91;Papua;9507;Lanny Jaya;Kabupaten;2020;22.87;406;1
+1439;91;Papua;9505;Mamberamo Tengah;Kabupaten;2020;19.07;413;1
+1440;91;Papua;9506;Yalimo;Kabupaten;2020;29.77;401;1
+1441;91;Papua;9405;Puncak;Kabupaten;2020;12.63;416;1
+1442;91;Papua;9406;Dogiyai;Kabupaten;2020;14.7;415;1
+1443;91;Papua;9407;Intan Jaya;Kabupaten;2020;20.74;410;1
+1444;91;Papua;9408;Deiyai;Kabupaten;2020;21.36;408;1
+1445;11;Aceh;1171;Kota Banda Aceh;Kota;2020;85.32;4;6
+1446;11;Aceh;1172;Kota Sabang;Kota;2020;65.87;82;5
+1447;11;Aceh;1174;Kota Langsa;Kota;2020;70.89;67;6
+1448;11;Aceh;1173;Kota Lhokseumawe;Kota;2020;63.26;84;5
+1449;11;Aceh;1175;Kota Subulussalam;Kota;2020;24.53;98;1
+1450;12;Sumatera Utara;1273;Kota Sibolga;Kota;2020;67.84;76;5
+1451;12;Sumatera Utara;1274;Kota Tanjung Balai;Kota;2020;53.21;94;4
+1452;12;Sumatera Utara;1272;Kota Pematang Siantar;Kota;2020;78.7;43;6
+1453;12;Sumatera Utara;1276;Kota Tebing Tinggi;Kota;2020;68.12;75;5
+1454;12;Sumatera Utara;1271;Kota Medan;Kota;2020;83.12;20;6
+1455;12;Sumatera Utara;1275;Kota Binjai;Kota;2020;78.16;45;6
+1456;12;Sumatera Utara;1277;Kota Padang Sidimpuan;Kota;2020;61.64;86;5
+1457;12;Sumatera Utara;1278;Kota Gunungsitoli;Kota;2020;49.53;95;3
+1458;13;Sumatera Barat;1371;Kota Padang;Kota;2020;82.12;26;6
+1459;13;Sumatera Barat;1372;Kota Solok;Kota;2020;82.02;28;6
+1460;13;Sumatera Barat;1373;Kota Sawah Lunto;Kota;2020;67.36;77;5
+1461;13;Sumatera Barat;1374;Kota Padang Panjang;Kota;2020;82.32;25;6
+1462;13;Sumatera Barat;1375;Kota Bukittinggi;Kota;2020;89.01;2;6
+1463;13;Sumatera Barat;1376;Kota Payakumbuh;Kota;2020;82.06;27;6
+1464;13;Sumatera Barat;1377;Kota Pariaman;Kota;2020;72.87;59;6
+1465;14;Riau;1471;Kota Pekanbaru;Kota;2020;82.85;22;6
+1466;14;Riau;1472;Kota Dumai;Kota;2020;68.15;74;5
+1467;15;Jambi;1571;Kota Jambi;Kota;2020;76.9;49;6
+1468;15;Jambi;1572;Kota Sungai Penuh;Kota;2020;70.38;68;5
+1469;16;Sumatera Selatan;1671;Kota Palembang;Kota;2020;72.57;60;6
+1470;16;Sumatera Selatan;1674;Kota Prabumulih;Kota;2020;61.23;87;5
+1471;16;Sumatera Selatan;1672;Kota Pagar Alam;Kota;2020;41.62;96;3
+1472;16;Sumatera Selatan;1673;Kota Lubuklinggau;Kota;2020;53.37;93;4
+1473;17;Bengkulu;1771;Kota Bengkulu;Kota;2020;67.24;78;5
+1474;18;Lampung;1871;Kota Bandar Lampung;Kota;2020;71.62;63;6
+1475;18;Lampung;1872;Kota Metro;Kota;2020;76.76;51;6
+1476;19;Kepulauan Bangka Belitung;1971;Kota Pangkal Pinang;Kota;2020;83.84;15;6
+1477;21;Kepulauan Riau;2171;Kota Batam;Kota;2020;85.09;6;6
+1478;21;Kepulauan Riau;2172;Kota Tanjung Pinang;Kota;2020;78.77;42;6
+1479;31;DKI Jakarta;3174;Kota Jakarta Selatan;Kota;2020;83.62;17;6
+1480;31;DKI Jakarta;3175;Kota Jakarta Timur;Kota;2020;81.99;29;6
+1481;31;DKI Jakarta;3171;Kota Jakarta Pusat;Kota;2020;83.81;16;6
+1482;31;DKI Jakarta;3173;Kota Jakarta Barat;Kota;2020;85.06;7;6
+1483;31;DKI Jakarta;3172;Kota Jakarta Utara;Kota;2020;81.43;31;6
+1484;32;Jawa Barat;3271;Kota Bogor;Kota;2020;72.4;61;6
+1485;32;Jawa Barat;3272;Kota Sukabumi;Kota;2020;65.73;83;5
+1486;32;Jawa Barat;3273;Kota Bandung;Kota;2020;81.72;30;6
+1487;32;Jawa Barat;3274;Kota Cirebon;Kota;2020;71.28;64;6
+1488;32;Jawa Barat;3275;Kota Bekasi;Kota;2020;83.04;21;6
+1489;32;Jawa Barat;3276;Kota Depok;Kota;2020;83.23;18;6
+1490;32;Jawa Barat;3277;Kota Cimahi;Kota;2020;79.14;41;6
+1491;32;Jawa Barat;3278;Kota Tasikmalaya;Kota;2020;58.82;89;4
+1492;32;Jawa Barat;3279;Kota Banjar;Kota;2020;57.72;90;4
+1493;33;Jawa Tengah;3371;Kota Magelang;Kota;2020;80.76;34;6
+1494;33;Jawa Tengah;3372;Kota Surakarta;Kota;2020;76.98;48;6
+1495;33;Jawa Tengah;3373;Kota Salatiga;Kota;2020;82.64;24;6
+1496;33;Jawa Tengah;3374;Kota Semarang;Kota;2020;84.66;10;6
+1497;33;Jawa Tengah;3375;Kota Pekalongan;Kota;2020;66.98;79;5
+1498;33;Jawa Tengah;3376;Kota Tegal;Kota;2020;76.74;52;6
+1499;34;DI Yogyakarta;3471;Kota Yogyakarta;Kota;2020;80.68;36;6
+1500;35;Jawa Timur;3571;Kota Kediri;Kota;2020;71.16;65;6
+1501;35;Jawa Timur;3572;Kota Blitar;Kota;2020;73.38;58;6
+1502;35;Jawa Timur;3573;Kota Malang;Kota;2020;84.12;14;6
+1503;35;Jawa Timur;3574;Kota Probolinggo;Kota;2020;73.69;57;6
+1504;35;Jawa Timur;3575;Kota Pasuruan;Kota;2020;68.71;72;5
+1505;35;Jawa Timur;3576;Kota Mojokerto;Kota;2020;82.77;23;6
+1506;35;Jawa Timur;3577;Kota Madiun;Kota;2020;85.23;5;6
+1507;35;Jawa Timur;3578;Kota Surabaya;Kota;2020;84.71;9;6
+1508;35;Jawa Timur;3579;Kota Batu;Kota;2020;77.06;47;6
+1509;36;Banten;3671;Kota Tangerang;Kota;2020;80.37;37;6
+1510;36;Banten;3672;Kota Cilegon;Kota;2020;70.23;69;5
+1511;36;Banten;3673;Kota Serang;Kota;2020;61.22;88;5
+1512;36;Banten;3674;Kota Tangerang Selatan;Kota;2020;83.14;19;6
+1513;51;Bali;5171;Kota Denpasar;Kota;2020;93.32;1;6
+1514;52;Nusa Tenggara Barat;5271;Kota Mataram;Kota;2020;71.86;62;6
+1515;52;Nusa Tenggara Barat;5272;Kota Bima;Kota;2020;65.9;81;5
+1516;53;Nusa Tenggara Timur;5371;Kota Kupang;Kota;2020;73.71;56;6
+1517;61;Kalimantan Barat;6171;Kota Pontianak;Kota;2020;63.18;85;5
+1518;61;Kalimantan Barat;6172;Kota Singkawang;Kota;2020;55.3;91;4
+1519;62;Kalimantan Tengah;6271;Kota Palangka Raya;Kota;2020;75.34;54;6
+1520;63;Kalimantan Selatan;6371;Kota Banjarmasin;Kota;2020;78.02;46;6
+1521;63;Kalimantan Selatan;6372;Kota Banjar Baru;Kota;2020;68.92;70;5
+1522;64;Kalimantan Timur;6471;Kota Balikpapan;Kota;2020;87.66;3;6
+1523;64;Kalimantan Timur;6472;Kota Samarinda;Kota;2020;80.75;35;6
+1524;64;Kalimantan Timur;6474;Kota Bontang;Kota;2020;84.59;11;6
+1525;65;Kalimantan Utara;6571;Kota Tarakan;Kota;2020;79.91;38;6
+1526;71;Sulawesi Utara;7171;Kota Manado;Kota;2020;81.39;32;6
+1527;71;Sulawesi Utara;7172;Kota Bitung;Kota;2020;68.56;73;5
+1528;71;Sulawesi Utara;7173;Kota Tomohon;Kota;2020;79.44;40;6
+1529;71;Sulawesi Utara;7174;Kota Kotamobago;Kota;2020;75.9;53;6
+1530;72;Sulawesi Tengah;7271;Kota Palu;Kota;2020;79.63;39;6
+1531;73;Sulawesi Selatan;7371;Kota Makasar;Kota;2020;84.32;13;6
+1532;73;Sulawesi Selatan;7372;Kota Pare-Pare;Kota;2020;78.56;44;6
+1533;73;Sulawesi Selatan;7373;Kota Palopo;Kota;2020;75.24;55;6
+1534;74;Sulawesi Tenggara;7471;Kota Kendari;Kota;2020;84.91;8;6
+1535;74;Sulawesi Tenggara;7472;Kota Bau-Bau;Kota;2020;71.11;66;6
+1536;75;Gorontalo;7571;Kota Gorontalo;Kota;2020;81.3;33;6
+1537;81;Maluku;8171;Kota Ambon;Kota;2020;76.85;50;6
+1538;81;Maluku;8172;Kota Tual;Kota;2020;34.8;97;2
+1539;82;Maluku Utara;8271;Kota Ternate;Kota;2020;84.43;12;6
+1540;82;Maluku Utara;8272;Kota Tidore Kepulauan;Kota;2020;54.66;92;4
+1541;91;Papua Barat;9271;Kota Sorong;Kota;2020;66.03;80;5
+1542;94;Papua;9171;Kota Jayapura;Kota;2020;68.83;71;5
+1543;11;Aceh;1109;Simeulue;Kabupaten;2021;74.3;239;5
+1544;11;Aceh;1110;Aceh Singkil;Kabupaten;2021;51.97;370;3
+1545;11;Aceh;1101;Aceh Selatan;Kabupaten;2021;75.55;220;5
+1546;11;Aceh;1102;Aceh Tenggara;Kabupaten;2021;76.22;207;6
+1547;11;Aceh;1103;Aceh Timur;Kabupaten;2021;76.08;213;6
+1548;11;Aceh;1104;Aceh Tengah;Kabupaten;2021;66.31;322;4
+1549;11;Aceh;1105;Aceh Barat;Kabupaten;2021;77.98;173;6
+1550;11;Aceh;1106;Aceh Besar;Kabupaten;2021;83.09;67;6
+1551;11;Aceh;1107;Pidie;Kabupaten;2021;75.39;223;5
+1552;11;Aceh;1111;Bireuen;Kabupaten;2021;80.29;125;6
+1553;11;Aceh;1108;Aceh Utara;Kabupaten;2021;77.38;188;6
+1554;11;Aceh;1112;Aceh Barat Daya;Kabupaten;2021;76.31;205;6
+1555;11;Aceh;1113;Gayo Lues;Kabupaten;2021;73.79;248;5
+1556;11;Aceh;1116;Aceh Tamiang;Kabupaten;2021;78.81;163;6
+1557;11;Aceh;1115;Nagan Raya;Kabupaten;2021;77.41;187;6
+1558;11;Aceh;1114;Aceh Jaya;Kabupaten;2021;79.95;134;6
+1559;11;Aceh;1117;Bener Meriah;Kabupaten;2021;49.97;376;2
+1560;11;Aceh;1118;Pidie Jaya;Kabupaten;2021;77.24;190;6
+1561;12;Sumatera Utara;1204;Nias;Kabupaten;2021;65.29;330;4
+1562;12;Sumatera Utara;1213;Mandailing Natal;Kabupaten;2021;67.31;313;4
+1563;12;Sumatera Utara;1203;Tapanuli Selatan;Kabupaten;2021;74.16;242;5
+1564;12;Sumatera Utara;1201;Tapanuli Tengah;Kabupaten;2021;70.19;292;5
+1565;12;Sumatera Utara;1202;Tapanuli Utara;Kabupaten;2021;77.7;180;6
+1566;12;Sumatera Utara;1212;Toba Samosir;Kabupaten;2021;81.27;103;6
+1567;12;Sumatera Utara;1210;Labuhan Batu;Kabupaten;2021;74.48;235;5
+1568;12;Sumatera Utara;1209;Asahan;Kabupaten;2021;74.1;243;5
+1569;12;Sumatera Utara;1208;Simalungun;Kabupaten;2021;81.77;93;6
+1570;12;Sumatera Utara;1211;Dairi;Kabupaten;2021;80.71;116;6
+1571;12;Sumatera Utara;1206;Karo;Kabupaten;2021;83.22;64;6
+1572;12;Sumatera Utara;1207;Deli Serdang;Kabupaten;2021;85.66;21;6
+1573;12;Sumatera Utara;1205;Langkat;Kabupaten;2021;78.8;164;6
+1574;12;Sumatera Utara;1214;Nias Selatan;Kabupaten;2021;63.54;334;4
+1575;12;Sumatera Utara;1216;Humbang Hasundutan;Kabupaten;2021;75.51;222;5
+1576;12;Sumatera Utara;1215;Pakpak Bharat;Kabupaten;2021;71.12;283;5
+1577;12;Sumatera Utara;1217;Samosir;Kabupaten;2021;77.6;183;6
+1578;12;Sumatera Utara;1218;Serdang Bedagai;Kabupaten;2021;83.23;63;6
+1579;12;Sumatera Utara;1219;Batu Bara;Kabupaten;2021;76.15;212;6
+1580;12;Sumatera Utara;1220;Padang Lawas Utara;Kabupaten;2021;68.56;306;5
+1581;12;Sumatera Utara;1221;Padang Lawas;Kabupaten;2021;69.99;294;5
+1582;12;Sumatera Utara;1222;Labuhan Batu Selatan;Kabupaten;2021;54.15;364;3
+1583;12;Sumatera Utara;1223;Labuhan Batu Utara;Kabupaten;2021;74.49;234;5
+1584;12;Sumatera Utara;1224;Nias Utara;Kabupaten;2021;66.6;317;4
+1585;12;Sumatera Utara;1225;Nias Barat;Kabupaten;2021;61.29;340;4
+1586;13;Sumatera Barat;1309;Kepulauan Mentawai;Kabupaten;2021;37.67;394;1
+1587;13;Sumatera Barat;1301;Pesisir Selatan;Kabupaten;2021;85.48;25;6
+1588;13;Sumatera Barat;1302;Solok;Kabupaten;2021;79.59;144;6
+1589;13;Sumatera Barat;1303;Sijunjung;Kabupaten;2021;78.88;160;6
+1590;13;Sumatera Barat;1304;Tanah Datar;Kabupaten;2021;84.68;42;6
+1591;13;Sumatera Barat;1305;Padang Pariaman;Kabupaten;2021;82.5;80;6
+1592;13;Sumatera Barat;1306;Agam;Kabupaten;2021;84.48;45;6
+1593;13;Sumatera Barat;1307;Limapuluh Koto;Kabupaten;2021;80.66;117;6
+1594;13;Sumatera Barat;1308;Pasaman;Kabupaten;2021;79.57;145;6
+1595;13;Sumatera Barat;1311;Solok Selatan;Kabupaten;2021;82.87;74;6
+1596;13;Sumatera Barat;1310;Dharmas Raya;Kabupaten;2021;80.62;120;6
+1597;13;Sumatera Barat;1312;Pasaman Barat;Kabupaten;2021;80.02;131;6
+1598;14;Riau;1409;Kuantan Sengingi;Kabupaten;2021;72.64;263;5
+1599;14;Riau;1402;Indragiri Hulu;Kabupaten;2021;64.66;332;4
+1600;14;Riau;1404;Indragiri Hilir;Kabupaten;2021;69.15;299;5
+1601;14;Riau;1405;Pelalawan;Kabupaten;2021;66.16;325;4
+1602;14;Riau;1408;Siak;Kabupaten;2021;76.84;198;6
+1603;14;Riau;1401;Kampar;Kabupaten;2021;61.78;337;4
+1604;14;Riau;1406;Rokan Hulu;Kabupaten;2021;54.92;361;3
+1605;14;Riau;1403;Bengkalis;Kabupaten;2021;61.15;341;4
+1606;14;Riau;1407;Rokan Hilir;Kabupaten;2021;67.48;312;4
+1607;14;Riau;1410;Kepulauan Meranti;Kabupaten;2021;38.12;393;1
+1608;15;Jambi;1501;Kerinci;Kabupaten;2021;83.31;61;6
+1609;15;Jambi;1502;Merangin;Kabupaten;2021;77.23;193;6
+1610;15;Jambi;1503;Sarolangun;Kabupaten;2021;70.82;287;5
+1611;15;Jambi;1504;Batang Hari;Kabupaten;2021;73.52;253;5
+1612;15;Jambi;1505;Muaro Jambi;Kabupaten;2021;72.79;261;5
+1613;15;Jambi;1507;Tanjung Jabung Timur;Kabupaten;2021;72.21;270;5
+1614;15;Jambi;1506;Tanjung Jabung Barat;Kabupaten;2021;68.54;307;5
+1615;15;Jambi;1509;Tebo;Kabupaten;2021;72.73;262;5
+1616;15;Jambi;1508;Bungo;Kabupaten;2021;70.69;289;5
+1617;16;Sumatera Selatan;1601;Ogan Komering Ulu;Kabupaten;2021;74.93;230;5
+1618;16;Sumatera Selatan;1602;Ogan Komering Ilir;Kabupaten;2021;76.81;199;6
+1619;16;Sumatera Selatan;1603;Muara Enim;Kabupaten;2021;71.54;280;5
+1620;16;Sumatera Selatan;1604;Lahat;Kabupaten;2021;68.85;301;5
+1621;16;Sumatera Selatan;1605;Musi Rawas;Kabupaten;2021;75.33;226;5
+1622;16;Sumatera Selatan;1606;Musi Banyuasin;Kabupaten;2021;77.27;189;6
+1623;16;Sumatera Selatan;1607;Banyuasin;Kabupaten;2021;78.3;172;6
+1624;16;Sumatera Selatan;1609;Ogan Komering Ulu Selatan;Kabupaten;2021;74.3;240;5
+1625;16;Sumatera Selatan;1608;Ogan Komering Ulu Timur;Kabupaten;2021;80.5;122;6
+1626;16;Sumatera Selatan;1610;Ogan Ilir;Kabupaten;2021;71.74;278;5
+1627;16;Sumatera Selatan;1611;Empat Lawang;Kabupaten;2021;66.07;326;4
+1628;16;Sumatera Selatan;1612;Penukal Abab Lematang Ilir;Kabupaten;2021;71.31;282;5
+1629;16;Sumatera Selatan;1613;Musi Rawas Utara;Kabupaten;2021;60.33;345;4
+1630;17;Bengkulu;1701;Bengkulu Selatan;Kabupaten;2021;72.3;269;5
+1631;17;Bengkulu;1702;Rejang Lebong;Kabupaten;2021;67.54;310;4
+1632;17;Bengkulu;1703;Bengkulu Utara;Kabupaten;2021;68.21;308;5
+1633;17;Bengkulu;1704;Kaur;Kabupaten;2021;72.12;272;5
+1634;17;Bengkulu;1705;Seluma;Kabupaten;2021;67.29;314;4
+1635;17;Bengkulu;1706;Mukomuko;Kabupaten;2021;76.17;209;6
+1636;17;Bengkulu;1707;Lebong;Kabupaten;2021;74.38;237;5
+1637;17;Bengkulu;1708;Kepahiang;Kabupaten;2021;68.68;302;5
+1638;17;Bengkulu;1709;Bengkulu Tengah;Kabupaten;2021;68.63;304;5
+1639;18;Lampung;1804;Lampung Barat;Kabupaten;2021;70.8;288;5
+1640;18;Lampung;1806;Tanggamus;Kabupaten;2021;75.34;225;5
+1641;18;Lampung;1801;Lampung Selatan;Kabupaten;2021;79.66;142;6
+1642;18;Lampung;1807;Lampung Timur;Kabupaten;2021;81.2;104;6
+1643;18;Lampung;1802;Lampung Tengah;Kabupaten;2021;80.16;129;6
+1644;18;Lampung;1803;Lampung Utara;Kabupaten;2021;73;258;5
+1645;18;Lampung;1808;Way Kanan;Kabupaten;2021;74.96;229;5
+1646;18;Lampung;1805;Tulang Bawang;Kabupaten;2021;84.58;44;6
+1647;18;Lampung;1809;Pesawaran;Kabupaten;2021;78.96;158;6
+1648;18;Lampung;1810;Pringsewu;Kabupaten;2021;84.05;50;6
+1649;18;Lampung;1811;Mesuji;Kabupaten;2021;85.6;23;6
+1650;18;Lampung;1812;Tulang Bawang Barat;Kabupaten;2021;78.58;167;6
+1651;18;Lampung;1813;Pesisir Barat;Kabupaten;2021;71.6;279;5
+1652;19;Kepulauan Bangka Belitung;1901;Bangka;Kabupaten;2021;81.15;105;6
+1653;19;Kepulauan Bangka Belitung;1902;Belitung;Kabupaten;2021;60.93;343;4
+1654;19;Kepulauan Bangka Belitung;1905;Bangka Barat;Kabupaten;2021;78.58;166;6
+1655;19;Kepulauan Bangka Belitung;1904;Bangka Tengah;Kabupaten;2021;58.87;349;3
+1656;19;Kepulauan Bangka Belitung;1903;Bangka Selatan;Kabupaten;2021;81.93;89;6
+1657;19;Kepulauan Bangka Belitung;1906;Belitung Timur;Kabupaten;2021;66.52;318;4
+1658;21;Kepulauan Riau;2102;Karimun;Kabupaten;2021;58.12;351;3
+1659;21;Kepulauan Riau;2101;Bintan;Kabupaten;2021;58.82;350;3
+1660;21;Kepulauan Riau;2103;Natuna;Kabupaten;2021;57.64;355;3
+1661;21;Kepulauan Riau;2104;Lingga;Kabupaten;2021;46.35;382;2
+1662;21;Kepulauan Riau;2105;Kepulauan Anambas;Kabupaten;2021;53.51;365;3
+1663;31;DKI Jakarta;3101;Kepulauan Seribu;Kabupaten;2021;51.39;372;2
+1664;32;Jawa Barat;3201;Bogor;Kabupaten;2021;68.9;300;5
+1665;32;Jawa Barat;3202;Sukabumi;Kabupaten;2021;76.31;204;6
+1666;32;Jawa Barat;3203;Cianjur;Kabupaten;2021;77.21;194;6
+1667;32;Jawa Barat;3204;Bandung;Kabupaten;2021;79.41;149;6
+1668;32;Jawa Barat;3205;Garut;Kabupaten;2021;76.52;203;6
+1669;32;Jawa Barat;3206;Tasikmalaya;Kabupaten;2021;74.51;233;5
+1670;32;Jawa Barat;3207;Ciamis;Kabupaten;2021;80.01;132;6
+1671;32;Jawa Barat;3208;Kuningan;Kabupaten;2021;80.86;111;6
+1672;32;Jawa Barat;3209;Cirebon;Kabupaten;2021;78.84;162;6
+1673;32;Jawa Barat;3210;Majalengka;Kabupaten;2021;80.79;113;6
+1674;32;Jawa Barat;3211;Sumedang;Kabupaten;2021;83.73;54;6
+1675;32;Jawa Barat;3212;Indramayu;Kabupaten;2021;83.07;69;6
+1676;32;Jawa Barat;3213;Subang;Kabupaten;2021;82.81;75;6
+1677;32;Jawa Barat;3214;Purwakarta;Kabupaten;2021;79.14;154;6
+1678;32;Jawa Barat;3215;Karawang;Kabupaten;2021;85.63;22;6
+1679;32;Jawa Barat;3216;Bekasi;Kabupaten;2021;86.29;15;6
+1680;32;Jawa Barat;3217;Bandung Barat;Kabupaten;2021;74.18;241;5
+1681;32;Jawa Barat;3218;Pangandaran;Kabupaten;2021;80.64;119;6
+1682;33;Jawa Tengah;3301;Cilacap;Kabupaten;2021;84.23;48;6
+1683;33;Jawa Tengah;3302;Banyumas;Kabupaten;2021;79.97;133;6
+1684;33;Jawa Tengah;3303;Purbalingga;Kabupaten;2021;79.33;150;6
+1685;33;Jawa Tengah;3304;Banjarnegara;Kabupaten;2021;78.99;157;6
+1686;33;Jawa Tengah;3305;Kebumen;Kabupaten;2021;78.56;168;6
+1687;33;Jawa Tengah;3306;Purworejo;Kabupaten;2021;83.28;62;6
+1688;33;Jawa Tengah;3307;Wonosobo;Kabupaten;2021;79.83;139;6
+1689;33;Jawa Tengah;3308;Magelang;Kabupaten;2021;79.92;135;6
+1690;33;Jawa Tengah;3309;Boyolali;Kabupaten;2021;85.14;35;6
+1691;33;Jawa Tengah;3310;Klaten;Kabupaten;2021;81.6;98;6
+1692;33;Jawa Tengah;3311;Sukoharjo;Kabupaten;2021;88.7;4;6
+1693;33;Jawa Tengah;3312;Wonogiri;Kabupaten;2021;88.04;8;6
+1694;33;Jawa Tengah;3313;Karanganyar;Kabupaten;2021;87.63;9;6
+1695;33;Jawa Tengah;3314;Sragen;Kabupaten;2021;87.55;10;6
+1696;33;Jawa Tengah;3315;Grobogan;Kabupaten;2021;85.39;28;6
+1697;33;Jawa Tengah;3316;Blora;Kabupaten;2021;85.87;18;6
+1698;33;Jawa Tengah;3317;Rembang;Kabupaten;2021;83.07;68;6
+1699;33;Jawa Tengah;3318;Pati;Kabupaten;2021;88.38;5;6
+1700;33;Jawa Tengah;3319;Kudus;Kabupaten;2021;86.69;13;6
+1701;33;Jawa Tengah;3320;Jepara;Kabupaten;2021;84.98;36;6
+1702;33;Jawa Tengah;3321;Demak;Kabupaten;2021;85.82;19;6
+1703;33;Jawa Tengah;3322;Semarang;Kabupaten;2021;86.55;14;6
+1704;33;Jawa Tengah;3323;Temanggung;Kabupaten;2021;81.69;94;6
+1705;33;Jawa Tengah;3324;Kendal;Kabupaten;2021;85.18;31;6
+1706;33;Jawa Tengah;3325;Batang;Kabupaten;2021;82.98;71;6
+1707;33;Jawa Tengah;3326;Pekalongan;Kabupaten;2021;79.33;151;6
+1708;33;Jawa Tengah;3327;Pemalang;Kabupaten;2021;78.35;171;6
+1709;33;Jawa Tengah;3328;Tegal;Kabupaten;2021;81.8;92;6
+1710;33;Jawa Tengah;3329;Brebes;Kabupaten;2021;76.91;197;6
+1711;34;DI Yogyakarta;3401;Kulon Progo;Kabupaten;2021;81.46;101;6
+1712;34;DI Yogyakarta;3402;Bantul;Kabupaten;2021;80.06;130;6
+1713;34;DI Yogyakarta;3403;Gunung Kidul;Kabupaten;2021;80.36;124;6
+1714;34;DI Yogyakarta;3404;Sleman;Kabupaten;2021;83.39;59;6
+1715;35;Jawa Timur;3501;Pacitan;Kabupaten;2021;79.49;147;6
+1716;35;Jawa Timur;3502;Ponorogo;Kabupaten;2021;85.26;30;6
+1717;35;Jawa Timur;3503;Trenggalek;Kabupaten;2021;80.84;112;6
+1718;35;Jawa Timur;3504;Tulungagung;Kabupaten;2021;85.15;34;6
+1719;35;Jawa Timur;3505;Blitar;Kabupaten;2021;83.83;52;6
+1720;35;Jawa Timur;3506;Kediri;Kabupaten;2021;80.64;118;6
+1721;35;Jawa Timur;3507;Malang;Kabupaten;2021;79.85;138;6
+1722;35;Jawa Timur;3508;Lumajang;Kabupaten;2021;78.7;165;6
+1723;35;Jawa Timur;3509;Jember;Kabupaten;2021;76.7;201;6
+1724;35;Jawa Timur;3510;Banyuwangi;Kabupaten;2021;82.8;78;6
+1725;35;Jawa Timur;3511;Bondowoso;Kabupaten;2021;74.89;231;5
+1726;35;Jawa Timur;3512;Situbondo;Kabupaten;2021;77.58;184;6
+1727;35;Jawa Timur;3513;Probolinggo;Kabupaten;2021;69.8;296;5
+1728;35;Jawa Timur;3514;Pasuruan;Kabupaten;2021;77.01;196;6
+1729;35;Jawa Timur;3515;Sidoarjo;Kabupaten;2021;83.57;56;6
+1730;35;Jawa Timur;3516;Mojokerto;Kabupaten;2021;84.46;46;6
+1731;35;Jawa Timur;3517;Jombang;Kabupaten;2021;83.71;55;6
+1732;35;Jawa Timur;3518;Nganjuk;Kabupaten;2021;82.17;85;6
+1733;35;Jawa Timur;3519;Madiun;Kabupaten;2021;84.85;37;6
+1734;35;Jawa Timur;3520;Magetan;Kabupaten;2021;87.09;11;6
+1735;35;Jawa Timur;3521;Ngawi;Kabupaten;2021;83.86;51;6
+1736;35;Jawa Timur;3522;Bojonegoro;Kabupaten;2021;84.4;47;6
+1737;35;Jawa Timur;3523;Tuban;Kabupaten;2021;83;70;6
+1738;35;Jawa Timur;3524;Lamongan;Kabupaten;2021;85.8;20;6
+1739;35;Jawa Timur;3525;Gresik;Kabupaten;2021;88.25;6;6
+1740;35;Jawa Timur;3526;Bangkalan;Kabupaten;2021;74.04;245;5
+1741;35;Jawa Timur;3527;Sampang;Kabupaten;2021;72.16;271;5
+1742;35;Jawa Timur;3528;Pamekasan;Kabupaten;2021;76.18;208;6
+1743;35;Jawa Timur;3529;Sumenep;Kabupaten;2021;76.17;210;6
+1744;36;Banten;3601;Pandeglang;Kabupaten;2021;73.39;255;5
+1745;36;Banten;3602;Lebak;Kabupaten;2021;72.6;264;5
+1746;36;Banten;3603;Tangerang;Kabupaten;2021;76.07;214;6
+1747;36;Banten;3604;Serang;Kabupaten;2021;77.7;181;6
+1748;51;Bali;5101;Jembrana;Kabupaten;2021;82.51;79;6
+1749;51;Bali;5102;Tabanan;Kabupaten;2021;90.17;1;6
+1750;51;Bali;5103;Badung;Kabupaten;2021;89.38;3;6
+1751;51;Bali;5104;Gianyar;Kabupaten;2021;89.46;2;6
+1752;51;Bali;5105;Klungkung;Kabupaten;2021;82.8;77;6
+1753;51;Bali;5106;Bangli;Kabupaten;2021;70.04;293;5
+1754;51;Bali;5107;Karangasem;Kabupaten;2021;80.24;127;6
+1755;51;Bali;5108;Buleleng;Kabupaten;2021;75.79;218;6
+1756;52;Nusa Tenggara Barat;5201;Lombok Barat;Kabupaten;2021;74.7;232;5
+1757;52;Nusa Tenggara Barat;5202;Lombok Tengah;Kabupaten;2021;75.95;216;6
+1758;52;Nusa Tenggara Barat;5203;Lombok Timur;Kabupaten;2021;72.86;259;5
+1759;52;Nusa Tenggara Barat;5204;Sumbawa;Kabupaten;2021;82.32;82;6
+1760;52;Nusa Tenggara Barat;5205;Dompu;Kabupaten;2021;79.76;140;6
+1761;52;Nusa Tenggara Barat;5206;Bima;Kabupaten;2021;77.49;186;6
+1762;52;Nusa Tenggara Barat;5207;Sumbawa Barat;Kabupaten;2021;82.26;83;6
+1763;52;Nusa Tenggara Barat;5208;Lombok Utara;Kabupaten;2021;68.67;303;5
+1764;53;Nusa Tenggara Timur;5312;Sumba Barat;Kabupaten;2021;64.63;333;4
+1765;53;Nusa Tenggara Timur;5311;Sumba Timur;Kabupaten;2021;66.21;323;4
+1766;53;Nusa Tenggara Timur;5301;Kupang;Kabupaten;2021;66.42;320;4
+1767;53;Nusa Tenggara Timur;5302;Timor Tengah Selatan;Kabupaten;2021;59.51;347;3
+1768;53;Nusa Tenggara Timur;5303;Timor Tengah Utara;Kabupaten;2021;66.47;319;4
+1769;53;Nusa Tenggara Timur;5304;Belu;Kabupaten;2021;71.89;275;5
+1770;53;Nusa Tenggara Timur;5305;Alor;Kabupaten;2021;60.82;344;4
+1771;53;Nusa Tenggara Timur;5313;Lembata;Kabupaten;2021;70.43;290;5
+1772;53;Nusa Tenggara Timur;5306;Flores Timur;Kabupaten;2021;72.36;268;5
+1773;53;Nusa Tenggara Timur;5307;Sikka;Kabupaten;2021;73.54;252;5
+1774;53;Nusa Tenggara Timur;5308;Ende;Kabupaten;2021;69.5;298;5
+1775;53;Nusa Tenggara Timur;5309;Ngada;Kabupaten;2021;79.87;136;6
+1776;53;Nusa Tenggara Timur;5310;Manggarai;Kabupaten;2021;71.88;276;5
+1777;53;Nusa Tenggara Timur;5314;Rote Ndao;Kabupaten;2021;66.41;321;4
+1778;53;Nusa Tenggara Timur;5315;Manggarai Barat;Kabupaten;2021;71.92;274;5
+1779;53;Nusa Tenggara Timur;5317;Sumba Tengah;Kabupaten;2021;61.94;335;4
+1780;53;Nusa Tenggara Timur;5318;Sumba Barat Daya;Kabupaten;2021;57.96;352;3
+1781;53;Nusa Tenggara Timur;5316;Nagekeo;Kabupaten;2021;74.39;236;5
+1782;53;Nusa Tenggara Timur;5319;Manggarai Timur;Kabupaten;2021;61.74;338;4
+1783;53;Nusa Tenggara Timur;5320;Sabu Raijua;Kabupaten;2021;51.03;373;2
+1784;53;Nusa Tenggara Timur;5321;Malaka;Kabupaten;2021;67.08;316;4
+1785;61;Kalimantan Barat;6101;Sambas;Kabupaten;2021;68.16;309;5
+1786;61;Kalimantan Barat;6107;Bengkayang;Kabupaten;2021;79.55;146;6
+1787;61;Kalimantan Barat;6108;Landak;Kabupaten;2021;75.23;227;5
+1788;61;Kalimantan Barat;6102;Mempawah;Kabupaten;2021;74.36;238;5
+1789;61;Kalimantan Barat;6103;Sanggau;Kabupaten;2021;76;215;6
+1790;61;Kalimantan Barat;6104;Ketapang;Kabupaten;2021;74.05;244;5
+1791;61;Kalimantan Barat;6105;Sintang;Kabupaten;2021;71.51;281;5
+1792;61;Kalimantan Barat;6106;Kapuas Hulu;Kabupaten;2021;72.41;267;5
+1793;61;Kalimantan Barat;6109;Sekadau;Kabupaten;2021;73.13;257;5
+1794;61;Kalimantan Barat;6110;Melawai;Kabupaten;2021;59.18;348;3
+1795;61;Kalimantan Barat;6111;Kayong Utara;Kabupaten;2021;72.56;265;5
+1796;61;Kalimantan Barat;6112;Kubu Raya;Kabupaten;2021;72.47;266;5
+1797;62;Kalimantan Tengah;6201;Kotawaringin Barat;Kabupaten;2021;60.1;346;4
+1798;62;Kalimantan Tengah;6202;Kotawaringin Timur;Kabupaten;2021;77.56;185;6
+1799;62;Kalimantan Tengah;6203;Kapuas;Kabupaten;2021;78.39;170;6
+1800;62;Kalimantan Tengah;6204;Barito Selatan;Kabupaten;2021;75.72;219;6
+1801;62;Kalimantan Tengah;6205;Barito Utara;Kabupaten;2021;84.77;40;6
+1802;62;Kalimantan Tengah;6208;Sukamara;Kabupaten;2021;69.81;295;5
+1803;62;Kalimantan Tengah;6209;Lamandau;Kabupaten;2021;79.43;148;6
+1804;62;Kalimantan Tengah;6207;Seruyan;Kabupaten;2021;70.87;286;5
+1805;62;Kalimantan Tengah;6206;Katingan;Kabupaten;2021;77.89;175;6
+1806;62;Kalimantan Tengah;6211;Pulang Pisau;Kabupaten;2021;81.05;108;6
+1807;62;Kalimantan Tengah;6210;Gunung Mas;Kabupaten;2021;53.15;367;3
+1808;62;Kalimantan Tengah;6213;Barito Timur;Kabupaten;2021;76.16;211;6
+1809;62;Kalimantan Tengah;6212;Murung Raya;Kabupaten;2021;65.97;327;4
+1810;63;Kalimantan Selatan;6301;Tanah Laut;Kabupaten;2021;81.61;97;6
+1811;63;Kalimantan Selatan;6302;Kota Baru;Kabupaten;2021;78.85;161;6
+1812;63;Kalimantan Selatan;6303;Banjar;Kabupaten;2021;80.72;114;6
+1813;63;Kalimantan Selatan;6304;Barito Kuala;Kabupaten;2021;79.19;153;6
+1814;63;Kalimantan Selatan;6305;Tapin;Kabupaten;2021;85.18;32;6
+1815;63;Kalimantan Selatan;6306;Hulu Sungai Selatan;Kabupaten;2021;80.26;126;6
+1816;63;Kalimantan Selatan;6307;Hulu Sungai Tengah;Kabupaten;2021;79.86;137;6
+1817;63;Kalimantan Selatan;6308;Hulu Sungai Utara;Kabupaten;2021;81.05;109;6
+1818;63;Kalimantan Selatan;6309;Tabalong;Kabupaten;2021;81.82;91;6
+1819;63;Kalimantan Selatan;6310;Tanah Bumbu;Kabupaten;2021;85.56;24;6
+1820;63;Kalimantan Selatan;6311;Balangan;Kabupaten;2021;79.11;155;6
+1821;64;Kalimantan Timur;6401;Paser;Kabupaten;2021;80.48;123;6
+1822;64;Kalimantan Timur;6407;Kutai Barat;Kabupaten;2021;57.76;353;3
+1823;64;Kalimantan Timur;6402;Kutai Kertanegara;Kabupaten;2021;84.73;41;6
+1824;64;Kalimantan Timur;6408;Kutai Timur;Kabupaten;2021;66.19;324;4
+1825;64;Kalimantan Timur;6403;Berau;Kabupaten;2021;86.77;12;6
+1826;64;Kalimantan Timur;6409;Penajam Paser Utara;Kabupaten;2021;86.24;16;6
+1827;64;Kalimantan Timur;6411;Mahakam Ulu;Kabupaten;2021;52.75;368;3
+1828;65;Kalimantan Utara;6502;Malinau;Kabupaten;2021;73.66;249;5
+1829;65;Kalimantan Utara;6501;Bulungan;Kabupaten;2021;77.19;195;6
+1830;65;Kalimantan Utara;6504;Tana Tidung;Kabupaten;2021;56;358;3
+1831;65;Kalimantan Utara;6503;Nunukan;Kabupaten;2021;76.25;206;6
+1832;71;Sulawesi Utara;7101;Bolaang Mongondow;Kabupaten;2021;84.84;38;6
+1833;71;Sulawesi Utara;7102;Minahasa;Kabupaten;2021;85.46;26;6
+1834;71;Sulawesi Utara;7103;Kepulauan Sangihe;Kabupaten;2021;54.33;363;3
+1835;71;Sulawesi Utara;7104;Kepulauan Talaud;Kabupaten;2021;82.18;84;6
+1836;71;Sulawesi Utara;7105;Minahasa Selatan;Kabupaten;2021;83.45;58;6
+1837;71;Sulawesi Utara;7106;Minahasa Utara;Kabupaten;2021;88.18;7;6
+1838;71;Sulawesi Utara;7108;Bolaang Mongondow Utara;Kabupaten;2021;82.95;72;6
+1839;71;Sulawesi Utara;7109;Kepulauan Siau Tagulandang Biaro;Kabupaten;2021;53.28;366;3
+1840;71;Sulawesi Utara;7107;Minahasa Tenggara;Kabupaten;2021;84.64;43;6
+1841;71;Sulawesi Utara;7111;Bolaang Mongondow Selatan;Kabupaten;2021;76.72;200;6
+1842;71;Sulawesi Utara;7110;Bolaang Mongondow Timur;Kabupaten;2021;81.85;90;6
+1843;72;Sulawesi Tengah;7207;Banggai Kepulauan;Kabupaten;2021;61.89;336;4
+1844;72;Sulawesi Tengah;7201;Banggai;Kabupaten;2021;85.15;33;6
+1845;72;Sulawesi Tengah;7206;Morowali;Kabupaten;2021;81.98;88;6
+1846;72;Sulawesi Tengah;7202;Poso;Kabupaten;2021;83.76;53;6
+1847;72;Sulawesi Tengah;7203;Donggala;Kabupaten;2021;73.55;251;5
+1848;72;Sulawesi Tengah;7204;Toli-Toli;Kabupaten;2021;78.95;159;6
+1849;72;Sulawesi Tengah;7205;Buol;Kabupaten;2021;80.71;115;6
+1850;72;Sulawesi Tengah;7208;Parigi Moutong;Kabupaten;2021;75.03;228;5
+1851;72;Sulawesi Tengah;7209;Tojo Una-Una;Kabupaten;2021;77.9;174;6
+1852;72;Sulawesi Tengah;7210;Sigi;Kabupaten;2021;75.54;221;5
+1853;72;Sulawesi Tengah;7211;Banggai Laut;Kabupaten;2021;49.41;377;2
+1854;72;Sulawesi Tengah;7212;Morowali Utara;Kabupaten;2021;79.63;143;6
+1855;73;Sulawesi Selatan;7301;Selayar;Kabupaten;2021;71.01;284;5
+1856;73;Sulawesi Selatan;7302;Bulukumba;Kabupaten;2021;82.1;87;6
+1857;73;Sulawesi Selatan;7303;Bantaeng;Kabupaten;2021;85.41;27;6
+1858;73;Sulawesi Selatan;7304;Jeneponto;Kabupaten;2021;78.55;169;6
+1859;73;Sulawesi Selatan;7305;Takalar;Kabupaten;2021;83.36;60;6
+1860;73;Sulawesi Selatan;7306;Gowa;Kabupaten;2021;82.91;73;6
+1861;73;Sulawesi Selatan;7307;Sinjai;Kabupaten;2021;82.12;86;6
+1862;73;Sulawesi Selatan;7309;Maros;Kabupaten;2021;83.12;65;6
+1863;73;Sulawesi Selatan;7310;Pangkajene dan Kepulauan;Kabupaten;2021;77.61;182;6
+1864;73;Sulawesi Selatan;7311;Barru;Kabupaten;2021;85.31;29;6
+1865;73;Sulawesi Selatan;7308;Bone;Kabupaten;2021;81.46;100;6
+1866;73;Sulawesi Selatan;7312;Soppeng;Kabupaten;2021;81.5;99;6
+1867;73;Sulawesi Selatan;7313;Wajo;Kabupaten;2021;82.81;76;6
+1868;73;Sulawesi Selatan;7314;Sidenreng Rappang;Kabupaten;2021;84.79;39;6
+1869;73;Sulawesi Selatan;7315;Pinrang;Kabupaten;2021;83.48;57;6
+1870;73;Sulawesi Selatan;7316;Enrekang;Kabupaten;2021;79.07;156;6
+1871;73;Sulawesi Selatan;7317;Luwu;Kabupaten;2021;81.28;102;6
+1872;73;Sulawesi Selatan;7318;Tana Toraja;Kabupaten;2021;73.45;254;5
+1873;73;Sulawesi Selatan;7322;Luwu Utara;Kabupaten;2021;77.23;192;6
+1874;73;Sulawesi Selatan;7324;Luwu Timur;Kabupaten;2021;86.07;17;6
+1875;73;Sulawesi Selatan;7326;Toraja Utara;Kabupaten;2021;77.86;176;6
+1876;74;Sulawesi Tenggara;7404;Buton;Kabupaten;2021;72.83;260;5
+1877;74;Sulawesi Tenggara;7403;Muna;Kabupaten;2021;76.62;202;6
+1878;74;Sulawesi Tenggara;7402;Konawe;Kabupaten;2021;84.1;49;6
+1879;74;Sulawesi Tenggara;7401;Kolaka;Kabupaten;2021;81.11;107;6
+1880;74;Sulawesi Tenggara;7405;Konawe Selatan;Kabupaten;2021;81.14;106;6
+1881;74;Sulawesi Tenggara;7406;Bombana;Kabupaten;2021;83.11;66;6
+1882;74;Sulawesi Tenggara;7407;Wakatobi;Kabupaten;2021;67.27;315;4
+1883;74;Sulawesi Tenggara;7408;Kolaka Utara;Kabupaten;2021;77.78;178;6
+1884;74;Sulawesi Tenggara;7410;Buton Utara;Kabupaten;2021;75.35;224;5
+1885;74;Sulawesi Tenggara;7409;Konawe Utara;Kabupaten;2021;73.87;246;5
+1886;74;Sulawesi Tenggara;7411;Kolaka Timur;Kabupaten;2021;81.68;95;6
+1887;74;Sulawesi Tenggara;7412;Konawe Kepulauan;Kabupaten;2021;70.88;285;5
+1888;74;Sulawesi Tenggara;7413;Muna Barat;Kabupaten;2021;75.91;217;6
+1889;74;Sulawesi Tenggara;7414;Buton Tengah;Kabupaten;2021;73.83;247;5
+1890;74;Sulawesi Tenggara;7415;Buton Selatan;Kabupaten;2021;70.34;291;5
+1891;75;Gorontalo;7502;Boalemo;Kabupaten;2021;80.21;128;6
+1892;75;Gorontalo;7501;Gorontalo;Kabupaten;2021;79.25;152;6
+1893;75;Gorontalo;7504;Pohuwato;Kabupaten;2021;80.52;121;6
+1894;75;Gorontalo;7503;Bone Bolango;Kabupaten;2021;81.62;96;6
+1895;75;Gorontalo;7505;Gorontalo Utara;Kabupaten;2021;79.76;141;6
+1896;76;Sulawesi Barat;7605;Majene;Kabupaten;2021;68.63;305;5
+1897;76;Sulawesi Barat;7604;Polewali Mandar;Kabupaten;2021;73.57;250;5
+1898;76;Sulawesi Barat;7603;Mamasa;Kabupaten;2021;69.68;297;5
+1899;76;Sulawesi Barat;7602;Mamuju;Kabupaten;2021;80.89;110;6
+1900;76;Sulawesi Barat;7601;Mamuju Utara;Kabupaten;2021;77.83;177;6
+1901;76;Sulawesi Barat;7606;Mamuju Tengah;Kabupaten;2021;82.34;81;6
+1902;81;Maluku;8103;Kepulauan Tanimbar;Kabupaten;2021;45.36;384;2
+1903;81;Maluku;8102;Maluku Tenggara;Kabupaten;2021;49.03;380;2
+1904;81;Maluku;8101;Maluku Tengah;Kabupaten;2021;71.74;277;5
+1905;81;Maluku;8104;Buru;Kabupaten;2021;77.23;191;6
+1906;81;Maluku;8107;Kepulauan Aru;Kabupaten;2021;40.76;390;1
+1907;81;Maluku;8106;Seram Bagian Barat;Kabupaten;2021;57.14;356;3
+1908;81;Maluku;8105;Seram Bagian Timur;Kabupaten;2021;57.69;354;3
+1909;81;Maluku;8108;Maluku Barat Daya;Kabupaten;2021;67.53;311;4
+1910;81;Maluku;8109;Buru Selatan;Kabupaten;2021;55.67;359;3
+1911;82;Maluku Utara;8201;Halmahera Barat;Kabupaten;2021;52.06;369;3
+1912;82;Maluku Utara;8202;Halmahera Tengah;Kabupaten;2021;49.39;378;2
+1913;82;Maluku Utara;8205;Kepulauan Sula;Kabupaten;2021;51.85;371;3
+1914;82;Maluku Utara;8204;Halmahera Selatan;Kabupaten;2021;50.88;374;2
+1915;82;Maluku Utara;8203;Halmahera Utara;Kabupaten;2021;60.99;342;4
+1916;82;Maluku Utara;8206;Halmahera Timur;Kabupaten;2021;73.39;256;5
+1917;82;Maluku Utara;8207;Pulau Morotai;Kabupaten;2021;65.68;328;4
+1918;82;Maluku Utara;8208;Pulau Taliabu;Kabupaten;2021;46.37;381;2
+1919;92;Papua Barat;9203;Fak-Fak;Kabupaten;2021;45.06;385;2
+1920;92;Papua Barat;9208;Kaimana;Kabupaten;2021;45.73;383;2
+1921;92;Papua Barat;9207;Teluk Wondama;Kabupaten;2021;33.06;396;1
+1922;92;Papua Barat;9206;Teluk Bintuni;Kabupaten;2021;38.58;392;1
+1923;92;Papua Barat;9202;Manokwari;Kabupaten;2021;72.11;273;5
+1924;92;Papua Barat;9204;Sorong Selatan;Kabupaten;2021;39.74;391;1
+1925;92;Papua Barat;9201;Sorong;Kabupaten;2021;57.07;357;3
+1926;92;Papua Barat;9205;Raja Ampat;Kabupaten;2021;43.24;388;2
+1927;92;Papua Barat;9209;Tambrauw;Kabupaten;2021;22.47;407;1
+1928;92;Papua Barat;9210;Maybrat;Kabupaten;2021;34.59;395;1
+1929;92;Papua Barat;9211;Manokwari Selatan;Kabupaten;2021;65.31;329;4
+1930;92;Papua Barat;9212;Pegunungan Arfak;Kabupaten;2021;29.73;399;1
+1931;91;Papua;9301;Merauke;Kabupaten;2021;77.75;179;6
+1932;91;Papua;9501;Jayawijaya;Kabupaten;2021;24.58;405;1
+1933;91;Papua;9103;Jayapura;Kabupaten;2021;54.91;362;3
+1934;91;Papua;9401;Nabire;Kabupaten;2021;65;331;4
+1935;91;Papua;9105;Kepulauan Yapen;Kabupaten;2021;43.92;387;2
+1936;91;Papua;9106;Biak Namfor;Kabupaten;2021;49.07;379;2
+1937;91;Papua;9403;Paniai;Kabupaten;2021;27.74;401;1
+1938;91;Papua;9402;Puncak Jaya;Kabupaten;2021;26.15;402;1
+1939;91;Papua;9404;Mimika;Kabupaten;2021;55.37;360;3
+1940;91;Papua;9302;Boven Digoel;Kabupaten;2021;41.18;389;1
+1941;91;Papua;9303;Mappi;Kabupaten;2021;31.51;398;1
+1942;91;Papua;9304;Asmat;Kabupaten;2021;21.16;410;1
+1943;91;Papua;9503;Yahukimo;Kabupaten;2021;18.41;413;1
+1944;91;Papua;9502;Pegunungan Bintang;Kabupaten;2021;25.64;403;1
+1945;91;Papua;9504;Tolikara;Kabupaten;2021;24;406;1
+1946;91;Papua;9110;Sarmi;Kabupaten;2021;44.73;386;2
+1947;91;Papua;9111;Keerom;Kabupaten;2021;61.38;339;4
+1948;91;Papua;9115;Waropen;Kabupaten;2021;50.03;375;2
+1949;91;Papua;9119;Supiori;Kabupaten;2021;28.11;400;1
+1950;91;Papua;9120;Mamberamo Raya;Kabupaten;2021;21.95;409;1
+1951;91;Papua;9508;Nduga;Kabupaten;2021;14.89;416;1
+1952;91;Papua;9507;Lanny Jaya;Kabupaten;2021;25.53;404;1
+1953;91;Papua;9505;Mamberamo Tengah;Kabupaten;2021;22.31;408;1
+1954;91;Papua;9506;Yalimo;Kabupaten;2021;31.73;397;1
+1955;91;Papua;9405;Puncak;Kabupaten;2021;16.17;415;1
+1956;91;Papua;9406;Dogiyai;Kabupaten;2021;17.56;414;1
+1957;91;Papua;9407;Intan Jaya;Kabupaten;2021;19.38;411;1
+1958;91;Papua;9408;Deiyai;Kabupaten;2021;18.65;412;1
+1959;11;Aceh;1171;Kota Banda Aceh;Kota;2021;85.82;12;6
+1960;11;Aceh;1172;Kota Sabang;Kota;2021;67.15;83;5
+1961;11;Aceh;1174;Kota Langsa;Kota;2021;71.08;72;6
+1962;11;Aceh;1173;Kota Lhokseumawe;Kota;2021;67.45;82;5
+1963;11;Aceh;1175;Kota Subulussalam;Kota;2021;27.85;98;1
+1964;12;Sumatera Utara;1273;Kota Sibolga;Kota;2021;71.27;71;6
+1965;12;Sumatera Utara;1274;Kota Tanjung Balai;Kota;2021;54.3;93;4
+1966;12;Sumatera Utara;1272;Kota Pematang Siantar;Kota;2021;79.63;45;6
+1967;12;Sumatera Utara;1276;Kota Tebing Tinggi;Kota;2021;69.41;76;5
+1968;12;Sumatera Utara;1271;Kota Medan;Kota;2021;85.02;16;6
+1969;12;Sumatera Utara;1275;Kota Binjai;Kota;2021;81.49;38;6
+1970;12;Sumatera Utara;1277;Kota Padang Sidimpuan;Kota;2021;60.72;89;4
+1971;12;Sumatera Utara;1278;Kota Gunungsitoli;Kota;2021;45.67;96;3
+1972;13;Sumatera Barat;1371;Kota Padang;Kota;2021;87.73;6;6
+1973;13;Sumatera Barat;1372;Kota Solok;Kota;2021;87.45;7;6
+1974;13;Sumatera Barat;1373;Kota Sawah Lunto;Kota;2021;69.82;75;5
+1975;13;Sumatera Barat;1374;Kota Padang Panjang;Kota;2021;83.65;29;6
+1976;13;Sumatera Barat;1375;Kota Bukittinggi;Kota;2021;88.9;3;6
+1977;13;Sumatera Barat;1376;Kota Payakumbuh;Kota;2021;84;24;6
+1978;13;Sumatera Barat;1377;Kota Pariaman;Kota;2021;72.93;65;6
+1979;14;Riau;1471;Kota Pekanbaru;Kota;2021;90.56;2;6
+1980;14;Riau;1472;Kota Dumai;Kota;2021;78.64;50;6
+1981;15;Jambi;1571;Kota Jambi;Kota;2021;79.73;44;6
+1982;15;Jambi;1572;Kota Sungai Penuh;Kota;2021;74.45;59;6
+1983;16;Sumatera Selatan;1671;Kota Palembang;Kota;2021;73.83;61;6
+1984;16;Sumatera Selatan;1674;Kota Prabumulih;Kota;2021;60.17;91;4
+1985;16;Sumatera Selatan;1672;Kota Pagar Alam;Kota;2021;47.09;95;3
+1986;16;Sumatera Selatan;1673;Kota Lubuklinggau;Kota;2021;53.91;94;4
+1987;17;Bengkulu;1771;Kota Bengkulu;Kota;2021;67.82;81;5
+1988;18;Lampung;1871;Kota Bandar Lampung;Kota;2021;74.17;60;6
+1989;18;Lampung;1872;Kota Metro;Kota;2021;76.74;54;6
+1990;19;Kepulauan Bangka Belitung;1971;Kota Pangkal Pinang;Kota;2021;84.59;18;6
+1991;21;Kepulauan Riau;2171;Kota Batam;Kota;2021;88.6;5;6
+1992;21;Kepulauan Riau;2172;Kota Tanjung Pinang;Kota;2021;79.8;42;6
+1993;31;DKI Jakarta;3174;Kota Jakarta Selatan;Kota;2021;84.41;19;6
+1994;31;DKI Jakarta;3175;Kota Jakarta Timur;Kota;2021;83.97;25;6
+1995;31;DKI Jakarta;3171;Kota Jakarta Pusat;Kota;2021;84.73;17;6
+1996;31;DKI Jakarta;3173;Kota Jakarta Barat;Kota;2021;84.01;23;6
+1997;31;DKI Jakarta;3172;Kota Jakarta Utara;Kota;2021;79.54;46;6
+1998;32;Jawa Barat;3271;Kota Bogor;Kota;2021;74.53;58;6
+1999;32;Jawa Barat;3272;Kota Sukabumi;Kota;2021;64.05;85;5
+2000;32;Jawa Barat;3273;Kota Bandung;Kota;2021;82.15;33;6
+2001;32;Jawa Barat;3274;Kota Cirebon;Kota;2021;73.01;63;6
+2002;32;Jawa Barat;3275;Kota Bekasi;Kota;2021;85.2;15;6
+2003;32;Jawa Barat;3276;Kota Depok;Kota;2021;86.04;11;6
+2004;32;Jawa Barat;3277;Kota Cimahi;Kota;2021;82.75;31;6
+2005;32;Jawa Barat;3278;Kota Tasikmalaya;Kota;2021;63.12;87;5
+2006;32;Jawa Barat;3279;Kota Banjar;Kota;2021;60.63;90;4
+2007;33;Jawa Tengah;3371;Kota Magelang;Kota;2021;82.59;32;6
+2008;33;Jawa Tengah;3372;Kota Surakarta;Kota;2021;77.92;53;6
+2009;33;Jawa Tengah;3373;Kota Salatiga;Kota;2021;85.55;13;6
+2010;33;Jawa Tengah;3374;Kota Semarang;Kota;2021;86.67;10;6
+2011;33;Jawa Tengah;3375;Kota Pekalongan;Kota;2021;68.85;78;5
+2012;33;Jawa Tengah;3376;Kota Tegal;Kota;2021;78.39;51;6
+2013;34;DI Yogyakarta;3471;Kota Yogyakarta;Kota;2021;81.88;35;6
+2014;35;Jawa Timur;3571;Kota Kediri;Kota;2021;68.6;80;5
+2015;35;Jawa Timur;3572;Kota Blitar;Kota;2021;68.69;79;5
+2016;35;Jawa Timur;3573;Kota Malang;Kota;2021;84.38;20;6
+2017;35;Jawa Timur;3574;Kota Probolinggo;Kota;2021;72.53;67;6
+2018;35;Jawa Timur;3575;Kota Pasuruan;Kota;2021;70.07;74;5
+2019;35;Jawa Timur;3576;Kota Mojokerto;Kota;2021;79.41;47;6
+2020;35;Jawa Timur;3577;Kota Madiun;Kota;2021;82.86;30;6
+2021;35;Jawa Timur;3578;Kota Surabaya;Kota;2021;85.25;14;6
+2022;35;Jawa Timur;3579;Kota Batu;Kota;2021;74.74;57;6
+2023;36;Banten;3671;Kota Tangerang;Kota;2021;78.88;49;6
+2024;36;Banten;3672;Kota Cilegon;Kota;2021;71.42;70;6
+2025;36;Banten;3673;Kota Serang;Kota;2021;61.24;88;5
+2026;36;Banten;3674;Kota Tangerang Selatan;Kota;2021;83.74;27;6
+2027;51;Bali;5171;Kota Denpasar;Kota;2021;93.97;1;6
+2028;52;Nusa Tenggara Barat;5271;Kota Mataram;Kota;2021;73.44;62;6
+2029;52;Nusa Tenggara Barat;5272;Kota Bima;Kota;2021;69.28;77;5
+2030;53;Nusa Tenggara Timur;5371;Kota Kupang;Kota;2021;75.64;55;6
+2031;61;Kalimantan Barat;6171;Kota Pontianak;Kota;2021;66.57;84;5
+2032;61;Kalimantan Barat;6172;Kota Singkawang;Kota;2021;63.22;86;5
+2033;62;Kalimantan Tengah;6271;Kota Palangka Raya;Kota;2021;80.6;40;6
+2034;63;Kalimantan Selatan;6371;Kota Banjarmasin;Kota;2021;78.34;52;6
+2035;63;Kalimantan Selatan;6372;Kota Banjar Baru;Kota;2021;72.23;68;6
+2036;64;Kalimantan Timur;6471;Kota Balikpapan;Kota;2021;88.68;4;6
+2037;64;Kalimantan Timur;6472;Kota Samarinda;Kota;2021;83.72;28;6
+2038;64;Kalimantan Timur;6474;Kota Bontang;Kota;2021;87.24;8;6
+2039;65;Kalimantan Utara;6571;Kota Tarakan;Kota;2021;82.02;34;6
+2040;71;Sulawesi Utara;7171;Kota Manado;Kota;2021;84.13;22;6
+2041;71;Sulawesi Utara;7172;Kota Bitung;Kota;2021;72.97;64;6
+2042;71;Sulawesi Utara;7173;Kota Tomohon;Kota;2021;80.32;41;6
+2043;71;Sulawesi Utara;7174;Kota Kotamobago;Kota;2021;79.13;48;6
+2044;72;Sulawesi Tengah;7271;Kota Palu;Kota;2021;80.92;39;6
+2045;73;Sulawesi Selatan;7371;Kota Makasar;Kota;2021;83.81;26;6
+2046;73;Sulawesi Selatan;7372;Kota Pare-Pare;Kota;2021;79.8;43;6
+2047;73;Sulawesi Selatan;7373;Kota Palopo;Kota;2021;75.48;56;6
+2048;74;Sulawesi Tenggara;7471;Kota Kendari;Kota;2021;84.28;21;6
+2049;74;Sulawesi Tenggara;7472;Kota Bau-Bau;Kota;2021;72.7;66;6
+2050;75;Gorontalo;7571;Kota Gorontalo;Kota;2021;81.79;36;6
+2051;81;Maluku;8171;Kota Ambon;Kota;2021;81.71;37;6
+2052;81;Maluku;8172;Kota Tual;Kota;2021;41.83;97;3
+2053;82;Maluku Utara;8271;Kota Ternate;Kota;2021;86.74;9;6
+2054;82;Maluku Utara;8272;Kota Tidore Kepulauan;Kota;2021;58.48;92;4
+2055;91;Papua Barat;9271;Kota Sorong;Kota;2021;71.89;69;6
+2056;94;Papua;9171;Kota Jayapura;Kota;2021;70.18;73;5
+2057;11;Aceh;1109;Simeulue;Kabupaten;2022;74.63;229;5
+2058;11;Aceh;1110;Aceh Singkil;Kabupaten;2022;51.88;375;3
+2059;11;Aceh;1101;Aceh Selatan;Kabupaten;2022;71.02;274;5
+2060;11;Aceh;1102;Aceh Tenggara;Kabupaten;2022;77.39;188;6
+2061;11;Aceh;1103;Aceh Timur;Kabupaten;2022;76.55;200;6
+2062;11;Aceh;1104;Aceh Tengah;Kabupaten;2022;63.93;326;4
+2063;11;Aceh;1105;Aceh Barat;Kabupaten;2022;77.56;184;6
+2064;11;Aceh;1106;Aceh Besar;Kabupaten;2022;81.49;100;6
+2065;11;Aceh;1107;Pidie;Kabupaten;2022;72.52;256;5
+2066;11;Aceh;1111;Bireuen;Kabupaten;2022;78.79;159;6
+2067;11;Aceh;1108;Aceh Utara;Kabupaten;2022;75.85;211;6
+2068;11;Aceh;1112;Aceh Barat Daya;Kabupaten;2022;75.91;205;6
+2069;11;Aceh;1113;Gayo Lues;Kabupaten;2022;72.31;260;5
+2070;11;Aceh;1116;Aceh Tamiang;Kabupaten;2022;79.33;149;6
+2071;11;Aceh;1115;Nagan Raya;Kabupaten;2022;74.47;232;5
+2072;11;Aceh;1114;Aceh Jaya;Kabupaten;2022;77.41;186;6
+2073;11;Aceh;1117;Bener Meriah;Kabupaten;2022;48.14;381;2
+2074;11;Aceh;1118;Pidie Jaya;Kabupaten;2022;76.06;204;6
+2075;12;Sumatera Utara;1204;Nias;Kabupaten;2022;69.99;287;5
+2076;12;Sumatera Utara;1213;Mandailing Natal;Kabupaten;2022;66.36;317;4
+2077;12;Sumatera Utara;1203;Tapanuli Selatan;Kabupaten;2022;72.68;255;5
+2078;12;Sumatera Utara;1201;Tapanuli Tengah;Kabupaten;2022;70.89;277;5
+2079;12;Sumatera Utara;1202;Tapanuli Utara;Kabupaten;2022;76.3;203;6
+2080;12;Sumatera Utara;1212;Toba Samosir;Kabupaten;2022;82.79;77;6
+2081;12;Sumatera Utara;1210;Labuhan Batu;Kabupaten;2022;75.83;212;6
+2082;12;Sumatera Utara;1209;Asahan;Kabupaten;2022;71.65;266;5
+2083;12;Sumatera Utara;1208;Simalungun;Kabupaten;2022;80.84;114;6
+2084;12;Sumatera Utara;1211;Dairi;Kabupaten;2022;80.17;132;6
+2085;12;Sumatera Utara;1206;Karo;Kabupaten;2022;80.36;124;6
+2086;12;Sumatera Utara;1207;Deli Serdang;Kabupaten;2022;87.15;12;6
+2087;12;Sumatera Utara;1205;Langkat;Kabupaten;2022;75.36;215;5
+2088;12;Sumatera Utara;1214;Nias Selatan;Kabupaten;2022;65.8;318;4
+2089;12;Sumatera Utara;1216;Humbang Hasundutan;Kabupaten;2022;77.91;178;6
+2090;12;Sumatera Utara;1215;Pakpak Bharat;Kabupaten;2022;70.52;284;5
+2091;12;Sumatera Utara;1217;Samosir;Kabupaten;2022;75.06;220;5
+2092;12;Sumatera Utara;1218;Serdang Bedagai;Kabupaten;2022;82.13;87;6
+2093;12;Sumatera Utara;1219;Batu Bara;Kabupaten;2022;74.65;228;5
+2094;12;Sumatera Utara;1220;Padang Lawas Utara;Kabupaten;2022;71.74;264;5
+2095;12;Sumatera Utara;1221;Padang Lawas;Kabupaten;2022;70.97;275;5
+2096;12;Sumatera Utara;1222;Labuhan Batu Selatan;Kabupaten;2022;54.52;366;3
+2097;12;Sumatera Utara;1223;Labuhan Batu Utara;Kabupaten;2022;71.34;269;5
+2098;12;Sumatera Utara;1224;Nias Utara;Kabupaten;2022;67.12;311;4
+2099;12;Sumatera Utara;1225;Nias Barat;Kabupaten;2022;60.6;340;4
+2100;13;Sumatera Barat;1309;Kepulauan Mentawai;Kabupaten;2022;52.48;373;3
+2101;13;Sumatera Barat;1301;Pesisir Selatan;Kabupaten;2022;83.53;58;6
+2102;13;Sumatera Barat;1302;Solok;Kabupaten;2022;78.29;173;6
+2103;13;Sumatera Barat;1303;Sijunjung;Kabupaten;2022;77.88;180;6
+2104;13;Sumatera Barat;1304;Tanah Datar;Kabupaten;2022;85.92;25;6
+2105;13;Sumatera Barat;1305;Padang Pariaman;Kabupaten;2022;81.14;106;6
+2106;13;Sumatera Barat;1306;Agam;Kabupaten;2022;85.34;31;6
+2107;13;Sumatera Barat;1307;Limapuluh Koto;Kabupaten;2022;80.32;127;6
+2108;13;Sumatera Barat;1308;Pasaman;Kabupaten;2022;80.93;112;6
+2109;13;Sumatera Barat;1311;Solok Selatan;Kabupaten;2022;83.2;68;6
+2110;13;Sumatera Barat;1310;Dharmas Raya;Kabupaten;2022;81.15;105;6
+2111;13;Sumatera Barat;1312;Pasaman Barat;Kabupaten;2022;80.82;115;6
+2112;14;Riau;1409;Kuantan Sengingi;Kabupaten;2022;70.7;278;5
+2113;14;Riau;1402;Indragiri Hulu;Kabupaten;2022;57.96;355;3
+2114;14;Riau;1404;Indragiri Hilir;Kabupaten;2022;68.38;300;5
+2115;14;Riau;1405;Pelalawan;Kabupaten;2022;69.68;289;5
+2116;14;Riau;1408;Siak;Kabupaten;2022;76.87;197;6
+2117;14;Riau;1401;Kampar;Kabupaten;2022;56.28;362;3
+2118;14;Riau;1406;Rokan Hulu;Kabupaten;2022;54.91;365;3
+2119;14;Riau;1403;Bengkalis;Kabupaten;2022;62.61;332;4
+2120;14;Riau;1407;Rokan Hilir;Kabupaten;2022;66.46;315;4
+2121;14;Riau;1410;Kepulauan Meranti;Kabupaten;2022;68.06;304;5
+2122;15;Jambi;1501;Kerinci;Kabupaten;2022;81.94;90;6
+2123;15;Jambi;1502;Merangin;Kabupaten;2022;71.02;273;5
+2124;15;Jambi;1503;Sarolangun;Kabupaten;2022;64.47;324;4
+2125;15;Jambi;1504;Batang Hari;Kabupaten;2022;70.52;282;5
+2126;15;Jambi;1505;Muaro Jambi;Kabupaten;2022;65.37;322;4
+2127;15;Jambi;1507;Tanjung Jabung Timur;Kabupaten;2022;70.65;279;5
+2128;15;Jambi;1506;Tanjung Jabung Barat;Kabupaten;2022;69.66;290;5
+2129;15;Jambi;1509;Tebo;Kabupaten;2022;70.52;283;5
+2130;15;Jambi;1508;Bungo;Kabupaten;2022;62.93;331;4
+2131;16;Sumatera Selatan;1601;Ogan Komering Ulu;Kabupaten;2022;71.1;272;5
+2132;16;Sumatera Selatan;1602;Ogan Komering Ilir;Kabupaten;2022;75.89;206;6
+2133;16;Sumatera Selatan;1603;Muara Enim;Kabupaten;2022;71.29;270;5
+2134;16;Sumatera Selatan;1604;Lahat;Kabupaten;2022;72;261;5
+2135;16;Sumatera Selatan;1605;Musi Rawas;Kabupaten;2022;77.38;189;6
+2136;16;Sumatera Selatan;1606;Musi Banyuasin;Kabupaten;2022;77.89;179;6
+2137;16;Sumatera Selatan;1607;Banyuasin;Kabupaten;2022;77.97;176;6
+2138;16;Sumatera Selatan;1609;Ogan Komering Ulu Selatan;Kabupaten;2022;74.46;233;5
+2139;16;Sumatera Selatan;1608;Ogan Komering Ulu Timur;Kabupaten;2022;81.01;110;6
+2140;16;Sumatera Selatan;1610;Ogan Ilir;Kabupaten;2022;73.28;250;5
+2141;16;Sumatera Selatan;1611;Empat Lawang;Kabupaten;2022;65.25;323;4
+2142;16;Sumatera Selatan;1612;Penukal Abab Lematang Ilir;Kabupaten;2022;72.46;257;5
+2143;16;Sumatera Selatan;1613;Musi Rawas Utara;Kabupaten;2022;59.23;347;3
+2144;17;Bengkulu;1701;Bengkulu Selatan;Kabupaten;2022;73.67;243;5
+2145;17;Bengkulu;1702;Rejang Lebong;Kabupaten;2022;66.68;314;4
+2146;17;Bengkulu;1703;Bengkulu Utara;Kabupaten;2022;58.31;353;3
+2147;17;Bengkulu;1704;Kaur;Kabupaten;2022;71.51;268;5
+2148;17;Bengkulu;1705;Seluma;Kabupaten;2022;68.54;299;5
+2149;17;Bengkulu;1706;Mukomuko;Kabupaten;2022;71.78;263;5
+2150;17;Bengkulu;1707;Lebong;Kabupaten;2022;74.86;224;5
+2151;17;Bengkulu;1708;Kepahiang;Kabupaten;2022;67.14;310;4
+2152;17;Bengkulu;1709;Bengkulu Tengah;Kabupaten;2022;62.12;334;4
+2153;18;Lampung;1804;Lampung Barat;Kabupaten;2022;74.34;236;5
+2154;18;Lampung;1806;Tanggamus;Kabupaten;2022;73.6;246;5
+2155;18;Lampung;1801;Lampung Selatan;Kabupaten;2022;81.81;94;6
+2156;18;Lampung;1807;Lampung Timur;Kabupaten;2022;82.78;79;6
+2157;18;Lampung;1802;Lampung Tengah;Kabupaten;2022;81.07;108;6
+2158;18;Lampung;1803;Lampung Utara;Kabupaten;2022;75;223;5
+2159;18;Lampung;1808;Way Kanan;Kabupaten;2022;78.34;172;6
+2160;18;Lampung;1805;Tulang Bawang;Kabupaten;2022;86.25;18;6
+2161;18;Lampung;1809;Pesawaran;Kabupaten;2022;77.86;181;6
+2162;18;Lampung;1810;Pringsewu;Kabupaten;2022;84.14;48;6
+2163;18;Lampung;1811;Mesuji;Kabupaten;2022;85.62;28;6
+2164;18;Lampung;1812;Tulang Bawang Barat;Kabupaten;2022;79.84;138;6
+2165;18;Lampung;1813;Pesisir Barat;Kabupaten;2022;71.71;265;5
+2166;19;Kepulauan Bangka Belitung;1901;Bangka;Kabupaten;2022;80.26;129;6
+2167;19;Kepulauan Bangka Belitung;1902;Belitung;Kabupaten;2022;61.55;336;4
+2168;19;Kepulauan Bangka Belitung;1905;Bangka Barat;Kabupaten;2022;75.05;221;5
+2169;19;Kepulauan Bangka Belitung;1904;Bangka Tengah;Kabupaten;2022;57.97;354;3
+2170;19;Kepulauan Bangka Belitung;1903;Bangka Selatan;Kabupaten;2022;83.38;60;6
+2171;19;Kepulauan Bangka Belitung;1906;Belitung Timur;Kabupaten;2022;60.5;341;4
+2172;21;Kepulauan Riau;2102;Karimun;Kabupaten;2022;58.76;350;3
+2173;21;Kepulauan Riau;2101;Bintan;Kabupaten;2022;57.68;358;3
+2174;21;Kepulauan Riau;2103;Natuna;Kabupaten;2022;57.86;356;3
+2175;21;Kepulauan Riau;2104;Lingga;Kabupaten;2022;58.43;351;3
+2176;21;Kepulauan Riau;2105;Kepulauan Anambas;Kabupaten;2022;54.19;367;3
+2177;31;DKI Jakarta;3101;Kepulauan Seribu;Kabupaten;2022;54.18;368;3
+2178;32;Jawa Barat;3201;Bogor;Kabupaten;2022;68.61;297;5
+2179;32;Jawa Barat;3202;Sukabumi;Kabupaten;2022;77.29;190;6
+2180;32;Jawa Barat;3203;Cianjur;Kabupaten;2022;75.82;213;6
+2181;32;Jawa Barat;3204;Bandung;Kabupaten;2022;80.33;126;6
+2182;32;Jawa Barat;3205;Garut;Kabupaten;2022;74.49;231;5
+2183;32;Jawa Barat;3206;Tasikmalaya;Kabupaten;2022;75.88;208;6
+2184;32;Jawa Barat;3207;Ciamis;Kabupaten;2022;82.54;82;6
+2185;32;Jawa Barat;3208;Kuningan;Kabupaten;2022;80.24;130;6
+2186;32;Jawa Barat;3209;Cirebon;Kabupaten;2022;79.2;153;6
+2187;32;Jawa Barat;3210;Majalengka;Kabupaten;2022;79.44;147;6
+2188;32;Jawa Barat;3211;Sumedang;Kabupaten;2022;83.12;71;6
+2189;32;Jawa Barat;3212;Indramayu;Kabupaten;2022;84.64;41;6
+2190;32;Jawa Barat;3213;Subang;Kabupaten;2022;83.52;59;6
+2191;32;Jawa Barat;3214;Purwakarta;Kabupaten;2022;78.75;162;6
+2192;32;Jawa Barat;3215;Karawang;Kabupaten;2022;86.03;24;6
+2193;32;Jawa Barat;3216;Bekasi;Kabupaten;2022;86.15;22;6
+2194;32;Jawa Barat;3217;Bandung Barat;Kabupaten;2022;71.59;267;5
+2195;32;Jawa Barat;3218;Pangandaran;Kabupaten;2022;81.12;107;6
+2196;33;Jawa Tengah;3301;Cilacap;Kabupaten;2022;83.23;66;6
+2197;33;Jawa Tengah;3302;Banyumas;Kabupaten;2022;79.02;157;6
+2198;33;Jawa Tengah;3303;Purbalingga;Kabupaten;2022;79.25;152;6
+2199;33;Jawa Tengah;3304;Banjarnegara;Kabupaten;2022;78.61;167;6
+2200;33;Jawa Tengah;3305;Kebumen;Kabupaten;2022;79.29;150;6
+2201;33;Jawa Tengah;3306;Purworejo;Kabupaten;2022;84.48;44;6
+2202;33;Jawa Tengah;3307;Wonosobo;Kabupaten;2022;78.42;170;6
+2203;33;Jawa Tengah;3308;Magelang;Kabupaten;2022;79.44;146;6
+2204;33;Jawa Tengah;3309;Boyolali;Kabupaten;2022;85.26;34;6
+2205;33;Jawa Tengah;3310;Klaten;Kabupaten;2022;84.13;49;6
+2206;33;Jawa Tengah;3311;Sukoharjo;Kabupaten;2022;89.11;4;6
+2207;33;Jawa Tengah;3312;Wonogiri;Kabupaten;2022;88.15;5;6
+2208;33;Jawa Tengah;3313;Karanganyar;Kabupaten;2022;87.39;8;6
+2209;33;Jawa Tengah;3314;Sragen;Kabupaten;2022;87.53;7;6
+2210;33;Jawa Tengah;3315;Grobogan;Kabupaten;2022;87.27;10;6
+2211;33;Jawa Tengah;3316;Blora;Kabupaten;2022;87.03;13;6
+2212;33;Jawa Tengah;3317;Rembang;Kabupaten;2022;84.73;39;6
+2213;33;Jawa Tengah;3318;Pati;Kabupaten;2022;88.01;6;6
+2214;33;Jawa Tengah;3319;Kudus;Kabupaten;2022;87.21;11;6
+2215;33;Jawa Tengah;3320;Jepara;Kabupaten;2022;85.06;35;6
+2216;33;Jawa Tengah;3321;Demak;Kabupaten;2022;87.38;9;6
+2217;33;Jawa Tengah;3322;Semarang;Kabupaten;2022;86.31;17;6
+2218;33;Jawa Tengah;3323;Temanggung;Kabupaten;2022;80.08;135;6
+2219;33;Jawa Tengah;3324;Kendal;Kabupaten;2022;84.69;40;6
+2220;33;Jawa Tengah;3325;Batang;Kabupaten;2022;83.19;69;6
+2221;33;Jawa Tengah;3326;Pekalongan;Kabupaten;2022;80.39;122;6
+2222;33;Jawa Tengah;3327;Pemalang;Kabupaten;2022;78.51;169;6
+2223;33;Jawa Tengah;3328;Tegal;Kabupaten;2022;81.18;104;6
+2224;33;Jawa Tengah;3329;Brebes;Kabupaten;2022;76.74;199;6
+2225;34;DI Yogyakarta;3401;Kulon Progo;Kabupaten;2022;82.82;74;6
+2226;34;DI Yogyakarta;3402;Bantul;Kabupaten;2022;80.38;123;6
+2227;34;DI Yogyakarta;3403;Gunung Kidul;Kabupaten;2022;78.74;163;6
+2228;34;DI Yogyakarta;3404;Sleman;Kabupaten;2022;83.16;70;6
+2229;35;Jawa Timur;3501;Pacitan;Kabupaten;2022;77.73;183;6
+2230;35;Jawa Timur;3502;Ponorogo;Kabupaten;2022;86.2;19;6
+2231;35;Jawa Timur;3503;Trenggalek;Kabupaten;2022;80.68;116;6
+2232;35;Jawa Timur;3504;Tulungagung;Kabupaten;2022;86.05;23;6
+2233;35;Jawa Timur;3505;Blitar;Kabupaten;2022;84.34;47;6
+2234;35;Jawa Timur;3506;Kediri;Kabupaten;2022;79.16;155;6
+2235;35;Jawa Timur;3507;Malang;Kabupaten;2022;79.26;151;6
+2236;35;Jawa Timur;3508;Lumajang;Kabupaten;2022;79.34;148;6
+2237;35;Jawa Timur;3509;Jember;Kabupaten;2022;78.34;171;6
+2238;35;Jawa Timur;3510;Banyuwangi;Kabupaten;2022;83.82;54;6
+2239;35;Jawa Timur;3511;Bondowoso;Kabupaten;2022;73.78;242;5
+2240;35;Jawa Timur;3512;Situbondo;Kabupaten;2022;76.31;202;6
+2241;35;Jawa Timur;3513;Probolinggo;Kabupaten;2022;73;253;5
+2242;35;Jawa Timur;3514;Pasuruan;Kabupaten;2022;77.4;187;6
+2243;35;Jawa Timur;3515;Sidoarjo;Kabupaten;2022;82.87;73;6
+2244;35;Jawa Timur;3516;Mojokerto;Kabupaten;2022;84.06;50;6
+2245;35;Jawa Timur;3517;Jombang;Kabupaten;2022;83.89;53;6
+2246;35;Jawa Timur;3518;Nganjuk;Kabupaten;2022;81.82;92;6
+2247;35;Jawa Timur;3519;Madiun;Kabupaten;2022;83.93;52;6
+2248;35;Jawa Timur;3520;Magetan;Kabupaten;2022;86.36;15;6
+2249;35;Jawa Timur;3521;Ngawi;Kabupaten;2022;85.01;36;6
+2250;35;Jawa Timur;3522;Bojonegoro;Kabupaten;2022;83.55;56;6
+2251;35;Jawa Timur;3523;Tuban;Kabupaten;2022;83.02;72;6
+2252;35;Jawa Timur;3524;Lamongan;Kabupaten;2022;85.86;26;6
+2253;35;Jawa Timur;3525;Gresik;Kabupaten;2022;86.81;14;6
+2254;35;Jawa Timur;3526;Bangkalan;Kabupaten;2022;70.59;281;5
+2255;35;Jawa Timur;3527;Sampang;Kabupaten;2022;73.25;251;5
+2256;35;Jawa Timur;3528;Pamekasan;Kabupaten;2022;74.41;234;5
+2257;35;Jawa Timur;3529;Sumenep;Kabupaten;2022;74.01;240;5
+2258;36;Banten;3601;Pandeglang;Kabupaten;2022;72.32;259;5
+2259;36;Banten;3602;Lebak;Kabupaten;2022;71.96;262;5
+2260;36;Banten;3603;Tangerang;Kabupaten;2022;77;194;6
+2261;36;Banten;3604;Serang;Kabupaten;2022;78.63;166;6
+2262;51;Bali;5101;Jembrana;Kabupaten;2022;83.29;63;6
+2263;51;Bali;5102;Tabanan;Kabupaten;2022;92.2;1;6
+2264;51;Bali;5103;Badung;Kabupaten;2022;91.29;2;6
+2265;51;Bali;5104;Gianyar;Kabupaten;2022;91.07;3;6
+2266;51;Bali;5105;Klungkung;Kabupaten;2022;83.29;64;6
+2267;51;Bali;5106;Bangli;Kabupaten;2022;75.1;219;5
+2268;51;Bali;5107;Karangasem;Kabupaten;2022;78.79;160;6
+2269;51;Bali;5108;Buleleng;Kabupaten;2022;79.91;137;6
+2270;52;Nusa Tenggara Barat;5201;Lombok Barat;Kabupaten;2022;74.76;227;5
+2271;52;Nusa Tenggara Barat;5202;Lombok Tengah;Kabupaten;2022;77.06;192;6
+2272;52;Nusa Tenggara Barat;5203;Lombok Timur;Kabupaten;2022;73.87;241;5
+2273;52;Nusa Tenggara Barat;5204;Sumbawa;Kabupaten;2022;83.32;61;6
+2274;52;Nusa Tenggara Barat;5205;Dompu;Kabupaten;2022;81.3;103;6
+2275;52;Nusa Tenggara Barat;5206;Bima;Kabupaten;2022;80.39;121;6
+2276;52;Nusa Tenggara Barat;5207;Sumbawa Barat;Kabupaten;2022;84.39;46;6
+2277;52;Nusa Tenggara Barat;5208;Lombok Utara;Kabupaten;2022;68.17;302;5
+2278;53;Nusa Tenggara Timur;5312;Sumba Barat;Kabupaten;2022;68.08;303;5
+2279;53;Nusa Tenggara Timur;5311;Sumba Timur;Kabupaten;2022;69.3;294;5
+2280;53;Nusa Tenggara Timur;5301;Kupang;Kabupaten;2022;65.54;320;4
+2281;53;Nusa Tenggara Timur;5302;Timor Tengah Selatan;Kabupaten;2022;63.65;329;4
+2282;53;Nusa Tenggara Timur;5303;Timor Tengah Utara;Kabupaten;2022;69.36;293;5
+2283;53;Nusa Tenggara Timur;5304;Belu;Kabupaten;2022;70.48;285;5
+2284;53;Nusa Tenggara Timur;5305;Alor;Kabupaten;2022;58.97;349;3
+2285;53;Nusa Tenggara Timur;5313;Lembata;Kabupaten;2022;66.98;312;4
+2286;53;Nusa Tenggara Timur;5306;Flores Timur;Kabupaten;2022;73;252;5
+2287;53;Nusa Tenggara Timur;5307;Sikka;Kabupaten;2022;75.72;214;6
+2288;53;Nusa Tenggara Timur;5308;Ende;Kabupaten;2022;70.13;286;5
+2289;53;Nusa Tenggara Timur;5309;Ngada;Kabupaten;2022;78;174;6
+2290;53;Nusa Tenggara Timur;5310;Manggarai;Kabupaten;2022;74.27;237;5
+2291;53;Nusa Tenggara Timur;5314;Rote Ndao;Kabupaten;2022;68.23;301;5
+2292;53;Nusa Tenggara Timur;5315;Manggarai Barat;Kabupaten;2022;75.17;218;5
+2293;53;Nusa Tenggara Timur;5317;Sumba Tengah;Kabupaten;2022;63.76;327;4
+2294;53;Nusa Tenggara Timur;5318;Sumba Barat Daya;Kabupaten;2022;58.36;352;3
+2295;53;Nusa Tenggara Timur;5316;Nagekeo;Kabupaten;2022;73.33;248;5
+2296;53;Nusa Tenggara Timur;5319;Manggarai Timur;Kabupaten;2022;65.49;321;4
+2297;53;Nusa Tenggara Timur;5320;Sabu Raijua;Kabupaten;2022;55.04;364;3
+2298;53;Nusa Tenggara Timur;5321;Malaka;Kabupaten;2022;68.56;298;5
+2299;61;Kalimantan Barat;6101;Sambas;Kabupaten;2022;69.84;288;5
+2300;61;Kalimantan Barat;6107;Bengkayang;Kabupaten;2022;81;111;6
+2301;61;Kalimantan Barat;6108;Landak;Kabupaten;2022;77.07;191;6
+2302;61;Kalimantan Barat;6102;Mempawah;Kabupaten;2022;74.61;230;5
+2303;61;Kalimantan Barat;6103;Sanggau;Kabupaten;2022;73.63;245;5
+2304;61;Kalimantan Barat;6104;Ketapang;Kabupaten;2022;74.41;235;5
+2305;61;Kalimantan Barat;6105;Sintang;Kabupaten;2022;67.25;309;4
+2306;61;Kalimantan Barat;6106;Kapuas Hulu;Kabupaten;2022;70.9;276;5
+2307;61;Kalimantan Barat;6109;Sekadau;Kabupaten;2022;72.95;254;5
+2308;61;Kalimantan Barat;6110;Melawai;Kabupaten;2022;59.04;348;3
+2309;61;Kalimantan Barat;6111;Kayong Utara;Kabupaten;2022;75.03;222;5
+2310;61;Kalimantan Barat;6112;Kubu Raya;Kabupaten;2022;69.28;295;5
+2311;62;Kalimantan Tengah;6201;Kotawaringin Barat;Kabupaten;2022;60.23;342;4
+2312;62;Kalimantan Tengah;6202;Kotawaringin Timur;Kabupaten;2022;76.95;196;6
+2313;62;Kalimantan Tengah;6203;Kapuas;Kabupaten;2022;78.78;161;6
+2314;62;Kalimantan Tengah;6204;Barito Selatan;Kabupaten;2022;64.06;325;4
+2315;62;Kalimantan Tengah;6205;Barito Utara;Kabupaten;2022;83.2;67;6
+2316;62;Kalimantan Tengah;6208;Sukamara;Kabupaten;2022;60.1;343;4
+2317;62;Kalimantan Tengah;6209;Lamandau;Kabupaten;2022;74.81;225;5
+2318;62;Kalimantan Tengah;6207;Seruyan;Kabupaten;2022;62.55;333;4
+2319;62;Kalimantan Tengah;6206;Katingan;Kabupaten;2022;77.5;185;6
+2320;62;Kalimantan Tengah;6211;Pulang Pisau;Kabupaten;2022;79.76;140;6
+2321;62;Kalimantan Tengah;6210;Gunung Mas;Kabupaten;2022;53.74;369;3
+2322;62;Kalimantan Tengah;6213;Barito Timur;Kabupaten;2022;80.41;120;6
+2323;62;Kalimantan Tengah;6212;Murung Raya;Kabupaten;2022;48.08;382;2
+2324;63;Kalimantan Selatan;6301;Tanah Laut;Kabupaten;2022;82.06;88;6
+2325;63;Kalimantan Selatan;6302;Kota Baru;Kabupaten;2022;77.03;193;6
+2326;63;Kalimantan Selatan;6303;Banjar;Kabupaten;2022;80.17;131;6
+2327;63;Kalimantan Selatan;6304;Barito Kuala;Kabupaten;2022;81.02;109;6
+2328;63;Kalimantan Selatan;6305;Tapin;Kabupaten;2022;84.6;42;6
+2329;63;Kalimantan Selatan;6306;Hulu Sungai Selatan;Kabupaten;2022;79.59;143;6
+2330;63;Kalimantan Selatan;6307;Hulu Sungai Tengah;Kabupaten;2022;79.6;142;6
+2331;63;Kalimantan Selatan;6308;Hulu Sungai Utara;Kabupaten;2022;82.05;89;6
+2332;63;Kalimantan Selatan;6309;Tabalong;Kabupaten;2022;82.79;76;6
+2333;63;Kalimantan Selatan;6310;Tanah Bumbu;Kabupaten;2022;83.53;57;6
+2334;63;Kalimantan Selatan;6311;Balangan;Kabupaten;2022;81.38;101;6
+2335;64;Kalimantan Timur;6401;Paser;Kabupaten;2022;81.76;95;6
+2336;64;Kalimantan Timur;6407;Kutai Barat;Kabupaten;2022;66.94;313;4
+2337;64;Kalimantan Timur;6402;Kutai Kertanegara;Kabupaten;2022;84.44;45;6
+2338;64;Kalimantan Timur;6408;Kutai Timur;Kabupaten;2022;60.09;344;4
+2339;64;Kalimantan Timur;6403;Berau;Kabupaten;2022;86.16;21;6
+2340;64;Kalimantan Timur;6409;Penajam Paser Utara;Kabupaten;2022;85.51;29;6
+2341;64;Kalimantan Timur;6411;Mahakam Ulu;Kabupaten;2022;53.29;371;3
+2342;65;Kalimantan Utara;6502;Malinau;Kabupaten;2022;67.25;308;4
+2343;65;Kalimantan Utara;6501;Bulungan;Kabupaten;2022;77;195;6
+2344;65;Kalimantan Utara;6504;Tana Tidung;Kabupaten;2022;57.17;359;3
+2345;65;Kalimantan Utara;6503;Nunukan;Kabupaten;2022;75.87;210;6
+2346;71;Sulawesi Utara;7101;Bolaang Mongondow;Kabupaten;2022;83.26;65;6
+2347;71;Sulawesi Utara;7102;Minahasa;Kabupaten;2022;83.3;62;6
+2348;71;Sulawesi Utara;7103;Kepulauan Sangihe;Kabupaten;2022;56.15;363;3
+2349;71;Sulawesi Utara;7104;Kepulauan Talaud;Kabupaten;2022;79.72;141;6
+2350;71;Sulawesi Utara;7105;Minahasa Selatan;Kabupaten;2022;79.91;136;6
+2351;71;Sulawesi Utara;7106;Minahasa Utara;Kabupaten;2022;83.69;55;6
+2352;71;Sulawesi Utara;7108;Bolaang Mongondow Utara;Kabupaten;2022;80.09;134;6
+2353;71;Sulawesi Utara;7109;Kepulauan Siau Tagulandang Biaro;Kabupaten;2022;52.61;372;3
+2354;71;Sulawesi Utara;7107;Minahasa Tenggara;Kabupaten;2022;80.55;118;6
+2355;71;Sulawesi Utara;7111;Bolaang Mongondow Selatan;Kabupaten;2022;67.75;306;5
+2356;71;Sulawesi Utara;7110;Bolaang Mongondow Timur;Kabupaten;2022;77.76;182;6
+2357;72;Sulawesi Tengah;7207;Banggai Kepulauan;Kabupaten;2022;60.87;339;4
+2358;72;Sulawesi Tengah;7201;Banggai;Kabupaten;2022;85.73;27;6
+2359;72;Sulawesi Tengah;7206;Morowali;Kabupaten;2022;81.51;99;6
+2360;72;Sulawesi Tengah;7202;Poso;Kabupaten;2022;82.8;75;6
+2361;72;Sulawesi Tengah;7203;Donggala;Kabupaten;2022;75.3;216;5
+2362;72;Sulawesi Tengah;7204;Toli-Toli;Kabupaten;2022;78.64;165;6
+2363;72;Sulawesi Tengah;7205;Buol;Kabupaten;2022;82.79;78;6
+2364;72;Sulawesi Tengah;7208;Parigi Moutong;Kabupaten;2022;76.83;198;6
+2365;72;Sulawesi Tengah;7209;Tojo Una-Una;Kabupaten;2022;74.8;226;5
+2366;72;Sulawesi Tengah;7210;Sigi;Kabupaten;2022;77.94;177;6
+2367;72;Sulawesi Tengah;7211;Banggai Laut;Kabupaten;2022;50.35;378;2
+2368;72;Sulawesi Tengah;7212;Morowali Utara;Kabupaten;2022;79.5;145;6
+2369;73;Sulawesi Selatan;7301;Selayar;Kabupaten;2022;75.26;217;5
+2370;73;Sulawesi Selatan;7302;Bulukumba;Kabupaten;2022;82.5;83;6
+2371;73;Sulawesi Selatan;7303;Bantaeng;Kabupaten;2022;82.77;80;6
+2372;73;Sulawesi Selatan;7304;Jeneponto;Kabupaten;2022;79.51;144;6
+2373;73;Sulawesi Selatan;7305;Takalar;Kabupaten;2022;80.87;113;6
+2374;73;Sulawesi Selatan;7306;Gowa;Kabupaten;2022;82.13;86;6
+2375;73;Sulawesi Selatan;7307;Sinjai;Kabupaten;2022;81.62;98;6
+2376;73;Sulawesi Selatan;7309;Maros;Kabupaten;2022;81.81;93;6
+2377;73;Sulawesi Selatan;7310;Pangkajene dan Kepulauan;Kabupaten;2022;78.64;164;6
+2378;73;Sulawesi Selatan;7311;Barru;Kabupaten;2022;84.95;38;6
+2379;73;Sulawesi Selatan;7308;Bone;Kabupaten;2022;81.68;97;6
+2380;73;Sulawesi Selatan;7312;Soppeng;Kabupaten;2022;85.27;33;6
+2381;73;Sulawesi Selatan;7313;Wajo;Kabupaten;2022;85.46;30;6
+2382;73;Sulawesi Selatan;7314;Sidenreng Rappang;Kabupaten;2022;86.19;20;6
+2383;73;Sulawesi Selatan;7315;Pinrang;Kabupaten;2022;85.31;32;6
+2384;73;Sulawesi Selatan;7316;Enrekang;Kabupaten;2022;78.55;168;6
+2385;73;Sulawesi Selatan;7317;Luwu;Kabupaten;2022;81.88;91;6
+2386;73;Sulawesi Selatan;7318;Tana Toraja;Kabupaten;2022;76.52;201;6
+2387;73;Sulawesi Selatan;7322;Luwu Utara;Kabupaten;2022;80.27;128;6
+2388;73;Sulawesi Selatan;7324;Luwu Timur;Kabupaten;2022;86.36;16;6
+2389;73;Sulawesi Selatan;7326;Toraja Utara;Kabupaten;2022;79.18;154;6
+2390;74;Sulawesi Tenggara;7404;Buton;Kabupaten;2022;73.51;247;5
+2391;74;Sulawesi Tenggara;7403;Muna;Kabupaten;2022;75.88;209;6
+2392;74;Sulawesi Tenggara;7402;Konawe;Kabupaten;2022;84.53;43;6
+2393;74;Sulawesi Tenggara;7401;Kolaka;Kabupaten;2022;82.15;85;6
+2394;74;Sulawesi Tenggara;7405;Konawe Selatan;Kabupaten;2022;82.71;81;6
+2395;74;Sulawesi Tenggara;7406;Bombana;Kabupaten;2022;84.97;37;6
+2396;74;Sulawesi Tenggara;7407;Wakatobi;Kabupaten;2022;56.62;361;3
+2397;74;Sulawesi Tenggara;7408;Kolaka Utara;Kabupaten;2022;73.28;249;5
+2398;74;Sulawesi Tenggara;7410;Buton Utara;Kabupaten;2022;74.03;239;5
+2399;74;Sulawesi Tenggara;7409;Konawe Utara;Kabupaten;2022;75.89;207;6
+2400;74;Sulawesi Tenggara;7411;Kolaka Timur;Kabupaten;2022;84.04;51;6
+2401;74;Sulawesi Tenggara;7412;Konawe Kepulauan;Kabupaten;2022;60.04;345;4
+2402;74;Sulawesi Tenggara;7413;Muna Barat;Kabupaten;2022;77.99;175;6
+2403;74;Sulawesi Tenggara;7414;Buton Tengah;Kabupaten;2022;63.69;328;4
+2404;74;Sulawesi Tenggara;7415;Buton Selatan;Kabupaten;2022;68.05;305;5
+2405;75;Gorontalo;7502;Boalemo;Kabupaten;2022;81.71;96;6
+2406;75;Gorontalo;7501;Gorontalo;Kabupaten;2022;79.79;139;6
+2407;75;Gorontalo;7504;Pohuwato;Kabupaten;2022;80.47;119;6
+2408;75;Gorontalo;7503;Bone Bolango;Kabupaten;2022;78.84;158;6
+2409;75;Gorontalo;7505;Gorontalo Utara;Kabupaten;2022;80.34;125;6
+2410;76;Sulawesi Barat;7605;Majene;Kabupaten;2022;61.63;335;4
+2411;76;Sulawesi Barat;7604;Polewali Mandar;Kabupaten;2022;74.17;238;5
+2412;76;Sulawesi Barat;7603;Mamasa;Kabupaten;2022;71.22;271;5
+2413;76;Sulawesi Barat;7602;Mamuju;Kabupaten;2022;82.18;84;6
+2414;76;Sulawesi Barat;7601;Mamuju Utara;Kabupaten;2022;73.65;244;5
+2415;76;Sulawesi Barat;7606;Mamuju Tengah;Kabupaten;2022;81.37;102;6
+2416;81;Maluku;8103;Kepulauan Tanimbar;Kabupaten;2022;44.58;388;2
+2417;81;Maluku;8102;Maluku Tenggara;Kabupaten;2022;49.5;379;2
+2418;81;Maluku;8101;Maluku Tengah;Kabupaten;2022;69.62;291;5
+2419;81;Maluku;8104;Buru;Kabupaten;2022;79.02;156;6
+2420;81;Maluku;8107;Kepulauan Aru;Kabupaten;2022;42.36;391;2
+2421;81;Maluku;8106;Seram Bagian Barat;Kabupaten;2022;61.06;338;4
+2422;81;Maluku;8105;Seram Bagian Timur;Kabupaten;2022;65.69;319;4
+2423;81;Maluku;8108;Maluku Barat Daya;Kabupaten;2022;66.43;316;4
+2424;81;Maluku;8109;Buru Selatan;Kabupaten;2022;57.79;357;3
+2425;82;Maluku Utara;8201;Halmahera Barat;Kabupaten;2022;52.05;374;3
+2426;82;Maluku Utara;8202;Halmahera Tengah;Kabupaten;2022;50.67;376;2
+2427;82;Maluku Utara;8205;Kepulauan Sula;Kabupaten;2022;50.64;377;2
+2428;82;Maluku Utara;8204;Halmahera Selatan;Kabupaten;2022;53.42;370;3
+2429;82;Maluku Utara;8203;Halmahera Utara;Kabupaten;2022;63.43;330;4
+2430;82;Maluku Utara;8206;Halmahera Timur;Kabupaten;2022;72.38;258;5
+2431;82;Maluku Utara;8207;Pulau Morotai;Kabupaten;2022;59.62;346;4
+2432;82;Maluku Utara;8208;Pulau Taliabu;Kabupaten;2022;44.39;389;2
+2433;92;Papua Barat;9203;Fak-Fak;Kabupaten;2022;46.63;383;2
+2434;92;Papua Barat;9208;Kaimana;Kabupaten;2022;45.43;384;2
+2435;92;Papua Barat;9207;Teluk Wondama;Kabupaten;2022;31.95;399;1
+2436;92;Papua Barat;9206;Teluk Bintuni;Kabupaten;2022;39.37;392;1
+2437;92;Papua Barat;9202;Manokwari;Kabupaten;2022;67.41;307;4
+2438;92;Papua Barat;9204;Sorong Selatan;Kabupaten;2022;37.75;396;1
+2439;92;Papua Barat;9201;Sorong;Kabupaten;2022;43.19;390;2
+2440;92;Papua Barat;9205;Raja Ampat;Kabupaten;2022;44.6;387;2
+2441;92;Papua Barat;9209;Tambrauw;Kabupaten;2022;29.26;401;1
+2442;92;Papua Barat;9210;Maybrat;Kabupaten;2022;39.33;393;1
+2443;92;Papua Barat;9211;Manokwari Selatan;Kabupaten;2022;69.46;292;5
+2444;92;Papua Barat;9212;Pegunungan Arfak;Kabupaten;2022;34.9;397;1
+2445;91;Papua;9301;Merauke;Kabupaten;2022;80.1;133;6
+2446;91;Papua;9501;Jayawijaya;Kabupaten;2022;25;403;1
+2447;91;Papua;9103;Jayapura;Kabupaten;2022;70.62;280;5
+2448;91;Papua;9401;Nabire;Kabupaten;2022;69.19;296;5
+2449;91;Papua;9105;Kepulauan Yapen;Kabupaten;2022;44.82;386;2
+2450;91;Papua;9106;Biak Namfor;Kabupaten;2022;48.16;380;2
+2451;91;Papua;9403;Paniai;Kabupaten;2022;27.91;402;1
+2452;91;Papua;9402;Puncak Jaya;Kabupaten;2022;19.34;411;1
+2453;91;Papua;9404;Mimika;Kabupaten;2022;80.55;117;6
+2454;91;Papua;9302;Boven Digoel;Kabupaten;2022;38.87;395;1
+2455;91;Papua;9303;Mappi;Kabupaten;2022;33.82;398;1
+2456;91;Papua;9304;Asmat;Kabupaten;2022;38.98;394;1
+2457;91;Papua;9503;Yahukimo;Kabupaten;2022;22.31;410;1
+2458;91;Papua;9502;Pegunungan Bintang;Kabupaten;2022;24.1;405;1
+2459;91;Papua;9504;Tolikara;Kabupaten;2022;23.28;406;1
+2460;91;Papua;9110;Sarmi;Kabupaten;2022;57.07;360;3
+2461;91;Papua;9111;Keerom;Kabupaten;2022;61.22;337;4
+2462;91;Papua;9115;Waropen;Kabupaten;2022;44.89;385;2
+2463;91;Papua;9119;Supiori;Kabupaten;2022;29.87;400;1
+2464;91;Papua;9120;Mamberamo Raya;Kabupaten;2022;22.96;407;1
+2465;91;Papua;9508;Nduga;Kabupaten;2022;15.66;416;1
+2466;91;Papua;9507;Lanny Jaya;Kabupaten;2022;19.18;412;1
+2467;91;Papua;9505;Mamberamo Tengah;Kabupaten;2022;18.14;414;1
+2468;91;Papua;9506;Yalimo;Kabupaten;2022;22.37;409;1
+2469;91;Papua;9405;Puncak;Kabupaten;2022;18.27;413;1
+2470;91;Papua;9406;Dogiyai;Kabupaten;2022;22.93;408;1
+2471;91;Papua;9407;Intan Jaya;Kabupaten;2022;17.21;415;1
+2472;91;Papua;9408;Deiyai;Kabupaten;2022;24.7;404;1
+2473;11;Aceh;1171;Kota Banda Aceh;Kota;2022;84.36;16;6
+2474;11;Aceh;1172;Kota Sabang;Kota;2022;61.7;85;5
+2475;11;Aceh;1174;Kota Langsa;Kota;2022;69.15;76;5
+2476;11;Aceh;1173;Kota Lhokseumawe;Kota;2022;69.34;75;5
+2477;11;Aceh;1175;Kota Subulussalam;Kota;2022;23.93;98;1
+2478;12;Sumatera Utara;1273;Kota Sibolga;Kota;2022;62.01;83;5
+2479;12;Sumatera Utara;1274;Kota Tanjung Balai;Kota;2022;53.17;94;4
+2480;12;Sumatera Utara;1272;Kota Pematang Siantar;Kota;2022;78.42;44;6
+2481;12;Sumatera Utara;1276;Kota Tebing Tinggi;Kota;2022;66.47;79;5
+2482;12;Sumatera Utara;1271;Kota Medan;Kota;2022;80.93;30;6
+2483;12;Sumatera Utara;1275;Kota Binjai;Kota;2022;74.89;53;6
+2484;12;Sumatera Utara;1277;Kota Padang Sidimpuan;Kota;2022;57.96;90;4
+2485;12;Sumatera Utara;1278;Kota Gunungsitoli;Kota;2022;43.7;97;3
+2486;13;Sumatera Barat;1371;Kota Padang;Kota;2022;84.14;18;6
+2487;13;Sumatera Barat;1372;Kota Solok;Kota;2022;84.44;15;6
+2488;13;Sumatera Barat;1373;Kota Sawah Lunto;Kota;2022;73.85;60;6
+2489;13;Sumatera Barat;1374;Kota Padang Panjang;Kota;2022;79.82;37;6
+2490;13;Sumatera Barat;1375;Kota Bukittinggi;Kota;2022;84.66;12;6
+2491;13;Sumatera Barat;1376;Kota Payakumbuh;Kota;2022;81.73;24;6
+2492;13;Sumatera Barat;1377;Kota Pariaman;Kota;2022;69.93;73;5
+2493;14;Riau;1471;Kota Pekanbaru;Kota;2022;86.56;6;6
+2494;14;Riau;1472;Kota Dumai;Kota;2022;72.63;68;6
+2495;15;Jambi;1571;Kota Jambi;Kota;2022;77.5;47;6
+2496;15;Jambi;1572;Kota Sungai Penuh;Kota;2022;59.92;87;4
+2497;16;Sumatera Selatan;1671;Kota Palembang;Kota;2022;74.71;54;6
+2498;16;Sumatera Selatan;1674;Kota Prabumulih;Kota;2022;59.71;89;4
+2499;16;Sumatera Selatan;1672;Kota Pagar Alam;Kota;2022;46.47;95;3
+2500;16;Sumatera Selatan;1673;Kota Lubuklinggau;Kota;2022;53.71;93;4
+2501;17;Bengkulu;1771;Kota Bengkulu;Kota;2022;65.29;81;5
+2502;18;Lampung;1871;Kota Bandar Lampung;Kota;2022;73.41;62;6
+2503;18;Lampung;1872;Kota Metro;Kota;2022;73.35;64;6
+2504;19;Kepulauan Bangka Belitung;1971;Kota Pangkal Pinang;Kota;2022;83.25;21;6
+2505;21;Kepulauan Riau;2171;Kota Batam;Kota;2022;85.23;9;6
+2506;21;Kepulauan Riau;2172;Kota Tanjung Pinang;Kota;2022;74.67;55;6
+2507;31;DKI Jakarta;3174;Kota Jakarta Selatan;Kota;2022;85.38;7;6
+2508;31;DKI Jakarta;3175;Kota Jakarta Timur;Kota;2022;84.56;14;6
+2509;31;DKI Jakarta;3171;Kota Jakarta Pusat;Kota;2022;83.56;20;6
+2510;31;DKI Jakarta;3173;Kota Jakarta Barat;Kota;2022;84.67;11;6
+2511;31;DKI Jakarta;3172;Kota Jakarta Utara;Kota;2022;77.15;48;6
+2512;32;Jawa Barat;3271;Kota Bogor;Kota;2022;76.38;50;6
+2513;32;Jawa Barat;3272;Kota Sukabumi;Kota;2022;68.96;77;5
+2514;32;Jawa Barat;3273;Kota Bandung;Kota;2022;80.23;34;6
+2515;32;Jawa Barat;3274;Kota Cirebon;Kota;2022;70.28;71;5
+2516;32;Jawa Barat;3275;Kota Bekasi;Kota;2022;86.79;5;6
+2517;32;Jawa Barat;3276;Kota Depok;Kota;2022;85.07;10;6
+2518;32;Jawa Barat;3277;Kota Cimahi;Kota;2022;80.08;35;6
+2519;32;Jawa Barat;3278;Kota Tasikmalaya;Kota;2022;55.38;92;4
+2520;32;Jawa Barat;3279;Kota Banjar;Kota;2022;61.91;84;5
+2521;33;Jawa Tengah;3371;Kota Magelang;Kota;2022;82.09;23;6
+2522;33;Jawa Tengah;3372;Kota Surakarta;Kota;2022;80.27;33;6
+2523;33;Jawa Tengah;3373;Kota Salatiga;Kota;2022;87.39;3;6
+2524;33;Jawa Tengah;3374;Kota Semarang;Kota;2022;87.13;4;6
+2525;33;Jawa Tengah;3375;Kota Pekalongan;Kota;2022;69.66;74;5
+2526;33;Jawa Tengah;3376;Kota Tegal;Kota;2022;75.71;51;6
+2527;34;DI Yogyakarta;3471;Kota Yogyakarta;Kota;2022;79.28;38;6
+2528;35;Jawa Timur;3571;Kota Kediri;Kota;2022;73.95;58;6
+2529;35;Jawa Timur;3572;Kota Blitar;Kota;2022;74.57;57;6
+2530;35;Jawa Timur;3573;Kota Malang;Kota;2022;80.8;31;6
+2531;35;Jawa Timur;3574;Kota Probolinggo;Kota;2022;73.83;61;6
+2532;35;Jawa Timur;3575;Kota Pasuruan;Kota;2022;71.21;70;6
+2533;35;Jawa Timur;3576;Kota Mojokerto;Kota;2022;81.43;26;6
+2534;35;Jawa Timur;3577;Kota Madiun;Kota;2022;85.32;8;6
+2535;35;Jawa Timur;3578;Kota Surabaya;Kota;2022;81.59;25;6
+2536;35;Jawa Timur;3579;Kota Batu;Kota;2022;76.86;49;6
+2537;36;Banten;3671;Kota Tangerang;Kota;2022;79.08;42;6
+2538;36;Banten;3672;Kota Cilegon;Kota;2022;72.63;67;6
+2539;36;Banten;3673;Kota Serang;Kota;2022;59.88;88;4
+2540;36;Banten;3674;Kota Tangerang Selatan;Kota;2022;78.74;43;6
+2541;51;Bali;5171;Kota Denpasar;Kota;2022;91.82;1;6
+2542;52;Nusa Tenggara Barat;5271;Kota Mataram;Kota;2022;72.28;69;6
+2543;52;Nusa Tenggara Barat;5272;Kota Bima;Kota;2022;70.25;72;5
+2544;53;Nusa Tenggara Timur;5371;Kota Kupang;Kota;2022;73.89;59;6
+2545;61;Kalimantan Barat;6171;Kota Pontianak;Kota;2022;64.81;82;5
+2546;61;Kalimantan Barat;6172;Kota Singkawang;Kota;2022;61.5;86;5
+2547;62;Kalimantan Tengah;6271;Kota Palangka Raya;Kota;2022;79.24;39;6
+2548;63;Kalimantan Selatan;6371;Kota Banjarmasin;Kota;2022;79.2;40;6
+2549;63;Kalimantan Selatan;6372;Kota Banjar Baru;Kota;2022;80.65;32;6
+2550;64;Kalimantan Timur;6471;Kota Balikpapan;Kota;2022;89.47;2;6
+2551;64;Kalimantan Timur;6472;Kota Samarinda;Kota;2022;84.66;13;6
+2552;64;Kalimantan Timur;6474;Kota Bontang;Kota;2022;84.21;17;6
+2553;65;Kalimantan Utara;6571;Kota Tarakan;Kota;2022;77.9;45;6
+2554;71;Sulawesi Utara;7171;Kota Manado;Kota;2022;77.55;46;6
+2555;71;Sulawesi Utara;7172;Kota Bitung;Kota;2022;66.44;80;5
+2556;71;Sulawesi Utara;7173;Kota Tomohon;Kota;2022;72.89;65;6
+2557;71;Sulawesi Utara;7174;Kota Kotamobago;Kota;2022;72.85;66;6
+2558;72;Sulawesi Tengah;7271;Kota Palu;Kota;2022;79.94;36;6
+2559;73;Sulawesi Selatan;7371;Kota Makasar;Kota;2022;83.86;19;6
+2560;73;Sulawesi Selatan;7372;Kota Pare-Pare;Kota;2022;79.1;41;6
+2561;73;Sulawesi Selatan;7373;Kota Palopo;Kota;2022;73.41;63;6
+2562;74;Sulawesi Tenggara;7471;Kota Kendari;Kota;2022;83.01;22;6
+2563;74;Sulawesi Tenggara;7472;Kota Bau-Bau;Kota;2022;75.32;52;6
+2564;75;Gorontalo;7571;Kota Gorontalo;Kota;2022;80.95;29;6
+2565;81;Maluku;8171;Kota Ambon;Kota;2022;80.96;28;6
+2566;81;Maluku;8172;Kota Tual;Kota;2022;45.18;96;3
+2567;82;Maluku Utara;8271;Kota Ternate;Kota;2022;81.32;27;6
+2568;82;Maluku Utara;8272;Kota Tidore Kepulauan;Kota;2022;55.94;91;4
+2569;91;Papua Barat;9271;Kota Sorong;Kota;2022;67.72;78;5
+2570;94;Papua;9171;Kota Jayapura;Kota;2022;74.64;56;6
+2571;11;Aceh;1109;Simeulue;Kabupaten;2023;72.51;273;5
+2572;11;Aceh;1110;Aceh Singkil;Kabupaten;2023;47.06;390;2
+2573;11;Aceh;1101;Aceh Selatan;Kabupaten;2023;71.11;287;5
+2574;11;Aceh;1102;Aceh Tenggara;Kabupaten;2023;78.47;184;6
+2575;11;Aceh;1103;Aceh Timur;Kabupaten;2023;75.78;232;6
+2576;11;Aceh;1104;Aceh Tengah;Kabupaten;2023;65.57;327;4
+2577;11;Aceh;1105;Aceh Barat;Kabupaten;2023;79.95;159;6
+2578;11;Aceh;1106;Aceh Besar;Kabupaten;2023;85.62;43;6
+2579;11;Aceh;1107;Pidie;Kabupaten;2023;75.69;234;6
+2580;11;Aceh;1111;Bireuen;Kabupaten;2023;81.34;135;6
+2581;11;Aceh;1108;Aceh Utara;Kabupaten;2023;76.66;219;6
+2582;11;Aceh;1112;Aceh Barat Daya;Kabupaten;2023;76.93;211;6
+2583;11;Aceh;1113;Gayo Lues;Kabupaten;2023;75.49;238;5
+2584;11;Aceh;1116;Aceh Tamiang;Kabupaten;2023;81.41;129;6
+2585;11;Aceh;1115;Nagan Raya;Kabupaten;2023;76.29;226;6
+2586;11;Aceh;1114;Aceh Jaya;Kabupaten;2023;80.22;156;6
+2587;11;Aceh;1117;Bener Meriah;Kabupaten;2023;45.67;392;2
+2588;11;Aceh;1118;Pidie Jaya;Kabupaten;2023;77.69;197;6
+2589;12;Sumatera Utara;1204;Nias;Kabupaten;2023;71.38;285;5
+2590;12;Sumatera Utara;1213;Mandailing Natal;Kabupaten;2023;69.54;301;5
+2591;12;Sumatera Utara;1203;Tapanuli Selatan;Kabupaten;2023;73.4;262;5
+2592;12;Sumatera Utara;1201;Tapanuli Tengah;Kabupaten;2023;72.18;277;5
+2593;12;Sumatera Utara;1202;Tapanuli Utara;Kabupaten;2023;77.29;204;6
+2594;12;Sumatera Utara;1212;Toba Samosir;Kabupaten;2023;83.09;98;6
+2595;12;Sumatera Utara;1210;Labuhan Batu;Kabupaten;2023;77.96;191;6
+2596;12;Sumatera Utara;1209;Asahan;Kabupaten;2023;73.99;254;5
+2597;12;Sumatera Utara;1208;Simalungun;Kabupaten;2023;81.41;130;6
+2598;12;Sumatera Utara;1211;Dairi;Kabupaten;2023;82.92;104;6
+2599;12;Sumatera Utara;1206;Karo;Kabupaten;2023;81.35;134;6
+2600;12;Sumatera Utara;1207;Deli Serdang;Kabupaten;2023;86.81;31;6
+2601;12;Sumatera Utara;1205;Langkat;Kabupaten;2023;76.89;214;6
+2602;12;Sumatera Utara;1214;Nias Selatan;Kabupaten;2023;65.67;325;4
+2603;12;Sumatera Utara;1216;Humbang Hasundutan;Kabupaten;2023;78.9;180;6
+2604;12;Sumatera Utara;1215;Pakpak Bharat;Kabupaten;2023;77.32;203;6
+2605;12;Sumatera Utara;1217;Samosir;Kabupaten;2023;78.89;181;6
+2606;12;Sumatera Utara;1218;Serdang Bedagai;Kabupaten;2023;83.76;80;6
+2607;12;Sumatera Utara;1219;Batu Bara;Kabupaten;2023;76.82;216;6
+2608;12;Sumatera Utara;1220;Padang Lawas Utara;Kabupaten;2023;70.4;295;5
+2609;12;Sumatera Utara;1221;Padang Lawas;Kabupaten;2023;70.9;288;5
+2610;12;Sumatera Utara;1222;Labuhan Batu Selatan;Kabupaten;2023;56.18;364;3
+2611;12;Sumatera Utara;1223;Labuhan Batu Utara;Kabupaten;2023;81.22;139;6
+2612;12;Sumatera Utara;1224;Nias Utara;Kabupaten;2023;73.67;258;5
+2613;12;Sumatera Utara;1225;Nias Barat;Kabupaten;2023;61.2;344;4
+2614;13;Sumatera Barat;1309;Kepulauan Mentawai;Kabupaten;2023;50.91;379;2
+2615;13;Sumatera Barat;1301;Pesisir Selatan;Kabupaten;2023;85.95;40;6
+2616;13;Sumatera Barat;1302;Solok;Kabupaten;2023;81.78;124;6
+2617;13;Sumatera Barat;1303;Sijunjung;Kabupaten;2023;79.93;160;6
+2618;13;Sumatera Barat;1304;Tanah Datar;Kabupaten;2023;87.55;18;6
+2619;13;Sumatera Barat;1305;Padang Pariaman;Kabupaten;2023;83.13;96;6
+2620;13;Sumatera Barat;1306;Agam;Kabupaten;2023;86.4;34;6
+2621;13;Sumatera Barat;1307;Limapuluh Koto;Kabupaten;2023;80.68;146;6
+2622;13;Sumatera Barat;1308;Pasaman;Kabupaten;2023;80.59;149;6
+2623;13;Sumatera Barat;1311;Solok Selatan;Kabupaten;2023;82.16;114;6
+2624;13;Sumatera Barat;1310;Dharmas Raya;Kabupaten;2023;84.38;72;6
+2625;13;Sumatera Barat;1312;Pasaman Barat;Kabupaten;2023;80.67;147;6
+2626;14;Riau;1409;Kuantan Sengingi;Kabupaten;2023;68.94;310;5
+2627;14;Riau;1402;Indragiri Hulu;Kabupaten;2023;59.35;352;3
+2628;14;Riau;1404;Indragiri Hilir;Kabupaten;2023;69.29;306;5
+2629;14;Riau;1405;Pelalawan;Kabupaten;2023;69.49;302;5
+2630;14;Riau;1408;Siak;Kabupaten;2023;74.74;244;5
+2631;14;Riau;1401;Kampar;Kabupaten;2023;57.59;361;3
+2632;14;Riau;1406;Rokan Hulu;Kabupaten;2023;56.76;362;3
+2633;14;Riau;1403;Bengkalis;Kabupaten;2023;61.68;340;4
+2634;14;Riau;1407;Rokan Hilir;Kabupaten;2023;67.45;314;4
+2635;14;Riau;1410;Kepulauan Meranti;Kabupaten;2023;70.47;293;5
+2636;15;Jambi;1501;Kerinci;Kabupaten;2023;82.42;109;6
+2637;15;Jambi;1502;Merangin;Kabupaten;2023;71.66;281;5
+2638;15;Jambi;1503;Sarolangun;Kabupaten;2023;64.01;332;4
+2639;15;Jambi;1504;Batang Hari;Kabupaten;2023;70.79;290;5
+2640;15;Jambi;1505;Muaro Jambi;Kabupaten;2023;65.9;323;4
+2641;15;Jambi;1507;Tanjung Jabung Timur;Kabupaten;2023;71.22;286;5
+2642;15;Jambi;1506;Tanjung Jabung Barat;Kabupaten;2023;63.59;334;4
+2643;15;Jambi;1509;Tebo;Kabupaten;2023;70.89;289;5
+2644;15;Jambi;1508;Bungo;Kabupaten;2023;65.6;326;4
+2645;16;Sumatera Selatan;1601;Ogan Komering Ulu;Kabupaten;2023;74.36;247;5
+2646;16;Sumatera Selatan;1602;Ogan Komering Ilir;Kabupaten;2023;79.04;177;6
+2647;16;Sumatera Selatan;1603;Muara Enim;Kabupaten;2023;73.22;265;5
+2648;16;Sumatera Selatan;1604;Lahat;Kabupaten;2023;72.87;270;5
+2649;16;Sumatera Selatan;1605;Musi Rawas;Kabupaten;2023;79.56;166;6
+2650;16;Sumatera Selatan;1606;Musi Banyuasin;Kabupaten;2023;79.09;174;6
+2651;16;Sumatera Selatan;1607;Banyuasin;Kabupaten;2023;78.91;179;6
+2652;16;Sumatera Selatan;1609;Ogan Komering Ulu Selatan;Kabupaten;2023;76.15;228;6
+2653;16;Sumatera Selatan;1608;Ogan Komering Ulu Timur;Kabupaten;2023;84.52;68;6
+2654;16;Sumatera Selatan;1610;Ogan Ilir;Kabupaten;2023;76.32;225;6
+2655;16;Sumatera Selatan;1611;Empat Lawang;Kabupaten;2023;69.27;307;5
+2656;16;Sumatera Selatan;1612;Penukal Abab Lematang Ilir;Kabupaten;2023;73.71;256;5
+2657;16;Sumatera Selatan;1613;Musi Rawas Utara;Kabupaten;2023;60.31;346;4
+2658;17;Bengkulu;1701;Bengkulu Selatan;Kabupaten;2023;74.63;245;5
+2659;17;Bengkulu;1702;Rejang Lebong;Kabupaten;2023;72.67;271;5
+2660;17;Bengkulu;1703;Bengkulu Utara;Kabupaten;2023;70.74;291;5
+2661;17;Bengkulu;1704;Kaur;Kabupaten;2023;73.9;255;5
+2662;17;Bengkulu;1705;Seluma;Kabupaten;2023;71.64;282;5
+2663;17;Bengkulu;1706;Mukomuko;Kabupaten;2023;76.63;221;6
+2664;17;Bengkulu;1707;Lebong;Kabupaten;2023;75.84;231;6
+2665;17;Bengkulu;1708;Kepahiang;Kabupaten;2023;69.41;305;5
+2666;17;Bengkulu;1709;Bengkulu Tengah;Kabupaten;2023;61.54;342;4
+2667;18;Lampung;1804;Lampung Barat;Kabupaten;2023;75.39;240;5
+2668;18;Lampung;1806;Tanggamus;Kabupaten;2023;74.19;250;5
+2669;18;Lampung;1801;Lampung Selatan;Kabupaten;2023;85.46;49;6
+2670;18;Lampung;1807;Lampung Timur;Kabupaten;2023;83.55;88;6
+2671;18;Lampung;1802;Lampung Tengah;Kabupaten;2023;84.55;66;6
+2672;18;Lampung;1803;Lampung Utara;Kabupaten;2023;74.94;242;5
+2673;18;Lampung;1808;Way Kanan;Kabupaten;2023;79.31;171;6
+2674;18;Lampung;1805;Tulang Bawang;Kabupaten;2023;87.51;21;6
+2675;18;Lampung;1809;Pesawaran;Kabupaten;2023;77.89;192;6
+2676;18;Lampung;1810;Pringsewu;Kabupaten;2023;87.38;23;6
+2677;18;Lampung;1811;Mesuji;Kabupaten;2023;86.21;38;6
+2678;18;Lampung;1812;Tulang Bawang Barat;Kabupaten;2023;83.59;85;6
+2679;18;Lampung;1813;Pesisir Barat;Kabupaten;2023;76.32;224;6
+2680;19;Kepulauan Bangka Belitung;1901;Bangka;Kabupaten;2023;81.31;137;6
+2681;19;Kepulauan Bangka Belitung;1902;Belitung;Kabupaten;2023;61.83;339;4
+2682;19;Kepulauan Bangka Belitung;1905;Bangka Barat;Kabupaten;2023;63.76;333;4
+2683;19;Kepulauan Bangka Belitung;1904;Bangka Tengah;Kabupaten;2023;58.62;357;3
+2684;19;Kepulauan Bangka Belitung;1903;Bangka Selatan;Kabupaten;2023;82.94;103;6
+2685;19;Kepulauan Bangka Belitung;1906;Belitung Timur;Kabupaten;2023;62.09;338;4
+2686;21;Kepulauan Riau;2102;Karimun;Kabupaten;2023;62.97;335;4
+2687;21;Kepulauan Riau;2101;Bintan;Kabupaten;2023;59.58;350;3
+2688;21;Kepulauan Riau;2103;Natuna;Kabupaten;2023;59.15;354;3
+2689;21;Kepulauan Riau;2104;Lingga;Kabupaten;2023;52.41;375;3
+2690;21;Kepulauan Riau;2105;Kepulauan Anambas;Kabupaten;2023;55.72;366;3
+2691;31;DKI Jakarta;3101;Kepulauan Seribu;Kabupaten;2023;56.63;363;3
+2692;32;Jawa Barat;3201;Bogor;Kabupaten;2023;70.57;292;5
+2693;32;Jawa Barat;3202;Sukabumi;Kabupaten;2023;77.65;199;6
+2694;32;Jawa Barat;3203;Cianjur;Kabupaten;2023;78.99;178;6
+2695;32;Jawa Barat;3204;Bandung;Kabupaten;2023;82.48;108;6
+2696;32;Jawa Barat;3205;Garut;Kabupaten;2023;78.04;190;6
+2697;32;Jawa Barat;3206;Tasikmalaya;Kabupaten;2023;75.68;235;6
+2698;32;Jawa Barat;3207;Ciamis;Kabupaten;2023;82.36;110;6
+2699;32;Jawa Barat;3208;Kuningan;Kabupaten;2023;80.95;141;6
+2700;32;Jawa Barat;3209;Cirebon;Kabupaten;2023;82.03;117;6
+2701;32;Jawa Barat;3210;Majalengka;Kabupaten;2023;81.39;132;6
+2702;32;Jawa Barat;3211;Sumedang;Kabupaten;2023;84.88;62;6
+2703;32;Jawa Barat;3212;Indramayu;Kabupaten;2023;84.52;67;6
+2704;32;Jawa Barat;3213;Subang;Kabupaten;2023;85.31;55;6
+2705;32;Jawa Barat;3214;Purwakarta;Kabupaten;2023;80.42;152;6
+2706;32;Jawa Barat;3215;Karawang;Kabupaten;2023;88.48;10;6
+2707;32;Jawa Barat;3216;Bekasi;Kabupaten;2023;88.05;13;6
+2708;32;Jawa Barat;3217;Bandung Barat;Kabupaten;2023;74.19;251;5
+2709;32;Jawa Barat;3218;Pangandaran;Kabupaten;2023;83.57;86;6
+2710;33;Jawa Tengah;3301;Cilacap;Kabupaten;2023;84.13;76;6
+2711;33;Jawa Tengah;3302;Banyumas;Kabupaten;2023;79.81;164;6
+2712;33;Jawa Tengah;3303;Purbalingga;Kabupaten;2023;78.05;189;6
+2713;33;Jawa Tengah;3304;Banjarnegara;Kabupaten;2023;80.28;155;6
+2714;33;Jawa Tengah;3305;Kebumen;Kabupaten;2023;80.34;153;6
+2715;33;Jawa Tengah;3306;Purworejo;Kabupaten;2023;84.74;64;6
+2716;33;Jawa Tengah;3307;Wonosobo;Kabupaten;2023;77.82;195;6
+2717;33;Jawa Tengah;3308;Magelang;Kabupaten;2023;79.91;161;6
+2718;33;Jawa Tengah;3309;Boyolali;Kabupaten;2023;87.31;24;6
+2719;33;Jawa Tengah;3310;Klaten;Kabupaten;2023;85.5;48;6
+2720;33;Jawa Tengah;3311;Sukoharjo;Kabupaten;2023;91.02;3;6
+2721;33;Jawa Tengah;3312;Wonogiri;Kabupaten;2023;87.79;16;6
+2722;33;Jawa Tengah;3313;Karanganyar;Kabupaten;2023;88.48;9;6
+2723;33;Jawa Tengah;3314;Sragen;Kabupaten;2023;88.17;11;6
+2724;33;Jawa Tengah;3315;Grobogan;Kabupaten;2023;87.18;27;6
+2725;33;Jawa Tengah;3316;Blora;Kabupaten;2023;86.94;28;6
+2726;33;Jawa Tengah;3317;Rembang;Kabupaten;2023;84.45;69;6
+2727;33;Jawa Tengah;3318;Pati;Kabupaten;2023;89.27;6;6
+2728;33;Jawa Tengah;3319;Kudus;Kabupaten;2023;88.91;8;6
+2729;33;Jawa Tengah;3320;Jepara;Kabupaten;2023;86.91;29;6
+2730;33;Jawa Tengah;3321;Demak;Kabupaten;2023;89.03;7;6
+2731;33;Jawa Tengah;3322;Semarang;Kabupaten;2023;85.35;52;6
+2732;33;Jawa Tengah;3323;Temanggung;Kabupaten;2023;77.84;193;6
+2733;33;Jawa Tengah;3324;Kendal;Kabupaten;2023;85.58;44;6
+2734;33;Jawa Tengah;3325;Batang;Kabupaten;2023;83.15;95;6
+2735;33;Jawa Tengah;3326;Pekalongan;Kabupaten;2023;81.81;123;6
+2736;33;Jawa Tengah;3327;Pemalang;Kabupaten;2023;80.84;144;6
+2737;33;Jawa Tengah;3328;Tegal;Kabupaten;2023;82.84;105;6
+2738;33;Jawa Tengah;3329;Brebes;Kabupaten;2023;77.21;205;6
+2739;34;DI Yogyakarta;3401;Kulon Progo;Kabupaten;2023;85.54;46;6
+2740;34;DI Yogyakarta;3402;Bantul;Kabupaten;2023;82.07;116;6
+2741;34;DI Yogyakarta;3403;Gunung Kidul;Kabupaten;2023;81.98;119;6
+2742;34;DI Yogyakarta;3404;Sleman;Kabupaten;2023;83.16;94;6
+2743;35;Jawa Timur;3501;Pacitan;Kabupaten;2023;80.78;145;6
+2744;35;Jawa Timur;3502;Ponorogo;Kabupaten;2023;87.91;14;6
+2745;35;Jawa Timur;3503;Trenggalek;Kabupaten;2023;81.9;121;6
+2746;35;Jawa Timur;3504;Tulungagung;Kabupaten;2023;85.23;59;6
+2747;35;Jawa Timur;3505;Blitar;Kabupaten;2023;86.27;37;6
+2748;35;Jawa Timur;3506;Kediri;Kabupaten;2023;78.22;186;6
+2749;35;Jawa Timur;3507;Malang;Kabupaten;2023;79.97;158;6
+2750;35;Jawa Timur;3508;Lumajang;Kabupaten;2023;79.42;169;6
+2751;35;Jawa Timur;3509;Jember;Kabupaten;2023;77.43;201;6
+2752;35;Jawa Timur;3510;Banyuwangi;Kabupaten;2023;84.91;61;6
+2753;35;Jawa Timur;3511;Bondowoso;Kabupaten;2023;75.5;237;5
+2754;35;Jawa Timur;3512;Situbondo;Kabupaten;2023;76.64;220;6
+2755;35;Jawa Timur;3513;Probolinggo;Kabupaten;2023;73.27;263;5
+2756;35;Jawa Timur;3514;Pasuruan;Kabupaten;2023;79.87;162;6
+2757;35;Jawa Timur;3515;Sidoarjo;Kabupaten;2023;83.51;89;6
+2758;35;Jawa Timur;3516;Mojokerto;Kabupaten;2023;86.7;32;6
+2759;35;Jawa Timur;3517;Jombang;Kabupaten;2023;83.99;78;6
+2760;35;Jawa Timur;3518;Nganjuk;Kabupaten;2023;83.68;84;6
+2761;35;Jawa Timur;3519;Madiun;Kabupaten;2023;85.32;54;6
+2762;35;Jawa Timur;3520;Magetan;Kabupaten;2023;86.83;30;6
+2763;35;Jawa Timur;3521;Ngawi;Kabupaten;2023;84.98;60;6
+2764;35;Jawa Timur;3522;Bojonegoro;Kabupaten;2023;85.4;50;6
+2765;35;Jawa Timur;3523;Tuban;Kabupaten;2023;84.41;70;6
+2766;35;Jawa Timur;3524;Lamongan;Kabupaten;2023;87.28;25;6
+2767;35;Jawa Timur;3525;Gresik;Kabupaten;2023;90.39;5;6
+2768;35;Jawa Timur;3526;Bangkalan;Kabupaten;2023;73.23;264;5
+2769;35;Jawa Timur;3527;Sampang;Kabupaten;2023;77.08;207;6
+2770;35;Jawa Timur;3528;Pamekasan;Kabupaten;2023;79.44;168;6
+2771;35;Jawa Timur;3529;Sumenep;Kabupaten;2023;77.02;209;6
+2772;36;Banten;3601;Pandeglang;Kabupaten;2023;74.87;243;5
+2773;36;Banten;3602;Lebak;Kabupaten;2023;72.32;274;5
+2774;36;Banten;3603;Tangerang;Kabupaten;2023;76.49;223;6
+2775;36;Banten;3604;Serang;Kabupaten;2023;79.26;172;6
+2776;51;Bali;5101;Jembrana;Kabupaten;2023;86.59;33;6
+2777;51;Bali;5102;Tabanan;Kabupaten;2023;90.54;4;6
+2778;51;Bali;5103;Badung;Kabupaten;2023;91.59;2;6
+2779;51;Bali;5104;Gianyar;Kabupaten;2023;92.16;1;6
+2780;51;Bali;5105;Klungkung;Kabupaten;2023;87.53;19;6
+2781;51;Bali;5106;Bangli;Kabupaten;2023;77.35;202;6
+2782;51;Bali;5107;Karangasem;Kabupaten;2023;85.28;57;6
+2783;51;Bali;5108;Buleleng;Kabupaten;2023;82.02;118;6
+2784;52;Nusa Tenggara Barat;5201;Lombok Barat;Kabupaten;2023;73.44;260;5
+2785;52;Nusa Tenggara Barat;5202;Lombok Tengah;Kabupaten;2023;75.6;236;5
+2786;52;Nusa Tenggara Barat;5203;Lombok Timur;Kabupaten;2023;71.48;284;5
+2787;52;Nusa Tenggara Barat;5204;Sumbawa;Kabupaten;2023;84;77;6
+2788;52;Nusa Tenggara Barat;5205;Dompu;Kabupaten;2023;78.85;182;6
+2789;52;Nusa Tenggara Barat;5206;Bima;Kabupaten;2023;77.68;198;6
+2790;52;Nusa Tenggara Barat;5207;Sumbawa Barat;Kabupaten;2023;86.02;39;6
+2791;52;Nusa Tenggara Barat;5208;Lombok Utara;Kabupaten;2023;65.92;322;4
+2792;53;Nusa Tenggara Timur;5312;Sumba Barat;Kabupaten;2023;69.46;304;5
+2793;53;Nusa Tenggara Timur;5311;Sumba Timur;Kabupaten;2023;70.21;296;5
+2794;53;Nusa Tenggara Timur;5301;Kupang;Kabupaten;2023;69.02;308;5
+2795;53;Nusa Tenggara Timur;5302;Timor Tengah Selatan;Kabupaten;2023;67.61;313;4
+2796;53;Nusa Tenggara Timur;5303;Timor Tengah Utara;Kabupaten;2023;72.96;268;5
+2797;53;Nusa Tenggara Timur;5304;Belu;Kabupaten;2023;75.69;233;6
+2798;53;Nusa Tenggara Timur;5305;Alor;Kabupaten;2023;65.43;329;4
+2799;53;Nusa Tenggara Timur;5313;Lembata;Kabupaten;2023;69;309;5
+2800;53;Nusa Tenggara Timur;5306;Flores Timur;Kabupaten;2023;73.54;259;5
+2801;53;Nusa Tenggara Timur;5307;Sikka;Kabupaten;2023;77.07;208;6
+2802;53;Nusa Tenggara Timur;5308;Ende;Kabupaten;2023;73.42;261;5
+2803;53;Nusa Tenggara Timur;5309;Ngada;Kabupaten;2023;81.74;125;6
+2804;53;Nusa Tenggara Timur;5310;Manggarai;Kabupaten;2023;76.93;210;6
+2805;53;Nusa Tenggara Timur;5314;Rote Ndao;Kabupaten;2023;70.43;294;5
+2806;53;Nusa Tenggara Timur;5315;Manggarai Barat;Kabupaten;2023;76.76;217;6
+2807;53;Nusa Tenggara Timur;5317;Sumba Tengah;Kabupaten;2023;67.29;315;4
+2808;53;Nusa Tenggara Timur;5318;Sumba Barat Daya;Kabupaten;2023;62.66;337;4
+2809;53;Nusa Tenggara Timur;5316;Nagekeo;Kabupaten;2023;74.27;248;5
+2810;53;Nusa Tenggara Timur;5319;Manggarai Timur;Kabupaten;2023;66.69;319;4
+2811;53;Nusa Tenggara Timur;5320;Sabu Raijua;Kabupaten;2023;58.42;358;3
+2812;53;Nusa Tenggara Timur;5321;Malaka;Kabupaten;2023;73;267;5
+2813;61;Kalimantan Barat;6101;Sambas;Kabupaten;2023;69.71;299;5
+2814;61;Kalimantan Barat;6107;Bengkayang;Kabupaten;2023;81.36;133;6
+2815;61;Kalimantan Barat;6108;Landak;Kabupaten;2023;76.89;215;6
+2816;61;Kalimantan Barat;6102;Mempawah;Kabupaten;2023;74.04;252;5
+2817;61;Kalimantan Barat;6103;Sanggau;Kabupaten;2023;77.82;194;6
+2818;61;Kalimantan Barat;6104;Ketapang;Kabupaten;2023;75.99;230;6
+2819;61;Kalimantan Barat;6105;Sintang;Kabupaten;2023;75.46;239;5
+2820;61;Kalimantan Barat;6106;Kapuas Hulu;Kabupaten;2023;69.97;297;5
+2821;61;Kalimantan Barat;6109;Sekadau;Kabupaten;2023;71.55;283;5
+2822;61;Kalimantan Barat;6110;Melawai;Kabupaten;2023;54.8;368;3
+2823;61;Kalimantan Barat;6111;Kayong Utara;Kabupaten;2023;75.27;241;5
+2824;61;Kalimantan Barat;6112;Kubu Raya;Kabupaten;2023;68.61;312;5
+2825;62;Kalimantan Tengah;6201;Kotawaringin Barat;Kabupaten;2023;60.27;347;4
+2826;62;Kalimantan Tengah;6202;Kotawaringin Timur;Kabupaten;2023;73.69;257;5
+2827;62;Kalimantan Tengah;6203;Kapuas;Kabupaten;2023;80.59;148;6
+2828;62;Kalimantan Tengah;6204;Barito Selatan;Kabupaten;2023;66.35;320;4
+2829;62;Kalimantan Tengah;6205;Barito Utara;Kabupaten;2023;83.01;102;6
+2830;62;Kalimantan Tengah;6208;Sukamara;Kabupaten;2023;60.04;349;4
+2831;62;Kalimantan Tengah;6209;Lamandau;Kabupaten;2023;58.9;356;3
+2832;62;Kalimantan Tengah;6207;Seruyan;Kabupaten;2023;59.25;353;3
+2833;62;Kalimantan Tengah;6206;Katingan;Kabupaten;2023;76.74;218;6
+2834;62;Kalimantan Tengah;6211;Pulang Pisau;Kabupaten;2023;81.33;136;6
+2835;62;Kalimantan Tengah;6210;Gunung Mas;Kabupaten;2023;55.49;367;3
+2836;62;Kalimantan Tengah;6213;Barito Timur;Kabupaten;2023;80.29;154;6
+2837;62;Kalimantan Tengah;6212;Murung Raya;Kabupaten;2023;49.08;384;2
+2838;63;Kalimantan Selatan;6301;Tanah Laut;Kabupaten;2023;83.45;90;6
+2839;63;Kalimantan Selatan;6302;Kota Baru;Kabupaten;2023;69.84;298;5
+2840;63;Kalimantan Selatan;6303;Banjar;Kabupaten;2023;81.63;126;6
+2841;63;Kalimantan Selatan;6304;Barito Kuala;Kabupaten;2023;80.84;143;6
+2842;63;Kalimantan Selatan;6305;Tapin;Kabupaten;2023;88.1;12;6
+2843;63;Kalimantan Selatan;6306;Hulu Sungai Selatan;Kabupaten;2023;81.31;138;6
+2844;63;Kalimantan Selatan;6307;Hulu Sungai Tengah;Kabupaten;2023;79.06;176;6
+2845;63;Kalimantan Selatan;6308;Hulu Sungai Utara;Kabupaten;2023;74.23;249;5
+2846;63;Kalimantan Selatan;6309;Tabalong;Kabupaten;2023;84.31;74;6
+2847;63;Kalimantan Selatan;6310;Tanah Bumbu;Kabupaten;2023;83.73;82;6
+2848;63;Kalimantan Selatan;6311;Balangan;Kabupaten;2023;81.94;120;6
+2849;64;Kalimantan Timur;6401;Paser;Kabupaten;2023;83.7;83;6
+2850;64;Kalimantan Timur;6407;Kutai Barat;Kabupaten;2023;58.39;359;3
+2851;64;Kalimantan Timur;6402;Kutai Kertanegara;Kabupaten;2023;85.53;47;6
+2852;64;Kalimantan Timur;6408;Kutai Timur;Kabupaten;2023;65.76;324;4
+2853;64;Kalimantan Timur;6403;Berau;Kabupaten;2023;85.33;53;6
+2854;64;Kalimantan Timur;6409;Penajam Paser Utara;Kabupaten;2023;87.4;22;6
+2855;64;Kalimantan Timur;6411;Mahakam Ulu;Kabupaten;2023;57.68;360;3
+2856;65;Kalimantan Utara;6502;Malinau;Kabupaten;2023;73.08;266;5
+2857;65;Kalimantan Utara;6501;Bulungan;Kabupaten;2023;77.11;206;6
+2858;65;Kalimantan Utara;6504;Tana Tidung;Kabupaten;2023;60.54;345;4
+2859;65;Kalimantan Utara;6503;Nunukan;Kabupaten;2023;76.17;227;6
+2860;71;Sulawesi Utara;7101;Bolaang Mongondow;Kabupaten;2023;84.87;63;6
+2861;71;Sulawesi Utara;7102;Minahasa;Kabupaten;2023;84.69;65;6
+2862;71;Sulawesi Utara;7103;Kepulauan Sangihe;Kabupaten;2023;53.22;372;3
+2863;71;Sulawesi Utara;7104;Kepulauan Talaud;Kabupaten;2023;76.51;222;6
+2864;71;Sulawesi Utara;7105;Minahasa Selatan;Kabupaten;2023;83.2;93;6
+2865;71;Sulawesi Utara;7106;Minahasa Utara;Kabupaten;2023;83.29;92;6
+2866;71;Sulawesi Utara;7108;Bolaang Mongondow Utara;Kabupaten;2023;81.6;128;6
+2867;71;Sulawesi Utara;7109;Kepulauan Siau Tagulandang Biaro;Kabupaten;2023;52.79;374;3
+2868;71;Sulawesi Utara;7107;Minahasa Tenggara;Kabupaten;2023;80.44;150;6
+2869;71;Sulawesi Utara;7111;Bolaang Mongondow Selatan;Kabupaten;2023;72.88;269;5
+2870;71;Sulawesi Utara;7110;Bolaang Mongondow Timur;Kabupaten;2023;79.36;170;6
+2871;72;Sulawesi Tengah;7207;Banggai Kepulauan;Kabupaten;2023;53.61;370;3
+2872;72;Sulawesi Tengah;7201;Banggai;Kabupaten;2023;85.72;41;6
+2873;72;Sulawesi Tengah;7206;Morowali;Kabupaten;2023;82.36;111;6
+2874;72;Sulawesi Tengah;7202;Poso;Kabupaten;2023;83.57;87;6
+2875;72;Sulawesi Tengah;7203;Donggala;Kabupaten;2023;72.27;275;5
+2876;72;Sulawesi Tengah;7204;Toli-Toli;Kabupaten;2023;79.18;173;6
+2877;72;Sulawesi Tengah;7205;Buol;Kabupaten;2023;83.11;97;6
+2878;72;Sulawesi Tengah;7208;Parigi Moutong;Kabupaten;2023;77.59;200;6
+2879;72;Sulawesi Tengah;7209;Tojo Una-Una;Kabupaten;2023;76.93;212;6
+2880;72;Sulawesi Tengah;7210;Sigi;Kabupaten;2023;78.17;187;6
+2881;72;Sulawesi Tengah;7211;Banggai Laut;Kabupaten;2023;50.77;380;2
+2882;72;Sulawesi Tengah;7212;Morowali Utara;Kabupaten;2023;82.52;107;6
+2883;73;Sulawesi Selatan;7301;Selayar;Kabupaten;2023;71.87;280;5
+2884;73;Sulawesi Selatan;7302;Bulukumba;Kabupaten;2023;83.03;100;6
+2885;73;Sulawesi Selatan;7303;Bantaeng;Kabupaten;2023;85.38;51;6
+2886;73;Sulawesi Selatan;7304;Jeneponto;Kabupaten;2023;79.69;165;6
+2887;73;Sulawesi Selatan;7305;Takalar;Kabupaten;2023;84.39;71;6
+2888;73;Sulawesi Selatan;7306;Gowa;Kabupaten;2023;85.24;58;6
+2889;73;Sulawesi Selatan;7307;Sinjai;Kabupaten;2023;82.73;106;6
+2890;73;Sulawesi Selatan;7309;Maros;Kabupaten;2023;83.74;81;6
+2891;73;Sulawesi Selatan;7310;Pangkajene dan Kepulauan;Kabupaten;2023;79.47;167;6
+2892;73;Sulawesi Selatan;7311;Barru;Kabupaten;2023;87.71;17;6
+2893;73;Sulawesi Selatan;7308;Bone;Kabupaten;2023;83.86;79;6
+2894;73;Sulawesi Selatan;7312;Soppeng;Kabupaten;2023;86.35;36;6
+2895;73;Sulawesi Selatan;7313;Wajo;Kabupaten;2023;84.36;73;6
+2896;73;Sulawesi Selatan;7314;Sidenreng Rappang;Kabupaten;2023;87.52;20;6
+2897;73;Sulawesi Selatan;7315;Pinrang;Kabupaten;2023;87.2;26;6
+2898;73;Sulawesi Selatan;7316;Enrekang;Kabupaten;2023;82.12;115;6
+2899;73;Sulawesi Selatan;7317;Luwu;Kabupaten;2023;81.61;127;6
+2900;73;Sulawesi Selatan;7318;Tana Toraja;Kabupaten;2023;77.74;196;6
+2901;73;Sulawesi Selatan;7322;Luwu Utara;Kabupaten;2023;83.03;101;6
+2902;73;Sulawesi Selatan;7324;Luwu Timur;Kabupaten;2023;87.82;15;6
+2903;73;Sulawesi Selatan;7326;Toraja Utara;Kabupaten;2023;80.44;151;6
+2904;74;Sulawesi Tenggara;7404;Buton;Kabupaten;2023;69.46;303;5
+2905;74;Sulawesi Tenggara;7403;Muna;Kabupaten;2023;73.99;253;5
+2906;74;Sulawesi Tenggara;7402;Konawe;Kabupaten;2023;84.23;75;6
+2907;74;Sulawesi Tenggara;7401;Kolaka;Kabupaten;2023;85.56;45;6
+2908;74;Sulawesi Tenggara;7405;Konawe Selatan;Kabupaten;2023;85.31;56;6
+2909;74;Sulawesi Tenggara;7406;Bombana;Kabupaten;2023;85.63;42;6
+2910;74;Sulawesi Tenggara;7407;Wakatobi;Kabupaten;2023;51.98;378;3
+2911;74;Sulawesi Tenggara;7408;Kolaka Utara;Kabupaten;2023;65.55;328;4
+2912;74;Sulawesi Tenggara;7410;Buton Utara;Kabupaten;2023;79.87;163;6
+2913;74;Sulawesi Tenggara;7409;Konawe Utara;Kabupaten;2023;78.67;183;6
+2914;74;Sulawesi Tenggara;7411;Kolaka Timur;Kabupaten;2023;86.4;35;6
+2915;74;Sulawesi Tenggara;7412;Konawe Kepulauan;Kabupaten;2023;50.43;382;2
+2916;74;Sulawesi Tenggara;7413;Muna Barat;Kabupaten;2023;76.92;213;6
+2917;74;Sulawesi Tenggara;7414;Buton Tengah;Kabupaten;2023;66.97;317;4
+2918;74;Sulawesi Tenggara;7415;Buton Selatan;Kabupaten;2023;64.54;331;4
+2919;75;Gorontalo;7502;Boalemo;Kabupaten;2023;81.41;131;6
+2920;75;Gorontalo;7501;Gorontalo;Kabupaten;2023;80.13;157;6
+2921;75;Gorontalo;7504;Pohuwato;Kabupaten;2023;83.34;91;6
+2922;75;Gorontalo;7503;Bone Bolango;Kabupaten;2023;78.27;185;6
+2923;75;Gorontalo;7505;Gorontalo Utara;Kabupaten;2023;79.07;175;6
+2924;76;Sulawesi Barat;7605;Majene;Kabupaten;2023;66.33;321;4
+2925;76;Sulawesi Barat;7604;Polewali Mandar;Kabupaten;2023;74.59;246;5
+2926;76;Sulawesi Barat;7603;Mamasa;Kabupaten;2023;72.65;272;5
+2927;76;Sulawesi Barat;7602;Mamuju;Kabupaten;2023;82.26;113;6
+2928;76;Sulawesi Barat;7601;Mamuju Utara;Kabupaten;2023;60.1;348;4
+2929;76;Sulawesi Barat;7606;Mamuju Tengah;Kabupaten;2023;82.26;112;6
+2930;81;Maluku;8103;Kepulauan Tanimbar;Kabupaten;2023;62.75;336;4
+2931;81;Maluku;8102;Maluku Tenggara;Kabupaten;2023;56.04;365;3
+2932;81;Maluku;8101;Maluku Tengah;Kabupaten;2023;72.21;276;5
+2933;81;Maluku;8104;Buru;Kabupaten;2023;80.85;142;6
+2934;81;Maluku;8107;Kepulauan Aru;Kabupaten;2023;44.01;394;2
+2935;81;Maluku;8106;Seram Bagian Barat;Kabupaten;2023;59.5;351;3
+2936;81;Maluku;8105;Seram Bagian Timur;Kabupaten;2023;68.78;311;5
+2937;81;Maluku;8108;Maluku Barat Daya;Kabupaten;2023;65.24;330;4
+2938;81;Maluku;8109;Buru Selatan;Kabupaten;2023;59.08;355;3
+2939;82;Maluku Utara;8201;Halmahera Barat;Kabupaten;2023;52.84;373;3
+2940;82;Maluku Utara;8202;Halmahera Tengah;Kabupaten;2023;50.67;381;2
+2941;82;Maluku Utara;8205;Kepulauan Sula;Kabupaten;2023;53.28;371;3
+2942;82;Maluku Utara;8204;Halmahera Selatan;Kabupaten;2023;52.4;376;3
+2943;82;Maluku Utara;8203;Halmahera Utara;Kabupaten;2023;81.2;140;6
+2944;82;Maluku Utara;8206;Halmahera Timur;Kabupaten;2023;76.12;229;6
+2945;82;Maluku Utara;8207;Pulau Morotai;Kabupaten;2023;53.7;369;3
+2946;82;Maluku Utara;8208;Pulau Taliabu;Kabupaten;2023;47.87;386;2
+2947;92;Papua Barat;9203;Fak-Fak;Kabupaten;2023;47.32;388;2
+2948;92;Papua Barat;9208;Kaimana;Kabupaten;2023;47.12;389;2
+2949;92;Papua Barat;9207;Teluk Wondama;Kabupaten;2023;32.93;399;1
+2950;92;Papua Barat;9206;Teluk Bintuni;Kabupaten;2023;40.88;396;1
+2951;92;Papua Barat;9202;Manokwari;Kabupaten;2023;66.85;318;4
+2952;92;Papua Barat;9204;Sorong Selatan;Kabupaten;2023;48.46;385;2
+2953;92;Papua Barat;9201;Sorong;Kabupaten;2023;46.99;391;2
+2954;92;Papua Barat;9205;Raja Ampat;Kabupaten;2023;44.12;393;2
+2955;92;Papua Barat;9209;Tambrauw;Kabupaten;2023;32.88;400;1
+2956;92;Papua Barat;9210;Maybrat;Kabupaten;2023;41.6;395;2
+2957;92;Papua Barat;9211;Manokwari Selatan;Kabupaten;2023;67.12;316;4
+2958;92;Papua Barat;9212;Pegunungan Arfak;Kabupaten;2023;32.87;401;1
+2959;91;Papua;9301;Merauke;Kabupaten;2023;83.08;99;6
+2960;91;Papua;9501;Jayawijaya;Kabupaten;2023;27.68;404;1
+2961;91;Papua;9103;Jayapura;Kabupaten;2023;72.14;278;5
+2962;91;Papua;9401;Nabire;Kabupaten;2023;78.07;188;6
+2963;91;Papua;9105;Kepulauan Yapen;Kabupaten;2023;69.7;300;5
+2964;91;Papua;9106;Biak Namfor;Kabupaten;2023;49.81;383;2
+2965;91;Papua;9403;Paniai;Kabupaten;2023;21.52;412;1
+2966;91;Papua;9402;Puncak Jaya;Kabupaten;2023;25.14;405;1
+2967;91;Papua;9404;Mimika;Kabupaten;2023;81.83;122;6
+2968;91;Papua;9302;Boven Digoel;Kabupaten;2023;40.55;397;1
+2969;91;Papua;9303;Mappi;Kabupaten;2023;47.85;387;2
+2970;91;Papua;9304;Asmat;Kabupaten;2023;36.69;398;1
+2971;91;Papua;9503;Yahukimo;Kabupaten;2023;21.95;409;1
+2972;91;Papua;9502;Pegunungan Bintang;Kabupaten;2023;51.99;377;3
+2973;91;Papua;9504;Tolikara;Kabupaten;2023;23;407;1
+2974;91;Papua;9110;Sarmi;Kabupaten;2023;61.25;343;4
+2975;91;Papua;9111;Keerom;Kabupaten;2023;71.92;279;5
+2976;91;Papua;9115;Waropen;Kabupaten;2023;61.63;341;4
+2977;91;Papua;9119;Supiori;Kabupaten;2023;30.41;403;1
+2978;91;Papua;9120;Mamberamo Raya;Kabupaten;2023;22.51;408;1
+2979;91;Papua;9508;Nduga;Kabupaten;2023;17.63;415;1
+2980;91;Papua;9507;Lanny Jaya;Kabupaten;2023;21.6;411;1
+2981;91;Papua;9505;Mamberamo Tengah;Kabupaten;2023;20.06;414;1
+2982;91;Papua;9506;Yalimo;Kabupaten;2023;23.95;406;1
+2983;91;Papua;9405;Puncak;Kabupaten;2023;20.1;413;1
+2984;91;Papua;9406;Dogiyai;Kabupaten;2023;31.23;402;1
+2985;91;Papua;9407;Intan Jaya;Kabupaten;2023;14.54;416;1
+2986;91;Papua;9408;Deiyai;Kabupaten;2023;21.93;410;1
+2987;11;Aceh;1171;Kota Banda Aceh;Kota;2023;86.97;35;6
+2988;11;Aceh;1172;Kota Sabang;Kota;2023;73.88;85;6
+2989;11;Aceh;1174;Kota Langsa;Kota;2023;76.95;77;6
+2990;11;Aceh;1173;Kota Lhokseumawe;Kota;2023;80.67;62;6
+2991;11;Aceh;1175;Kota Subulussalam;Kota;2023;36.09;98;2
+2992;12;Sumatera Utara;1273;Kota Sibolga;Kota;2023;79.85;67;6
+2993;12;Sumatera Utara;1274;Kota Tanjung Balai;Kota;2023;70.83;89;6
+2994;12;Sumatera Utara;1272;Kota Pematang Siantar;Kota;2023;87.19;33;6
+2995;12;Sumatera Utara;1276;Kota Tebing Tinggi;Kota;2023;75.82;81;6
+2996;12;Sumatera Utara;1271;Kota Medan;Kota;2023;87.8;28;6
+2997;12;Sumatera Utara;1275;Kota Binjai;Kota;2023;87.25;32;6
+2998;12;Sumatera Utara;1277;Kota Padang Sidimpuan;Kota;2023;69.9;90;5
+2999;12;Sumatera Utara;1278;Kota Gunungsitoli;Kota;2023;65.13;95;5
+3000;13;Sumatera Barat;1371;Kota Padang;Kota;2023;88.33;26;6
+3001;13;Sumatera Barat;1372;Kota Solok;Kota;2023;92.87;4;6
+3002;13;Sumatera Barat;1373;Kota Sawah Lunto;Kota;2023;84.38;46;6
+3003;13;Sumatera Barat;1374;Kota Padang Panjang;Kota;2023;89.58;17;6
+3004;13;Sumatera Barat;1375;Kota Bukittinggi;Kota;2023;91.78;7;6
+3005;13;Sumatera Barat;1376;Kota Payakumbuh;Kota;2023;88.56;24;6
+3006;13;Sumatera Barat;1377;Kota Pariaman;Kota;2023;81.57;58;6
+3007;14;Riau;1471;Kota Pekanbaru;Kota;2023;89.81;16;6
+3008;14;Riau;1472;Kota Dumai;Kota;2023;78.61;73;6
+3009;15;Jambi;1571;Kota Jambi;Kota;2023;84.66;45;6
+3010;15;Jambi;1572;Kota Sungai Penuh;Kota;2023;83.14;53;6
+3011;16;Sumatera Selatan;1671;Kota Palembang;Kota;2023;83.29;51;6
+3012;16;Sumatera Selatan;1674;Kota Prabumulih;Kota;2023;68.83;91;5
+3013;16;Sumatera Selatan;1672;Kota Pagar Alam;Kota;2023;59.17;96;4
+3014;16;Sumatera Selatan;1673;Kota Lubuklinggau;Kota;2023;66.26;93;5
+3015;17;Bengkulu;1771;Kota Bengkulu;Kota;2023;75.68;82;6
+3016;18;Lampung;1871;Kota Bandar Lampung;Kota;2023;83.37;50;6
+3017;18;Lampung;1872;Kota Metro;Kota;2023;83.66;49;6
+3018;19;Kepulauan Bangka Belitung;1971;Kota Pangkal Pinang;Kota;2023;87.42;31;6
+3019;21;Kepulauan Riau;2171;Kota Batam;Kota;2023;88.1;27;6
+3020;21;Kepulauan Riau;2172;Kota Tanjung Pinang;Kota;2023;77.75;75;6
+3021;31;DKI Jakarta;3174;Kota Jakarta Selatan;Kota;2023;88.64;23;6
+3022;31;DKI Jakarta;3175;Kota Jakarta Timur;Kota;2023;90.21;14;6
+3023;31;DKI Jakarta;3171;Kota Jakarta Pusat;Kota;2023;91;11;6
+3024;31;DKI Jakarta;3173;Kota Jakarta Barat;Kota;2023;90.84;12;6
+3025;31;DKI Jakarta;3172;Kota Jakarta Utara;Kota;2023;85.46;41;6
+3026;32;Jawa Barat;3271;Kota Bogor;Kota;2023;83.78;47;6
+3027;32;Jawa Barat;3272;Kota Sukabumi;Kota;2023;79.08;71;6
+3028;32;Jawa Barat;3273;Kota Bandung;Kota;2023;90.46;13;6
+3029;32;Jawa Barat;3274;Kota Cirebon;Kota;2023;83.77;48;6
+3030;32;Jawa Barat;3275;Kota Bekasi;Kota;2023;93.55;3;6
+3031;32;Jawa Barat;3276;Kota Depok;Kota;2023;89.47;19;6
+3032;32;Jawa Barat;3277;Kota Cimahi;Kota;2023;87.17;34;6
+3033;32;Jawa Barat;3278;Kota Tasikmalaya;Kota;2023;72.71;86;6
+3034;32;Jawa Barat;3279;Kota Banjar;Kota;2023;79.55;69;6
+3035;33;Jawa Tengah;3371;Kota Magelang;Kota;2023;91.18;10;6
+3036;33;Jawa Tengah;3372;Kota Surakarta;Kota;2023;85.8;39;6
+3037;33;Jawa Tengah;3373;Kota Salatiga;Kota;2023;94.2;2;6
+3038;33;Jawa Tengah;3374;Kota Semarang;Kota;2023;91.31;9;6
+3039;33;Jawa Tengah;3375;Kota Pekalongan;Kota;2023;78.94;72;6
+3040;33;Jawa Tengah;3376;Kota Tegal;Kota;2023;86;38;6
+3041;34;DI Yogyakarta;3471;Kota Yogyakarta;Kota;2023;83.11;54;6
+3042;35;Jawa Timur;3571;Kota Kediri;Kota;2023;76.42;78;6
+3043;35;Jawa Timur;3572;Kota Blitar;Kota;2023;79.25;70;6
+3044;35;Jawa Timur;3573;Kota Malang;Kota;2023;85.27;43;6
+3045;35;Jawa Timur;3574;Kota Probolinggo;Kota;2023;80.01;66;6
+3046;35;Jawa Timur;3575;Kota Pasuruan;Kota;2023;81.45;60;6
+3047;35;Jawa Timur;3576;Kota Mojokerto;Kota;2023;89.83;15;6
+3048;35;Jawa Timur;3577;Kota Madiun;Kota;2023;92.49;5;6
+3049;35;Jawa Timur;3578;Kota Surabaya;Kota;2023;92.14;6;6
+3050;35;Jawa Timur;3579;Kota Batu;Kota;2023;80.16;64;6
+3051;36;Banten;3671;Kota Tangerang;Kota;2023;86.39;36;6
+3052;36;Banten;3672;Kota Cilegon;Kota;2023;81.54;59;6
+3053;36;Banten;3673;Kota Serang;Kota;2023;71.42;87;6
+3054;36;Banten;3674;Kota Tangerang Selatan;Kota;2023;87.43;30;6
+3055;51;Bali;5171;Kota Denpasar;Kota;2023;95.8;1;6
+3056;52;Nusa Tenggara Barat;5271;Kota Mataram;Kota;2023;77.79;74;6
+3057;52;Nusa Tenggara Barat;5272;Kota Bima;Kota;2023;74.31;83;6
+3058;53;Nusa Tenggara Timur;5371;Kota Kupang;Kota;2023;75.85;80;6
+3059;61;Kalimantan Barat;6171;Kota Pontianak;Kota;2023;71.15;88;6
+3060;61;Kalimantan Barat;6172;Kota Singkawang;Kota;2023;68.12;92;5
+3061;62;Kalimantan Tengah;6271;Kota Palangka Raya;Kota;2023;79.61;68;6
+3062;63;Kalimantan Selatan;6371;Kota Banjarmasin;Kota;2023;85.62;40;6
+3063;63;Kalimantan Selatan;6372;Kota Banjar Baru;Kota;2023;82.35;57;6
+3064;64;Kalimantan Timur;6471;Kota Balikpapan;Kota;2023;91.4;8;6
+3065;64;Kalimantan Timur;6472;Kota Samarinda;Kota;2023;88.97;21;6
+3066;64;Kalimantan Timur;6474;Kota Bontang;Kota;2023;88.76;22;6
+3067;65;Kalimantan Utara;6571;Kota Tarakan;Kota;2023;86.06;37;6
+3068;71;Sulawesi Utara;7171;Kota Manado;Kota;2023;85.33;42;6
+3069;71;Sulawesi Utara;7172;Kota Bitung;Kota;2023;80.89;61;6
+3070;71;Sulawesi Utara;7173;Kota Tomohon;Kota;2023;83.14;52;6
+3071;71;Sulawesi Utara;7174;Kota Kotamobago;Kota;2023;77.61;76;6
+3072;72;Sulawesi Tengah;7271;Kota Palu;Kota;2023;80.05;65;6
+3073;73;Sulawesi Selatan;7371;Kota Makasar;Kota;2023;89.28;20;6
+3074;73;Sulawesi Selatan;7372;Kota Pare-Pare;Kota;2023;83.07;55;6
+3075;73;Sulawesi Selatan;7373;Kota Palopo;Kota;2023;82.93;56;6
+3076;74;Sulawesi Tenggara;7471;Kota Kendari;Kota;2023;88.34;25;6
+3077;74;Sulawesi Tenggara;7472;Kota Bau-Bau;Kota;2023;80.48;63;6
+3078;75;Gorontalo;7571;Kota Gorontalo;Kota;2023;87.59;29;6
+3079;81;Maluku;8171;Kota Ambon;Kota;2023;84.73;44;6
+3080;81;Maluku;8172;Kota Tual;Kota;2023;54.91;97;4
+3081;82;Maluku Utara;8271;Kota Ternate;Kota;2023;89.51;18;6
+3082;82;Maluku Utara;8272;Kota Tidore Kepulauan;Kota;2023;65.83;94;5
+3083;91;Papua Barat;9271;Kota Sorong;Kota;2023;74.18;84;6
+3084;94;Papua;9171;Kota Jayapura;Kota;2023;76.01;79;6

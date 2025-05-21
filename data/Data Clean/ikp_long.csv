@@ -1,0 +1,3085 @@
+Provinsi,Kabupaten/Kota,Tahun,Kelompok IKP
+Aceh,Simeulue,2018,5
+Aceh,Aceh Singkil,2018,5
+Aceh,Aceh Selatan,2018,5
+Aceh,Aceh Tenggara,2018,2
+Aceh,Aceh Timur,2018,4
+Aceh,Aceh Tengah,2018,5
+Aceh,Aceh Barat,2018,5
+Aceh,Aceh Besar,2018,4
+Aceh,Pidie,2018,5
+Aceh,Bireuen,2018,5
+Aceh,Aceh Utara,2018,6
+Aceh,Aceh Barat Daya,2018,5
+Aceh,Gayo Lues,2018,5
+Aceh,Aceh Tamiang,2018,5
+Aceh,Nagan Raya,2018,5
+Aceh,Aceh Jaya,2018,6
+Aceh,Bener Meriah,2018,2
+Aceh,Pidie Jaya,2018,5
+Sumatera Utara,Nias,2018,5
+Sumatera Utara,Mandailing Natal,2018,6
+Sumatera Utara,Tapanuli Selatan,2018,5
+Sumatera Utara,Tapanuli Tengah,2018,4
+Sumatera Utara,Tapanuli Utara,2018,4
+Sumatera Utara,Toba Samosir,2018,6
+Sumatera Utara,Labuhan Batu,2018,6
+Sumatera Utara,Asahan,2018,6
+Sumatera Utara,Simalungun,2018,5
+Sumatera Utara,Dairi,2018,6
+Sumatera Utara,Karo,2018,6
+Sumatera Utara,Deli Serdang,2018,6
+Sumatera Utara,Langkat,2018,5
+Sumatera Utara,Nias Selatan,2018,4
+Sumatera Utara,Humbang Hasundutan,2018,5
+Sumatera Utara,Pakpak Bharat,2018,5
+Sumatera Utara,Samosir,2018,5
+Sumatera Utara,Serdang Bedagai,2018,6
+Sumatera Utara,Batu Bara,2018,6
+Sumatera Utara,Padang Lawas Utara,2018,5
+Sumatera Utara,Padang Lawas,2018,4
+Sumatera Utara,Labuhan Batu Selatan,2018,2
+Sumatera Utara,Labuhan Batu Utara,2018,6
+Sumatera Utara,Nias Utara,2018,3
+Sumatera Utara,Nias Barat,2018,3
+Sumatera Barat,Kepulauan Mentawai,2018,5
+Sumatera Barat,Pesisir Selatan,2018,2
+Sumatera Barat,Solok,2018,6
+Sumatera Barat,Sijunjung,2018,5
+Sumatera Barat,Tanah Datar,2018,5
+Sumatera Barat,Padang Pariaman,2018,6
+Sumatera Barat,Agam,2018,6
+Sumatera Barat,Limapuluh Koto,2018,6
+Sumatera Barat,Pasaman,2018,6
+Sumatera Barat,Solok Selatan,2018,6
+Sumatera Barat,Dharmas Raya,2018,6
+Sumatera Barat,Pasaman Barat,2018,5
+Riau,Kuantan Sengingi,2018,4
+Riau,Indragiri Hulu,2018,3
+Riau,Indragiri Hilir,2018,4
+Riau,Pelalawan,2018,5
+Riau,Siak,2018,3
+Riau,Kampar,2018,5
+Riau,Rokan Hulu,2018,3
+Riau,Bengkalis,2018,4
+Riau,Rokan Hilir,2018,3
+Riau,Kepulauan Meranti,2018,2
+Jambi,Kerinci,2018,6
+Jambi,Merangin,2018,6
+Jambi,Sarolangun,2018,5
+Jambi,Batang Hari,2018,4
+Jambi,Muaro Jambi,2018,4
+Jambi,Tanjung Jabung Timur,2018,5
+Jambi,Tanjung Jabung Barat,2018,5
+Jambi,Tebo,2018,5
+Jambi,Bungo,2018,6
+Sumatera Selatan,Ogan Komering Ulu,2018,5
+Sumatera Selatan,Ogan Komering Ilir,2018,5
+Sumatera Selatan,Muara Enim,2018,5
+Sumatera Selatan,Lahat,2018,5
+Sumatera Selatan,Musi Rawas,2018,6
+Sumatera Selatan,Musi Banyuasin,2018,5
+Sumatera Selatan,Banyuasin,2018,6
+Sumatera Selatan,Ogan Komering Ulu Selatan,2018,6
+Sumatera Selatan,Ogan Komering Ulu Timur,2018,5
+Sumatera Selatan,Ogan Ilir,2018,5
+Sumatera Selatan,Empat Lawang,2018,5
+Sumatera Selatan,Penukal Abab Lematang Ilir,2018,5
+Sumatera Selatan,Musi Rawas Utara,2018,4
+Bengkulu,Bengkulu Selatan,2018,5
+Bengkulu,Rejang Lebong,2018,5
+Bengkulu,Bengkulu Utara,2018,5
+Bengkulu,Kaur,2018,4
+Bengkulu,Seluma,2018,5
+Bengkulu,Mukomuko,2018,5
+Bengkulu,Lebong,2018,5
+Bengkulu,Kepahiang,2018,5
+Bengkulu,Bengkulu Tengah,2018,5
+Lampung,Lampung Barat,2018,6
+Lampung,Tanggamus,2018,5
+Lampung,Lampung Selatan,2018,5
+Lampung,Lampung Timur,2018,5
+Lampung,Lampung Tengah,2018,5
+Lampung,Lampung Utara,2018,6
+Lampung,Way Kanan,2018,6
+Lampung,Tulang Bawang,2018,5
+Lampung,Pesawaran,2018,5
+Lampung,Pringsewu,2018,6
+Lampung,Mesuji,2018,6
+Lampung,Tulang Bawang Barat,2018,6
+Lampung,Pesisir Barat,2018,5
+Kepulauan Bangka Belitung,Bangka,2018,3
+Kepulauan Bangka Belitung,Belitung,2018,3
+Kepulauan Bangka Belitung,Bangka Barat,2018,4
+Kepulauan Bangka Belitung,Bangka Tengah,2018,3
+Kepulauan Bangka Belitung,Bangka Selatan,2018,4
+Kepulauan Bangka Belitung,Belitung Timur,2018,3
+Kepulauan Riau,Karimun,2018,3
+Kepulauan Riau,Bintan,2018,3
+Kepulauan Riau,Natuna,2018,3
+Kepulauan Riau,Lingga,2018,2
+Kepulauan Riau,Kepulauan Anambas,2018,2
+DKI Jakarta,Kepulauan Seribu,2018,3
+Jawa Barat,Bogor,2018,4
+Jawa Barat,Sukabumi,2018,5
+Jawa Barat,Cianjur,2018,5
+Jawa Barat,Bandung,2018,5
+Jawa Barat,Garut,2018,5
+Jawa Barat,Tasikmalaya,2018,5
+Jawa Barat,Ciamis,2018,5
+Jawa Barat,Kuningan,2018,5
+Jawa Barat,Cirebon,2018,5
+Jawa Barat,Majalengka,2018,6
+Jawa Barat,Sumedang,2018,6
+Jawa Barat,Indramayu,2018,6
+Jawa Barat,Subang,2018,6
+Jawa Barat,Purwakarta,2018,5
+Jawa Barat,Karawang,2018,6
+Jawa Barat,Bekasi,2018,6
+Jawa Barat,Bandung Barat,2018,5
+Jawa Barat,Pangandaran,2018,6
+Jawa Tengah,Cilacap,2018,6
+Jawa Tengah,Banyumas,2018,5
+Jawa Tengah,Purbalingga,2018,5
+Jawa Tengah,Banjarnegara,2018,5
+Jawa Tengah,Kebumen,2018,5
+Jawa Tengah,Purworejo,2018,6
+Jawa Tengah,Wonosobo,2018,6
+Jawa Tengah,Magelang,2018,6
+Jawa Tengah,Boyolali,2018,6
+Jawa Tengah,Klaten,2018,6
+Jawa Tengah,Sukoharjo,2018,6
+Jawa Tengah,Wonogiri,2018,6
+Jawa Tengah,Karanganyar,2018,6
+Jawa Tengah,Sragen,2018,6
+Jawa Tengah,Grobogan,2018,6
+Jawa Tengah,Blora,2018,6
+Jawa Tengah,Rembang,2018,6
+Jawa Tengah,Pati,2018,6
+Jawa Tengah,Kudus,2018,6
+Jawa Tengah,Jepara,2018,6
+Jawa Tengah,Demak,2018,6
+Jawa Tengah,Semarang,2018,6
+Jawa Tengah,Temanggung,2018,6
+Jawa Tengah,Kendal,2018,6
+Jawa Tengah,Batang,2018,6
+Jawa Tengah,Pekalongan,2018,5
+Jawa Tengah,Pemalang,2018,5
+Jawa Tengah,Tegal,2018,5
+Jawa Tengah,Brebes,2018,5
+DI Yogyakarta,Kulon Progo,2018,6
+DI Yogyakarta,Bantul,2018,6
+DI Yogyakarta,Gunung Kidul,2018,6
+DI Yogyakarta,Sleman,2018,6
+Jawa Timur,Pacitan,2018,6
+Jawa Timur,Ponorogo,2018,6
+Jawa Timur,Trenggalek,2018,6
+Jawa Timur,Tulungagung,2018,6
+Jawa Timur,Blitar,2018,6
+Jawa Timur,Kediri,2018,6
+Jawa Timur,Malang,2018,6
+Jawa Timur,Lumajang,2018,5
+Jawa Timur,Jember,2018,5
+Jawa Timur,Banyuwangi,2018,6
+Jawa Timur,Bondowoso,2018,5
+Jawa Timur,Situbondo,2018,5
+Jawa Timur,Probolinggo,2018,5
+Jawa Timur,Pasuruan,2018,6
+Jawa Timur,Sidoarjo,2018,5
+Jawa Timur,Mojokerto,2018,6
+Jawa Timur,Jombang,2018,6
+Jawa Timur,Nganjuk,2018,6
+Jawa Timur,Madiun,2018,6
+Jawa Timur,Magetan,2018,6
+Jawa Timur,Ngawi,2018,6
+Jawa Timur,Bojonegoro,2018,6
+Jawa Timur,Tuban,2018,6
+Jawa Timur,Lamongan,2018,6
+Jawa Timur,Gresik,2018,6
+Jawa Timur,Bangkalan,2018,4
+Jawa Timur,Sampang,2018,5
+Jawa Timur,Pamekasan,2018,4
+Jawa Timur,Sumenep,2018,5
+Banten,Pandeglang,2018,5
+Banten,Lebak,2018,5
+Banten,Tangerang,2018,5
+Banten,Serang,2018,5
+Bali,Jembrana,2018,6
+Bali,Tabanan,2018,6
+Bali,Badung,2018,6
+Bali,Gianyar,2018,6
+Bali,Klungkung,2018,6
+Bali,Bangli,2018,6
+Bali,Karangasem,2018,6
+Bali,Buleleng,2018,6
+Nusa Tenggara Barat,Lombok Barat,2018,5
+Nusa Tenggara Barat,Lombok Tengah,2018,5
+Nusa Tenggara Barat,Lombok Timur,2018,4
+Nusa Tenggara Barat,Sumbawa,2018,6
+Nusa Tenggara Barat,Dompu,2018,6
+Nusa Tenggara Barat,Bima,2018,5
+Nusa Tenggara Barat,Sumbawa Barat,2018,6
+Nusa Tenggara Barat,Lombok Utara,2018,4
+Nusa Tenggara Timur,Sumba Barat,2018,5
+Nusa Tenggara Timur,Sumba Timur,2018,4
+Nusa Tenggara Timur,Kupang,2018,3
+Nusa Tenggara Timur,Timor Tengah Selatan,2018,4
+Nusa Tenggara Timur,Timor Tengah Utara,2018,4
+Nusa Tenggara Timur,Belu,2018,3
+Nusa Tenggara Timur,Alor,2018,4
+Nusa Tenggara Timur,Lembata,2018,4
+Nusa Tenggara Timur,Flores Timur,2018,4
+Nusa Tenggara Timur,Sikka,2018,3
+Nusa Tenggara Timur,Ende,2018,4
+Nusa Tenggara Timur,Ngada,2018,5
+Nusa Tenggara Timur,Manggarai,2018,5
+Nusa Tenggara Timur,Rote Ndao,2018,4
+Nusa Tenggara Timur,Manggarai Barat,2018,5
+Nusa Tenggara Timur,Sumba Tengah,2018,3
+Nusa Tenggara Timur,Sumba Barat Daya,2018,5
+Nusa Tenggara Timur,Nagekeo,2018,3
+Nusa Tenggara Timur,Manggarai Timur,2018,3
+Nusa Tenggara Timur,Sabu Raijua,2018,1
+Nusa Tenggara Timur,Malaka,2018,3
+Kalimantan Barat,Sambas,2018,6
+Kalimantan Barat,Bengkayang,2018,5
+Kalimantan Barat,Landak,2018,5
+Kalimantan Barat,Mempawah,2018,6
+Kalimantan Barat,Sanggau,2018,4
+Kalimantan Barat,Ketapang,2018,5
+Kalimantan Barat,Sintang,2018,6
+Kalimantan Barat,Kapuas Hulu,2018,5
+Kalimantan Barat,Sekadau,2018,5
+Kalimantan Barat,Melawai,2018,4
+Kalimantan Barat,Kayong Utara,2018,5
+Kalimantan Barat,Kubu Raya,2018,5
+Kalimantan Tengah,Kotawaringin Barat,2018,5
+Kalimantan Tengah,Kotawaringin Timur,2018,5
+Kalimantan Tengah,Kapuas,2018,6
+Kalimantan Tengah,Barito Selatan,2018,5
+Kalimantan Tengah,Barito Utara,2018,6
+Kalimantan Tengah,Sukamara,2018,5
+Kalimantan Tengah,Lamandau,2018,6
+Kalimantan Tengah,Seruyan,2018,6
+Kalimantan Tengah,Katingan,2018,6
+Kalimantan Tengah,Pulang Pisau,2018,3
+Kalimantan Tengah,Gunung Mas,2018,6
+Kalimantan Tengah,Barito Timur,2018,4
+Kalimantan Tengah,Murung Raya,2018,5
+Kalimantan Selatan,Tanah Laut,2018,6
+Kalimantan Selatan,Kota Baru,2018,6
+Kalimantan Selatan,Banjar,2018,6
+Kalimantan Selatan,Barito Kuala,2018,6
+Kalimantan Selatan,Tapin,2018,6
+Kalimantan Selatan,Hulu Sungai Selatan,2018,6
+Kalimantan Selatan,Hulu Sungai Tengah,2018,6
+Kalimantan Selatan,Hulu Sungai Utara,2018,6
+Kalimantan Selatan,Tabalong,2018,6
+Kalimantan Selatan,Tanah Bumbu,2018,6
+Kalimantan Selatan,Balangan,2018,6
+Kalimantan Timur,Paser,2018,5
+Kalimantan Timur,Kutai Barat,2018,5
+Kalimantan Timur,Kutai Kertanegara,2018,5
+Kalimantan Timur,Kutai Timur,2018,5
+Kalimantan Timur,Berau,2018,6
+Kalimantan Timur,Penajam Paser Utara,2018,6
+Kalimantan Timur,Mahakam Ulu,2018,5
+Kalimantan Utara,Malinau,2018,6
+Kalimantan Utara,Bulungan,2018,6
+Kalimantan Utara,Tana Tidung,2018,6
+Kalimantan Utara,Nunukan,2018,5
+Sulawesi Utara,Bolaang Mongondow,2018,6
+Sulawesi Utara,Minahasa,2018,6
+Sulawesi Utara,Kepulauan Sangihe,2018,2
+Sulawesi Utara,Kepulauan Talaud,2018,4
+Sulawesi Utara,Minahasa Selatan,2018,5
+Sulawesi Utara,Minahasa Utara,2018,6
+Sulawesi Utara,Bolaang Mongondow Utara,2018,2
+Sulawesi Utara,Kepulauan Siau Tagulandang Biaro,2018,5
+Sulawesi Utara,Minahasa Tenggara,2018,5
+Sulawesi Utara,Bolaang Mongondow Selatan,2018,6
+Sulawesi Utara,Bolaang Mongondow Timur,2018,4
+Sulawesi Tengah,Banggai Kepulauan,2018,4
+Sulawesi Tengah,Banggai,2018,2
+Sulawesi Tengah,Morowali,2018,5
+Sulawesi Tengah,Poso,2018,6
+Sulawesi Tengah,Donggala,2018,6
+Sulawesi Tengah,Toli-Toli,2018,6
+Sulawesi Tengah,Buol,2018,5
+Sulawesi Tengah,Parigi Moutong,2018,5
+Sulawesi Tengah,Tojo Una-Una,2018,4
+Sulawesi Tengah,Sigi,2018,5
+Sulawesi Tengah,Banggai Laut,2018,2
+Sulawesi Tengah,Morowali Utara,2018,5
+Sulawesi Selatan,Selayar,2018,5
+Sulawesi Selatan,Bulukumba,2018,6
+Sulawesi Selatan,Bantaeng,2018,6
+Sulawesi Selatan,Jeneponto,2018,5
+Sulawesi Selatan,Takalar,2018,6
+Sulawesi Selatan,Gowa,2018,6
+Sulawesi Selatan,Sinjai,2018,6
+Sulawesi Selatan,Maros,2018,5
+Sulawesi Selatan,Pangkajene dan Kepulauan,2018,6
+Sulawesi Selatan,Barru,2018,6
+Sulawesi Selatan,Bone,2018,6
+Sulawesi Selatan,Soppeng,2018,6
+Sulawesi Selatan,Wajo,2018,6
+Sulawesi Selatan,Sidenreng Rappang,2018,6
+Sulawesi Selatan,Pinrang,2018,6
+Sulawesi Selatan,Enrekang,2018,5
+Sulawesi Selatan,Luwu,2018,6
+Sulawesi Selatan,Tana Toraja,2018,5
+Sulawesi Selatan,Luwu Utara,2018,6
+Sulawesi Selatan,Luwu Timur,2018,6
+Sulawesi Selatan,Toraja Utara,2018,5
+Sulawesi Tenggara,Buton,2018,6
+Sulawesi Tenggara,Muna,2018,6
+Sulawesi Tenggara,Konawe,2018,4
+Sulawesi Tenggara,Kolaka,2018,4
+Sulawesi Tenggara,Konawe Selatan,2018,6
+Sulawesi Tenggara,Bombana,2018,6
+Sulawesi Tenggara,Wakatobi,2018,5
+Sulawesi Tenggara,Kolaka Utara,2018,4
+Sulawesi Tenggara,Buton Utara,2018,6
+Sulawesi Tenggara,Konawe Utara,2018,5
+Sulawesi Tenggara,Kolaka Timur,2018,6
+Sulawesi Tenggara,Konawe Kepulauan,2018,4
+Sulawesi Tenggara,Muna Barat,2018,3
+Sulawesi Tenggara,Buton Tengah,2018,2
+Sulawesi Tenggara,Buton Selatan,2018,2
+Gorontalo,Boalemo,2018,5
+Gorontalo,Gorontalo,2018,5
+Gorontalo,Pohuwato,2018,5
+Gorontalo,Bone Bolango,2018,5
+Gorontalo,Gorontalo Utara,2018,5
+Sulawesi Barat,Majene,2018,5
+Sulawesi Barat,Polewali Mandar,2018,6
+Sulawesi Barat,Mamasa,2018,4
+Sulawesi Barat,Mamuju,2018,5
+Sulawesi Barat,Mamuju Utara,2018,4
+Sulawesi Barat,Mamuju Tengah,2018,6
+Maluku,Kepulauan Tanimbar,2018,4
+Maluku,Maluku Tenggara,2018,4
+Maluku,Maluku Tengah,2018,1
+Maluku,Buru,2018,5
+Maluku,Kepulauan Aru,2018,3
+Maluku,Seram Bagian Barat,2018,3
+Maluku,Seram Bagian Timur,2018,1
+Maluku,Maluku Barat Daya,2018,2
+Maluku,Buru Selatan,2018,3
+Maluku Utara,Halmahera Barat,2018,4
+Maluku Utara,Halmahera Tengah,2018,4
+Maluku Utara,Kepulauan Sula,2018,6
+Maluku Utara,Halmahera Selatan,2018,5
+Maluku Utara,Halmahera Utara,2018,3
+Maluku Utara,Halmahera Timur,2018,5
+Maluku Utara,Pulau Morotai,2018,5
+Maluku Utara,Pulau Taliabu,2018,2
+Papua Barat,Fak-Fak,2018,1
+Papua Barat,Kaimana,2018,2
+Papua Barat,Teluk Wondama,2018,1
+Papua Barat,Teluk Bintuni,2018,1
+Papua Barat,Manokwari,2018,4
+Papua Barat,Sorong Selatan,2018,2
+Papua Barat,Sorong,2018,3
+Papua Barat,Raja Ampat,2018,3
+Papua Barat,Tambrauw,2018,1
+Papua Barat,Maybrat,2018,1
+Papua Barat,Manokwari Selatan,2018,3
+Papua Barat,Pegunungan Arfak,2018,1
+Papua,Merauke,2018,6
+Papua,Jayawijaya,2018,3
+Papua,Jayapura,2018,1
+Papua,Nabire,2018,6
+Papua,Kepulauan Yapen,2018,4
+Papua,Biak Namfor,2018,2
+Papua,Paniai,2018,4
+Papua,Puncak Jaya,2018,3
+Papua,Mimika,2018,5
+Papua,Boven Digoel,2018,2
+Papua,Mappi,2018,1
+Papua,Asmat,2018,1
+Papua,Yahukimo,2018,1
+Papua,Pegunungan Bintang,2018,1
+Papua,Tolikara,2018,1
+Papua,Sarmi,2018,1
+Papua,Keerom,2018,3
+Papua,Waropen,2018,2
+Papua,Supiori,2018,1
+Papua,Mamberamo Raya,2018,1
+Papua,Nduga,2018,1
+Papua,Lanny Jaya,2018,1
+Papua,Mamberamo Tengah,2018,1
+Papua,Yalimo,2018,1
+Papua,Puncak,2018,1
+Papua,Dogiyai,2018,1
+Papua,Intan Jaya,2018,1
+Papua,Deiyai,2018,3
+Aceh,Kota Banda Aceh,2018,6
+Aceh,Kota Sabang,2018,4
+Aceh,Kota Langsa,2018,5
+Aceh,Kota Lhokseumawe,2018,5
+Aceh,Kota Subulussalam,2018,1
+Sumatera Utara,Kota Sibolga,2018,6
+Sumatera Utara,Kota Tanjung Balai,2018,4
+Sumatera Utara,Kota Pematang Siantar,2018,3
+Sumatera Utara,Kota Tebing Tinggi,2018,5
+Sumatera Utara,Kota Medan,2018,5
+Sumatera Utara,Kota Binjai,2018,6
+Sumatera Utara,Kota Padang Sidimpuan,2018,4
+Sumatera Utara,Kota Gunungsitoli,2018,2
+Sumatera Barat,Kota Padang,2018,6
+Sumatera Barat,Kota Solok,2018,6
+Sumatera Barat,Kota Sawah Lunto,2018,5
+Sumatera Barat,Kota Padang Panjang,2018,6
+Sumatera Barat,Kota Bukittinggi,2018,6
+Sumatera Barat,Kota Payakumbuh,2018,6
+Sumatera Barat,Kota Pariaman,2018,5
+Riau,Kota Pekanbaru,2018,6
+Riau,Kota Dumai,2018,5
+Jambi,Kota Jambi,2018,6
+Jambi,Kota Sungai Penuh,2018,5
+Sumatera Selatan,Kota Palembang,2018,6
+Sumatera Selatan,Kota Prabumulih,2018,3
+Sumatera Selatan,Kota Pagar Alam,2018,4
+Sumatera Selatan,Kota Lubuklinggau,2018,2
+Bengkulu,Kota Bengkulu,2018,5
+Lampung,Kota Bandar Lampung,2018,5
+Lampung,Kota Metro,2018,5
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,2018,6
+Kepulauan Riau,Kota Batam,2018,6
+Kepulauan Riau,Kota Tanjung Pinang,2018,5
+DKI Jakarta,Kota Jakarta Selatan,2018,6
+DKI Jakarta,Kota Jakarta Timur,2018,6
+DKI Jakarta,Kota Jakarta Pusat,2018,6
+DKI Jakarta,Kota Jakarta Barat,2018,6
+DKI Jakarta,Kota Jakarta Utara,2018,6
+Jawa Barat,Kota Bogor,2018,6
+Jawa Barat,Kota Sukabumi,2018,5
+Jawa Barat,Kota Bandung,2018,6
+Jawa Barat,Kota Cirebon,2018,6
+Jawa Barat,Kota Bekasi,2018,6
+Jawa Barat,Kota Depok,2018,6
+Jawa Barat,Kota Cimahi,2018,6
+Jawa Barat,Kota Tasikmalaya,2018,4
+Jawa Barat,Kota Banjar,2018,5
+Jawa Tengah,Kota Magelang,2018,6
+Jawa Tengah,Kota Surakarta,2018,6
+Jawa Tengah,Kota Salatiga,2018,6
+Jawa Tengah,Kota Semarang,2018,6
+Jawa Tengah,Kota Pekalongan,2018,5
+Jawa Tengah,Kota Tegal,2018,5
+DI Yogyakarta,Kota Yogyakarta,2018,6
+Jawa Timur,Kota Kediri,2018,5
+Jawa Timur,Kota Blitar,2018,5
+Jawa Timur,Kota Malang,2018,6
+Jawa Timur,Kota Probolinggo,2018,5
+Jawa Timur,Kota Pasuruan,2018,5
+Jawa Timur,Kota Mojokerto,2018,6
+Jawa Timur,Kota Madiun,2018,6
+Jawa Timur,Kota Surabaya,2018,6
+Jawa Timur,Kota Batu,2018,5
+Banten,Kota Tangerang,2018,6
+Banten,Kota Cilegon,2018,5
+Banten,Kota Serang,2018,4
+Banten,Kota Tangerang Selatan,2018,6
+Bali,Kota Denpasar,2018,6
+Nusa Tenggara Barat,Kota Mataram,2018,5
+Nusa Tenggara Barat,Kota Bima,2018,4
+Nusa Tenggara Timur,Kota Kupang,2018,5
+Kalimantan Barat,Kota Pontianak,2018,5
+Kalimantan Barat,Kota Singkawang,2018,4
+Kalimantan Tengah,Kota Palangka Raya,2018,6
+Kalimantan Selatan,Kota Banjarmasin,2018,6
+Kalimantan Selatan,Kota Banjar Baru,2018,5
+Kalimantan Timur,Kota Balikpapan,2018,6
+Kalimantan Timur,Kota Samarinda,2018,6
+Kalimantan Timur,Kota Bontang,2018,6
+Kalimantan Utara,Kota Tarakan,2018,6
+Sulawesi Utara,Kota Manado,2018,6
+Sulawesi Utara,Kota Bitung,2018,5
+Sulawesi Utara,Kota Tomohon,2018,6
+Sulawesi Utara,Kota Kotamobago,2018,5
+Sulawesi Tengah,Kota Palu,2018,6
+Sulawesi Selatan,Kota Makasar,2018,6
+Sulawesi Selatan,Kota Pare-Pare,2018,6
+Sulawesi Selatan,Kota Palopo,2018,5
+Sulawesi Tenggara,Kota Kendari,2018,6
+Sulawesi Tenggara,Kota Bau-Bau,2018,5
+Gorontalo,Kota Gorontalo,2018,6
+Maluku,Kota Ambon,2018,5
+Maluku,Kota Tual,2018,1
+Maluku Utara,Kota Ternate,2018,6
+Maluku Utara,Kota Tidore Kepulauan,2018,3
+Papua Barat,Kota Sorong,2018,4
+Papua,Kota Jayapura,2018,4
+Aceh,Simeulue,2019,5
+Aceh,Aceh Singkil,2019,6
+Aceh,Aceh Selatan,2019,5
+Aceh,Aceh Tenggara,2019,2
+Aceh,Aceh Timur,2019,5
+Aceh,Aceh Tengah,2019,5
+Aceh,Aceh Barat,2019,5
+Aceh,Aceh Besar,2019,5
+Aceh,Pidie,2019,5
+Aceh,Bireuen,2019,5
+Aceh,Aceh Utara,2019,6
+Aceh,Aceh Barat Daya,2019,5
+Aceh,Gayo Lues,2019,5
+Aceh,Aceh Tamiang,2019,6
+Aceh,Nagan Raya,2019,5
+Aceh,Aceh Jaya,2019,6
+Aceh,Bener Meriah,2019,3
+Aceh,Pidie Jaya,2019,6
+Sumatera Utara,Nias,2019,4
+Sumatera Utara,Mandailing Natal,2019,6
+Sumatera Utara,Tapanuli Selatan,2019,5
+Sumatera Utara,Tapanuli Tengah,2019,4
+Sumatera Utara,Tapanuli Utara,2019,4
+Sumatera Utara,Toba Samosir,2019,6
+Sumatera Utara,Labuhan Batu,2019,6
+Sumatera Utara,Asahan,2019,6
+Sumatera Utara,Simalungun,2019,5
+Sumatera Utara,Dairi,2019,6
+Sumatera Utara,Karo,2019,6
+Sumatera Utara,Deli Serdang,2019,4
+Sumatera Utara,Langkat,2019,6
+Sumatera Utara,Nias Selatan,2019,4
+Sumatera Utara,Humbang Hasundutan,2019,4
+Sumatera Utara,Pakpak Bharat,2019,5
+Sumatera Utara,Samosir,2019,5
+Sumatera Utara,Serdang Bedagai,2019,6
+Sumatera Utara,Batu Bara,2019,5
+Sumatera Utara,Padang Lawas Utara,2019,4
+Sumatera Utara,Padang Lawas,2019,4
+Sumatera Utara,Labuhan Batu Selatan,2019,2
+Sumatera Utara,Labuhan Batu Utara,2019,6
+Sumatera Utara,Nias Utara,2019,3
+Sumatera Utara,Nias Barat,2019,2
+Sumatera Barat,Kepulauan Mentawai,2019,6
+Sumatera Barat,Pesisir Selatan,2019,1
+Sumatera Barat,Solok,2019,6
+Sumatera Barat,Sijunjung,2019,6
+Sumatera Barat,Tanah Datar,2019,6
+Sumatera Barat,Padang Pariaman,2019,6
+Sumatera Barat,Agam,2019,6
+Sumatera Barat,Limapuluh Koto,2019,6
+Sumatera Barat,Pasaman,2019,6
+Sumatera Barat,Solok Selatan,2019,6
+Sumatera Barat,Dharmas Raya,2019,6
+Sumatera Barat,Pasaman Barat,2019,6
+Riau,Kuantan Sengingi,2019,5
+Riau,Indragiri Hulu,2019,4
+Riau,Indragiri Hilir,2019,5
+Riau,Pelalawan,2019,6
+Riau,Siak,2019,4
+Riau,Kampar,2019,6
+Riau,Rokan Hulu,2019,4
+Riau,Bengkalis,2019,4
+Riau,Rokan Hilir,2019,3
+Riau,Kepulauan Meranti,2019,3
+Jambi,Kerinci,2019,6
+Jambi,Merangin,2019,5
+Jambi,Sarolangun,2019,5
+Jambi,Batang Hari,2019,5
+Jambi,Muaro Jambi,2019,5
+Jambi,Tanjung Jabung Timur,2019,5
+Jambi,Tanjung Jabung Barat,2019,5
+Jambi,Tebo,2019,5
+Jambi,Bungo,2019,5
+Sumatera Selatan,Ogan Komering Ulu,2019,4
+Sumatera Selatan,Ogan Komering Ilir,2019,6
+Sumatera Selatan,Muara Enim,2019,5
+Sumatera Selatan,Lahat,2019,5
+Sumatera Selatan,Musi Rawas,2019,6
+Sumatera Selatan,Musi Banyuasin,2019,6
+Sumatera Selatan,Banyuasin,2019,6
+Sumatera Selatan,Ogan Komering Ulu Selatan,2019,6
+Sumatera Selatan,Ogan Komering Ulu Timur,2019,5
+Sumatera Selatan,Ogan Ilir,2019,5
+Sumatera Selatan,Empat Lawang,2019,4
+Sumatera Selatan,Penukal Abab Lematang Ilir,2019,5
+Sumatera Selatan,Musi Rawas Utara,2019,4
+Bengkulu,Bengkulu Selatan,2019,5
+Bengkulu,Rejang Lebong,2019,5
+Bengkulu,Bengkulu Utara,2019,4
+Bengkulu,Kaur,2019,5
+Bengkulu,Seluma,2019,4
+Bengkulu,Mukomuko,2019,5
+Bengkulu,Lebong,2019,5
+Bengkulu,Kepahiang,2019,5
+Bengkulu,Bengkulu Tengah,2019,5
+Lampung,Lampung Barat,2019,6
+Lampung,Tanggamus,2019,5
+Lampung,Lampung Selatan,2019,5
+Lampung,Lampung Timur,2019,5
+Lampung,Lampung Tengah,2019,6
+Lampung,Lampung Utara,2019,6
+Lampung,Way Kanan,2019,6
+Lampung,Tulang Bawang,2019,6
+Lampung,Pesawaran,2019,6
+Lampung,Pringsewu,2019,6
+Lampung,Mesuji,2019,6
+Lampung,Tulang Bawang Barat,2019,6
+Lampung,Pesisir Barat,2019,5
+Kepulauan Bangka Belitung,Bangka,2019,5
+Kepulauan Bangka Belitung,Belitung,2019,3
+Kepulauan Bangka Belitung,Bangka Barat,2019,4
+Kepulauan Bangka Belitung,Bangka Tengah,2019,3
+Kepulauan Bangka Belitung,Bangka Selatan,2019,4
+Kepulauan Bangka Belitung,Belitung Timur,2019,4
+Kepulauan Riau,Karimun,2019,3
+Kepulauan Riau,Bintan,2019,3
+Kepulauan Riau,Natuna,2019,3
+Kepulauan Riau,Lingga,2019,2
+Kepulauan Riau,Kepulauan Anambas,2019,2
+DKI Jakarta,Kepulauan Seribu,2019,3
+Jawa Barat,Bogor,2019,5
+Jawa Barat,Sukabumi,2019,5
+Jawa Barat,Cianjur,2019,6
+Jawa Barat,Bandung,2019,6
+Jawa Barat,Garut,2019,6
+Jawa Barat,Tasikmalaya,2019,5
+Jawa Barat,Ciamis,2019,6
+Jawa Barat,Kuningan,2019,6
+Jawa Barat,Cirebon,2019,6
+Jawa Barat,Majalengka,2019,6
+Jawa Barat,Sumedang,2019,6
+Jawa Barat,Indramayu,2019,6
+Jawa Barat,Subang,2019,6
+Jawa Barat,Purwakarta,2019,6
+Jawa Barat,Karawang,2019,6
+Jawa Barat,Bekasi,2019,6
+Jawa Barat,Bandung Barat,2019,5
+Jawa Barat,Pangandaran,2019,6
+Jawa Tengah,Cilacap,2019,6
+Jawa Tengah,Banyumas,2019,6
+Jawa Tengah,Purbalingga,2019,6
+Jawa Tengah,Banjarnegara,2019,6
+Jawa Tengah,Kebumen,2019,6
+Jawa Tengah,Purworejo,2019,6
+Jawa Tengah,Wonosobo,2019,6
+Jawa Tengah,Magelang,2019,6
+Jawa Tengah,Boyolali,2019,6
+Jawa Tengah,Klaten,2019,6
+Jawa Tengah,Sukoharjo,2019,6
+Jawa Tengah,Wonogiri,2019,6
+Jawa Tengah,Karanganyar,2019,6
+Jawa Tengah,Sragen,2019,6
+Jawa Tengah,Grobogan,2019,6
+Jawa Tengah,Blora,2019,6
+Jawa Tengah,Rembang,2019,6
+Jawa Tengah,Pati,2019,6
+Jawa Tengah,Kudus,2019,6
+Jawa Tengah,Jepara,2019,6
+Jawa Tengah,Demak,2019,6
+Jawa Tengah,Semarang,2019,6
+Jawa Tengah,Temanggung,2019,6
+Jawa Tengah,Kendal,2019,6
+Jawa Tengah,Batang,2019,6
+Jawa Tengah,Pekalongan,2019,5
+Jawa Tengah,Pemalang,2019,6
+Jawa Tengah,Tegal,2019,6
+Jawa Tengah,Brebes,2019,5
+DI Yogyakarta,Kulon Progo,2019,6
+DI Yogyakarta,Bantul,2019,6
+DI Yogyakarta,Gunung Kidul,2019,6
+DI Yogyakarta,Sleman,2019,6
+Jawa Timur,Pacitan,2019,6
+Jawa Timur,Ponorogo,2019,6
+Jawa Timur,Trenggalek,2019,6
+Jawa Timur,Tulungagung,2019,6
+Jawa Timur,Blitar,2019,6
+Jawa Timur,Kediri,2019,6
+Jawa Timur,Malang,2019,6
+Jawa Timur,Lumajang,2019,6
+Jawa Timur,Jember,2019,5
+Jawa Timur,Banyuwangi,2019,6
+Jawa Timur,Bondowoso,2019,5
+Jawa Timur,Situbondo,2019,5
+Jawa Timur,Probolinggo,2019,5
+Jawa Timur,Pasuruan,2019,6
+Jawa Timur,Sidoarjo,2019,6
+Jawa Timur,Mojokerto,2019,6
+Jawa Timur,Jombang,2019,6
+Jawa Timur,Nganjuk,2019,6
+Jawa Timur,Madiun,2019,6
+Jawa Timur,Magetan,2019,6
+Jawa Timur,Ngawi,2019,6
+Jawa Timur,Bojonegoro,2019,6
+Jawa Timur,Tuban,2019,6
+Jawa Timur,Lamongan,2019,6
+Jawa Timur,Gresik,2019,6
+Jawa Timur,Bangkalan,2019,5
+Jawa Timur,Sampang,2019,5
+Jawa Timur,Pamekasan,2019,5
+Jawa Timur,Sumenep,2019,5
+Banten,Pandeglang,2019,5
+Banten,Lebak,2019,5
+Banten,Tangerang,2019,5
+Banten,Serang,2019,6
+Bali,Jembrana,2019,6
+Bali,Tabanan,2019,6
+Bali,Badung,2019,6
+Bali,Gianyar,2019,6
+Bali,Klungkung,2019,6
+Bali,Bangli,2019,5
+Bali,Karangasem,2019,6
+Bali,Buleleng,2019,6
+Nusa Tenggara Barat,Lombok Barat,2019,5
+Nusa Tenggara Barat,Lombok Tengah,2019,5
+Nusa Tenggara Barat,Lombok Timur,2019,5
+Nusa Tenggara Barat,Sumbawa,2019,6
+Nusa Tenggara Barat,Dompu,2019,6
+Nusa Tenggara Barat,Bima,2019,5
+Nusa Tenggara Barat,Sumbawa Barat,2019,6
+Nusa Tenggara Barat,Lombok Utara,2019,4
+Nusa Tenggara Timur,Sumba Barat,2019,6
+Nusa Tenggara Timur,Sumba Timur,2019,5
+Nusa Tenggara Timur,Kupang,2019,4
+Nusa Tenggara Timur,Timor Tengah Selatan,2019,4
+Nusa Tenggara Timur,Timor Tengah Utara,2019,5
+Nusa Tenggara Timur,Belu,2019,4
+Nusa Tenggara Timur,Alor,2019,5
+Nusa Tenggara Timur,Lembata,2019,5
+Nusa Tenggara Timur,Flores Timur,2019,5
+Nusa Tenggara Timur,Sikka,2019,4
+Nusa Tenggara Timur,Ende,2019,4
+Nusa Tenggara Timur,Ngada,2019,5
+Nusa Tenggara Timur,Manggarai,2019,5
+Nusa Tenggara Timur,Rote Ndao,2019,5
+Nusa Tenggara Timur,Manggarai Barat,2019,5
+Nusa Tenggara Timur,Sumba Tengah,2019,3
+Nusa Tenggara Timur,Sumba Barat Daya,2019,6
+Nusa Tenggara Timur,Nagekeo,2019,4
+Nusa Tenggara Timur,Manggarai Timur,2019,4
+Nusa Tenggara Timur,Sabu Raijua,2019,2
+Nusa Tenggara Timur,Malaka,2019,5
+Kalimantan Barat,Sambas,2019,5
+Kalimantan Barat,Bengkayang,2019,4
+Kalimantan Barat,Landak,2019,5
+Kalimantan Barat,Mempawah,2019,5
+Kalimantan Barat,Sanggau,2019,5
+Kalimantan Barat,Ketapang,2019,5
+Kalimantan Barat,Sintang,2019,5
+Kalimantan Barat,Kapuas Hulu,2019,5
+Kalimantan Barat,Sekadau,2019,5
+Kalimantan Barat,Melawai,2019,2
+Kalimantan Barat,Kayong Utara,2019,5
+Kalimantan Barat,Kubu Raya,2019,5
+Kalimantan Tengah,Kotawaringin Barat,2019,4
+Kalimantan Tengah,Kotawaringin Timur,2019,6
+Kalimantan Tengah,Kapuas,2019,6
+Kalimantan Tengah,Barito Selatan,2019,5
+Kalimantan Tengah,Barito Utara,2019,6
+Kalimantan Tengah,Sukamara,2019,4
+Kalimantan Tengah,Lamandau,2019,6
+Kalimantan Tengah,Seruyan,2019,6
+Kalimantan Tengah,Katingan,2019,5
+Kalimantan Tengah,Pulang Pisau,2019,3
+Kalimantan Tengah,Gunung Mas,2019,6
+Kalimantan Tengah,Barito Timur,2019,2
+Kalimantan Tengah,Murung Raya,2019,6
+Kalimantan Selatan,Tanah Laut,2019,6
+Kalimantan Selatan,Kota Baru,2019,6
+Kalimantan Selatan,Banjar,2019,6
+Kalimantan Selatan,Barito Kuala,2019,6
+Kalimantan Selatan,Tapin,2019,6
+Kalimantan Selatan,Hulu Sungai Selatan,2019,6
+Kalimantan Selatan,Hulu Sungai Tengah,2019,6
+Kalimantan Selatan,Hulu Sungai Utara,2019,6
+Kalimantan Selatan,Tabalong,2019,6
+Kalimantan Selatan,Tanah Bumbu,2019,6
+Kalimantan Selatan,Balangan,2019,6
+Kalimantan Timur,Paser,2019,5
+Kalimantan Timur,Kutai Barat,2019,4
+Kalimantan Timur,Kutai Kertanegara,2019,4
+Kalimantan Timur,Kutai Timur,2019,3
+Kalimantan Timur,Berau,2019,6
+Kalimantan Timur,Penajam Paser Utara,2019,6
+Kalimantan Timur,Mahakam Ulu,2019,3
+Kalimantan Utara,Malinau,2019,6
+Kalimantan Utara,Bulungan,2019,6
+Kalimantan Utara,Tana Tidung,2019,6
+Kalimantan Utara,Nunukan,2019,5
+Sulawesi Utara,Bolaang Mongondow,2019,6
+Sulawesi Utara,Minahasa,2019,6
+Sulawesi Utara,Kepulauan Sangihe,2019,3
+Sulawesi Utara,Kepulauan Talaud,2019,6
+Sulawesi Utara,Minahasa Selatan,2019,6
+Sulawesi Utara,Minahasa Utara,2019,6
+Sulawesi Utara,Bolaang Mongondow Utara,2019,5
+Sulawesi Utara,Kepulauan Siau Tagulandang Biaro,2019,6
+Sulawesi Utara,Minahasa Tenggara,2019,6
+Sulawesi Utara,Bolaang Mongondow Selatan,2019,6
+Sulawesi Utara,Bolaang Mongondow Timur,2019,5
+Sulawesi Tengah,Banggai Kepulauan,2019,6
+Sulawesi Tengah,Banggai,2019,3
+Sulawesi Tengah,Morowali,2019,6
+Sulawesi Tengah,Poso,2019,6
+Sulawesi Tengah,Donggala,2019,6
+Sulawesi Tengah,Toli-Toli,2019,6
+Sulawesi Tengah,Buol,2019,5
+Sulawesi Tengah,Parigi Moutong,2019,5
+Sulawesi Tengah,Tojo Una-Una,2019,5
+Sulawesi Tengah,Sigi,2019,6
+Sulawesi Tengah,Banggai Laut,2019,2
+Sulawesi Tengah,Morowali Utara,2019,6
+Sulawesi Selatan,Selayar,2019,4
+Sulawesi Selatan,Bulukumba,2019,6
+Sulawesi Selatan,Bantaeng,2019,6
+Sulawesi Selatan,Jeneponto,2019,6
+Sulawesi Selatan,Takalar,2019,6
+Sulawesi Selatan,Gowa,2019,6
+Sulawesi Selatan,Sinjai,2019,6
+Sulawesi Selatan,Maros,2019,5
+Sulawesi Selatan,Pangkajene dan Kepulauan,2019,6
+Sulawesi Selatan,Barru,2019,6
+Sulawesi Selatan,Bone,2019,6
+Sulawesi Selatan,Soppeng,2019,6
+Sulawesi Selatan,Wajo,2019,6
+Sulawesi Selatan,Sidenreng Rappang,2019,6
+Sulawesi Selatan,Pinrang,2019,6
+Sulawesi Selatan,Enrekang,2019,6
+Sulawesi Selatan,Luwu,2019,6
+Sulawesi Selatan,Tana Toraja,2019,6
+Sulawesi Selatan,Luwu Utara,2019,6
+Sulawesi Selatan,Luwu Timur,2019,6
+Sulawesi Selatan,Toraja Utara,2019,6
+Sulawesi Tenggara,Buton,2019,6
+Sulawesi Tenggara,Muna,2019,6
+Sulawesi Tenggara,Konawe,2019,6
+Sulawesi Tenggara,Kolaka,2019,6
+Sulawesi Tenggara,Konawe Selatan,2019,6
+Sulawesi Tenggara,Bombana,2019,6
+Sulawesi Tenggara,Wakatobi,2019,6
+Sulawesi Tenggara,Kolaka Utara,2019,5
+Sulawesi Tenggara,Buton Utara,2019,5
+Sulawesi Tenggara,Konawe Utara,2019,5
+Sulawesi Tenggara,Kolaka Timur,2019,6
+Sulawesi Tenggara,Konawe Kepulauan,2019,3
+Sulawesi Tenggara,Muna Barat,2019,6
+Sulawesi Tenggara,Buton Tengah,2019,6
+Sulawesi Tenggara,Buton Selatan,2019,5
+Gorontalo,Boalemo,2019,6
+Gorontalo,Gorontalo,2019,6
+Gorontalo,Pohuwato,2019,6
+Gorontalo,Bone Bolango,2019,6
+Gorontalo,Gorontalo Utara,2019,6
+Sulawesi Barat,Majene,2019,6
+Sulawesi Barat,Polewali Mandar,2019,6
+Sulawesi Barat,Mamasa,2019,5
+Sulawesi Barat,Mamuju,2019,5
+Sulawesi Barat,Mamuju Utara,2019,3
+Sulawesi Barat,Mamuju Tengah,2019,6
+Maluku,Kepulauan Tanimbar,2019,4
+Maluku,Maluku Tenggara,2019,4
+Maluku,Maluku Tengah,2019,3
+Maluku,Buru,2019,6
+Maluku,Kepulauan Aru,2019,3
+Maluku,Seram Bagian Barat,2019,4
+Maluku,Seram Bagian Timur,2019,1
+Maluku,Maluku Barat Daya,2019,3
+Maluku,Buru Selatan,2019,3
+Maluku Utara,Halmahera Barat,2019,5
+Maluku Utara,Halmahera Tengah,2019,5
+Maluku Utara,Kepulauan Sula,2019,6
+Maluku Utara,Halmahera Selatan,2019,5
+Maluku Utara,Halmahera Utara,2019,3
+Maluku Utara,Halmahera Timur,2019,5
+Maluku Utara,Pulau Morotai,2019,6
+Maluku Utara,Pulau Taliabu,2019,2
+Papua Barat,Fak-Fak,2019,2
+Papua Barat,Kaimana,2019,2
+Papua Barat,Teluk Wondama,2019,1
+Papua Barat,Teluk Bintuni,2019,1
+Papua Barat,Manokwari,2019,5
+Papua Barat,Sorong Selatan,2019,2
+Papua Barat,Sorong,2019,4
+Papua Barat,Raja Ampat,2019,2
+Papua Barat,Tambrauw,2019,1
+Papua Barat,Maybrat,2019,2
+Papua Barat,Manokwari Selatan,2019,1
+Papua Barat,Pegunungan Arfak,2019,1
+Papua,Merauke,2019,6
+Papua,Jayawijaya,2019,3
+Papua,Jayapura,2019,1
+Papua,Nabire,2019,6
+Papua,Kepulauan Yapen,2019,5
+Papua,Biak Namfor,2019,2
+Papua,Paniai,2019,2
+Papua,Puncak Jaya,2019,3
+Papua,Mimika,2019,4
+Papua,Boven Digoel,2019,2
+Papua,Mappi,2019,1
+Papua,Asmat,2019,1
+Papua,Yahukimo,2019,1
+Papua,Pegunungan Bintang,2019,1
+Papua,Tolikara,2019,1
+Papua,Sarmi,2019,2
+Papua,Keerom,2019,1
+Papua,Waropen,2019,1
+Papua,Supiori,2019,1
+Papua,Mamberamo Raya,2019,1
+Papua,Nduga,2019,1
+Papua,Lanny Jaya,2019,1
+Papua,Mamberamo Tengah,2019,1
+Papua,Yalimo,2019,1
+Papua,Puncak,2019,1
+Papua,Dogiyai,2019,1
+Papua,Intan Jaya,2019,1
+Papua,Deiyai,2019,2
+Aceh,Kota Banda Aceh,2019,6
+Aceh,Kota Sabang,2019,5
+Aceh,Kota Langsa,2019,6
+Aceh,Kota Lhokseumawe,2019,6
+Aceh,Kota Subulussalam,2019,1
+Sumatera Utara,Kota Sibolga,2019,6
+Sumatera Utara,Kota Tanjung Balai,2019,5
+Sumatera Utara,Kota Pematang Siantar,2019,4
+Sumatera Utara,Kota Tebing Tinggi,2019,6
+Sumatera Utara,Kota Medan,2019,5
+Sumatera Utara,Kota Binjai,2019,6
+Sumatera Utara,Kota Padang Sidimpuan,2019,4
+Sumatera Utara,Kota Gunungsitoli,2019,2
+Sumatera Barat,Kota Padang,2019,6
+Sumatera Barat,Kota Solok,2019,6
+Sumatera Barat,Kota Sawah Lunto,2019,5
+Sumatera Barat,Kota Padang Panjang,2019,6
+Sumatera Barat,Kota Bukittinggi,2019,6
+Sumatera Barat,Kota Payakumbuh,2019,6
+Sumatera Barat,Kota Pariaman,2019,6
+Riau,Kota Pekanbaru,2019,6
+Riau,Kota Dumai,2019,5
+Jambi,Kota Jambi,2019,6
+Jambi,Kota Sungai Penuh,2019,5
+Sumatera Selatan,Kota Palembang,2019,6
+Sumatera Selatan,Kota Prabumulih,2019,3
+Sumatera Selatan,Kota Pagar Alam,2019,5
+Sumatera Selatan,Kota Lubuklinggau,2019,3
+Bengkulu,Kota Bengkulu,2019,5
+Lampung,Kota Bandar Lampung,2019,6
+Lampung,Kota Metro,2019,6
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,2019,6
+Kepulauan Riau,Kota Batam,2019,6
+Kepulauan Riau,Kota Tanjung Pinang,2019,6
+DKI Jakarta,Kota Jakarta Selatan,2019,6
+DKI Jakarta,Kota Jakarta Timur,2019,6
+DKI Jakarta,Kota Jakarta Pusat,2019,6
+DKI Jakarta,Kota Jakarta Barat,2019,6
+DKI Jakarta,Kota Jakarta Utara,2019,6
+Jawa Barat,Kota Bogor,2019,6
+Jawa Barat,Kota Sukabumi,2019,5
+Jawa Barat,Kota Bandung,2019,6
+Jawa Barat,Kota Cirebon,2019,6
+Jawa Barat,Kota Bekasi,2019,6
+Jawa Barat,Kota Depok,2019,6
+Jawa Barat,Kota Cimahi,2019,6
+Jawa Barat,Kota Tasikmalaya,2019,4
+Jawa Barat,Kota Banjar,2019,5
+Jawa Tengah,Kota Magelang,2019,6
+Jawa Tengah,Kota Surakarta,2019,6
+Jawa Tengah,Kota Salatiga,2019,6
+Jawa Tengah,Kota Semarang,2019,6
+Jawa Tengah,Kota Pekalongan,2019,5
+Jawa Tengah,Kota Tegal,2019,6
+DI Yogyakarta,Kota Yogyakarta,2019,6
+Jawa Timur,Kota Kediri,2019,5
+Jawa Timur,Kota Blitar,2019,6
+Jawa Timur,Kota Malang,2019,6
+Jawa Timur,Kota Probolinggo,2019,6
+Jawa Timur,Kota Pasuruan,2019,5
+Jawa Timur,Kota Mojokerto,2019,6
+Jawa Timur,Kota Madiun,2019,6
+Jawa Timur,Kota Surabaya,2019,6
+Jawa Timur,Kota Batu,2019,6
+Banten,Kota Tangerang,2019,6
+Banten,Kota Cilegon,2019,6
+Banten,Kota Serang,2019,5
+Banten,Kota Tangerang Selatan,2019,6
+Bali,Kota Denpasar,2019,6
+Nusa Tenggara Barat,Kota Mataram,2019,6
+Nusa Tenggara Barat,Kota Bima,2019,5
+Nusa Tenggara Timur,Kota Kupang,2019,6
+Kalimantan Barat,Kota Pontianak,2019,5
+Kalimantan Barat,Kota Singkawang,2019,4
+Kalimantan Tengah,Kota Palangka Raya,2019,6
+Kalimantan Selatan,Kota Banjarmasin,2019,6
+Kalimantan Selatan,Kota Banjar Baru,2019,5
+Kalimantan Timur,Kota Balikpapan,2019,6
+Kalimantan Timur,Kota Samarinda,2019,6
+Kalimantan Timur,Kota Bontang,2019,6
+Kalimantan Utara,Kota Tarakan,2019,6
+Sulawesi Utara,Kota Manado,2019,6
+Sulawesi Utara,Kota Bitung,2019,5
+Sulawesi Utara,Kota Tomohon,2019,6
+Sulawesi Utara,Kota Kotamobago,2019,6
+Sulawesi Tengah,Kota Palu,2019,6
+Sulawesi Selatan,Kota Makasar,2019,6
+Sulawesi Selatan,Kota Pare-Pare,2019,6
+Sulawesi Selatan,Kota Palopo,2019,6
+Sulawesi Tenggara,Kota Kendari,2019,6
+Sulawesi Tenggara,Kota Bau-Bau,2019,6
+Gorontalo,Kota Gorontalo,2019,6
+Maluku,Kota Ambon,2019,6
+Maluku,Kota Tual,2019,3
+Maluku Utara,Kota Ternate,2019,6
+Maluku Utara,Kota Tidore Kepulauan,2019,4
+Papua Barat,Kota Sorong,2019,5
+Papua,Kota Jayapura,2019,5
+Aceh,Simeulue,2020,5
+Aceh,Aceh Singkil,2020,3
+Aceh,Aceh Selatan,2020,5
+Aceh,Aceh Tenggara,2020,5
+Aceh,Aceh Timur,2020,5
+Aceh,Aceh Tengah,2020,5
+Aceh,Aceh Barat,2020,6
+Aceh,Aceh Besar,2020,6
+Aceh,Pidie,2020,5
+Aceh,Bireuen,2020,6
+Aceh,Aceh Utara,2020,6
+Aceh,Aceh Barat Daya,2020,6
+Aceh,Gayo Lues,2020,5
+Aceh,Aceh Tamiang,2020,6
+Aceh,Nagan Raya,2020,5
+Aceh,Aceh Jaya,2020,6
+Aceh,Bener Meriah,2020,2
+Aceh,Pidie Jaya,2020,6
+Sumatera Utara,Nias,2020,4
+Sumatera Utara,Mandailing Natal,2020,5
+Sumatera Utara,Tapanuli Selatan,2020,5
+Sumatera Utara,Tapanuli Tengah,2020,5
+Sumatera Utara,Tapanuli Utara,2020,6
+Sumatera Utara,Toba Samosir,2020,6
+Sumatera Utara,Labuhan Batu,2020,6
+Sumatera Utara,Asahan,2020,5
+Sumatera Utara,Simalungun,2020,6
+Sumatera Utara,Dairi,2020,6
+Sumatera Utara,Karo,2020,6
+Sumatera Utara,Deli Serdang,2020,6
+Sumatera Utara,Langkat,2020,6
+Sumatera Utara,Nias Selatan,2020,4
+Sumatera Utara,Humbang Hasundutan,2020,6
+Sumatera Utara,Pakpak Bharat,2020,5
+Sumatera Utara,Samosir,2020,6
+Sumatera Utara,Serdang Bedagai,2020,6
+Sumatera Utara,Batu Bara,2020,6
+Sumatera Utara,Padang Lawas Utara,2020,5
+Sumatera Utara,Padang Lawas,2020,5
+Sumatera Utara,Labuhan Batu Selatan,2020,3
+Sumatera Utara,Labuhan Batu Utara,2020,5
+Sumatera Utara,Nias Utara,2020,5
+Sumatera Utara,Nias Barat,2020,3
+Sumatera Barat,Kepulauan Mentawai,2020,2
+Sumatera Barat,Pesisir Selatan,2020,6
+Sumatera Barat,Solok,2020,6
+Sumatera Barat,Sijunjung,2020,6
+Sumatera Barat,Tanah Datar,2020,6
+Sumatera Barat,Padang Pariaman,2020,6
+Sumatera Barat,Agam,2020,6
+Sumatera Barat,Limapuluh Koto,2020,6
+Sumatera Barat,Pasaman,2020,6
+Sumatera Barat,Solok Selatan,2020,6
+Sumatera Barat,Dharmas Raya,2020,6
+Sumatera Barat,Pasaman Barat,2020,6
+Riau,Kuantan Sengingi,2020,5
+Riau,Indragiri Hulu,2020,4
+Riau,Indragiri Hilir,2020,4
+Riau,Pelalawan,2020,4
+Riau,Siak,2020,6
+Riau,Kampar,2020,3
+Riau,Rokan Hulu,2020,3
+Riau,Bengkalis,2020,4
+Riau,Rokan Hilir,2020,4
+Riau,Kepulauan Meranti,2020,1
+Jambi,Kerinci,2020,6
+Jambi,Merangin,2020,5
+Jambi,Sarolangun,2020,5
+Jambi,Batang Hari,2020,4
+Jambi,Muaro Jambi,2020,4
+Jambi,Tanjung Jabung Timur,2020,5
+Jambi,Tanjung Jabung Barat,2020,4
+Jambi,Tebo,2020,5
+Jambi,Bungo,2020,5
+Sumatera Selatan,Ogan Komering Ulu,2020,5
+Sumatera Selatan,Ogan Komering Ilir,2020,6
+Sumatera Selatan,Muara Enim,2020,5
+Sumatera Selatan,Lahat,2020,5
+Sumatera Selatan,Musi Rawas,2020,6
+Sumatera Selatan,Musi Banyuasin,2020,5
+Sumatera Selatan,Banyuasin,2020,6
+Sumatera Selatan,Ogan Komering Ulu Selatan,2020,5
+Sumatera Selatan,Ogan Komering Ulu Timur,2020,6
+Sumatera Selatan,Ogan Ilir,2020,5
+Sumatera Selatan,Empat Lawang,2020,4
+Sumatera Selatan,Penukal Abab Lematang Ilir,2020,5
+Sumatera Selatan,Musi Rawas Utara,2020,2
+Bengkulu,Bengkulu Selatan,2020,5
+Bengkulu,Rejang Lebong,2020,5
+Bengkulu,Bengkulu Utara,2020,5
+Bengkulu,Kaur,2020,5
+Bengkulu,Seluma,2020,4
+Bengkulu,Mukomuko,2020,5
+Bengkulu,Lebong,2020,6
+Bengkulu,Kepahiang,2020,5
+Bengkulu,Bengkulu Tengah,2020,4
+Lampung,Lampung Barat,2020,5
+Lampung,Tanggamus,2020,5
+Lampung,Lampung Selatan,2020,6
+Lampung,Lampung Timur,2020,6
+Lampung,Lampung Tengah,2020,6
+Lampung,Lampung Utara,2020,5
+Lampung,Way Kanan,2020,5
+Lampung,Tulang Bawang,2020,6
+Lampung,Pesawaran,2020,6
+Lampung,Pringsewu,2020,6
+Lampung,Mesuji,2020,6
+Lampung,Tulang Bawang Barat,2020,6
+Lampung,Pesisir Barat,2020,5
+Kepulauan Bangka Belitung,Bangka,2020,6
+Kepulauan Bangka Belitung,Belitung,2020,4
+Kepulauan Bangka Belitung,Bangka Barat,2020,5
+Kepulauan Bangka Belitung,Bangka Tengah,2020,4
+Kepulauan Bangka Belitung,Bangka Selatan,2020,6
+Kepulauan Bangka Belitung,Belitung Timur,2020,4
+Kepulauan Riau,Karimun,2020,3
+Kepulauan Riau,Bintan,2020,3
+Kepulauan Riau,Natuna,2020,3
+Kepulauan Riau,Lingga,2020,2
+Kepulauan Riau,Kepulauan Anambas,2020,3
+DKI Jakarta,Kepulauan Seribu,2020,3
+Jawa Barat,Bogor,2020,4
+Jawa Barat,Sukabumi,2020,6
+Jawa Barat,Cianjur,2020,6
+Jawa Barat,Bandung,2020,6
+Jawa Barat,Garut,2020,6
+Jawa Barat,Tasikmalaya,2020,5
+Jawa Barat,Ciamis,2020,6
+Jawa Barat,Kuningan,2020,6
+Jawa Barat,Cirebon,2020,6
+Jawa Barat,Majalengka,2020,6
+Jawa Barat,Sumedang,2020,6
+Jawa Barat,Indramayu,2020,6
+Jawa Barat,Subang,2020,6
+Jawa Barat,Purwakarta,2020,6
+Jawa Barat,Karawang,2020,6
+Jawa Barat,Bekasi,2020,6
+Jawa Barat,Bandung Barat,2020,6
+Jawa Barat,Pangandaran,2020,6
+Jawa Tengah,Cilacap,2020,6
+Jawa Tengah,Banyumas,2020,6
+Jawa Tengah,Purbalingga,2020,6
+Jawa Tengah,Banjarnegara,2020,6
+Jawa Tengah,Kebumen,2020,6
+Jawa Tengah,Purworejo,2020,6
+Jawa Tengah,Wonosobo,2020,6
+Jawa Tengah,Magelang,2020,6
+Jawa Tengah,Boyolali,2020,6
+Jawa Tengah,Klaten,2020,6
+Jawa Tengah,Sukoharjo,2020,6
+Jawa Tengah,Wonogiri,2020,6
+Jawa Tengah,Karanganyar,2020,6
+Jawa Tengah,Sragen,2020,6
+Jawa Tengah,Grobogan,2020,6
+Jawa Tengah,Blora,2020,6
+Jawa Tengah,Rembang,2020,6
+Jawa Tengah,Pati,2020,6
+Jawa Tengah,Kudus,2020,6
+Jawa Tengah,Jepara,2020,6
+Jawa Tengah,Demak,2020,6
+Jawa Tengah,Semarang,2020,6
+Jawa Tengah,Temanggung,2020,6
+Jawa Tengah,Kendal,2020,6
+Jawa Tengah,Batang,2020,6
+Jawa Tengah,Pekalongan,2020,6
+Jawa Tengah,Pemalang,2020,6
+Jawa Tengah,Tegal,2020,6
+Jawa Tengah,Brebes,2020,6
+DI Yogyakarta,Kulon Progo,2020,6
+DI Yogyakarta,Bantul,2020,6
+DI Yogyakarta,Gunung Kidul,2020,6
+DI Yogyakarta,Sleman,2020,6
+Jawa Timur,Pacitan,2020,6
+Jawa Timur,Ponorogo,2020,6
+Jawa Timur,Trenggalek,2020,6
+Jawa Timur,Tulungagung,2020,6
+Jawa Timur,Blitar,2020,6
+Jawa Timur,Kediri,2020,6
+Jawa Timur,Malang,2020,6
+Jawa Timur,Lumajang,2020,6
+Jawa Timur,Jember,2020,6
+Jawa Timur,Banyuwangi,2020,6
+Jawa Timur,Bondowoso,2020,5
+Jawa Timur,Situbondo,2020,6
+Jawa Timur,Probolinggo,2020,5
+Jawa Timur,Pasuruan,2020,6
+Jawa Timur,Sidoarjo,2020,6
+Jawa Timur,Mojokerto,2020,6
+Jawa Timur,Jombang,2020,6
+Jawa Timur,Nganjuk,2020,6
+Jawa Timur,Madiun,2020,6
+Jawa Timur,Magetan,2020,6
+Jawa Timur,Ngawi,2020,6
+Jawa Timur,Bojonegoro,2020,6
+Jawa Timur,Tuban,2020,6
+Jawa Timur,Lamongan,2020,6
+Jawa Timur,Gresik,2020,6
+Jawa Timur,Bangkalan,2020,5
+Jawa Timur,Sampang,2020,5
+Jawa Timur,Pamekasan,2020,5
+Jawa Timur,Sumenep,2020,5
+Banten,Pandeglang,2020,5
+Banten,Lebak,2020,5
+Banten,Tangerang,2020,5
+Banten,Serang,2020,6
+Bali,Jembrana,2020,6
+Bali,Tabanan,2020,6
+Bali,Badung,2020,6
+Bali,Gianyar,2020,6
+Bali,Klungkung,2020,6
+Bali,Bangli,2020,5
+Bali,Karangasem,2020,6
+Bali,Buleleng,2020,6
+Nusa Tenggara Barat,Lombok Barat,2020,6
+Nusa Tenggara Barat,Lombok Tengah,2020,6
+Nusa Tenggara Barat,Lombok Timur,2020,5
+Nusa Tenggara Barat,Sumbawa,2020,6
+Nusa Tenggara Barat,Dompu,2020,6
+Nusa Tenggara Barat,Bima,2020,6
+Nusa Tenggara Barat,Sumbawa Barat,2020,6
+Nusa Tenggara Barat,Lombok Utara,2020,4
+Nusa Tenggara Timur,Sumba Barat,2020,4
+Nusa Tenggara Timur,Sumba Timur,2020,4
+Nusa Tenggara Timur,Kupang,2020,4
+Nusa Tenggara Timur,Timor Tengah Selatan,2020,4
+Nusa Tenggara Timur,Timor Tengah Utara,2020,5
+Nusa Tenggara Timur,Belu,2020,5
+Nusa Tenggara Timur,Alor,2020,4
+Nusa Tenggara Timur,Lembata,2020,4
+Nusa Tenggara Timur,Flores Timur,2020,5
+Nusa Tenggara Timur,Sikka,2020,5
+Nusa Tenggara Timur,Ende,2020,5
+Nusa Tenggara Timur,Ngada,2020,6
+Nusa Tenggara Timur,Manggarai,2020,5
+Nusa Tenggara Timur,Rote Ndao,2020,5
+Nusa Tenggara Timur,Manggarai Barat,2020,5
+Nusa Tenggara Timur,Sumba Tengah,2020,4
+Nusa Tenggara Timur,Sumba Barat Daya,2020,3
+Nusa Tenggara Timur,Nagekeo,2020,5
+Nusa Tenggara Timur,Manggarai Timur,2020,4
+Nusa Tenggara Timur,Sabu Raijua,2020,2
+Nusa Tenggara Timur,Malaka,2020,5
+Kalimantan Barat,Sambas,2020,5
+Kalimantan Barat,Bengkayang,2020,6
+Kalimantan Barat,Landak,2020,5
+Kalimantan Barat,Mempawah,2020,5
+Kalimantan Barat,Sanggau,2020,6
+Kalimantan Barat,Ketapang,2020,5
+Kalimantan Barat,Sintang,2020,5
+Kalimantan Barat,Kapuas Hulu,2020,5
+Kalimantan Barat,Sekadau,2020,6
+Kalimantan Barat,Melawai,2020,4
+Kalimantan Barat,Kayong Utara,2020,5
+Kalimantan Barat,Kubu Raya,2020,5
+Kalimantan Tengah,Kotawaringin Barat,2020,4
+Kalimantan Tengah,Kotawaringin Timur,2020,6
+Kalimantan Tengah,Kapuas,2020,6
+Kalimantan Tengah,Barito Selatan,2020,5
+Kalimantan Tengah,Barito Utara,2020,6
+Kalimantan Tengah,Sukamara,2020,5
+Kalimantan Tengah,Lamandau,2020,6
+Kalimantan Tengah,Seruyan,2020,4
+Kalimantan Tengah,Katingan,2020,6
+Kalimantan Tengah,Pulang Pisau,2020,6
+Kalimantan Tengah,Gunung Mas,2020,3
+Kalimantan Tengah,Barito Timur,2020,5
+Kalimantan Tengah,Murung Raya,2020,4
+Kalimantan Selatan,Tanah Laut,2020,6
+Kalimantan Selatan,Kota Baru,2020,6
+Kalimantan Selatan,Banjar,2020,6
+Kalimantan Selatan,Barito Kuala,2020,6
+Kalimantan Selatan,Tapin,2020,6
+Kalimantan Selatan,Hulu Sungai Selatan,2020,6
+Kalimantan Selatan,Hulu Sungai Tengah,2020,6
+Kalimantan Selatan,Hulu Sungai Utara,2020,6
+Kalimantan Selatan,Tabalong,2020,6
+Kalimantan Selatan,Tanah Bumbu,2020,6
+Kalimantan Selatan,Balangan,2020,6
+Kalimantan Timur,Paser,2020,6
+Kalimantan Timur,Kutai Barat,2020,3
+Kalimantan Timur,Kutai Kertanegara,2020,6
+Kalimantan Timur,Kutai Timur,2020,5
+Kalimantan Timur,Berau,2020,6
+Kalimantan Timur,Penajam Paser Utara,2020,6
+Kalimantan Timur,Mahakam Ulu,2020,4
+Kalimantan Utara,Malinau,2020,5
+Kalimantan Utara,Bulungan,2020,6
+Kalimantan Utara,Tana Tidung,2020,3
+Kalimantan Utara,Nunukan,2020,6
+Sulawesi Utara,Bolaang Mongondow,2020,6
+Sulawesi Utara,Minahasa,2020,6
+Sulawesi Utara,Kepulauan Sangihe,2020,3
+Sulawesi Utara,Kepulauan Talaud,2020,6
+Sulawesi Utara,Minahasa Selatan,2020,6
+Sulawesi Utara,Minahasa Utara,2020,6
+Sulawesi Utara,Bolaang Mongondow Utara,2020,6
+Sulawesi Utara,Kepulauan Siau Tagulandang Biaro,2020,3
+Sulawesi Utara,Minahasa Tenggara,2020,6
+Sulawesi Utara,Bolaang Mongondow Selatan,2020,6
+Sulawesi Utara,Bolaang Mongondow Timur,2020,6
+Sulawesi Tengah,Banggai Kepulauan,2020,4
+Sulawesi Tengah,Banggai,2020,6
+Sulawesi Tengah,Morowali,2020,6
+Sulawesi Tengah,Poso,2020,6
+Sulawesi Tengah,Donggala,2020,5
+Sulawesi Tengah,Toli-Toli,2020,6
+Sulawesi Tengah,Buol,2020,6
+Sulawesi Tengah,Parigi Moutong,2020,5
+Sulawesi Tengah,Tojo Una-Una,2020,6
+Sulawesi Tengah,Sigi,2020,5
+Sulawesi Tengah,Banggai Laut,2020,2
+Sulawesi Tengah,Morowali Utara,2020,6
+Sulawesi Selatan,Selayar,2020,4
+Sulawesi Selatan,Bulukumba,2020,6
+Sulawesi Selatan,Bantaeng,2020,6
+Sulawesi Selatan,Jeneponto,2020,6
+Sulawesi Selatan,Takalar,2020,6
+Sulawesi Selatan,Gowa,2020,6
+Sulawesi Selatan,Sinjai,2020,6
+Sulawesi Selatan,Maros,2020,6
+Sulawesi Selatan,Pangkajene dan Kepulauan,2020,6
+Sulawesi Selatan,Barru,2020,6
+Sulawesi Selatan,Bone,2020,6
+Sulawesi Selatan,Soppeng,2020,6
+Sulawesi Selatan,Wajo,2020,6
+Sulawesi Selatan,Sidenreng Rappang,2020,6
+Sulawesi Selatan,Pinrang,2020,6
+Sulawesi Selatan,Enrekang,2020,6
+Sulawesi Selatan,Luwu,2020,6
+Sulawesi Selatan,Tana Toraja,2020,6
+Sulawesi Selatan,Luwu Utara,2020,6
+Sulawesi Selatan,Luwu Timur,2020,6
+Sulawesi Selatan,Toraja Utara,2020,6
+Sulawesi Tenggara,Buton,2020,5
+Sulawesi Tenggara,Muna,2020,6
+Sulawesi Tenggara,Konawe,2020,6
+Sulawesi Tenggara,Kolaka,2020,6
+Sulawesi Tenggara,Konawe Selatan,2020,6
+Sulawesi Tenggara,Bombana,2020,6
+Sulawesi Tenggara,Wakatobi,2020,5
+Sulawesi Tenggara,Kolaka Utara,2020,6
+Sulawesi Tenggara,Buton Utara,2020,5
+Sulawesi Tenggara,Konawe Utara,2020,5
+Sulawesi Tenggara,Kolaka Timur,2020,6
+Sulawesi Tenggara,Konawe Kepulauan,2020,4
+Sulawesi Tenggara,Muna Barat,2020,6
+Sulawesi Tenggara,Buton Tengah,2020,5
+Sulawesi Tenggara,Buton Selatan,2020,5
+Gorontalo,Boalemo,2020,6
+Gorontalo,Gorontalo,2020,6
+Gorontalo,Pohuwato,2020,6
+Gorontalo,Bone Bolango,2020,6
+Gorontalo,Gorontalo Utara,2020,6
+Sulawesi Barat,Majene,2020,5
+Sulawesi Barat,Polewali Mandar,2020,5
+Sulawesi Barat,Mamasa,2020,5
+Sulawesi Barat,Mamuju,2020,6
+Sulawesi Barat,Mamuju Utara,2020,6
+Sulawesi Barat,Mamuju Tengah,2020,6
+Maluku,Kepulauan Tanimbar,2020,2
+Maluku,Maluku Tenggara,2020,2
+Maluku,Maluku Tengah,2020,5
+Maluku,Buru,2020,6
+Maluku,Kepulauan Aru,2020,1
+Maluku,Seram Bagian Barat,2020,3
+Maluku,Seram Bagian Timur,2020,4
+Maluku,Maluku Barat Daya,2020,4
+Maluku,Buru Selatan,2020,3
+Maluku Utara,Halmahera Barat,2020,3
+Maluku Utara,Halmahera Tengah,2020,4
+Maluku Utara,Kepulauan Sula,2020,2
+Maluku Utara,Halmahera Selatan,2020,2
+Maluku Utara,Halmahera Utara,2020,6
+Maluku Utara,Halmahera Timur,2020,5
+Maluku Utara,Pulau Morotai,2020,6
+Maluku Utara,Pulau Taliabu,2020,2
+Papua Barat,Fak-Fak,2020,2
+Papua Barat,Kaimana,2020,2
+Papua Barat,Teluk Wondama,2020,1
+Papua Barat,Teluk Bintuni,2020,2
+Papua Barat,Manokwari,2020,5
+Papua Barat,Sorong Selatan,2020,2
+Papua Barat,Sorong,2020,4
+Papua Barat,Raja Ampat,2020,3
+Papua Barat,Tambrauw,2020,1
+Papua Barat,Maybrat,2020,1
+Papua Barat,Manokwari Selatan,2020,4
+Papua Barat,Pegunungan Arfak,2020,1
+Papua,Merauke,2020,6
+Papua,Jayawijaya,2020,1
+Papua,Jayapura,2020,3
+Papua,Nabire,2020,4
+Papua,Kepulauan Yapen,2020,2
+Papua,Biak Namfor,2020,2
+Papua,Paniai,2020,1
+Papua,Puncak Jaya,2020,1
+Papua,Mimika,2020,3
+Papua,Boven Digoel,2020,1
+Papua,Mappi,2020,1
+Papua,Asmat,2020,1
+Papua,Yahukimo,2020,1
+Papua,Pegunungan Bintang,2020,1
+Papua,Tolikara,2020,1
+Papua,Sarmi,2020,2
+Papua,Keerom,2020,4
+Papua,Waropen,2020,1
+Papua,Supiori,2020,1
+Papua,Mamberamo Raya,2020,1
+Papua,Nduga,2020,1
+Papua,Lanny Jaya,2020,1
+Papua,Mamberamo Tengah,2020,1
+Papua,Yalimo,2020,1
+Papua,Puncak,2020,1
+Papua,Dogiyai,2020,1
+Papua,Intan Jaya,2020,1
+Papua,Deiyai,2020,1
+Aceh,Kota Banda Aceh,2020,6
+Aceh,Kota Sabang,2020,5
+Aceh,Kota Langsa,2020,6
+Aceh,Kota Lhokseumawe,2020,5
+Aceh,Kota Subulussalam,2020,1
+Sumatera Utara,Kota Sibolga,2020,5
+Sumatera Utara,Kota Tanjung Balai,2020,4
+Sumatera Utara,Kota Pematang Siantar,2020,6
+Sumatera Utara,Kota Tebing Tinggi,2020,5
+Sumatera Utara,Kota Medan,2020,6
+Sumatera Utara,Kota Binjai,2020,6
+Sumatera Utara,Kota Padang Sidimpuan,2020,5
+Sumatera Utara,Kota Gunungsitoli,2020,3
+Sumatera Barat,Kota Padang,2020,6
+Sumatera Barat,Kota Solok,2020,6
+Sumatera Barat,Kota Sawah Lunto,2020,5
+Sumatera Barat,Kota Padang Panjang,2020,6
+Sumatera Barat,Kota Bukittinggi,2020,6
+Sumatera Barat,Kota Payakumbuh,2020,6
+Sumatera Barat,Kota Pariaman,2020,6
+Riau,Kota Pekanbaru,2020,6
+Riau,Kota Dumai,2020,5
+Jambi,Kota Jambi,2020,6
+Jambi,Kota Sungai Penuh,2020,5
+Sumatera Selatan,Kota Palembang,2020,6
+Sumatera Selatan,Kota Prabumulih,2020,5
+Sumatera Selatan,Kota Pagar Alam,2020,3
+Sumatera Selatan,Kota Lubuklinggau,2020,4
+Bengkulu,Kota Bengkulu,2020,5
+Lampung,Kota Bandar Lampung,2020,6
+Lampung,Kota Metro,2020,6
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,2020,6
+Kepulauan Riau,Kota Batam,2020,6
+Kepulauan Riau,Kota Tanjung Pinang,2020,6
+DKI Jakarta,Kota Jakarta Selatan,2020,6
+DKI Jakarta,Kota Jakarta Timur,2020,6
+DKI Jakarta,Kota Jakarta Pusat,2020,6
+DKI Jakarta,Kota Jakarta Barat,2020,6
+DKI Jakarta,Kota Jakarta Utara,2020,6
+Jawa Barat,Kota Bogor,2020,6
+Jawa Barat,Kota Sukabumi,2020,5
+Jawa Barat,Kota Bandung,2020,6
+Jawa Barat,Kota Cirebon,2020,6
+Jawa Barat,Kota Bekasi,2020,6
+Jawa Barat,Kota Depok,2020,6
+Jawa Barat,Kota Cimahi,2020,6
+Jawa Barat,Kota Tasikmalaya,2020,4
+Jawa Barat,Kota Banjar,2020,4
+Jawa Tengah,Kota Magelang,2020,6
+Jawa Tengah,Kota Surakarta,2020,6
+Jawa Tengah,Kota Salatiga,2020,6
+Jawa Tengah,Kota Semarang,2020,6
+Jawa Tengah,Kota Pekalongan,2020,5
+Jawa Tengah,Kota Tegal,2020,6
+DI Yogyakarta,Kota Yogyakarta,2020,6
+Jawa Timur,Kota Kediri,2020,6
+Jawa Timur,Kota Blitar,2020,6
+Jawa Timur,Kota Malang,2020,6
+Jawa Timur,Kota Probolinggo,2020,6
+Jawa Timur,Kota Pasuruan,2020,5
+Jawa Timur,Kota Mojokerto,2020,6
+Jawa Timur,Kota Madiun,2020,6
+Jawa Timur,Kota Surabaya,2020,6
+Jawa Timur,Kota Batu,2020,6
+Banten,Kota Tangerang,2020,6
+Banten,Kota Cilegon,2020,5
+Banten,Kota Serang,2020,5
+Banten,Kota Tangerang Selatan,2020,6
+Bali,Kota Denpasar,2020,6
+Nusa Tenggara Barat,Kota Mataram,2020,6
+Nusa Tenggara Barat,Kota Bima,2020,5
+Nusa Tenggara Timur,Kota Kupang,2020,6
+Kalimantan Barat,Kota Pontianak,2020,5
+Kalimantan Barat,Kota Singkawang,2020,4
+Kalimantan Tengah,Kota Palangka Raya,2020,6
+Kalimantan Selatan,Kota Banjarmasin,2020,6
+Kalimantan Selatan,Kota Banjar Baru,2020,5
+Kalimantan Timur,Kota Balikpapan,2020,6
+Kalimantan Timur,Kota Samarinda,2020,6
+Kalimantan Timur,Kota Bontang,2020,6
+Kalimantan Utara,Kota Tarakan,2020,6
+Sulawesi Utara,Kota Manado,2020,6
+Sulawesi Utara,Kota Bitung,2020,5
+Sulawesi Utara,Kota Tomohon,2020,6
+Sulawesi Utara,Kota Kotamobago,2020,6
+Sulawesi Tengah,Kota Palu,2020,6
+Sulawesi Selatan,Kota Makasar,2020,6
+Sulawesi Selatan,Kota Pare-Pare,2020,6
+Sulawesi Selatan,Kota Palopo,2020,6
+Sulawesi Tenggara,Kota Kendari,2020,6
+Sulawesi Tenggara,Kota Bau-Bau,2020,6
+Gorontalo,Kota Gorontalo,2020,6
+Maluku,Kota Ambon,2020,6
+Maluku,Kota Tual,2020,2
+Maluku Utara,Kota Ternate,2020,6
+Maluku Utara,Kota Tidore Kepulauan,2020,4
+Papua Barat,Kota Sorong,2020,5
+Papua,Kota Jayapura,2020,5
+Aceh,Simeulue,2021,5
+Aceh,Aceh Singkil,2021,3
+Aceh,Aceh Selatan,2021,5
+Aceh,Aceh Tenggara,2021,6
+Aceh,Aceh Timur,2021,6
+Aceh,Aceh Tengah,2021,4
+Aceh,Aceh Barat,2021,6
+Aceh,Aceh Besar,2021,6
+Aceh,Pidie,2021,5
+Aceh,Bireuen,2021,6
+Aceh,Aceh Utara,2021,6
+Aceh,Aceh Barat Daya,2021,6
+Aceh,Gayo Lues,2021,5
+Aceh,Aceh Tamiang,2021,6
+Aceh,Nagan Raya,2021,6
+Aceh,Aceh Jaya,2021,6
+Aceh,Bener Meriah,2021,2
+Aceh,Pidie Jaya,2021,6
+Sumatera Utara,Nias,2021,4
+Sumatera Utara,Mandailing Natal,2021,4
+Sumatera Utara,Tapanuli Selatan,2021,5
+Sumatera Utara,Tapanuli Tengah,2021,5
+Sumatera Utara,Tapanuli Utara,2021,6
+Sumatera Utara,Toba Samosir,2021,6
+Sumatera Utara,Labuhan Batu,2021,5
+Sumatera Utara,Asahan,2021,5
+Sumatera Utara,Simalungun,2021,6
+Sumatera Utara,Dairi,2021,6
+Sumatera Utara,Karo,2021,6
+Sumatera Utara,Deli Serdang,2021,6
+Sumatera Utara,Langkat,2021,6
+Sumatera Utara,Nias Selatan,2021,4
+Sumatera Utara,Humbang Hasundutan,2021,5
+Sumatera Utara,Pakpak Bharat,2021,5
+Sumatera Utara,Samosir,2021,6
+Sumatera Utara,Serdang Bedagai,2021,6
+Sumatera Utara,Batu Bara,2021,6
+Sumatera Utara,Padang Lawas Utara,2021,5
+Sumatera Utara,Padang Lawas,2021,5
+Sumatera Utara,Labuhan Batu Selatan,2021,3
+Sumatera Utara,Labuhan Batu Utara,2021,5
+Sumatera Utara,Nias Utara,2021,4
+Sumatera Utara,Nias Barat,2021,4
+Sumatera Barat,Kepulauan Mentawai,2021,1
+Sumatera Barat,Pesisir Selatan,2021,6
+Sumatera Barat,Solok,2021,6
+Sumatera Barat,Sijunjung,2021,6
+Sumatera Barat,Tanah Datar,2021,6
+Sumatera Barat,Padang Pariaman,2021,6
+Sumatera Barat,Agam,2021,6
+Sumatera Barat,Limapuluh Koto,2021,6
+Sumatera Barat,Pasaman,2021,6
+Sumatera Barat,Solok Selatan,2021,6
+Sumatera Barat,Dharmas Raya,2021,6
+Sumatera Barat,Pasaman Barat,2021,6
+Riau,Kuantan Sengingi,2021,5
+Riau,Indragiri Hulu,2021,4
+Riau,Indragiri Hilir,2021,5
+Riau,Pelalawan,2021,4
+Riau,Siak,2021,6
+Riau,Kampar,2021,4
+Riau,Rokan Hulu,2021,3
+Riau,Bengkalis,2021,4
+Riau,Rokan Hilir,2021,4
+Riau,Kepulauan Meranti,2021,1
+Jambi,Kerinci,2021,6
+Jambi,Merangin,2021,6
+Jambi,Sarolangun,2021,5
+Jambi,Batang Hari,2021,5
+Jambi,Muaro Jambi,2021,5
+Jambi,Tanjung Jabung Timur,2021,5
+Jambi,Tanjung Jabung Barat,2021,5
+Jambi,Tebo,2021,5
+Jambi,Bungo,2021,5
+Sumatera Selatan,Ogan Komering Ulu,2021,5
+Sumatera Selatan,Ogan Komering Ilir,2021,6
+Sumatera Selatan,Muara Enim,2021,5
+Sumatera Selatan,Lahat,2021,5
+Sumatera Selatan,Musi Rawas,2021,5
+Sumatera Selatan,Musi Banyuasin,2021,6
+Sumatera Selatan,Banyuasin,2021,6
+Sumatera Selatan,Ogan Komering Ulu Selatan,2021,5
+Sumatera Selatan,Ogan Komering Ulu Timur,2021,6
+Sumatera Selatan,Ogan Ilir,2021,5
+Sumatera Selatan,Empat Lawang,2021,4
+Sumatera Selatan,Penukal Abab Lematang Ilir,2021,5
+Sumatera Selatan,Musi Rawas Utara,2021,4
+Bengkulu,Bengkulu Selatan,2021,5
+Bengkulu,Rejang Lebong,2021,4
+Bengkulu,Bengkulu Utara,2021,5
+Bengkulu,Kaur,2021,5
+Bengkulu,Seluma,2021,4
+Bengkulu,Mukomuko,2021,6
+Bengkulu,Lebong,2021,5
+Bengkulu,Kepahiang,2021,5
+Bengkulu,Bengkulu Tengah,2021,5
+Lampung,Lampung Barat,2021,5
+Lampung,Tanggamus,2021,5
+Lampung,Lampung Selatan,2021,6
+Lampung,Lampung Timur,2021,6
+Lampung,Lampung Tengah,2021,6
+Lampung,Lampung Utara,2021,5
+Lampung,Way Kanan,2021,5
+Lampung,Tulang Bawang,2021,6
+Lampung,Pesawaran,2021,6
+Lampung,Pringsewu,2021,6
+Lampung,Mesuji,2021,6
+Lampung,Tulang Bawang Barat,2021,6
+Lampung,Pesisir Barat,2021,5
+Kepulauan Bangka Belitung,Bangka,2021,6
+Kepulauan Bangka Belitung,Belitung,2021,4
+Kepulauan Bangka Belitung,Bangka Barat,2021,6
+Kepulauan Bangka Belitung,Bangka Tengah,2021,3
+Kepulauan Bangka Belitung,Bangka Selatan,2021,6
+Kepulauan Bangka Belitung,Belitung Timur,2021,4
+Kepulauan Riau,Karimun,2021,3
+Kepulauan Riau,Bintan,2021,3
+Kepulauan Riau,Natuna,2021,3
+Kepulauan Riau,Lingga,2021,2
+Kepulauan Riau,Kepulauan Anambas,2021,3
+DKI Jakarta,Kepulauan Seribu,2021,2
+Jawa Barat,Bogor,2021,5
+Jawa Barat,Sukabumi,2021,6
+Jawa Barat,Cianjur,2021,6
+Jawa Barat,Bandung,2021,6
+Jawa Barat,Garut,2021,6
+Jawa Barat,Tasikmalaya,2021,5
+Jawa Barat,Ciamis,2021,6
+Jawa Barat,Kuningan,2021,6
+Jawa Barat,Cirebon,2021,6
+Jawa Barat,Majalengka,2021,6
+Jawa Barat,Sumedang,2021,6
+Jawa Barat,Indramayu,2021,6
+Jawa Barat,Subang,2021,6
+Jawa Barat,Purwakarta,2021,6
+Jawa Barat,Karawang,2021,6
+Jawa Barat,Bekasi,2021,6
+Jawa Barat,Bandung Barat,2021,5
+Jawa Barat,Pangandaran,2021,6
+Jawa Tengah,Cilacap,2021,6
+Jawa Tengah,Banyumas,2021,6
+Jawa Tengah,Purbalingga,2021,6
+Jawa Tengah,Banjarnegara,2021,6
+Jawa Tengah,Kebumen,2021,6
+Jawa Tengah,Purworejo,2021,6
+Jawa Tengah,Wonosobo,2021,6
+Jawa Tengah,Magelang,2021,6
+Jawa Tengah,Boyolali,2021,6
+Jawa Tengah,Klaten,2021,6
+Jawa Tengah,Sukoharjo,2021,6
+Jawa Tengah,Wonogiri,2021,6
+Jawa Tengah,Karanganyar,2021,6
+Jawa Tengah,Sragen,2021,6
+Jawa Tengah,Grobogan,2021,6
+Jawa Tengah,Blora,2021,6
+Jawa Tengah,Rembang,2021,6
+Jawa Tengah,Pati,2021,6
+Jawa Tengah,Kudus,2021,6
+Jawa Tengah,Jepara,2021,6
+Jawa Tengah,Demak,2021,6
+Jawa Tengah,Semarang,2021,6
+Jawa Tengah,Temanggung,2021,6
+Jawa Tengah,Kendal,2021,6
+Jawa Tengah,Batang,2021,6
+Jawa Tengah,Pekalongan,2021,6
+Jawa Tengah,Pemalang,2021,6
+Jawa Tengah,Tegal,2021,6
+Jawa Tengah,Brebes,2021,6
+DI Yogyakarta,Kulon Progo,2021,6
+DI Yogyakarta,Bantul,2021,6
+DI Yogyakarta,Gunung Kidul,2021,6
+DI Yogyakarta,Sleman,2021,6
+Jawa Timur,Pacitan,2021,6
+Jawa Timur,Ponorogo,2021,6
+Jawa Timur,Trenggalek,2021,6
+Jawa Timur,Tulungagung,2021,6
+Jawa Timur,Blitar,2021,6
+Jawa Timur,Kediri,2021,6
+Jawa Timur,Malang,2021,6
+Jawa Timur,Lumajang,2021,6
+Jawa Timur,Jember,2021,6
+Jawa Timur,Banyuwangi,2021,6
+Jawa Timur,Bondowoso,2021,5
+Jawa Timur,Situbondo,2021,6
+Jawa Timur,Probolinggo,2021,5
+Jawa Timur,Pasuruan,2021,6
+Jawa Timur,Sidoarjo,2021,6
+Jawa Timur,Mojokerto,2021,6
+Jawa Timur,Jombang,2021,6
+Jawa Timur,Nganjuk,2021,6
+Jawa Timur,Madiun,2021,6
+Jawa Timur,Magetan,2021,6
+Jawa Timur,Ngawi,2021,6
+Jawa Timur,Bojonegoro,2021,6
+Jawa Timur,Tuban,2021,6
+Jawa Timur,Lamongan,2021,6
+Jawa Timur,Gresik,2021,6
+Jawa Timur,Bangkalan,2021,5
+Jawa Timur,Sampang,2021,5
+Jawa Timur,Pamekasan,2021,6
+Jawa Timur,Sumenep,2021,6
+Banten,Pandeglang,2021,5
+Banten,Lebak,2021,5
+Banten,Tangerang,2021,6
+Banten,Serang,2021,6
+Bali,Jembrana,2021,6
+Bali,Tabanan,2021,6
+Bali,Badung,2021,6
+Bali,Gianyar,2021,6
+Bali,Klungkung,2021,6
+Bali,Bangli,2021,5
+Bali,Karangasem,2021,6
+Bali,Buleleng,2021,6
+Nusa Tenggara Barat,Lombok Barat,2021,5
+Nusa Tenggara Barat,Lombok Tengah,2021,6
+Nusa Tenggara Barat,Lombok Timur,2021,5
+Nusa Tenggara Barat,Sumbawa,2021,6
+Nusa Tenggara Barat,Dompu,2021,6
+Nusa Tenggara Barat,Bima,2021,6
+Nusa Tenggara Barat,Sumbawa Barat,2021,6
+Nusa Tenggara Barat,Lombok Utara,2021,5
+Nusa Tenggara Timur,Sumba Barat,2021,4
+Nusa Tenggara Timur,Sumba Timur,2021,4
+Nusa Tenggara Timur,Kupang,2021,4
+Nusa Tenggara Timur,Timor Tengah Selatan,2021,3
+Nusa Tenggara Timur,Timor Tengah Utara,2021,4
+Nusa Tenggara Timur,Belu,2021,5
+Nusa Tenggara Timur,Alor,2021,4
+Nusa Tenggara Timur,Lembata,2021,5
+Nusa Tenggara Timur,Flores Timur,2021,5
+Nusa Tenggara Timur,Sikka,2021,5
+Nusa Tenggara Timur,Ende,2021,5
+Nusa Tenggara Timur,Ngada,2021,6
+Nusa Tenggara Timur,Manggarai,2021,5
+Nusa Tenggara Timur,Rote Ndao,2021,4
+Nusa Tenggara Timur,Manggarai Barat,2021,5
+Nusa Tenggara Timur,Sumba Tengah,2021,4
+Nusa Tenggara Timur,Sumba Barat Daya,2021,3
+Nusa Tenggara Timur,Nagekeo,2021,5
+Nusa Tenggara Timur,Manggarai Timur,2021,4
+Nusa Tenggara Timur,Sabu Raijua,2021,2
+Nusa Tenggara Timur,Malaka,2021,4
+Kalimantan Barat,Sambas,2021,5
+Kalimantan Barat,Bengkayang,2021,6
+Kalimantan Barat,Landak,2021,5
+Kalimantan Barat,Mempawah,2021,5
+Kalimantan Barat,Sanggau,2021,6
+Kalimantan Barat,Ketapang,2021,5
+Kalimantan Barat,Sintang,2021,5
+Kalimantan Barat,Kapuas Hulu,2021,5
+Kalimantan Barat,Sekadau,2021,5
+Kalimantan Barat,Melawai,2021,3
+Kalimantan Barat,Kayong Utara,2021,5
+Kalimantan Barat,Kubu Raya,2021,5
+Kalimantan Tengah,Kotawaringin Barat,2021,4
+Kalimantan Tengah,Kotawaringin Timur,2021,6
+Kalimantan Tengah,Kapuas,2021,6
+Kalimantan Tengah,Barito Selatan,2021,6
+Kalimantan Tengah,Barito Utara,2021,6
+Kalimantan Tengah,Sukamara,2021,5
+Kalimantan Tengah,Lamandau,2021,6
+Kalimantan Tengah,Seruyan,2021,5
+Kalimantan Tengah,Katingan,2021,6
+Kalimantan Tengah,Pulang Pisau,2021,6
+Kalimantan Tengah,Gunung Mas,2021,3
+Kalimantan Tengah,Barito Timur,2021,6
+Kalimantan Tengah,Murung Raya,2021,4
+Kalimantan Selatan,Tanah Laut,2021,6
+Kalimantan Selatan,Kota Baru,2021,6
+Kalimantan Selatan,Banjar,2021,6
+Kalimantan Selatan,Barito Kuala,2021,6
+Kalimantan Selatan,Tapin,2021,6
+Kalimantan Selatan,Hulu Sungai Selatan,2021,6
+Kalimantan Selatan,Hulu Sungai Tengah,2021,6
+Kalimantan Selatan,Hulu Sungai Utara,2021,6
+Kalimantan Selatan,Tabalong,2021,6
+Kalimantan Selatan,Tanah Bumbu,2021,6
+Kalimantan Selatan,Balangan,2021,6
+Kalimantan Timur,Paser,2021,6
+Kalimantan Timur,Kutai Barat,2021,3
+Kalimantan Timur,Kutai Kertanegara,2021,6
+Kalimantan Timur,Kutai Timur,2021,4
+Kalimantan Timur,Berau,2021,6
+Kalimantan Timur,Penajam Paser Utara,2021,6
+Kalimantan Timur,Mahakam Ulu,2021,3
+Kalimantan Utara,Malinau,2021,5
+Kalimantan Utara,Bulungan,2021,6
+Kalimantan Utara,Tana Tidung,2021,3
+Kalimantan Utara,Nunukan,2021,6
+Sulawesi Utara,Bolaang Mongondow,2021,6
+Sulawesi Utara,Minahasa,2021,6
+Sulawesi Utara,Kepulauan Sangihe,2021,3
+Sulawesi Utara,Kepulauan Talaud,2021,6
+Sulawesi Utara,Minahasa Selatan,2021,6
+Sulawesi Utara,Minahasa Utara,2021,6
+Sulawesi Utara,Bolaang Mongondow Utara,2021,6
+Sulawesi Utara,Kepulauan Siau Tagulandang Biaro,2021,3
+Sulawesi Utara,Minahasa Tenggara,2021,6
+Sulawesi Utara,Bolaang Mongondow Selatan,2021,6
+Sulawesi Utara,Bolaang Mongondow Timur,2021,6
+Sulawesi Tengah,Banggai Kepulauan,2021,4
+Sulawesi Tengah,Banggai,2021,6
+Sulawesi Tengah,Morowali,2021,6
+Sulawesi Tengah,Poso,2021,6
+Sulawesi Tengah,Donggala,2021,5
+Sulawesi Tengah,Toli-Toli,2021,6
+Sulawesi Tengah,Buol,2021,6
+Sulawesi Tengah,Parigi Moutong,2021,5
+Sulawesi Tengah,Tojo Una-Una,2021,6
+Sulawesi Tengah,Sigi,2021,5
+Sulawesi Tengah,Banggai Laut,2021,2
+Sulawesi Tengah,Morowali Utara,2021,6
+Sulawesi Selatan,Selayar,2021,5
+Sulawesi Selatan,Bulukumba,2021,6
+Sulawesi Selatan,Bantaeng,2021,6
+Sulawesi Selatan,Jeneponto,2021,6
+Sulawesi Selatan,Takalar,2021,6
+Sulawesi Selatan,Gowa,2021,6
+Sulawesi Selatan,Sinjai,2021,6
+Sulawesi Selatan,Maros,2021,6
+Sulawesi Selatan,Pangkajene dan Kepulauan,2021,6
+Sulawesi Selatan,Barru,2021,6
+Sulawesi Selatan,Bone,2021,6
+Sulawesi Selatan,Soppeng,2021,6
+Sulawesi Selatan,Wajo,2021,6
+Sulawesi Selatan,Sidenreng Rappang,2021,6
+Sulawesi Selatan,Pinrang,2021,6
+Sulawesi Selatan,Enrekang,2021,6
+Sulawesi Selatan,Luwu,2021,6
+Sulawesi Selatan,Tana Toraja,2021,5
+Sulawesi Selatan,Luwu Utara,2021,6
+Sulawesi Selatan,Luwu Timur,2021,6
+Sulawesi Selatan,Toraja Utara,2021,6
+Sulawesi Tenggara,Buton,2021,5
+Sulawesi Tenggara,Muna,2021,6
+Sulawesi Tenggara,Konawe,2021,6
+Sulawesi Tenggara,Kolaka,2021,6
+Sulawesi Tenggara,Konawe Selatan,2021,6
+Sulawesi Tenggara,Bombana,2021,6
+Sulawesi Tenggara,Wakatobi,2021,4
+Sulawesi Tenggara,Kolaka Utara,2021,6
+Sulawesi Tenggara,Buton Utara,2021,5
+Sulawesi Tenggara,Konawe Utara,2021,5
+Sulawesi Tenggara,Kolaka Timur,2021,6
+Sulawesi Tenggara,Konawe Kepulauan,2021,5
+Sulawesi Tenggara,Muna Barat,2021,6
+Sulawesi Tenggara,Buton Tengah,2021,5
+Sulawesi Tenggara,Buton Selatan,2021,5
+Gorontalo,Boalemo,2021,6
+Gorontalo,Gorontalo,2021,6
+Gorontalo,Pohuwato,2021,6
+Gorontalo,Bone Bolango,2021,6
+Gorontalo,Gorontalo Utara,2021,6
+Sulawesi Barat,Majene,2021,5
+Sulawesi Barat,Polewali Mandar,2021,5
+Sulawesi Barat,Mamasa,2021,5
+Sulawesi Barat,Mamuju,2021,6
+Sulawesi Barat,Mamuju Utara,2021,6
+Sulawesi Barat,Mamuju Tengah,2021,6
+Maluku,Kepulauan Tanimbar,2021,2
+Maluku,Maluku Tenggara,2021,2
+Maluku,Maluku Tengah,2021,5
+Maluku,Buru,2021,6
+Maluku,Kepulauan Aru,2021,1
+Maluku,Seram Bagian Barat,2021,3
+Maluku,Seram Bagian Timur,2021,3
+Maluku,Maluku Barat Daya,2021,4
+Maluku,Buru Selatan,2021,3
+Maluku Utara,Halmahera Barat,2021,3
+Maluku Utara,Halmahera Tengah,2021,2
+Maluku Utara,Kepulauan Sula,2021,3
+Maluku Utara,Halmahera Selatan,2021,2
+Maluku Utara,Halmahera Utara,2021,4
+Maluku Utara,Halmahera Timur,2021,5
+Maluku Utara,Pulau Morotai,2021,4
+Maluku Utara,Pulau Taliabu,2021,2
+Papua Barat,Fak-Fak,2021,2
+Papua Barat,Kaimana,2021,2
+Papua Barat,Teluk Wondama,2021,1
+Papua Barat,Teluk Bintuni,2021,1
+Papua Barat,Manokwari,2021,5
+Papua Barat,Sorong Selatan,2021,1
+Papua Barat,Sorong,2021,3
+Papua Barat,Raja Ampat,2021,2
+Papua Barat,Tambrauw,2021,1
+Papua Barat,Maybrat,2021,1
+Papua Barat,Manokwari Selatan,2021,4
+Papua Barat,Pegunungan Arfak,2021,1
+Papua,Merauke,2021,6
+Papua,Jayawijaya,2021,1
+Papua,Jayapura,2021,3
+Papua,Nabire,2021,4
+Papua,Kepulauan Yapen,2021,2
+Papua,Biak Namfor,2021,2
+Papua,Paniai,2021,1
+Papua,Puncak Jaya,2021,1
+Papua,Mimika,2021,3
+Papua,Boven Digoel,2021,1
+Papua,Mappi,2021,1
+Papua,Asmat,2021,1
+Papua,Yahukimo,2021,1
+Papua,Pegunungan Bintang,2021,1
+Papua,Tolikara,2021,1
+Papua,Sarmi,2021,2
+Papua,Keerom,2021,4
+Papua,Waropen,2021,2
+Papua,Supiori,2021,1
+Papua,Mamberamo Raya,2021,1
+Papua,Nduga,2021,1
+Papua,Lanny Jaya,2021,1
+Papua,Mamberamo Tengah,2021,1
+Papua,Yalimo,2021,1
+Papua,Puncak,2021,1
+Papua,Dogiyai,2021,1
+Papua,Intan Jaya,2021,1
+Papua,Deiyai,2021,1
+Aceh,Kota Banda Aceh,2021,6
+Aceh,Kota Sabang,2021,5
+Aceh,Kota Langsa,2021,6
+Aceh,Kota Lhokseumawe,2021,5
+Aceh,Kota Subulussalam,2021,1
+Sumatera Utara,Kota Sibolga,2021,6
+Sumatera Utara,Kota Tanjung Balai,2021,4
+Sumatera Utara,Kota Pematang Siantar,2021,6
+Sumatera Utara,Kota Tebing Tinggi,2021,5
+Sumatera Utara,Kota Medan,2021,6
+Sumatera Utara,Kota Binjai,2021,6
+Sumatera Utara,Kota Padang Sidimpuan,2021,4
+Sumatera Utara,Kota Gunungsitoli,2021,3
+Sumatera Barat,Kota Padang,2021,6
+Sumatera Barat,Kota Solok,2021,6
+Sumatera Barat,Kota Sawah Lunto,2021,5
+Sumatera Barat,Kota Padang Panjang,2021,6
+Sumatera Barat,Kota Bukittinggi,2021,6
+Sumatera Barat,Kota Payakumbuh,2021,6
+Sumatera Barat,Kota Pariaman,2021,6
+Riau,Kota Pekanbaru,2021,6
+Riau,Kota Dumai,2021,6
+Jambi,Kota Jambi,2021,6
+Jambi,Kota Sungai Penuh,2021,6
+Sumatera Selatan,Kota Palembang,2021,6
+Sumatera Selatan,Kota Prabumulih,2021,4
+Sumatera Selatan,Kota Pagar Alam,2021,3
+Sumatera Selatan,Kota Lubuklinggau,2021,4
+Bengkulu,Kota Bengkulu,2021,5
+Lampung,Kota Bandar Lampung,2021,6
+Lampung,Kota Metro,2021,6
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,2021,6
+Kepulauan Riau,Kota Batam,2021,6
+Kepulauan Riau,Kota Tanjung Pinang,2021,6
+DKI Jakarta,Kota Jakarta Selatan,2021,6
+DKI Jakarta,Kota Jakarta Timur,2021,6
+DKI Jakarta,Kota Jakarta Pusat,2021,6
+DKI Jakarta,Kota Jakarta Barat,2021,6
+DKI Jakarta,Kota Jakarta Utara,2021,6
+Jawa Barat,Kota Bogor,2021,6
+Jawa Barat,Kota Sukabumi,2021,5
+Jawa Barat,Kota Bandung,2021,6
+Jawa Barat,Kota Cirebon,2021,6
+Jawa Barat,Kota Bekasi,2021,6
+Jawa Barat,Kota Depok,2021,6
+Jawa Barat,Kota Cimahi,2021,6
+Jawa Barat,Kota Tasikmalaya,2021,5
+Jawa Barat,Kota Banjar,2021,4
+Jawa Tengah,Kota Magelang,2021,6
+Jawa Tengah,Kota Surakarta,2021,6
+Jawa Tengah,Kota Salatiga,2021,6
+Jawa Tengah,Kota Semarang,2021,6
+Jawa Tengah,Kota Pekalongan,2021,5
+Jawa Tengah,Kota Tegal,2021,6
+DI Yogyakarta,Kota Yogyakarta,2021,6
+Jawa Timur,Kota Kediri,2021,5
+Jawa Timur,Kota Blitar,2021,5
+Jawa Timur,Kota Malang,2021,6
+Jawa Timur,Kota Probolinggo,2021,6
+Jawa Timur,Kota Pasuruan,2021,5
+Jawa Timur,Kota Mojokerto,2021,6
+Jawa Timur,Kota Madiun,2021,6
+Jawa Timur,Kota Surabaya,2021,6
+Jawa Timur,Kota Batu,2021,6
+Banten,Kota Tangerang,2021,6
+Banten,Kota Cilegon,2021,6
+Banten,Kota Serang,2021,5
+Banten,Kota Tangerang Selatan,2021,6
+Bali,Kota Denpasar,2021,6
+Nusa Tenggara Barat,Kota Mataram,2021,6
+Nusa Tenggara Barat,Kota Bima,2021,5
+Nusa Tenggara Timur,Kota Kupang,2021,6
+Kalimantan Barat,Kota Pontianak,2021,5
+Kalimantan Barat,Kota Singkawang,2021,5
+Kalimantan Tengah,Kota Palangka Raya,2021,6
+Kalimantan Selatan,Kota Banjarmasin,2021,6
+Kalimantan Selatan,Kota Banjar Baru,2021,6
+Kalimantan Timur,Kota Balikpapan,2021,6
+Kalimantan Timur,Kota Samarinda,2021,6
+Kalimantan Timur,Kota Bontang,2021,6
+Kalimantan Utara,Kota Tarakan,2021,6
+Sulawesi Utara,Kota Manado,2021,6
+Sulawesi Utara,Kota Bitung,2021,6
+Sulawesi Utara,Kota Tomohon,2021,6
+Sulawesi Utara,Kota Kotamobago,2021,6
+Sulawesi Tengah,Kota Palu,2021,6
+Sulawesi Selatan,Kota Makasar,2021,6
+Sulawesi Selatan,Kota Pare-Pare,2021,6
+Sulawesi Selatan,Kota Palopo,2021,6
+Sulawesi Tenggara,Kota Kendari,2021,6
+Sulawesi Tenggara,Kota Bau-Bau,2021,6
+Gorontalo,Kota Gorontalo,2021,6
+Maluku,Kota Ambon,2021,6
+Maluku,Kota Tual,2021,3
+Maluku Utara,Kota Ternate,2021,6
+Maluku Utara,Kota Tidore Kepulauan,2021,4
+Papua Barat,Kota Sorong,2021,6
+Papua,Kota Jayapura,2021,5
+Aceh,Simeulue,2022,5
+Aceh,Aceh Singkil,2022,3
+Aceh,Aceh Selatan,2022,5
+Aceh,Aceh Tenggara,2022,6
+Aceh,Aceh Timur,2022,6
+Aceh,Aceh Tengah,2022,4
+Aceh,Aceh Barat,2022,6
+Aceh,Aceh Besar,2022,6
+Aceh,Pidie,2022,5
+Aceh,Bireuen,2022,6
+Aceh,Aceh Utara,2022,6
+Aceh,Aceh Barat Daya,2022,6
+Aceh,Gayo Lues,2022,5
+Aceh,Aceh Tamiang,2022,6
+Aceh,Nagan Raya,2022,5
+Aceh,Aceh Jaya,2022,6
+Aceh,Bener Meriah,2022,2
+Aceh,Pidie Jaya,2022,6
+Sumatera Utara,Nias,2022,5
+Sumatera Utara,Mandailing Natal,2022,4
+Sumatera Utara,Tapanuli Selatan,2022,5
+Sumatera Utara,Tapanuli Tengah,2022,5
+Sumatera Utara,Tapanuli Utara,2022,6
+Sumatera Utara,Toba Samosir,2022,6
+Sumatera Utara,Labuhan Batu,2022,6
+Sumatera Utara,Asahan,2022,5
+Sumatera Utara,Simalungun,2022,6
+Sumatera Utara,Dairi,2022,6
+Sumatera Utara,Karo,2022,6
+Sumatera Utara,Deli Serdang,2022,6
+Sumatera Utara,Langkat,2022,5
+Sumatera Utara,Nias Selatan,2022,4
+Sumatera Utara,Humbang Hasundutan,2022,6
+Sumatera Utara,Pakpak Bharat,2022,5
+Sumatera Utara,Samosir,2022,5
+Sumatera Utara,Serdang Bedagai,2022,6
+Sumatera Utara,Batu Bara,2022,5
+Sumatera Utara,Padang Lawas Utara,2022,5
+Sumatera Utara,Padang Lawas,2022,5
+Sumatera Utara,Labuhan Batu Selatan,2022,3
+Sumatera Utara,Labuhan Batu Utara,2022,5
+Sumatera Utara,Nias Utara,2022,4
+Sumatera Utara,Nias Barat,2022,4
+Sumatera Barat,Kepulauan Mentawai,2022,3
+Sumatera Barat,Pesisir Selatan,2022,6
+Sumatera Barat,Solok,2022,6
+Sumatera Barat,Sijunjung,2022,6
+Sumatera Barat,Tanah Datar,2022,6
+Sumatera Barat,Padang Pariaman,2022,6
+Sumatera Barat,Agam,2022,6
+Sumatera Barat,Limapuluh Koto,2022,6
+Sumatera Barat,Pasaman,2022,6
+Sumatera Barat,Solok Selatan,2022,6
+Sumatera Barat,Dharmas Raya,2022,6
+Sumatera Barat,Pasaman Barat,2022,6
+Riau,Kuantan Sengingi,2022,5
+Riau,Indragiri Hulu,2022,3
+Riau,Indragiri Hilir,2022,5
+Riau,Pelalawan,2022,5
+Riau,Siak,2022,6
+Riau,Kampar,2022,3
+Riau,Rokan Hulu,2022,3
+Riau,Bengkalis,2022,4
+Riau,Rokan Hilir,2022,4
+Riau,Kepulauan Meranti,2022,5
+Jambi,Kerinci,2022,6
+Jambi,Merangin,2022,5
+Jambi,Sarolangun,2022,4
+Jambi,Batang Hari,2022,5
+Jambi,Muaro Jambi,2022,4
+Jambi,Tanjung Jabung Timur,2022,5
+Jambi,Tanjung Jabung Barat,2022,5
+Jambi,Tebo,2022,5
+Jambi,Bungo,2022,4
+Sumatera Selatan,Ogan Komering Ulu,2022,5
+Sumatera Selatan,Ogan Komering Ilir,2022,6
+Sumatera Selatan,Muara Enim,2022,5
+Sumatera Selatan,Lahat,2022,5
+Sumatera Selatan,Musi Rawas,2022,6
+Sumatera Selatan,Musi Banyuasin,2022,6
+Sumatera Selatan,Banyuasin,2022,6
+Sumatera Selatan,Ogan Komering Ulu Selatan,2022,5
+Sumatera Selatan,Ogan Komering Ulu Timur,2022,6
+Sumatera Selatan,Ogan Ilir,2022,5
+Sumatera Selatan,Empat Lawang,2022,4
+Sumatera Selatan,Penukal Abab Lematang Ilir,2022,5
+Sumatera Selatan,Musi Rawas Utara,2022,3
+Bengkulu,Bengkulu Selatan,2022,5
+Bengkulu,Rejang Lebong,2022,4
+Bengkulu,Bengkulu Utara,2022,3
+Bengkulu,Kaur,2022,5
+Bengkulu,Seluma,2022,5
+Bengkulu,Mukomuko,2022,5
+Bengkulu,Lebong,2022,5
+Bengkulu,Kepahiang,2022,4
+Bengkulu,Bengkulu Tengah,2022,4
+Lampung,Lampung Barat,2022,5
+Lampung,Tanggamus,2022,5
+Lampung,Lampung Selatan,2022,6
+Lampung,Lampung Timur,2022,6
+Lampung,Lampung Tengah,2022,6
+Lampung,Lampung Utara,2022,5
+Lampung,Way Kanan,2022,6
+Lampung,Tulang Bawang,2022,6
+Lampung,Pesawaran,2022,6
+Lampung,Pringsewu,2022,6
+Lampung,Mesuji,2022,6
+Lampung,Tulang Bawang Barat,2022,6
+Lampung,Pesisir Barat,2022,5
+Kepulauan Bangka Belitung,Bangka,2022,6
+Kepulauan Bangka Belitung,Belitung,2022,4
+Kepulauan Bangka Belitung,Bangka Barat,2022,5
+Kepulauan Bangka Belitung,Bangka Tengah,2022,3
+Kepulauan Bangka Belitung,Bangka Selatan,2022,6
+Kepulauan Bangka Belitung,Belitung Timur,2022,4
+Kepulauan Riau,Karimun,2022,3
+Kepulauan Riau,Bintan,2022,3
+Kepulauan Riau,Natuna,2022,3
+Kepulauan Riau,Lingga,2022,3
+Kepulauan Riau,Kepulauan Anambas,2022,3
+DKI Jakarta,Kepulauan Seribu,2022,3
+Jawa Barat,Bogor,2022,5
+Jawa Barat,Sukabumi,2022,6
+Jawa Barat,Cianjur,2022,6
+Jawa Barat,Bandung,2022,6
+Jawa Barat,Garut,2022,5
+Jawa Barat,Tasikmalaya,2022,6
+Jawa Barat,Ciamis,2022,6
+Jawa Barat,Kuningan,2022,6
+Jawa Barat,Cirebon,2022,6
+Jawa Barat,Majalengka,2022,6
+Jawa Barat,Sumedang,2022,6
+Jawa Barat,Indramayu,2022,6
+Jawa Barat,Subang,2022,6
+Jawa Barat,Purwakarta,2022,6
+Jawa Barat,Karawang,2022,6
+Jawa Barat,Bekasi,2022,6
+Jawa Barat,Bandung Barat,2022,5
+Jawa Barat,Pangandaran,2022,6
+Jawa Tengah,Cilacap,2022,6
+Jawa Tengah,Banyumas,2022,6
+Jawa Tengah,Purbalingga,2022,6
+Jawa Tengah,Banjarnegara,2022,6
+Jawa Tengah,Kebumen,2022,6
+Jawa Tengah,Purworejo,2022,6
+Jawa Tengah,Wonosobo,2022,6
+Jawa Tengah,Magelang,2022,6
+Jawa Tengah,Boyolali,2022,6
+Jawa Tengah,Klaten,2022,6
+Jawa Tengah,Sukoharjo,2022,6
+Jawa Tengah,Wonogiri,2022,6
+Jawa Tengah,Karanganyar,2022,6
+Jawa Tengah,Sragen,2022,6
+Jawa Tengah,Grobogan,2022,6
+Jawa Tengah,Blora,2022,6
+Jawa Tengah,Rembang,2022,6
+Jawa Tengah,Pati,2022,6
+Jawa Tengah,Kudus,2022,6
+Jawa Tengah,Jepara,2022,6
+Jawa Tengah,Demak,2022,6
+Jawa Tengah,Semarang,2022,6
+Jawa Tengah,Temanggung,2022,6
+Jawa Tengah,Kendal,2022,6
+Jawa Tengah,Batang,2022,6
+Jawa Tengah,Pekalongan,2022,6
+Jawa Tengah,Pemalang,2022,6
+Jawa Tengah,Tegal,2022,6
+Jawa Tengah,Brebes,2022,6
+DI Yogyakarta,Kulon Progo,2022,6
+DI Yogyakarta,Bantul,2022,6
+DI Yogyakarta,Gunung Kidul,2022,6
+DI Yogyakarta,Sleman,2022,6
+Jawa Timur,Pacitan,2022,6
+Jawa Timur,Ponorogo,2022,6
+Jawa Timur,Trenggalek,2022,6
+Jawa Timur,Tulungagung,2022,6
+Jawa Timur,Blitar,2022,6
+Jawa Timur,Kediri,2022,6
+Jawa Timur,Malang,2022,6
+Jawa Timur,Lumajang,2022,6
+Jawa Timur,Jember,2022,6
+Jawa Timur,Banyuwangi,2022,6
+Jawa Timur,Bondowoso,2022,5
+Jawa Timur,Situbondo,2022,6
+Jawa Timur,Probolinggo,2022,5
+Jawa Timur,Pasuruan,2022,6
+Jawa Timur,Sidoarjo,2022,6
+Jawa Timur,Mojokerto,2022,6
+Jawa Timur,Jombang,2022,6
+Jawa Timur,Nganjuk,2022,6
+Jawa Timur,Madiun,2022,6
+Jawa Timur,Magetan,2022,6
+Jawa Timur,Ngawi,2022,6
+Jawa Timur,Bojonegoro,2022,6
+Jawa Timur,Tuban,2022,6
+Jawa Timur,Lamongan,2022,6
+Jawa Timur,Gresik,2022,6
+Jawa Timur,Bangkalan,2022,5
+Jawa Timur,Sampang,2022,5
+Jawa Timur,Pamekasan,2022,5
+Jawa Timur,Sumenep,2022,5
+Banten,Pandeglang,2022,5
+Banten,Lebak,2022,5
+Banten,Tangerang,2022,6
+Banten,Serang,2022,6
+Bali,Jembrana,2022,6
+Bali,Tabanan,2022,6
+Bali,Badung,2022,6
+Bali,Gianyar,2022,6
+Bali,Klungkung,2022,6
+Bali,Bangli,2022,5
+Bali,Karangasem,2022,6
+Bali,Buleleng,2022,6
+Nusa Tenggara Barat,Lombok Barat,2022,5
+Nusa Tenggara Barat,Lombok Tengah,2022,6
+Nusa Tenggara Barat,Lombok Timur,2022,5
+Nusa Tenggara Barat,Sumbawa,2022,6
+Nusa Tenggara Barat,Dompu,2022,6
+Nusa Tenggara Barat,Bima,2022,6
+Nusa Tenggara Barat,Sumbawa Barat,2022,6
+Nusa Tenggara Barat,Lombok Utara,2022,5
+Nusa Tenggara Timur,Sumba Barat,2022,5
+Nusa Tenggara Timur,Sumba Timur,2022,5
+Nusa Tenggara Timur,Kupang,2022,4
+Nusa Tenggara Timur,Timor Tengah Selatan,2022,4
+Nusa Tenggara Timur,Timor Tengah Utara,2022,5
+Nusa Tenggara Timur,Belu,2022,5
+Nusa Tenggara Timur,Alor,2022,3
+Nusa Tenggara Timur,Lembata,2022,4
+Nusa Tenggara Timur,Flores Timur,2022,5
+Nusa Tenggara Timur,Sikka,2022,6
+Nusa Tenggara Timur,Ende,2022,5
+Nusa Tenggara Timur,Ngada,2022,6
+Nusa Tenggara Timur,Manggarai,2022,5
+Nusa Tenggara Timur,Rote Ndao,2022,5
+Nusa Tenggara Timur,Manggarai Barat,2022,5
+Nusa Tenggara Timur,Sumba Tengah,2022,4
+Nusa Tenggara Timur,Sumba Barat Daya,2022,3
+Nusa Tenggara Timur,Nagekeo,2022,5
+Nusa Tenggara Timur,Manggarai Timur,2022,4
+Nusa Tenggara Timur,Sabu Raijua,2022,3
+Nusa Tenggara Timur,Malaka,2022,5
+Kalimantan Barat,Sambas,2022,5
+Kalimantan Barat,Bengkayang,2022,6
+Kalimantan Barat,Landak,2022,6
+Kalimantan Barat,Mempawah,2022,5
+Kalimantan Barat,Sanggau,2022,5
+Kalimantan Barat,Ketapang,2022,5
+Kalimantan Barat,Sintang,2022,4
+Kalimantan Barat,Kapuas Hulu,2022,5
+Kalimantan Barat,Sekadau,2022,5
+Kalimantan Barat,Melawai,2022,3
+Kalimantan Barat,Kayong Utara,2022,5
+Kalimantan Barat,Kubu Raya,2022,5
+Kalimantan Tengah,Kotawaringin Barat,2022,4
+Kalimantan Tengah,Kotawaringin Timur,2022,6
+Kalimantan Tengah,Kapuas,2022,6
+Kalimantan Tengah,Barito Selatan,2022,4
+Kalimantan Tengah,Barito Utara,2022,6
+Kalimantan Tengah,Sukamara,2022,4
+Kalimantan Tengah,Lamandau,2022,5
+Kalimantan Tengah,Seruyan,2022,4
+Kalimantan Tengah,Katingan,2022,6
+Kalimantan Tengah,Pulang Pisau,2022,6
+Kalimantan Tengah,Gunung Mas,2022,3
+Kalimantan Tengah,Barito Timur,2022,6
+Kalimantan Tengah,Murung Raya,2022,2
+Kalimantan Selatan,Tanah Laut,2022,6
+Kalimantan Selatan,Kota Baru,2022,6
+Kalimantan Selatan,Banjar,2022,6
+Kalimantan Selatan,Barito Kuala,2022,6
+Kalimantan Selatan,Tapin,2022,6
+Kalimantan Selatan,Hulu Sungai Selatan,2022,6
+Kalimantan Selatan,Hulu Sungai Tengah,2022,6
+Kalimantan Selatan,Hulu Sungai Utara,2022,6
+Kalimantan Selatan,Tabalong,2022,6
+Kalimantan Selatan,Tanah Bumbu,2022,6
+Kalimantan Selatan,Balangan,2022,6
+Kalimantan Timur,Paser,2022,6
+Kalimantan Timur,Kutai Barat,2022,4
+Kalimantan Timur,Kutai Kertanegara,2022,6
+Kalimantan Timur,Kutai Timur,2022,4
+Kalimantan Timur,Berau,2022,6
+Kalimantan Timur,Penajam Paser Utara,2022,6
+Kalimantan Timur,Mahakam Ulu,2022,3
+Kalimantan Utara,Malinau,2022,4
+Kalimantan Utara,Bulungan,2022,6
+Kalimantan Utara,Tana Tidung,2022,3
+Kalimantan Utara,Nunukan,2022,6
+Sulawesi Utara,Bolaang Mongondow,2022,6
+Sulawesi Utara,Minahasa,2022,6
+Sulawesi Utara,Kepulauan Sangihe,2022,3
+Sulawesi Utara,Kepulauan Talaud,2022,6
+Sulawesi Utara,Minahasa Selatan,2022,6
+Sulawesi Utara,Minahasa Utara,2022,6
+Sulawesi Utara,Bolaang Mongondow Utara,2022,6
+Sulawesi Utara,Kepulauan Siau Tagulandang Biaro,2022,3
+Sulawesi Utara,Minahasa Tenggara,2022,6
+Sulawesi Utara,Bolaang Mongondow Selatan,2022,5
+Sulawesi Utara,Bolaang Mongondow Timur,2022,6
+Sulawesi Tengah,Banggai Kepulauan,2022,4
+Sulawesi Tengah,Banggai,2022,6
+Sulawesi Tengah,Morowali,2022,6
+Sulawesi Tengah,Poso,2022,6
+Sulawesi Tengah,Donggala,2022,5
+Sulawesi Tengah,Toli-Toli,2022,6
+Sulawesi Tengah,Buol,2022,6
+Sulawesi Tengah,Parigi Moutong,2022,6
+Sulawesi Tengah,Tojo Una-Una,2022,5
+Sulawesi Tengah,Sigi,2022,6
+Sulawesi Tengah,Banggai Laut,2022,2
+Sulawesi Tengah,Morowali Utara,2022,6
+Sulawesi Selatan,Selayar,2022,5
+Sulawesi Selatan,Bulukumba,2022,6
+Sulawesi Selatan,Bantaeng,2022,6
+Sulawesi Selatan,Jeneponto,2022,6
+Sulawesi Selatan,Takalar,2022,6
+Sulawesi Selatan,Gowa,2022,6
+Sulawesi Selatan,Sinjai,2022,6
+Sulawesi Selatan,Maros,2022,6
+Sulawesi Selatan,Pangkajene dan Kepulauan,2022,6
+Sulawesi Selatan,Barru,2022,6
+Sulawesi Selatan,Bone,2022,6
+Sulawesi Selatan,Soppeng,2022,6
+Sulawesi Selatan,Wajo,2022,6
+Sulawesi Selatan,Sidenreng Rappang,2022,6
+Sulawesi Selatan,Pinrang,2022,6
+Sulawesi Selatan,Enrekang,2022,6
+Sulawesi Selatan,Luwu,2022,6
+Sulawesi Selatan,Tana Toraja,2022,6
+Sulawesi Selatan,Luwu Utara,2022,6
+Sulawesi Selatan,Luwu Timur,2022,6
+Sulawesi Selatan,Toraja Utara,2022,6
+Sulawesi Tenggara,Buton,2022,5
+Sulawesi Tenggara,Muna,2022,6
+Sulawesi Tenggara,Konawe,2022,6
+Sulawesi Tenggara,Kolaka,2022,6
+Sulawesi Tenggara,Konawe Selatan,2022,6
+Sulawesi Tenggara,Bombana,2022,6
+Sulawesi Tenggara,Wakatobi,2022,3
+Sulawesi Tenggara,Kolaka Utara,2022,5
+Sulawesi Tenggara,Buton Utara,2022,5
+Sulawesi Tenggara,Konawe Utara,2022,6
+Sulawesi Tenggara,Kolaka Timur,2022,6
+Sulawesi Tenggara,Konawe Kepulauan,2022,4
+Sulawesi Tenggara,Muna Barat,2022,6
+Sulawesi Tenggara,Buton Tengah,2022,4
+Sulawesi Tenggara,Buton Selatan,2022,5
+Gorontalo,Boalemo,2022,6
+Gorontalo,Gorontalo,2022,6
+Gorontalo,Pohuwato,2022,6
+Gorontalo,Bone Bolango,2022,6
+Gorontalo,Gorontalo Utara,2022,6
+Sulawesi Barat,Majene,2022,4
+Sulawesi Barat,Polewali Mandar,2022,5
+Sulawesi Barat,Mamasa,2022,5
+Sulawesi Barat,Mamuju,2022,6
+Sulawesi Barat,Mamuju Utara,2022,5
+Sulawesi Barat,Mamuju Tengah,2022,6
+Maluku,Kepulauan Tanimbar,2022,2
+Maluku,Maluku Tenggara,2022,2
+Maluku,Maluku Tengah,2022,5
+Maluku,Buru,2022,6
+Maluku,Kepulauan Aru,2022,2
+Maluku,Seram Bagian Barat,2022,4
+Maluku,Seram Bagian Timur,2022,4
+Maluku,Maluku Barat Daya,2022,4
+Maluku,Buru Selatan,2022,3
+Maluku Utara,Halmahera Barat,2022,3
+Maluku Utara,Halmahera Tengah,2022,2
+Maluku Utara,Kepulauan Sula,2022,2
+Maluku Utara,Halmahera Selatan,2022,3
+Maluku Utara,Halmahera Utara,2022,4
+Maluku Utara,Halmahera Timur,2022,5
+Maluku Utara,Pulau Morotai,2022,4
+Maluku Utara,Pulau Taliabu,2022,2
+Papua Barat,Fak-Fak,2022,2
+Papua Barat,Kaimana,2022,2
+Papua Barat,Teluk Wondama,2022,1
+Papua Barat,Teluk Bintuni,2022,1
+Papua Barat,Manokwari,2022,4
+Papua Barat,Sorong Selatan,2022,1
+Papua Barat,Sorong,2022,2
+Papua Barat,Raja Ampat,2022,2
+Papua Barat,Tambrauw,2022,1
+Papua Barat,Maybrat,2022,1
+Papua Barat,Manokwari Selatan,2022,5
+Papua Barat,Pegunungan Arfak,2022,1
+Papua,Merauke,2022,6
+Papua,Jayawijaya,2022,1
+Papua,Jayapura,2022,5
+Papua,Nabire,2022,5
+Papua,Kepulauan Yapen,2022,2
+Papua,Biak Namfor,2022,2
+Papua,Paniai,2022,1
+Papua,Puncak Jaya,2022,1
+Papua,Mimika,2022,6
+Papua,Boven Digoel,2022,1
+Papua,Mappi,2022,1
+Papua,Asmat,2022,1
+Papua,Yahukimo,2022,1
+Papua,Pegunungan Bintang,2022,1
+Papua,Tolikara,2022,1
+Papua,Sarmi,2022,3
+Papua,Keerom,2022,4
+Papua,Waropen,2022,2
+Papua,Supiori,2022,1
+Papua,Mamberamo Raya,2022,1
+Papua,Nduga,2022,1
+Papua,Lanny Jaya,2022,1
+Papua,Mamberamo Tengah,2022,1
+Papua,Yalimo,2022,1
+Papua,Puncak,2022,1
+Papua,Dogiyai,2022,1
+Papua,Intan Jaya,2022,1
+Papua,Deiyai,2022,1
+Aceh,Kota Banda Aceh,2022,6
+Aceh,Kota Sabang,2022,5
+Aceh,Kota Langsa,2022,5
+Aceh,Kota Lhokseumawe,2022,5
+Aceh,Kota Subulussalam,2022,1
+Sumatera Utara,Kota Sibolga,2022,5
+Sumatera Utara,Kota Tanjung Balai,2022,4
+Sumatera Utara,Kota Pematang Siantar,2022,6
+Sumatera Utara,Kota Tebing Tinggi,2022,5
+Sumatera Utara,Kota Medan,2022,6
+Sumatera Utara,Kota Binjai,2022,6
+Sumatera Utara,Kota Padang Sidimpuan,2022,4
+Sumatera Utara,Kota Gunungsitoli,2022,3
+Sumatera Barat,Kota Padang,2022,6
+Sumatera Barat,Kota Solok,2022,6
+Sumatera Barat,Kota Sawah Lunto,2022,6
+Sumatera Barat,Kota Padang Panjang,2022,6
+Sumatera Barat,Kota Bukittinggi,2022,6
+Sumatera Barat,Kota Payakumbuh,2022,6
+Sumatera Barat,Kota Pariaman,2022,5
+Riau,Kota Pekanbaru,2022,6
+Riau,Kota Dumai,2022,6
+Jambi,Kota Jambi,2022,6
+Jambi,Kota Sungai Penuh,2022,4
+Sumatera Selatan,Kota Palembang,2022,6
+Sumatera Selatan,Kota Prabumulih,2022,4
+Sumatera Selatan,Kota Pagar Alam,2022,3
+Sumatera Selatan,Kota Lubuklinggau,2022,4
+Bengkulu,Kota Bengkulu,2022,5
+Lampung,Kota Bandar Lampung,2022,6
+Lampung,Kota Metro,2022,6
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,2022,6
+Kepulauan Riau,Kota Batam,2022,6
+Kepulauan Riau,Kota Tanjung Pinang,2022,6
+DKI Jakarta,Kota Jakarta Selatan,2022,6
+DKI Jakarta,Kota Jakarta Timur,2022,6
+DKI Jakarta,Kota Jakarta Pusat,2022,6
+DKI Jakarta,Kota Jakarta Barat,2022,6
+DKI Jakarta,Kota Jakarta Utara,2022,6
+Jawa Barat,Kota Bogor,2022,6
+Jawa Barat,Kota Sukabumi,2022,5
+Jawa Barat,Kota Bandung,2022,6
+Jawa Barat,Kota Cirebon,2022,5
+Jawa Barat,Kota Bekasi,2022,6
+Jawa Barat,Kota Depok,2022,6
+Jawa Barat,Kota Cimahi,2022,6
+Jawa Barat,Kota Tasikmalaya,2022,4
+Jawa Barat,Kota Banjar,2022,5
+Jawa Tengah,Kota Magelang,2022,6
+Jawa Tengah,Kota Surakarta,2022,6
+Jawa Tengah,Kota Salatiga,2022,6
+Jawa Tengah,Kota Semarang,2022,6
+Jawa Tengah,Kota Pekalongan,2022,5
+Jawa Tengah,Kota Tegal,2022,6
+DI Yogyakarta,Kota Yogyakarta,2022,6
+Jawa Timur,Kota Kediri,2022,6
+Jawa Timur,Kota Blitar,2022,6
+Jawa Timur,Kota Malang,2022,6
+Jawa Timur,Kota Probolinggo,2022,6
+Jawa Timur,Kota Pasuruan,2022,6
+Jawa Timur,Kota Mojokerto,2022,6
+Jawa Timur,Kota Madiun,2022,6
+Jawa Timur,Kota Surabaya,2022,6
+Jawa Timur,Kota Batu,2022,6
+Banten,Kota Tangerang,2022,6
+Banten,Kota Cilegon,2022,6
+Banten,Kota Serang,2022,4
+Banten,Kota Tangerang Selatan,2022,6
+Bali,Kota Denpasar,2022,6
+Nusa Tenggara Barat,Kota Mataram,2022,6
+Nusa Tenggara Barat,Kota Bima,2022,5
+Nusa Tenggara Timur,Kota Kupang,2022,6
+Kalimantan Barat,Kota Pontianak,2022,5
+Kalimantan Barat,Kota Singkawang,2022,5
+Kalimantan Tengah,Kota Palangka Raya,2022,6
+Kalimantan Selatan,Kota Banjarmasin,2022,6
+Kalimantan Selatan,Kota Banjar Baru,2022,6
+Kalimantan Timur,Kota Balikpapan,2022,6
+Kalimantan Timur,Kota Samarinda,2022,6
+Kalimantan Timur,Kota Bontang,2022,6
+Kalimantan Utara,Kota Tarakan,2022,6
+Sulawesi Utara,Kota Manado,2022,6
+Sulawesi Utara,Kota Bitung,2022,5
+Sulawesi Utara,Kota Tomohon,2022,6
+Sulawesi Utara,Kota Kotamobago,2022,6
+Sulawesi Tengah,Kota Palu,2022,6
+Sulawesi Selatan,Kota Makasar,2022,6
+Sulawesi Selatan,Kota Pare-Pare,2022,6
+Sulawesi Selatan,Kota Palopo,2022,6
+Sulawesi Tenggara,Kota Kendari,2022,6
+Sulawesi Tenggara,Kota Bau-Bau,2022,6
+Gorontalo,Kota Gorontalo,2022,6
+Maluku,Kota Ambon,2022,6
+Maluku,Kota Tual,2022,3
+Maluku Utara,Kota Ternate,2022,6
+Maluku Utara,Kota Tidore Kepulauan,2022,4
+Papua Barat,Kota Sorong,2022,5
+Papua,Kota Jayapura,2022,6
+Aceh,Simeulue,2023,5
+Aceh,Aceh Singkil,2023,2
+Aceh,Aceh Selatan,2023,5
+Aceh,Aceh Tenggara,2023,6
+Aceh,Aceh Timur,2023,6
+Aceh,Aceh Tengah,2023,4
+Aceh,Aceh Barat,2023,6
+Aceh,Aceh Besar,2023,6
+Aceh,Pidie,2023,6
+Aceh,Bireuen,2023,6
+Aceh,Aceh Utara,2023,6
+Aceh,Aceh Barat Daya,2023,6
+Aceh,Gayo Lues,2023,5
+Aceh,Aceh Tamiang,2023,6
+Aceh,Nagan Raya,2023,6
+Aceh,Aceh Jaya,2023,6
+Aceh,Bener Meriah,2023,2
+Aceh,Pidie Jaya,2023,6
+Sumatera Utara,Nias,2023,5
+Sumatera Utara,Mandailing Natal,2023,5
+Sumatera Utara,Tapanuli Selatan,2023,5
+Sumatera Utara,Tapanuli Tengah,2023,5
+Sumatera Utara,Tapanuli Utara,2023,6
+Sumatera Utara,Toba Samosir,2023,6
+Sumatera Utara,Labuhan Batu,2023,6
+Sumatera Utara,Asahan,2023,5
+Sumatera Utara,Simalungun,2023,6
+Sumatera Utara,Dairi,2023,6
+Sumatera Utara,Karo,2023,6
+Sumatera Utara,Deli Serdang,2023,6
+Sumatera Utara,Langkat,2023,6
+Sumatera Utara,Nias Selatan,2023,4
+Sumatera Utara,Humbang Hasundutan,2023,6
+Sumatera Utara,Pakpak Bharat,2023,6
+Sumatera Utara,Samosir,2023,6
+Sumatera Utara,Serdang Bedagai,2023,6
+Sumatera Utara,Batu Bara,2023,6
+Sumatera Utara,Padang Lawas Utara,2023,5
+Sumatera Utara,Padang Lawas,2023,5
+Sumatera Utara,Labuhan Batu Selatan,2023,3
+Sumatera Utara,Labuhan Batu Utara,2023,6
+Sumatera Utara,Nias Utara,2023,5
+Sumatera Utara,Nias Barat,2023,4
+Sumatera Barat,Kepulauan Mentawai,2023,2
+Sumatera Barat,Pesisir Selatan,2023,6
+Sumatera Barat,Solok,2023,6
+Sumatera Barat,Sijunjung,2023,6
+Sumatera Barat,Tanah Datar,2023,6
+Sumatera Barat,Padang Pariaman,2023,6
+Sumatera Barat,Agam,2023,6
+Sumatera Barat,Limapuluh Koto,2023,6
+Sumatera Barat,Pasaman,2023,6
+Sumatera Barat,Solok Selatan,2023,6
+Sumatera Barat,Dharmas Raya,2023,6
+Sumatera Barat,Pasaman Barat,2023,6
+Riau,Kuantan Sengingi,2023,5
+Riau,Indragiri Hulu,2023,3
+Riau,Indragiri Hilir,2023,5
+Riau,Pelalawan,2023,5
+Riau,Siak,2023,5
+Riau,Kampar,2023,3
+Riau,Rokan Hulu,2023,3
+Riau,Bengkalis,2023,4
+Riau,Rokan Hilir,2023,4
+Riau,Kepulauan Meranti,2023,5
+Jambi,Kerinci,2023,6
+Jambi,Merangin,2023,5
+Jambi,Sarolangun,2023,4
+Jambi,Batang Hari,2023,5
+Jambi,Muaro Jambi,2023,4
+Jambi,Tanjung Jabung Timur,2023,5
+Jambi,Tanjung Jabung Barat,2023,4
+Jambi,Tebo,2023,5
+Jambi,Bungo,2023,4
+Sumatera Selatan,Ogan Komering Ulu,2023,5
+Sumatera Selatan,Ogan Komering Ilir,2023,6
+Sumatera Selatan,Muara Enim,2023,5
+Sumatera Selatan,Lahat,2023,5
+Sumatera Selatan,Musi Rawas,2023,6
+Sumatera Selatan,Musi Banyuasin,2023,6
+Sumatera Selatan,Banyuasin,2023,6
+Sumatera Selatan,Ogan Komering Ulu Selatan,2023,6
+Sumatera Selatan,Ogan Komering Ulu Timur,2023,6
+Sumatera Selatan,Ogan Ilir,2023,6
+Sumatera Selatan,Empat Lawang,2023,5
+Sumatera Selatan,Penukal Abab Lematang Ilir,2023,5
+Sumatera Selatan,Musi Rawas Utara,2023,4
+Bengkulu,Bengkulu Selatan,2023,5
+Bengkulu,Rejang Lebong,2023,5
+Bengkulu,Bengkulu Utara,2023,5
+Bengkulu,Kaur,2023,5
+Bengkulu,Seluma,2023,5
+Bengkulu,Mukomuko,2023,6
+Bengkulu,Lebong,2023,6
+Bengkulu,Kepahiang,2023,5
+Bengkulu,Bengkulu Tengah,2023,4
+Lampung,Lampung Barat,2023,5
+Lampung,Tanggamus,2023,5
+Lampung,Lampung Selatan,2023,6
+Lampung,Lampung Timur,2023,6
+Lampung,Lampung Tengah,2023,6
+Lampung,Lampung Utara,2023,5
+Lampung,Way Kanan,2023,6
+Lampung,Tulang Bawang,2023,6
+Lampung,Pesawaran,2023,6
+Lampung,Pringsewu,2023,6
+Lampung,Mesuji,2023,6
+Lampung,Tulang Bawang Barat,2023,6
+Lampung,Pesisir Barat,2023,6
+Kepulauan Bangka Belitung,Bangka,2023,6
+Kepulauan Bangka Belitung,Belitung,2023,4
+Kepulauan Bangka Belitung,Bangka Barat,2023,4
+Kepulauan Bangka Belitung,Bangka Tengah,2023,3
+Kepulauan Bangka Belitung,Bangka Selatan,2023,6
+Kepulauan Bangka Belitung,Belitung Timur,2023,4
+Kepulauan Riau,Karimun,2023,4
+Kepulauan Riau,Bintan,2023,3
+Kepulauan Riau,Natuna,2023,3
+Kepulauan Riau,Lingga,2023,3
+Kepulauan Riau,Kepulauan Anambas,2023,3
+DKI Jakarta,Kepulauan Seribu,2023,3
+Jawa Barat,Bogor,2023,5
+Jawa Barat,Sukabumi,2023,6
+Jawa Barat,Cianjur,2023,6
+Jawa Barat,Bandung,2023,6
+Jawa Barat,Garut,2023,6
+Jawa Barat,Tasikmalaya,2023,6
+Jawa Barat,Ciamis,2023,6
+Jawa Barat,Kuningan,2023,6
+Jawa Barat,Cirebon,2023,6
+Jawa Barat,Majalengka,2023,6
+Jawa Barat,Sumedang,2023,6
+Jawa Barat,Indramayu,2023,6
+Jawa Barat,Subang,2023,6
+Jawa Barat,Purwakarta,2023,6
+Jawa Barat,Karawang,2023,6
+Jawa Barat,Bekasi,2023,6
+Jawa Barat,Bandung Barat,2023,5
+Jawa Barat,Pangandaran,2023,6
+Jawa Tengah,Cilacap,2023,6
+Jawa Tengah,Banyumas,2023,6
+Jawa Tengah,Purbalingga,2023,6
+Jawa Tengah,Banjarnegara,2023,6
+Jawa Tengah,Kebumen,2023,6
+Jawa Tengah,Purworejo,2023,6
+Jawa Tengah,Wonosobo,2023,6
+Jawa Tengah,Magelang,2023,6
+Jawa Tengah,Boyolali,2023,6
+Jawa Tengah,Klaten,2023,6
+Jawa Tengah,Sukoharjo,2023,6
+Jawa Tengah,Wonogiri,2023,6
+Jawa Tengah,Karanganyar,2023,6
+Jawa Tengah,Sragen,2023,6
+Jawa Tengah,Grobogan,2023,6
+Jawa Tengah,Blora,2023,6
+Jawa Tengah,Rembang,2023,6
+Jawa Tengah,Pati,2023,6
+Jawa Tengah,Kudus,2023,6
+Jawa Tengah,Jepara,2023,6
+Jawa Tengah,Demak,2023,6
+Jawa Tengah,Semarang,2023,6
+Jawa Tengah,Temanggung,2023,6
+Jawa Tengah,Kendal,2023,6
+Jawa Tengah,Batang,2023,6
+Jawa Tengah,Pekalongan,2023,6
+Jawa Tengah,Pemalang,2023,6
+Jawa Tengah,Tegal,2023,6
+Jawa Tengah,Brebes,2023,6
+DI Yogyakarta,Kulon Progo,2023,6
+DI Yogyakarta,Bantul,2023,6
+DI Yogyakarta,Gunung Kidul,2023,6
+DI Yogyakarta,Sleman,2023,6
+Jawa Timur,Pacitan,2023,6
+Jawa Timur,Ponorogo,2023,6
+Jawa Timur,Trenggalek,2023,6
+Jawa Timur,Tulungagung,2023,6
+Jawa Timur,Blitar,2023,6
+Jawa Timur,Kediri,2023,6
+Jawa Timur,Malang,2023,6
+Jawa Timur,Lumajang,2023,6
+Jawa Timur,Jember,2023,6
+Jawa Timur,Banyuwangi,2023,6
+Jawa Timur,Bondowoso,2023,5
+Jawa Timur,Situbondo,2023,6
+Jawa Timur,Probolinggo,2023,5
+Jawa Timur,Pasuruan,2023,6
+Jawa Timur,Sidoarjo,2023,6
+Jawa Timur,Mojokerto,2023,6
+Jawa Timur,Jombang,2023,6
+Jawa Timur,Nganjuk,2023,6
+Jawa Timur,Madiun,2023,6
+Jawa Timur,Magetan,2023,6
+Jawa Timur,Ngawi,2023,6
+Jawa Timur,Bojonegoro,2023,6
+Jawa Timur,Tuban,2023,6
+Jawa Timur,Lamongan,2023,6
+Jawa Timur,Gresik,2023,6
+Jawa Timur,Bangkalan,2023,5
+Jawa Timur,Sampang,2023,6
+Jawa Timur,Pamekasan,2023,6
+Jawa Timur,Sumenep,2023,6
+Banten,Pandeglang,2023,5
+Banten,Lebak,2023,5
+Banten,Tangerang,2023,6
+Banten,Serang,2023,6
+Bali,Jembrana,2023,6
+Bali,Tabanan,2023,6
+Bali,Badung,2023,6
+Bali,Gianyar,2023,6
+Bali,Klungkung,2023,6
+Bali,Bangli,2023,6
+Bali,Karangasem,2023,6
+Bali,Buleleng,2023,6
+Nusa Tenggara Barat,Lombok Barat,2023,5
+Nusa Tenggara Barat,Lombok Tengah,2023,5
+Nusa Tenggara Barat,Lombok Timur,2023,5
+Nusa Tenggara Barat,Sumbawa,2023,6
+Nusa Tenggara Barat,Dompu,2023,6
+Nusa Tenggara Barat,Bima,2023,6
+Nusa Tenggara Barat,Sumbawa Barat,2023,6
+Nusa Tenggara Barat,Lombok Utara,2023,4
+Nusa Tenggara Timur,Sumba Barat,2023,5
+Nusa Tenggara Timur,Sumba Timur,2023,5
+Nusa Tenggara Timur,Kupang,2023,5
+Nusa Tenggara Timur,Timor Tengah Selatan,2023,4
+Nusa Tenggara Timur,Timor Tengah Utara,2023,5
+Nusa Tenggara Timur,Belu,2023,6
+Nusa Tenggara Timur,Alor,2023,4
+Nusa Tenggara Timur,Lembata,2023,5
+Nusa Tenggara Timur,Flores Timur,2023,5
+Nusa Tenggara Timur,Sikka,2023,6
+Nusa Tenggara Timur,Ende,2023,5
+Nusa Tenggara Timur,Ngada,2023,6
+Nusa Tenggara Timur,Manggarai,2023,6
+Nusa Tenggara Timur,Rote Ndao,2023,5
+Nusa Tenggara Timur,Manggarai Barat,2023,6
+Nusa Tenggara Timur,Sumba Tengah,2023,4
+Nusa Tenggara Timur,Sumba Barat Daya,2023,4
+Nusa Tenggara Timur,Nagekeo,2023,5
+Nusa Tenggara Timur,Manggarai Timur,2023,4
+Nusa Tenggara Timur,Sabu Raijua,2023,3
+Nusa Tenggara Timur,Malaka,2023,5
+Kalimantan Barat,Sambas,2023,5
+Kalimantan Barat,Bengkayang,2023,6
+Kalimantan Barat,Landak,2023,6
+Kalimantan Barat,Mempawah,2023,5
+Kalimantan Barat,Sanggau,2023,6
+Kalimantan Barat,Ketapang,2023,6
+Kalimantan Barat,Sintang,2023,5
+Kalimantan Barat,Kapuas Hulu,2023,5
+Kalimantan Barat,Sekadau,2023,5
+Kalimantan Barat,Melawai,2023,3
+Kalimantan Barat,Kayong Utara,2023,5
+Kalimantan Barat,Kubu Raya,2023,5
+Kalimantan Tengah,Kotawaringin Barat,2023,4
+Kalimantan Tengah,Kotawaringin Timur,2023,5
+Kalimantan Tengah,Kapuas,2023,6
+Kalimantan Tengah,Barito Selatan,2023,4
+Kalimantan Tengah,Barito Utara,2023,6
+Kalimantan Tengah,Sukamara,2023,4
+Kalimantan Tengah,Lamandau,2023,3
+Kalimantan Tengah,Seruyan,2023,3
+Kalimantan Tengah,Katingan,2023,6
+Kalimantan Tengah,Pulang Pisau,2023,6
+Kalimantan Tengah,Gunung Mas,2023,3
+Kalimantan Tengah,Barito Timur,2023,6
+Kalimantan Tengah,Murung Raya,2023,2
+Kalimantan Selatan,Tanah Laut,2023,6
+Kalimantan Selatan,Kota Baru,2023,5
+Kalimantan Selatan,Banjar,2023,6
+Kalimantan Selatan,Barito Kuala,2023,6
+Kalimantan Selatan,Tapin,2023,6
+Kalimantan Selatan,Hulu Sungai Selatan,2023,6
+Kalimantan Selatan,Hulu Sungai Tengah,2023,6
+Kalimantan Selatan,Hulu Sungai Utara,2023,5
+Kalimantan Selatan,Tabalong,2023,6
+Kalimantan Selatan,Tanah Bumbu,2023,6
+Kalimantan Selatan,Balangan,2023,6
+Kalimantan Timur,Paser,2023,6
+Kalimantan Timur,Kutai Barat,2023,3
+Kalimantan Timur,Kutai Kertanegara,2023,6
+Kalimantan Timur,Kutai Timur,2023,4
+Kalimantan Timur,Berau,2023,6
+Kalimantan Timur,Penajam Paser Utara,2023,6
+Kalimantan Timur,Mahakam Ulu,2023,3
+Kalimantan Utara,Malinau,2023,5
+Kalimantan Utara,Bulungan,2023,6
+Kalimantan Utara,Tana Tidung,2023,4
+Kalimantan Utara,Nunukan,2023,6
+Sulawesi Utara,Bolaang Mongondow,2023,6
+Sulawesi Utara,Minahasa,2023,6
+Sulawesi Utara,Kepulauan Sangihe,2023,3
+Sulawesi Utara,Kepulauan Talaud,2023,6
+Sulawesi Utara,Minahasa Selatan,2023,6
+Sulawesi Utara,Minahasa Utara,2023,6
+Sulawesi Utara,Bolaang Mongondow Utara,2023,6
+Sulawesi Utara,Kepulauan Siau Tagulandang Biaro,2023,3
+Sulawesi Utara,Minahasa Tenggara,2023,6
+Sulawesi Utara,Bolaang Mongondow Selatan,2023,5
+Sulawesi Utara,Bolaang Mongondow Timur,2023,6
+Sulawesi Tengah,Banggai Kepulauan,2023,3
+Sulawesi Tengah,Banggai,2023,6
+Sulawesi Tengah,Morowali,2023,6
+Sulawesi Tengah,Poso,2023,6
+Sulawesi Tengah,Donggala,2023,5
+Sulawesi Tengah,Toli-Toli,2023,6
+Sulawesi Tengah,Buol,2023,6
+Sulawesi Tengah,Parigi Moutong,2023,6
+Sulawesi Tengah,Tojo Una-Una,2023,6
+Sulawesi Tengah,Sigi,2023,6
+Sulawesi Tengah,Banggai Laut,2023,2
+Sulawesi Tengah,Morowali Utara,2023,6
+Sulawesi Selatan,Selayar,2023,5
+Sulawesi Selatan,Bulukumba,2023,6
+Sulawesi Selatan,Bantaeng,2023,6
+Sulawesi Selatan,Jeneponto,2023,6
+Sulawesi Selatan,Takalar,2023,6
+Sulawesi Selatan,Gowa,2023,6
+Sulawesi Selatan,Sinjai,2023,6
+Sulawesi Selatan,Maros,2023,6
+Sulawesi Selatan,Pangkajene dan Kepulauan,2023,6
+Sulawesi Selatan,Barru,2023,6
+Sulawesi Selatan,Bone,2023,6
+Sulawesi Selatan,Soppeng,2023,6
+Sulawesi Selatan,Wajo,2023,6
+Sulawesi Selatan,Sidenreng Rappang,2023,6
+Sulawesi Selatan,Pinrang,2023,6
+Sulawesi Selatan,Enrekang,2023,6
+Sulawesi Selatan,Luwu,2023,6
+Sulawesi Selatan,Tana Toraja,2023,6
+Sulawesi Selatan,Luwu Utara,2023,6
+Sulawesi Selatan,Luwu Timur,2023,6
+Sulawesi Selatan,Toraja Utara,2023,6
+Sulawesi Tenggara,Buton,2023,5
+Sulawesi Tenggara,Muna,2023,5
+Sulawesi Tenggara,Konawe,2023,6
+Sulawesi Tenggara,Kolaka,2023,6
+Sulawesi Tenggara,Konawe Selatan,2023,6
+Sulawesi Tenggara,Bombana,2023,6
+Sulawesi Tenggara,Wakatobi,2023,3
+Sulawesi Tenggara,Kolaka Utara,2023,4
+Sulawesi Tenggara,Buton Utara,2023,6
+Sulawesi Tenggara,Konawe Utara,2023,6
+Sulawesi Tenggara,Kolaka Timur,2023,6
+Sulawesi Tenggara,Konawe Kepulauan,2023,2
+Sulawesi Tenggara,Muna Barat,2023,6
+Sulawesi Tenggara,Buton Tengah,2023,4
+Sulawesi Tenggara,Buton Selatan,2023,4
+Gorontalo,Boalemo,2023,6
+Gorontalo,Gorontalo,2023,6
+Gorontalo,Pohuwato,2023,6
+Gorontalo,Bone Bolango,2023,6
+Gorontalo,Gorontalo Utara,2023,6
+Sulawesi Barat,Majene,2023,4
+Sulawesi Barat,Polewali Mandar,2023,5
+Sulawesi Barat,Mamasa,2023,5
+Sulawesi Barat,Mamuju,2023,6
+Sulawesi Barat,Mamuju Utara,2023,4
+Sulawesi Barat,Mamuju Tengah,2023,6
+Maluku,Kepulauan Tanimbar,2023,4
+Maluku,Maluku Tenggara,2023,3
+Maluku,Maluku Tengah,2023,5
+Maluku,Buru,2023,6
+Maluku,Kepulauan Aru,2023,2
+Maluku,Seram Bagian Barat,2023,3
+Maluku,Seram Bagian Timur,2023,5
+Maluku,Maluku Barat Daya,2023,4
+Maluku,Buru Selatan,2023,3
+Maluku Utara,Halmahera Barat,2023,3
+Maluku Utara,Halmahera Tengah,2023,2
+Maluku Utara,Kepulauan Sula,2023,3
+Maluku Utara,Halmahera Selatan,2023,3
+Maluku Utara,Halmahera Utara,2023,6
+Maluku Utara,Halmahera Timur,2023,6
+Maluku Utara,Pulau Morotai,2023,3
+Maluku Utara,Pulau Taliabu,2023,2
+Papua Barat,Fak-Fak,2023,2
+Papua Barat,Kaimana,2023,2
+Papua Barat,Teluk Wondama,2023,1
+Papua Barat,Teluk Bintuni,2023,1
+Papua Barat,Manokwari,2023,4
+Papua Barat,Sorong Selatan,2023,2
+Papua Barat,Sorong,2023,2
+Papua Barat,Raja Ampat,2023,2
+Papua Barat,Tambrauw,2023,1
+Papua Barat,Maybrat,2023,2
+Papua Barat,Manokwari Selatan,2023,4
+Papua Barat,Pegunungan Arfak,2023,1
+Papua,Merauke,2023,6
+Papua,Jayawijaya,2023,1
+Papua,Jayapura,2023,5
+Papua,Nabire,2023,6
+Papua,Kepulauan Yapen,2023,5
+Papua,Biak Namfor,2023,2
+Papua,Paniai,2023,1
+Papua,Puncak Jaya,2023,1
+Papua,Mimika,2023,6
+Papua,Boven Digoel,2023,1
+Papua,Mappi,2023,2
+Papua,Asmat,2023,1
+Papua,Yahukimo,2023,1
+Papua,Pegunungan Bintang,2023,3
+Papua,Tolikara,2023,1
+Papua,Sarmi,2023,4
+Papua,Keerom,2023,5
+Papua,Waropen,2023,4
+Papua,Supiori,2023,1
+Papua,Mamberamo Raya,2023,1
+Papua,Nduga,2023,1
+Papua,Lanny Jaya,2023,1
+Papua,Mamberamo Tengah,2023,1
+Papua,Yalimo,2023,1
+Papua,Puncak,2023,1
+Papua,Dogiyai,2023,1
+Papua,Intan Jaya,2023,1
+Papua,Deiyai,2023,1
+Aceh,Kota Banda Aceh,2023,6
+Aceh,Kota Sabang,2023,6
+Aceh,Kota Langsa,2023,6
+Aceh,Kota Lhokseumawe,2023,6
+Aceh,Kota Subulussalam,2023,2
+Sumatera Utara,Kota Sibolga,2023,6
+Sumatera Utara,Kota Tanjung Balai,2023,6
+Sumatera Utara,Kota Pematang Siantar,2023,6
+Sumatera Utara,Kota Tebing Tinggi,2023,6
+Sumatera Utara,Kota Medan,2023,6
+Sumatera Utara,Kota Binjai,2023,6
+Sumatera Utara,Kota Padang Sidimpuan,2023,5
+Sumatera Utara,Kota Gunungsitoli,2023,5
+Sumatera Barat,Kota Padang,2023,6
+Sumatera Barat,Kota Solok,2023,6
+Sumatera Barat,Kota Sawah Lunto,2023,6
+Sumatera Barat,Kota Padang Panjang,2023,6
+Sumatera Barat,Kota Bukittinggi,2023,6
+Sumatera Barat,Kota Payakumbuh,2023,6
+Sumatera Barat,Kota Pariaman,2023,6
+Riau,Kota Pekanbaru,2023,6
+Riau,Kota Dumai,2023,6
+Jambi,Kota Jambi,2023,6
+Jambi,Kota Sungai Penuh,2023,6
+Sumatera Selatan,Kota Palembang,2023,6
+Sumatera Selatan,Kota Prabumulih,2023,5
+Sumatera Selatan,Kota Pagar Alam,2023,4
+Sumatera Selatan,Kota Lubuklinggau,2023,5
+Bengkulu,Kota Bengkulu,2023,6
+Lampung,Kota Bandar Lampung,2023,6
+Lampung,Kota Metro,2023,6
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,2023,6
+Kepulauan Riau,Kota Batam,2023,6
+Kepulauan Riau,Kota Tanjung Pinang,2023,6
+DKI Jakarta,Kota Jakarta Selatan,2023,6
+DKI Jakarta,Kota Jakarta Timur,2023,6
+DKI Jakarta,Kota Jakarta Pusat,2023,6
+DKI Jakarta,Kota Jakarta Barat,2023,6
+DKI Jakarta,Kota Jakarta Utara,2023,6
+Jawa Barat,Kota Bogor,2023,6
+Jawa Barat,Kota Sukabumi,2023,6
+Jawa Barat,Kota Bandung,2023,6
+Jawa Barat,Kota Cirebon,2023,6
+Jawa Barat,Kota Bekasi,2023,6
+Jawa Barat,Kota Depok,2023,6
+Jawa Barat,Kota Cimahi,2023,6
+Jawa Barat,Kota Tasikmalaya,2023,6
+Jawa Barat,Kota Banjar,2023,6
+Jawa Tengah,Kota Magelang,2023,6
+Jawa Tengah,Kota Surakarta,2023,6
+Jawa Tengah,Kota Salatiga,2023,6
+Jawa Tengah,Kota Semarang,2023,6
+Jawa Tengah,Kota Pekalongan,2023,6
+Jawa Tengah,Kota Tegal,2023,6
+DI Yogyakarta,Kota Yogyakarta,2023,6
+Jawa Timur,Kota Kediri,2023,6
+Jawa Timur,Kota Blitar,2023,6
+Jawa Timur,Kota Malang,2023,6
+Jawa Timur,Kota Probolinggo,2023,6
+Jawa Timur,Kota Pasuruan,2023,6
+Jawa Timur,Kota Mojokerto,2023,6
+Jawa Timur,Kota Madiun,2023,6
+Jawa Timur,Kota Surabaya,2023,6
+Jawa Timur,Kota Batu,2023,6
+Banten,Kota Tangerang,2023,6
+Banten,Kota Cilegon,2023,6
+Banten,Kota Serang,2023,6
+Banten,Kota Tangerang Selatan,2023,6
+Bali,Kota Denpasar,2023,6
+Nusa Tenggara Barat,Kota Mataram,2023,6
+Nusa Tenggara Barat,Kota Bima,2023,6
+Nusa Tenggara Timur,Kota Kupang,2023,6
+Kalimantan Barat,Kota Pontianak,2023,6
+Kalimantan Barat,Kota Singkawang,2023,5
+Kalimantan Tengah,Kota Palangka Raya,2023,6
+Kalimantan Selatan,Kota Banjarmasin,2023,6
+Kalimantan Selatan,Kota Banjar Baru,2023,6
+Kalimantan Timur,Kota Balikpapan,2023,6
+Kalimantan Timur,Kota Samarinda,2023,6
+Kalimantan Timur,Kota Bontang,2023,6
+Kalimantan Utara,Kota Tarakan,2023,6
+Sulawesi Utara,Kota Manado,2023,6
+Sulawesi Utara,Kota Bitung,2023,6
+Sulawesi Utara,Kota Tomohon,2023,6
+Sulawesi Utara,Kota Kotamobago,2023,6
+Sulawesi Tengah,Kota Palu,2023,6
+Sulawesi Selatan,Kota Makasar,2023,6
+Sulawesi Selatan,Kota Pare-Pare,2023,6
+Sulawesi Selatan,Kota Palopo,2023,6
+Sulawesi Tenggara,Kota Kendari,2023,6
+Sulawesi Tenggara,Kota Bau-Bau,2023,6
+Gorontalo,Kota Gorontalo,2023,6
+Maluku,Kota Ambon,2023,6
+Maluku,Kota Tual,2023,4
+Maluku Utara,Kota Ternate,2023,6
+Maluku Utara,Kota Tidore Kepulauan,2023,5
+Papua Barat,Kota Sorong,2023,6
+Papua,Kota Jayapura,2023,6
