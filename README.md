@@ -269,41 +269,6 @@ Tahun: 2024
 📊 Kabupaten/Kota Kota Contoh pada tahun 2024 diklasifikasikan sebagai: Tahan Pangan
 </code></pre>
 
-<h3>📈 Daftar Fitur yang Digunakan</h3>
-<p>Berikut adalah 28 fitur prediktor yang digunakan dalam model:</p>
-<ul>
-  <li>Garis Kemiskinan</li>
-  <li>Indeks Pembangunan Manusia</li>
-  <li>Jumlah Penduduk Miskin</li>
-  <li>Indeks Kedalaman Kemiskinan</li>
-  <li>Indeks Keparahan Kemiskinan</li>
-  <li>Pengeluaran Perkapita Bahan Makanan Lainnya</li>
-  <li>Pengeluaran Perkapita Bahan Minuman</li>
-  <li>Pengeluaran Perkapita Buah-Buahan</li>
-  <li>Pengeluaran Perkapita Daging</li>
-  <li>Pengeluaran Perkapita Kacang-Kacangan</li>
-  <li>Pengeluaran Perkapita Bahan Minyak dan Kelapa</li>
-  <li>Pengeluaran Perkapita Padi-Padian</li>
-  <li>Pengeluaran Perkapita Rokok dan Tembakau</li>
-  <li>Pengeluaran Perkapita Telur dan Susu</li>
-  <li>Pengeluaran Perkapita Umbi-Umbian</li>
-  <li>Persentase Penduduk Miskin</li>
-  <li>Prevalensi Konsumsi Pangan Tidak Cukup</li>
-  <li>Rata-rata Lama Sekolah_Laki-laki</li>
-  <li>Rata-rata Lama Sekolah_Perempuan</li>
-  <li>NCPR</li>
-  <li>Kemiskinan (%)</li>
-  <li>Pengeluaran Pangan (%)</li>
-  <li>Tanpa Listrik (%)</li>
-  <li>Tanpa Air Bersih (%)</li>
-  <li>Rasio Tenaga Kesehatan</li>
-  <li>Angka Harapan Hidup</li>
-  <li>Stunting (%)</li>
-  <li>is_kota (indikator 1 jika kota, 0 jika kabupaten)</li>
-</ul>
-
-<p>Script ini sangat berguna untuk menguji skenario prediksi dengan input manual ataupun integrasi ke dalam sistem berbasis command-line.</p>
-
 <h2>🔎 Citation</h2>
 <pre>
 @article{Syafiq2025IKP,
