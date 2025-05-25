@@ -114,12 +114,14 @@
     </ul>
   </li>
   <li>Melakukan agregasi data dan imputasi nilai hilang</li>
-  <li>Membagi dataset menjadi:
-    <ul>
-      <li>Data Train (2018–2022)</li>
-      <li>Data Test (2023)</li>
-      <li>Data Prediksi (2024)</li>
-    </ul>
+  <li>Membagi dataset menjadi dua subset menggunakan teknik stratified split:
+  <ul>
+    <li><strong>Data Train (80%)</strong>: Data latih dari periode 2018–2023</li>
+    <li><strong>Data Test (20%)</strong>: Data uji dari periode 2018–2023</li>
+  </ul>
+  Pembagian dilakukan secara stratified untuk menjaga proporsi kelas target tetap seimbang.
+</li>
+<li><strong>Data Prediksi (2024)</strong>: Digunakan untuk menguji generalisasi model pada data terbaru. Strategi ini mengikuti praktik tahunan yang dilakukan oleh Badan Pangan Nasional dalam mempublikasikan status ketahanan pangan daerah, sehingga dapat mensimulasikan kondisi prediksi berbasis data terkini.</li>
   </li>
 </ul>
 
