@@ -173,15 +173,23 @@
 
 <h2>📂 Struktur Proyek</h2>
 <pre>
-ikp-prediction-model/
+mkmsml/
+├── WorkFlow/
+│ └── img/ # Visualisasi alur kerja dan ilustrasi proses
 ├── data/
-├── notebooks/
-├── src/
-├── outputs/
-├── model_ikp_binary.h5
-├── requirements.txt
-├── README.md
-└── LICENSE
+│ ├── Data Raw/ # Dataset mentah sebelum praproses
+│ └── Data Clean/ # Dataset hasil pembersihan dan imputasi
+├── grid/ # Hasil tuning hyperparameter (grid search output)
+├── img/ # Gambar tambahan
+├── model/ # Model hasil pelatihan
+├── script/
+│ ├── Skrip EDA.ipynb # Eksplorasi Data Awal
+│ ├── Script Modeling.ipynb # Pelatihan model
+│ ├── Skrip Rapihkan Data...ipynb # Notebook untuk cleaning dan imputasi
+│ └── run_model_cli.py # Script CLI untuk menjalankan prediksi
+├── shp file/BATAS KABUPATEN KOTA/ # Shapefile batas administratif wilayah
+├── LICENSE.txt # Lisensi proyek
+└── README.md # Dokumentasi proyek ini
 </pre>
 
 <h2>Evaluasi Model Terbaik: LightGBM-Tuned - ADASYN</h2>
