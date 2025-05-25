@@ -133,12 +133,10 @@
 <ul>
   <li>Membangun model klasifikasi menggunakan:
     <ul>
-      <li>Support Vector Machine</li>
       <li>Random Forest</li>
       <li>XGBoost</li>
       <li>LightGBM</li>
       <li>Neural Network</li>
-      <li>Stacking Ensemble</li>
     </ul>
   </li>
   <li>Melakukan optimasi parameter menggunakan Grid Search</li>
@@ -150,6 +148,7 @@
 <ul>
   <li>Mengukur performa model dengan:
     <ul>
+      <li>Accuracy</li>
       <li>Balanced Accuracy</li>
       <li>Precision, Recall, dan F1-Score</li>
     </ul>
@@ -185,7 +184,7 @@ ikp-prediction-model/
 └── LICENSE
 </pre>
 
-<h2>📊 Evaluasi Model: LightGBM (Grid) - ADASYN</h2>
+<h2>Evaluasi Model Terbaik: LightGBM-Tuned - ADASYN</h2>
 
 <pre>
 Confusion Matrix:
@@ -199,13 +198,6 @@ Precision (Pos=1)  : 0.9943 | Weighted: 0.9919 | Macro: 0.9859
 Recall    (Pos=1)  : 0.9962 | Weighted: 0.9919 | Macro: 0.9814
 F1-Score  (Pos=1)  : 0.9953 | Weighted: 0.9919 | Macro: 0.9837
 </pre>
-
-<ul>
-  <li><strong>Training Time (s)</strong>: ditampilkan melalui variabel <code>round(end - start, 2)</code></li>
-  <li><strong>Tuning Time (s)</strong>: ditampilkan melalui variabel <code>round(grid_time, 2)</code></li>
-  <li><strong>Best Score (CV)</strong>: <code>grid_search_lgb_adasyn.best_score_</code></li>
-  <li><strong>Best Params</strong>: <code>grid_search_lgb_adasyn.best_params_</code></li>
-</ul>
 
 <h2>📊 Cuplikan Visual</h2>
 <p align="center">
