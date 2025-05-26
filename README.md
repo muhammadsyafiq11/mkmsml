@@ -34,6 +34,10 @@
 <div align="center">
   <table>
   <tr>
+        <td align="center">
+      <img src="img/Badan-Pangan-Nasional-Logo.webp" Height="90"><br>
+      <strong>Badan Pangan Nasional</strong>
+    </td>
     <td align="center">
       <img src="img/satudata.png" Height="90"><br>
       <strong>Satudata Indonesia</strong>
